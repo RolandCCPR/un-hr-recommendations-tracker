@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>UPR &amp; Human Rights Committee — Implementation Tracker</title>
+<meta name="description" content="How countries implement the human rights recommendations they receive — Universal Periodic Review and Human Rights Committee follow-up, graded A–E." />
+<link rel="stylesheet" href="assets/app.css" />
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <h1>Human Rights Recommendations — Implementation Tracker</h1>
+    <p class="sub">How countries follow through on what they are told to do — two UN mechanisms, graded A&nbsp;to&nbsp;E. Data generated <span id="generated">—</span>.</p>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="lead">
+      Two UN mechanisms produce concrete recommendations to States and later judge
+      how far each was carried out: the <strong>Universal Periodic Review</strong>
+      (peer review of every country) and the <strong>Human Rights Committee</strong>
+      (the ICCPR treaty body). This site consolidates both, on the Committee's own
+      <strong>A–E</strong> scale, for the countries assessed so far.
+    </p>
+
+    <div class="controls">
+      <span class="note">Map shading:</span>
+      <span class="seg" role="group" aria-label="Mechanism">
+        <button data-mech="upr" aria-pressed="true">Universal Periodic Review</button>
+        <button data-mech="hrc" aria-pressed="false">Human Rights Committee</button>
+      </span>
+    </div>
+
+    <div id="map-panel">
+      <div id="map"></div>
+      <div class="legend">
+        <div>
+          <div class="bar">
+            <i style="background:#d73027"></i><i style="background:#f46d43"></i>
+            <i style="background:#fee08b"></i><i style="background:#a6d96a"></i>
+            <i style="background:#1a9850"></i>
+          </div>
+          <div class="ends"><span>0 — no action / contrary</span><span>100 — implemented</span></div>
+        </div>
+        <span class="na"><b></b> not yet assessed</span>
+      </div>
+      <p class="note" id="map-cap">Shading: UPR 3rd-cycle implementation score (0–100). Click an assessed country for its full record.</p>
+    </div>
+
+    <h2>Assessed countries</h2>
+    <div class="cards" id="cards"></div>
+
+    <h2>The two mechanisms</h2>
+    <div id="mech-explain"></div>
+
+    <h2>How the grading works</h2>
+    <table class="scale" id="scale">
+      <thead><tr><th>Grade</th><th>Label</th><th>Meaning</th><th style="text-align:right">Score</th></tr></thead>
+      <tbody></tbody>
+    </table>
+    <p class="note" id="methodology"></p>
+
+    <div class="disclaimer">
+      The Universal Periodic Review gradings on this site are a <strong>first-pass
+      assessment for expert review</strong>, produced from the UN compilation and
+      stakeholder reports. The Human Rights Committee gradings are the
+      <strong>Committee's own</strong>, taken from its follow-up evaluation
+      documents.
+    </div>
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    Built from UN documents (OHCHR). Static site — no tracking, no cookies.
+    Source data: <code>assessments.db</code> and <code>data/*.json</code> in this repository.
+  </div>
+</footer>
+
+<div class="tooltip" id="tt"></div>
+
+<script src="assets/vendor/d3.v7.min.js"></script>
+<script src="assets/vendor/topojson-client.v3.min.js"></script>
+<script type="module" src="assets/index.js"></script>
+</body>
+</html>

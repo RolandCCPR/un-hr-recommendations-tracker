@@ -1,0 +1,2852 @@
+{
+ "a3": "DNK",
+ "name": "Denmark",
+ "num": "208",
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "38th session (2021)",
+   "co_symbol": "A/HRC/48/10",
+   "review": "7 May 2026 (session 52)",
+   "sources": [
+    "**National Report** — A/HRC/WG.6/52/DNK/1, 20 February 2026",
+    "**UN Compilation** — A/HRC/WG.6/52/DNK/2, OHCHR, 6 February 2026 (UN treaty bodies, UNHCR, UNESCO)",
+    "**Stakeholders' Summary** — A/HRC/WG.6/52/DNK/3, OHCHR, 28 January 2026 (16 submissions + the Danish Institute for Human Rights)"
+   ],
+   "headline": "Denmark reports concrete follow-up on many recommendations, so **partial implementation (B)** is the dominant outcome (ratification of the Enforced Disappearance Convention, a consent-based rape law, action plans on racism, trafficking and intimate-partner violence). Persistent gaps remain (no stand-alone torture offence, the retained \"Parallel Society\" laws) and asylum externalisation is a clear regression (**E**).",
+   "n": 288,
+   "grade_dist": {
+    "A": 10,
+    "B": 195,
+    "C": 60,
+    "D": 8,
+    "E": 15
+   },
+   "score": 59
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "60.1, 60.3-60.7, 60.9, 60.10",
+      "n": 8,
+      "summary": "Ratify the Convention against Enforced Disappearance",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Denmark ratified the International Convention for the Protection of All Persons from Enforced Disappearance on 13 January 2022 and submitted its first report to the Committee in May 2025; it has not accepted the individual complaints procedure.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 6 — Denmark: \"Denmark ratified the International Convention for the Protection of All Persons from Enforced Disappearance (ICPPED) on 13 January 2022\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 2 — Committee against Torture: \"welcomed the ratification by Denmark of the International Convention for the Protection of All Persons from Enforced Disappearance in 2022\""
+      ],
+      "position": "8 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.1",
+        "by": "Italy; Argentina; Lithuania; Sudan; Malawi; Cuba; Costa Rica; France; Albania",
+        "position": "supported",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "60.3",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Proceed with the early ratification of the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "60.4",
+        "by": "Slovakia",
+        "position": "supported",
+        "text": "Take necessary steps to ratify the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "60.5",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance, which Denmark signed in 2007"
+       },
+       {
+        "paragraph": "60.6",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Intensify efforts on the speedy ratification of the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "60.7",
+        "by": "Armenia",
+        "position": "supported",
+        "text": "Consider ratification of the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "60.9",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance by the next universal periodic review"
+       },
+       {
+        "paragraph": "60.10",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance in order to strengthen the international legal regime against enforced disappearances"
+       }
+      ]
+     },
+     {
+      "paras": "60.8, 60.13, 60.16-60.20",
+      "n": 7,
+      "summary": "Ratify outstanding international instruments",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark ratified the International Convention for the Protection of All Persons from Enforced Disappearance (January 2022) and ILO Convention No. 190 (2024), but has not acceded to the Optional Protocol to the ICESCR, has expressly decided not to sign the ICRMW, and has not ratified the Treaty on the Prohibition of Nuclear Weapons.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 2 — Committee against Torture: \"welcomed the ratification by Denmark of the International Convention for the Protection of All Persons from Enforced Disappearance in 2022\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 6 — Denmark: \"Denmark ratified the International Convention for the Protection of All Persons from Enforced Disappearance (ICPPED) on 13 January 2022 ... Denmark has decided not to sign ICRMW\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 2 — UNESCO: \"noted that Denmark was not a party to the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights\""
+      ],
+      "position": "6 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.8",
+        "by": "Armenia",
+        "position": "noted",
+        "text": "Consider ratification of the International Convention against the Recruitment, Use, Financing and Training of Mercenaries"
+       },
+       {
+        "paragraph": "60.13",
+        "by": "Turkey",
+        "position": "noted",
+        "text": "Reconsider its decision about not to sign the International Convention on the Protection of the Rights of All Migrants Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "60.16",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Ratify the Indigenous and Tribal Peoples Convention, 1989 (No. 169) of the International Labour Organization"
+       },
+       {
+        "paragraph": "60.17",
+        "by": "No. 189; Namibia",
+        "position": "noted",
+        "text": "Ratify the ILO Domestic Workers Convention, 2011"
+       },
+       {
+        "paragraph": "60.18",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "noted",
+        "text": "Ratify the Domestic Workers Convention, 2011 (No. 189) of the International Labour Organization"
+       },
+       {
+        "paragraph": "60.19",
+        "by": "No. 190; Namibia",
+        "position": "noted",
+        "text": "Ratify the ILO Violence and Harassment Convention, 2019"
+       },
+       {
+        "paragraph": "60.20",
+        "by": "Liechtenstein",
+        "position": "noted",
+        "text": "Ratify the Kampala amendments to the Rome Statute"
+       }
+      ]
+     },
+     {
+      "paras": "60.11, 60.12, 60.14, 60.21, 60.240",
+      "n": 5,
+      "summary": "Ratify the Migrant Workers Convention (ICRMW)",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Denmark has expressly decided not to sign the International Convention on the Protection of the Rights of All Migrant Workers, contrary to the recommendation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 6 — Denmark: \"As explained in more detail in the Annex, Denmark has decided not to sign ICRMW\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 2 — Committee on the Elimination of Discrimination against Women; Committee on the Elimination of Racial Discrimination: \"encouraged Denmark to ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families\""
+      ],
+      "position": "5 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.11",
+        "by": "Indonesia; Argentina; Senegal; Ghana; Bolivarian Republic of Venezuela; Rwanda",
+        "position": "noted",
+        "text": "Ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "60.12",
+        "by": "Niger; Philippines; Timor-Leste; Côte d’Ivoire",
+        "position": "noted",
+        "text": "Consider ratifying the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "60.14",
+        "by": "Egypt",
+        "position": "noted",
+        "text": "Sign and ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "60.21",
+        "by": "Libya",
+        "position": "noted",
+        "text": "Ratify the international human rights conventions that it has not ratified yet, including the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "60.240",
+        "by": "Sri Lanka",
+        "position": "noted",
+        "text": "Strengthen protection for migrant workers, including through ratification of the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       }
+      ]
+     },
+     {
+      "paras": "60.2, 60.15",
+      "n": 2,
+      "summary": "Accede to the Optional Protocol to the ICESCR",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Denmark remains outside the Optional Protocol to the ICESCR, having acceded to the individual-complaints protocols for the other treaties it is party to.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 2 — UNESCO: \"noted that Denmark was not a party to the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 7 — Denmark: \"Denmark has acceded to the Optional Protocols establishing access to the individual complaints procedures ... with the exception of ICESCR\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.2",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Consider ratifying the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights"
+       },
+       {
+        "paragraph": "60.15",
+        "by": "Portugal; Slovakia; Luxembourg; Cyprus; France; Bolivarian Republic of Venezuela",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Reservations",
+    "blocks": [
+     {
+      "paras": "60.22-60.24",
+      "n": 3,
+      "summary": "Withdraw or review reservations and declarations",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No withdrawal of reservations is reported; Denmark has not accepted the individual complaints procedure under the Enforced Disappearance Convention and remains outside the Optional Protocol to the ICESCR.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 6 — Denmark: \"The Government of Denmark has not accepted the individual right of appeal to the Committee under the [Enforced Disappearance] convention\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 7 — Denmark: \"Denmark has acceded to the Optional Protocols establishing access to the individual complaints procedures ... with the exception of ICESCR\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.22",
+        "by": "Malawi",
+        "position": "noted",
+        "text": "Consider withdrawing the reservation made to article 40 (2) (b) of the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "60.23",
+        "by": "Afghanistan",
+        "position": "noted",
+        "text": "Consider withdrawing the reservation made to article 40 (2) (b) of the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "60.24",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Explore the possibility of withdrawing its reservation to article 40 (2) (b) (v) of the Convention on the Rights of the Child"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Treaty Bodies",
+    "blocks": [
+     {
+      "paras": "60.25",
+      "n": 1,
+      "summary": "Cooperate with treaty bodies and special procedures",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Denmark maintains a standing invitation to special procedures, reports regularly to the treaty bodies and submitted its first report under the Enforced Disappearance Convention in May 2025.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 1 — Denmark: \"special procedures of the Human Rights Council have a standing invitation\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 82 — Denmark: \"The first report of the Danish Government regarding measures taken by Denmark to give effect to its obligations under the [Enforced Disappearance] convention was submitted to the Committee on Enforced Disappearances (CED) on 3 May 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.25",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Ensure an open, merit-based process when selecting national candidates for United Nations treaty body elections"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Action Plans (or specific areas) / implementation plans",
+    "blocks": [
+     {
+      "paras": "60.26-60.28, 60.57-60.65, 60.67, 60.70, 60.78",
+      "n": 15,
+      "summary": "Adopt and implement national action plans",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark works through numerous multi-year action plans (against racism 2025, antisemitism 2022 and 2025, intimate-partner violence 2023-2026, trafficking, LGBT+, disability 2025-2028); the DIHR and civil society note several lack measurable goals and indicators and that the intimate-partner-violence plan expires in 2026 without a successor.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 2 — Danish Institute for Human Rights: \"a national action plan against racism was published in February 2025 and recommended that Denmark expand the action plan with specific, measurable goals and indicators\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 9 — Danish Institute for Human Rights: \"the national action plan against intimate partner violence and homicide would expire in 2026 ... recommended that Denmark adopt a renewed national action plan to combat violence against women\""
+      ],
+      "position": "14 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.26",
+        "by": "Greece",
+        "position": "noted",
+        "text": "Further the development of a comprehensive human rights action plan"
+       },
+       {
+        "paragraph": "60.27",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Develop a comprehensive national human rights action plan"
+       },
+       {
+        "paragraph": "60.28",
+        "by": "Burkina Faso",
+        "position": "noted",
+        "text": "Develop a comprehensive national human rights action plan"
+       },
+       {
+        "paragraph": "60.57",
+        "by": "Indonesia",
+        "position": "noted",
+        "text": "Develop a comprehensive national human rights plan which incorporates actions to prevent xenophobia, racism and hate crimes, and further encourage social integration"
+       },
+       {
+        "paragraph": "60.58",
+        "by": "Jordan",
+        "position": "noted",
+        "text": "Adopt a national action plan against racism to combat the persistence of discriminatory acts against the rights of persons belonging to ethnic, religious and linguistic minorities"
+       },
+       {
+        "paragraph": "60.59",
+        "by": "Namibia",
+        "position": "noted",
+        "text": "Adopt a national action plan against racism"
+       },
+       {
+        "paragraph": "60.60",
+        "by": "Pakistan",
+        "position": "noted",
+        "text": "Develop and implement a national action plan to combat discrimination on any ground"
+       },
+       {
+        "paragraph": "60.61",
+        "by": "Qatar",
+        "position": "noted",
+        "text": "Adopt a comprehensive national action plan to combat racism and ethnic and religious hate crimes, and ensure that they are effectively investigated and that perpetrators are brought to justice"
+       },
+       {
+        "paragraph": "60.62",
+        "by": "Russian Federation",
+        "position": "noted",
+        "text": "Develop a national action plan on combating racism and xenophobia keeping in mind an increase of crimes on the bases of religious and racial hatred"
+       },
+       {
+        "paragraph": "60.63",
+        "by": "Senegal",
+        "position": "noted",
+        "text": "Adopt a national action plan to combat racism and hate crimes motivated by ethnic or religious considerations"
+       },
+       {
+        "paragraph": "60.64",
+        "by": "Singapore",
+        "position": "supported",
+        "text": "Consider adopting a national action plan to combat racism and hate crime, and ensuring that such crimes are effectively investigated and prosecuted"
+       },
+       {
+        "paragraph": "60.65",
+        "by": "Turkey",
+        "position": "noted",
+        "text": "Prepare an action plan against Islamophia"
+       },
+       {
+        "paragraph": "60.67",
+        "by": "Belgium",
+        "position": "noted",
+        "text": "Adopt a national action plan against racism, racial discrimination, xenophobia and related intolerance"
+       },
+       {
+        "paragraph": "60.70",
+        "by": "Cote d’Ivoire",
+        "position": "noted",
+        "text": "Adopt a national action plan to combat racism and hate crimes based on ethnic or religious grounds and bring perpetrators to justice"
+       },
+       {
+        "paragraph": "60.78",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "noted",
+        "text": "Combat the significant increase in discrimination, racism, xenophobia and hate attacks against migrants and ethnic minorities, and adopt a comprehensive action plan for its eradication"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Constitutional & legislative framework",
+    "blocks": [
+     {
+      "paras": "60.29-60.36, 60.257",
+      "n": 9,
+      "summary": "Legislative reforms (torture offence, defamation, expression)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Torture is still not a distinct criminal offence in Danish, Greenlandic or Faroese law; defamation remains criminalised; and a 2023 provision criminalising 'improper treatment of objects with significant religious significance' has drawn Human Rights Committee and civil-society concern over vagueness and chilling effects on expression.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 12 — Committee against Torture: \"torture was not criminalized as a distinct offence in the Danish Penal Code, the Military Criminal Code or the Greenlandic or Faroese criminal law\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 24 — Human Rights Committee: \"the amendment to section 110 (e) of the Penal Code, which criminalized the 'improper treatment of objects with significant religious significance' ... concerns about the vagueness of the terms and potential chilling effects on legitimate expression\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 23 — UNESCO: \"defamation was a criminal offence under Danish law and recommended that Denmark decriminalize defamation\""
+      ],
+      "position": "6 noted, 3 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.29",
+        "by": "Greece",
+        "position": "noted",
+        "text": "Take the necessary steps to incorporate the provisions of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment into domestic law"
+       },
+       {
+        "paragraph": "60.30",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Continue efforts to harmonize domestic legislation with the provisions of the International Covenant on Economic, Social and Cultural Rights"
+       },
+       {
+        "paragraph": "60.31",
+        "by": "Saudi Arabia",
+        "position": "supported",
+        "text": "Integrate international obligations related to human rights into national legislation"
+       },
+       {
+        "paragraph": "60.32",
+        "by": "Slovakia",
+        "position": "noted",
+        "text": "Incorporate all provisions of the Convention on the Rights of the Child and its Optional Protocols into its national legislation"
+       },
+       {
+        "paragraph": "60.33",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Incorporate all provisions of the Convention on the Rights of the Child and its Optional Protocols into national legislation"
+       },
+       {
+        "paragraph": "60.34",
+        "by": "South Africa",
+        "position": "noted",
+        "text": "Incorporate the United Nations human rights conventions into the national legislation and give full effect to the rights enshrined in the conventions"
+       },
+       {
+        "paragraph": "60.35",
+        "by": "Uzbekistan",
+        "position": "supported",
+        "text": "Integrate the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment into its national legislation"
+       },
+       {
+        "paragraph": "60.36",
+        "by": "Zambia",
+        "position": "noted",
+        "text": "Incorporate all provisions of the Convention on the Rights of the Child and its Optional Protocols into the national legislation"
+       },
+       {
+        "paragraph": "60.257",
+        "by": "Belarus",
+        "position": "noted",
+        "text": "Remove legislative and administrative barriers for women who are beneficiaries of international protection to ensure family reunification"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Unilateral coercive measures",
+    "blocks": [
+     {
+      "paras": "60.37",
+      "n": 1,
+      "summary": "Unilateral coercive measures",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The 4th-cycle documentation contains no information relevant to this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.37",
+        "by": "Islamic Republic of Iran",
+        "position": "noted",
+        "text": "Refrain from contributing to gross violations of the human rights of the population targeted by the unilateral coercive measures, through compliance with such measures"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "60.38-60.50, 60.53, 60.55, 60.56, 60.69, 60.71-60.77, 60.79-60.85, 60.88-60.95, 60.103-60.105, 60.173, 60.191, 60.210, 60.260, 60.283",
+      "n": 47,
+      "summary": "Anti-discrimination framework; national action plan against racism",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark has a broad anti-discrimination legal framework and in February 2025 adopted a National Action Plan against Racism with 36 initiatives, alongside successive action plans against antisemitism; CERD and stakeholders nonetheless report persistent gaps - no legislative prohibition of racial or ethnic profiling, weak hate-crime data, and a 2025 plan criticised for limited scope and for lacking a definition of racism.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 112 — Denmark: \"In February 2025, the Danish Government presented a national action plan against racism with 36 initiatives and the ambition to fight racism in a variety of areas in society\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 21 — Joint submission 1; Joint submission 2: \"welcomed the adoption of a national action plan against racism in February 2025. However, they were concerned that the plan had limitations in scope and lacked a clear definition of racism\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 9 — Committee on the Elimination of Racial Discrimination: \"expressed concern about the lack of a clear prohibition of racial profiling and of operational guidelines to combat racial profiling\""
+      ],
+      "position": "43 supported, 4 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.38",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Step up efforts to protect the rights of marginalized and minority groups, including immigrants and persons with disabilities, and to ensure their equal access to employment, education, health services and justice"
+       },
+       {
+        "paragraph": "60.39",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Adopt a comprehensive legislative framework to prohibit all types of discrimination and repeal provisions that encourage stigmatization or segregation, including the criminalization of begging"
+       },
+       {
+        "paragraph": "60.40",
+        "by": "Nicaragua",
+        "position": "supported",
+        "text": "Seek a legislative framework that guarantees protection against discrimination of any kind"
+       },
+       {
+        "paragraph": "60.41",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Enact comprehensive anti-discrimination legislation complying with its international obligations that will promote tolerance as well as better integration of minorities and immigrants to Danish society"
+       },
+       {
+        "paragraph": "60.42",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Make progress towards the development and implementation of a comprehensive law against discrimination"
+       },
+       {
+        "paragraph": "60.43",
+        "by": "Libya",
+        "position": "supported",
+        "text": "Take all measures to prevent all forms of discrimination, namely on grounds of ethnicity, colour, religion and nationality"
+       },
+       {
+        "paragraph": "60.44",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Continue its efforts to address the gaps in the anti-discrimination legal framework, including by adopting comprehensive anti-discrimination legislation, and to repeal provisions that have direct and indirect discriminatory effects on refugees and migrants"
+       },
+       {
+        "paragraph": "60.45",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to develop measures to prevent discrimination, intolerance and racism, and combat hate speech and crimes"
+       },
+       {
+        "paragraph": "60.46",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Include all relevant ethnic and religious minorities in its forthcoming action plan on combating racism and hate crimes"
+       },
+       {
+        "paragraph": "60.47",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Enhance laws and legislation to curb all forms of discrimination, racism and hatred"
+       },
+       {
+        "paragraph": "60.48",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Reduce inequalities and take concrete actions to promote interracial and interreligious relations"
+       },
+       {
+        "paragraph": "60.49",
+        "by": "Bangladesh",
+        "position": "supported",
+        "text": "Take measures to prohibit all forms of discrimination, racism, xenophobia and intolerance on the grounds of religion or belief, ethnicity and immigration status"
+       },
+       {
+        "paragraph": "60.50",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Ensure that measures to combat discrimination based on gender, ethnic origin or disability are fully promoted and respected"
+       },
+       {
+        "paragraph": "60.53",
+        "by": "France",
+        "position": "noted",
+        "text": "Repeal provisions that have a discriminatory effect in public policies, particularly in education and access to social housing"
+       },
+       {
+        "paragraph": "60.55",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Intensify efforts to combat discrimination, xenophobia as well as racism and bring perpetrators to justice"
+       },
+       {
+        "paragraph": "60.56",
+        "by": "Greece",
+        "position": "supported",
+        "text": "Adopt comprehensive anti-discrimination legislation"
+       },
+       {
+        "paragraph": "60.69",
+        "by": "Burkina Faso",
+        "position": "noted",
+        "text": "Adopt a national action plan to combat racism and hate crimes based on ethnic or religious grounds"
+       },
+       {
+        "paragraph": "60.71",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Continue the efforts to combat racism and racial discrimination, including against migrants, also by taking measures to improve the legislative framework"
+       },
+       {
+        "paragraph": "60.72",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Continue to take further measures to prevent racism, hate speech and hate crimes, including COVID-19-related hate incidents"
+       },
+       {
+        "paragraph": "60.73",
+        "by": "Jordan",
+        "position": "supported",
+        "text": "Prohibit instrumentalizing racism, xenophobia and hate speech by politicians in the pursuit of political office, and promote inclusion and solidarity"
+       },
+       {
+        "paragraph": "60.74",
+        "by": "Nigeria",
+        "position": "supported",
+        "text": "Further strengthen measures to combat racism, racial discrimination, hate speech and hate crimes, and ensure the full enjoyment of human rights by all"
+       },
+       {
+        "paragraph": "60.75",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Continue implementing measures to prevent and combat racial discrimination, intolerance and hate crimes"
+       },
+       {
+        "paragraph": "60.76",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Continue the efforts of combating racism and discrimination"
+       },
+       {
+        "paragraph": "60.77",
+        "by": "Saudi Arabia",
+        "position": "supported",
+        "text": "Take the necessary measures to combat racism, including monitoring and condemning hate speech in political and public discourse"
+       },
+       {
+        "paragraph": "60.79",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Combat racism and hate speech, especially against religious minorities, immigrants and asylum seekers"
+       },
+       {
+        "paragraph": "60.80",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Step up measures to combat racism and negative stereotyping, including on social housing initiatives"
+       },
+       {
+        "paragraph": "60.81",
+        "by": "China",
+        "position": "supported",
+        "text": "Combat racial discrimination and hate crimes against Asians and people of Asian descent, and prevent some politicians and the media from inciting racial discrimination under the pretext of freedom of expression"
+       },
+       {
+        "paragraph": "60.82",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Ensure that the actions taken by the Government in the prevention of intolerance, racism or hate crimes are based on human rights principles, including rights related to cultural diversity and freedom of worship"
+       },
+       {
+        "paragraph": "60.83",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Implement effective measures to fight against racism and hate crimes based on ethnic or religious grounds"
+       },
+       {
+        "paragraph": "60.84",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Build a more inclusive society by improving national legislation and government programmes aimed at ending discrimination based on ethnicities or religion"
+       },
+       {
+        "paragraph": "60.85",
+        "by": "Islamic Republic of Iran",
+        "position": "supported",
+        "text": "Take steps to counter ever-increasing Islamophobia and hate crimes against Muslims in Denmark and develop comprehensive anti-discrimination legislation"
+       },
+       {
+        "paragraph": "60.88",
+        "by": "Turkmenistan",
+        "position": "supported",
+        "text": "Step up efforts to eliminate discrimination faced by minority groups, non-citizens and refugees, especially with regard to employment, education, housing, health services and access to justice"
+       },
+       {
+        "paragraph": "60.89",
+        "by": "Bahrain",
+        "position": "supported",
+        "text": "Ensure non-discriminatory treatment of all religious communities and encourage interreligious and “interconviction” dialogues"
+       },
+       {
+        "paragraph": "60.90",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Refrain from legislation that discriminates among migrants on the basis of their race, religion and ethnicity"
+       },
+       {
+        "paragraph": "60.91",
+        "by": "Somalia",
+        "position": "supported",
+        "text": "Take all appropriate measures in order to ensure equality in all aspects of life for the children living in the country regardless of their religion or national origin"
+       },
+       {
+        "paragraph": "60.92",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Design policies to eliminate intersecting forms of discrimination, especially against elderly and migrant women, and ensure that the granting of residence permits to women and children who have been victims of domestic violence is not conditioned upon the receipt of social benefits"
+       },
+       {
+        "paragraph": "60.93",
+        "by": "Norway",
+        "position": "supported",
+        "text": "Continue efforts to combat hate crime, specifically following up on the recommendation by the European Commission against Racism and Intolerance to establish a comprehensive data collection system that would facilitate more efficient policy design and better analysis of the hate crimes committed"
+       },
+       {
+        "paragraph": "60.94",
+        "by": "Singapore",
+        "position": "supported",
+        "text": "Take effective actions to prohibit hate speech online and offline, including the use of legislative and/or policy measures"
+       },
+       {
+        "paragraph": "60.95",
+        "by": "Viet Nam",
+        "position": "supported",
+        "text": "Streamline initiatives aimed at preventing hate speech and fighting intolerance in a comprehensive effort to prevent extremism and radicalization"
+       },
+       {
+        "paragraph": "60.103",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Continue to spread the values of tolerance and openness in Danish society"
+       },
+       {
+        "paragraph": "60.104",
+        "by": "Saudi Arabia",
+        "position": "supported",
+        "text": "Develop awareness programmes to promote a culture of tolerance and respect for cultural diversity, and combat discrimination, stereotypes and Islamophobia"
+       },
+       {
+        "paragraph": "60.105",
+        "by": "Turkmenistan",
+        "position": "supported",
+        "text": "Enhance efforts to promote tolerance and intercultural understanding with the aim of eliminating discrimination against minorities"
+       },
+       {
+        "paragraph": "60.173",
+        "by": "Kazakhstan",
+        "position": "supported",
+        "text": "Develop comprehensive anti-discrimination legislation that prohibits differential treatment based on all grounds of discrimination"
+       },
+       {
+        "paragraph": "60.191",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Refrain from using ethnic background as the basis for national housing policies"
+       },
+       {
+        "paragraph": "60.210",
+        "by": "India",
+        "position": "supported",
+        "text": "Continue with initiatives in furtherance of gender equality, including wage parity, in Denmark as well as Greenland and the Faroe Islands"
+       },
+       {
+        "paragraph": "60.260",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Promote additional measures that allow greater integration of migrants and refugees"
+       },
+       {
+        "paragraph": "60.283",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Introduce legislation to protect residents of Greenland against discrimination on all recognized grounds, within and outside the labour market, including establishing an independent appeals board"
+       }
+      ]
+     },
+     {
+      "paras": "60.51, 60.52, 60.66, 60.101, 60.281",
+      "n": 5,
+      "summary": "Protect LGBTI persons from discrimination",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark strengthened protection of LGBT+ people in December 2021 by adding gender identity, gender expression and sex characteristics to the hate-crime, hate-speech and discrimination laws, funds LGBT+ action plans and introduced 'co-fatherhood' in 2025; legal gender recognition for minors regardless of age was rejected by Parliament in January 2025.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 29 — Denmark: \"In December 2021, Denmark strengthened the protection of LGBT+ people by explicitly referring to gender identity, gender expression and sex characteristics as grounds of protection in the Danish laws covering hate crimes, hate speech and discrimination\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 50 — Joint submission 2: \"legal gender recognition regardless of age had not been adopted, following the rejection of a parliamentary proposal in January 2025\""
+      ],
+      "position": "2 noted, 3 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.51",
+        "by": "Democratic People’s Republic of Korea",
+        "position": "noted",
+        "text": "Adopt a comprehensive strategy to eliminate all kinds of discrimination on the basis of racism, religion, gender identity, age and disability, and ensure non-discriminatory treatment of all minority communities within its territory"
+       },
+       {
+        "paragraph": "60.52",
+        "by": "Ecuador",
+        "position": "supported",
+        "text": "Carry out the necessary actions to fully include in the national legal framework the express prohibition of all forms of discrimination enshrined in international human rights instruments, especially on grounds such as sexual orientation, gender identity, religion, age and disability"
+       },
+       {
+        "paragraph": "60.66",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Develop a national human rights action plan; adopt comprehensive legislation to combat discrimination, especially against members of religious and ethnic minority groups, women and girls, and LGBTIQ+ persons; and end the official application of the term “ghetto” to immigrant communities"
+       },
+       {
+        "paragraph": "60.101",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Maintain the efforts to promote and protect the rights of lesbian, gay, bisexual, transgender and intersex persons, especially to protect the body integrity of intersex girls and boys"
+       },
+       {
+        "paragraph": "60.281",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Adopt comprehensive anti-discrimination legislation in Greenland that encompasses all the prohibited grounds of discrimination, including sexual orientation and gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "60.86, 60.87, 60.186, 60.188, 60.189",
+      "n": 5,
+      "summary": "Repeal the 'Parallel Society' / 'Ghetto' laws",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CERD and civil society call for repeal of the discriminatory 'non-Western'/'Parallel Society' provisions; Denmark has renamed the terminology but retained the framework.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 7 — Committee on the Elimination of Racial Discrimination: \"the laws previously known as the 'Ghetto Package' had a discriminatory impact on ethnic minorities ... (b) repeal discriminatory provisions\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 105 — Denmark: \"A political agreement has been reached to change the term 'ghetto' ... to 'parallel societies' and 'areas of transformation'\""
+      ],
+      "position": "2 noted, 3 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.86",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Remove from the definition of “ghetto” the geographic criterion of the residents’ origin and repeal provisions that in practice discriminate against residents of “ghettos”"
+       },
+       {
+        "paragraph": "60.87",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Stop using the term “ghetto” to designate disadvantaged residential areas and ensure that there is no discrimination in solving problems of social inclusion and housing"
+       },
+       {
+        "paragraph": "60.186",
+        "by": "Singapore",
+        "position": "supported",
+        "text": "Review its social housing policies, including the use of derogatory and exclusionary terms such as “non-Western” and “ghetto”, to ensure that there is no inherent discrimination in efforts to enhance social inclusion and provide universal access to adequate housing"
+       },
+       {
+        "paragraph": "60.188",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Involve, as part of the implementation of the action plan against the emergence of “parallel societies”, the people concerned and the resident populations in the design of plans and policies"
+       },
+       {
+        "paragraph": "60.189",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Repeal provisions in Regulation L38 and the Act on Policing section 6 (a), which designate so-called “ghettos” and which allow for discrimination based on ethnicity for social housing and law enforcement"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Racial discrimination",
+    "blocks": [
+     {
+      "paras": "60.54",
+      "n": 1,
+      "summary": "Combat racial discrimination",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "CERD finds persistent gaps: no legislative prohibition of racial profiling, weak hate-crime data, and the discriminatory 'non-Western'/'Parallel Society' framework retained under renamed terminology.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 8 — Committee on the Elimination of Racial Discrimination: \"the underreporting of racist hate crimes and hate speech, the lack of comprehensive data collection in that regard and gaps between the number of hate crimes registered by police, the number of prosecutions and the number of convictions\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.54",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Further provide information on other measures, and on developing of an action plan on racism in the next periodic report"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "60.68",
+      "n": 1,
+      "summary": "Combat discrimination against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark reformed parental leave for equal rights (2022), introduced a 40/60 board gender-balance target for large listed companies (2024) and full gender equality in military conscription (2025); persistent occupational segregation and a gender pay gap remain.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 19 — Denmark: \"In December 2024, further rules were introduced that require the largest listed companies to reach a set target figure of a 40/60 gender representation on their board of Directors\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 47 — Institute for Protection of Women's Rights: \"persistent gender pay gaps remained, as the average Danish woman earned 12.3 percent less than the average Danish man in 2023\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.68",
+        "by": "Bulgaria",
+        "position": "noted",
+        "text": "Adopt a long-term strategy and action plan aiming at parity between women and men in the public and private spheres by 2030, in addition to the annual gender equality action plans"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Administration of justice & fair trial",
+    "blocks": [
+     {
+      "paras": "60.96, 60.98, 60.147, 60.269",
+      "n": 4,
+      "summary": "Access to justice; police complaints; safeguards",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CRPD reports persistent barriers to access to justice for persons with disabilities, and the DIHR calls for the Independent Police Complaints Authority's mandate to be expanded to assess human-rights violations; no responsive legislative change is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 21 — Committee on the Rights of Persons with Disabilities: \"barriers to access to justice for persons with disabilities, across Denmark, the Faroe Islands and Greenland, including the insufficient provision of procedural accommodation\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 4 — Danish Institute for Human Rights: \"expand the mandate of the Independent Police Complaints Authority to include assessing and deciding on whether individuals who file complaints against the police had been subjected to human rights violations\""
+      ],
+      "position": "2 noted, 2 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.96",
+        "by": "Turkey",
+        "position": "noted",
+        "text": "Strengthen the communication between the national police and the Muslim community"
+       },
+       {
+        "paragraph": "60.98",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Thoroughly investigate reports of discrimination based on xenophobia, hatred and racism against immigrants or citizens of non-Danish origin and ensure that perpetrators are brought to justice"
+       },
+       {
+        "paragraph": "60.147",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Hold social media companies to account when illegal user-generated content is not addressed in a timely fashion"
+       },
+       {
+        "paragraph": "60.269",
+        "by": "Egypt",
+        "position": "noted",
+        "text": "Enhance training of police forces concerning the treatment of migrants, refugees and asylum seekers"
+       }
+      ]
+     },
+     {
+      "paras": "60.97",
+      "n": 1,
+      "summary": "Prohibit racial and ethnic profiling",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "There is still no legislative prohibition of racial or ethnic profiling and no operational guidelines, per CERD.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 9 — Committee on the Elimination of Racial Discrimination: \"the lack of a clear prohibition of racial profiling and of operational guidelines to combat racial profiling ... define and prohibit racial profiling in legislation\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.97",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "noted",
+        "text": "Put an end to abusive, humiliating and discriminatory practices by the police against ethnic minorities and prohibit their controls based on ethnic profiling"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & reproductive health and rights",
+    "blocks": [
+     {
+      "paras": "60.99",
+      "n": 1,
+      "summary": "Sexual and reproductive health and rights",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark raised the abortion time-limit to 18 weeks (adopted 24 April 2025) and mandates sexuality education through upper-secondary education; CEDAW notes unaddressed sexual and reproductive health gaps for women and girls in Greenland.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 40 — European Centre for Law and Justice: \"the adoption, on 24 April 2025, of a proposal relating to abortion raising the limit for abortion to 18 weeks of pregnancy\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 58 — Committee on the Elimination of Discrimination against Women: \"the high abortion rate and the high prevalence of sexually transmitted infections among women and girls in Greenland\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.99",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Develop – in consultation with rights holders – national guidelines for responding to people with variations in sex characteristics, including the possibility to postpone non-emergency, invasive and irreversible genital surgery or hormone treatment on infants and children until they are able to meaningfully participate in decision-making and give their informed consent"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: definition",
+    "blocks": [
+     {
+      "paras": "60.100, 60.102, 60.222, 60.226-60.229",
+      "n": 7,
+      "summary": "Child protection; violence against children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Danish Child's Act entered into force on 1 January 2024 incorporating CRC obligations, and psychological violence against children has been criminalised; CAT and JS2 remain concerned about children in social care placed in closed facilities and the very low number of psychological-violence cases reaching the courts.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 96 — Denmark: \"The Danish Child's Act entered into force on January 1st 2024. The law ensures that the obligations of Denmark in relation to the UN Convention on the Rights of the Child ... are respected\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 48 — Joint submission 2: \"a significant number of children in Denmark continued to be subjected to corporal and psychological violence ... only very few cases of psychological violence were brought to the judicial system\""
+      ],
+      "position": "6 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.100",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Continue promoting the revision of the law to establish mechanisms that allow minors under 18 years of age to modify their legal gender"
+       },
+       {
+        "paragraph": "60.102",
+        "by": "Malta",
+        "position": "supported",
+        "text": "Amend the law to allow persons under the age of 18 to change their legal gender"
+       },
+       {
+        "paragraph": "60.222",
+        "by": "Slovakia",
+        "position": "supported",
+        "text": "Raise the awareness of children of their rights, including through developing programmes and campaigns in schools to increase their knowledge about the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "60.226",
+        "by": "Panama",
+        "position": "noted",
+        "text": "Guarantee the protection of the rights of Danish children who are involuntarily in conflict zones, including their repatriation and the right to acquire Danish nationality under the ius sanguinis, taking into account the best interests of the child"
+       },
+       {
+        "paragraph": "60.227",
+        "by": "Liechtenstein",
+        "position": "supported",
+        "text": "Increase its efforts to raise awareness of the unlawfulness of violence against children and promote non-violent forms of child-rearing"
+       },
+       {
+        "paragraph": "60.228",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Combat sexual abuse of minors and take more effective measures for their protection from domestic violence"
+       },
+       {
+        "paragraph": "60.229",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Increase efforts to raise awareness about the unlawfulness of violence against children and ensure that they are informed about their right to be free from violence"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to development",
+    "blocks": [
+     {
+      "paras": "60.106, 60.107",
+      "n": 2,
+      "summary": "Development cooperation and ODA",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark has met the UN 0.7 per cent of GNI target for official development assistance for over 45 years and applies a human-rights-based approach to development cooperation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 115 — Denmark: \"For more than 45 years, Denmark has committed at least 0.7 pct. of Gross National Income (GNI) in Official Development Assistance (ODA) in line with the UN target\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 42 — Maat Foundation for Peace, Development and Human Rights: \"Denmark was among the countries that had achieved the United Nations target on official development assistance\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.106",
+        "by": "Turkmenistan",
+        "position": "supported",
+        "text": "Continue with its development assistance to developing countries to better achieve the right to development as part of the sustainable development agenda"
+       },
+       {
+        "paragraph": "60.107",
+        "by": "Ethiopia",
+        "position": "supported",
+        "text": "Maintain its global commitment to official development assistance through its steadfast support via the Danish Development Cooperation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & the environment",
+    "blocks": [
+     {
+      "paras": "60.108-60.111",
+      "n": 4,
+      "summary": "Climate change and environment",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark's Climate Act sets a 70 per cent emissions-reduction target for 2030 and net-negative 110 per cent by 2050, and Greenland joined the Paris Agreement in 2024; the Human Rights Committee still seeks information on climate impacts on the right to life in Greenland and the Faroe Islands.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 193 — Denmark: \"The Danish Climate Act sets a target of reducing Denmark's GHG emissions with 70% in 2030 compared to 1990 and Denmark aims to achieve net-negative by 110% by 2050\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 143 — Denmark: \"Greenland withdrew its territorial reservation and joined the Paris Agreement in 2024\""
+      ],
+      "position": "3 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.108",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Take concrete measures to combat the negative impacts of climate change, both at home and abroad"
+       },
+       {
+        "paragraph": "60.109",
+        "by": "Bangladesh",
+        "position": "noted",
+        "text": "Increase funding and support to tackle the climate crisis, particularly in climate-vulnerable countries, and ensure that its contribution to international climate finance is additional to its official development assistance"
+       },
+       {
+        "paragraph": "60.110",
+        "by": "Bhutan",
+        "position": "supported",
+        "text": "Continue its contribution to the international climate finance and continue its efforts in addressing the climate crisis, particularly in developing countries"
+       },
+       {
+        "paragraph": "60.111",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Continue to support the recognition of the right to a safe, clean, healthy and sustainable environment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "60.112",
+      "n": 1,
+      "summary": "Climate change mitigation and adaptation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark's Climate Act targets a 70 per cent emissions cut by 2030 and net-negative 110 per cent by 2050; the Human Rights Committee still seeks information on climate impacts on the right to life in Greenland and the Faroe Islands.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 193 — Denmark: \"The Danish Climate Act sets a target of reducing Denmark's GHG emissions with 70% in 2030 compared to 1990 and Denmark aims to achieve net-negative by 110% by 2050\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.112",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure the meaningful participation of women, children, persons with disabilities and Inuit communities in the development and implementation of climate change and disaster risk reduction frameworks"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Business & Human Rights",
+    "blocks": [
+     {
+      "paras": "60.113-60.121",
+      "n": 9,
+      "summary": "Business and human rights, including mandatory due diligence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark actively supported the EU Corporate Sustainability Due Diligence Directive introducing mandatory human-rights and environmental due diligence and maintains an OECD National Contact Point; JS2 seeks stronger arms-export controls and post-employment rules, and Denmark's approach to the 'Omnibus' simplification has drawn concern about weakening the directive.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 118 — Denmark: \"Denmark has actively supported the introduction of mandatory human rights and environmental due diligence at the EU level through the adoption of the Corporate Sustainability Due Diligence Directive (CSDDD)\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 28 — Joint submission 2: \"adopt a case-by-case assessment of arm export licenses and prohibit exports if there was an overriding risk that this would contribute to breach of international humanitarian law\""
+      ],
+      "position": "9 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.113",
+        "by": "Islamic Republic of Iran",
+        "position": "supported",
+        "text": "Ensure that their businesses respect human rights and avoid environmental damage in other countries"
+       },
+       {
+        "paragraph": "60.114",
+        "by": "Panama",
+        "position": "supported",
+        "text": "Establish effective mechanisms to require businesses in its territory or under its jurisdiction to conduct human rights-related due diligence to address abuses regarding toxic substances throughout their supply chain"
+       },
+       {
+        "paragraph": "60.115",
+        "by": "South Africa",
+        "position": "supported",
+        "text": "Consider obligations on business enterprises to carry out due diligence to respect human rights and the environment within their global value chains and by their business relationships, to prevent any harm"
+       },
+       {
+        "paragraph": "60.116",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Enact specific legislation to conflict-affected areas and provide guidance and advice for business enterprises on ensuring respect for human rights to prevent and address the heightened risk of corporate involvement in gross human right violations in conflict-affected areas, including situations of foreign occupation"
+       },
+       {
+        "paragraph": "60.117",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Adopt a legislative and regulatory framework that commits companies to respect human rights and prevent environmental damage throughout their value chains and business relationships"
+       },
+       {
+        "paragraph": "60.118",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Strengthen the legal and other regulatory frameworks to ensure that an obligation of human rights due diligence is borne by companies domiciled in its jurisdiction and hold them accountable for violations of economic, social and cultural rights"
+       },
+       {
+        "paragraph": "60.119",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Adopt legal and other regulatory frameworks requiring business entities to exercise human rights due diligence in their operations at home and abroad"
+       },
+       {
+        "paragraph": "60.120",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Continue to encourage and ensure that businesses domiciled in its jurisdiction respect human rights and are environmentally responsible and accountable"
+       },
+       {
+        "paragraph": "60.121",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Introduce legislation requiring companies and investors to respect human rights and to prevent environmental harm, including by carrying out due diligence, and to establish corporate liability for human rights and environmental harm"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Prohibition of torture & ill-treatment (including cruel, inhuman or degrading treatment)",
+    "blocks": [
+     {
+      "paras": "60.122, 60.123",
+      "n": 2,
+      "summary": "Criminalise torture as a distinct offence",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Torture is still not a stand-alone offence in Danish, Greenlandic or Faroese criminal law, despite repeated CAT recommendations.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 12 — Committee against Torture: \"torture was not criminalized as a distinct offence in the Danish Penal Code, the Military Criminal Code or the Greenlandic or Faroese criminal law\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 12 — Danish Institute for Human Rights: \"torture was not explicitly defined as a punishable act in Greenland's Penal Code and recommended that Greenland incorporate torture as a specific crime\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.122",
+        "by": "North Macedonia",
+        "position": "noted",
+        "text": "Include torture as a distinct offence in its Criminal Code"
+       },
+       {
+        "paragraph": "60.123",
+        "by": "Turkey",
+        "position": "noted",
+        "text": "Include torture as a separate offence in its Criminal Code"
+       }
+      ]
+     },
+     {
+      "paras": "60.124, 60.246",
+      "n": 2,
+      "summary": "Criminalise torture; safeguards against ill-treatment",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Torture is still not a stand-alone offence in Danish, Greenlandic or Faroese criminal law despite repeated CAT recommendations; safeguards from the outset of detention and limits on strip-searching are also found wanting.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 12 — Committee against Torture: \"torture was not criminalized as a distinct offence in the Danish Penal Code, the Military Criminal Code or the Greenlandic or Faroese criminal law\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 16 — Committee against Torture: \"sufficient legal safeguards, including timely access to legal representation and adequate interpretation and translation, were not always guaranteed from the outset of detention\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.124",
+        "by": "Democratic People’s Republic of Korea",
+        "position": "supported",
+        "text": "Cease torture and cruel and inhuman treatment in places of detention, particularly for persons with an immigration background"
+       },
+       {
+        "paragraph": "60.246",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Ensure that migration and refugee policies respect the principle of non-refoulement and incorporate a human rights approach in the Act on Foreigners"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "60.125-60.127, 60.194-60.202",
+      "n": 12,
+      "summary": "Access to health care; psychiatric coercion; Greenland",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "All residents have free access to public healthcare and Denmark adopted a 10-year psychiatry plan (2025) targeting a 30 per cent cut in coercive measures by 2030; CRPD and JS2 report coercion in psychiatric care remains high with the enabling legal changes not due before 2027, and CEDAW/DIHR flag unaddressed health gaps in Greenland (abortion rate, sexually transmitted infections, suicide).",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 87 — Denmark: \"The most recent comprehensive political agreement from May 2025 ... contribute to the new and ambitious goal to reduce coercive measures by 30% by 2030\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 27 — Joint submission 2: \"coercive measures continued to be excessively used in psychiatric institutions and that the 10-year plan adopted in 2025 ... lacked a necessary preventive approach\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 57 — Committee on the Elimination of Discrimination against Women: \"the high prevalence of suicide and suicide attempts in Greenland and recommended that Denmark collect comprehensive data on the causes and address them\""
+      ],
+      "position": "6 supported, 6 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.125",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Reduce the use of coercive measures in the psychiatric system, in particular against children"
+       },
+       {
+        "paragraph": "60.126",
+        "by": "Sweden",
+        "position": "supported",
+        "text": "Reduce the use of coercion on adults and children within psychiatric care from current levels"
+       },
+       {
+        "paragraph": "60.127",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Ensure that the use of physical restraint and other forms of coercion in psychiatric institutions is in line with international human rights norms and standards"
+       },
+       {
+        "paragraph": "60.194",
+        "by": "Sri Lanka",
+        "position": "noted",
+        "text": "Further strengthen efforts to promote access to health care by children and women, particularly those in irregular situations"
+       },
+       {
+        "paragraph": "60.195",
+        "by": "Timor-Leste",
+        "position": "noted",
+        "text": "Redouble its efforts to ensure that children and women in irregular situations have access to free health care"
+       },
+       {
+        "paragraph": "60.196",
+        "by": "Algeria",
+        "position": "noted",
+        "text": "Consider facilitating the access of children and women in an irregular situation to free health care"
+       },
+       {
+        "paragraph": "60.197",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Ensure equal access to health care and essential services for persons with an ethnic minority background, including through the provision of quality, affordable translation and interpretation services"
+       },
+       {
+        "paragraph": "60.198",
+        "by": "Bangladesh",
+        "position": "noted",
+        "text": "Step up efforts to ensure free and complete health care by all migrants, irrespective of their residence status"
+       },
+       {
+        "paragraph": "60.199",
+        "by": "Islamic Republic of Iran",
+        "position": "noted",
+        "text": "Take necessary legislative and administrative measures to ensure access by homeless and unregistered migrants to health services without any discrimination"
+       },
+       {
+        "paragraph": "60.200",
+        "by": "Cambodia",
+        "position": "noted",
+        "text": "Encourage eliminating obstacles and ensuring access to free and complete health care for homeless and socially vulnerable migrants, irrespective of residence status"
+       },
+       {
+        "paragraph": "60.201",
+        "by": "China",
+        "position": "supported",
+        "text": "Strengthen efforts to protect people’s right to life and the right to health, especially the life and health of the elderly, the disabled and women"
+       },
+       {
+        "paragraph": "60.202",
+        "by": "Ethiopia",
+        "position": "supported",
+        "text": "Redouble efforts on gains in universal health coverage through leaving no one behind"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & gender-based violence",
+    "blocks": [
+     {
+      "paras": "60.129-60.131, 60.133-60.135, 60.211, 60.215, 60.282, 60.284",
+      "n": 10,
+      "summary": "Prevent and address sexual and gender-based violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark adopted a consent-based rape law (2020), a National Action Plan on Intimate Partner Violence and Killings 2023-2026, psychological-violence provisions, a victims' hotline and new shelters (including for men, 2024); CEDAW, CAT and JS2 report rising gender-based violence, few rape convictions, and the Istanbul Convention still not applied to Greenland and the Faroe Islands.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 35 — Committee against Torture: \"welcomed the adoption of the National Action Plan to Combat Intimate Partner Violence and Intimate Partner Killings 2023-2026\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 36 — Committee on the Elimination of Discrimination against Women: \"it noted with concern the rise in gender-based violence against women, high incidences of sexual violence against women with disabilities and the reported high prevalence of sexual harassment in the workplace and the education system\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 46 — Joint submission 2: \"a small proportion of reported cases of rape resulting in convictions, and a high number of suspected femicides in the first half of 2025\""
+      ],
+      "position": "10 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.129",
+        "by": "Nicaragua",
+        "position": "supported",
+        "text": "Ensure the creation of effective mechanisms to combat sexual abuse and domestic violence, especially against women"
+       },
+       {
+        "paragraph": "60.130",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Take measures to increase prosecution of perpetrators of sexual violence"
+       },
+       {
+        "paragraph": "60.131",
+        "by": "Liechtenstein",
+        "position": "supported",
+        "text": "Continue its efforts to eliminate all forms of sexual and gender-based violence, including by addressing barriers to reporting, investigation and prosecution of sexual violence, and to provide justice to survivors"
+       },
+       {
+        "paragraph": "60.133",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Continue efforts to increase protections for victims of gender-based violence during investigations, including regular training for relevant professionals on the National Police Guidelines"
+       },
+       {
+        "paragraph": "60.134",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Ensure that combating gender-based violence remains a top priority"
+       },
+       {
+        "paragraph": "60.135",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue strengthening policies to combat domestic violence and sexual abuse and the implementation of protection and assistance programmes for victims"
+       },
+       {
+        "paragraph": "60.211",
+        "by": "France",
+        "position": "supported",
+        "text": "Continue to combat all forms of gender-based violence, particularly in the workplace, including by implementing a national system for collecting data on violence against women"
+       },
+       {
+        "paragraph": "60.215",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Ensure that concerns and the situation of migrant women are adequately reflected in strategies to address gender-based violence and harassment"
+       },
+       {
+        "paragraph": "60.282",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Continue the development of programmes to combat the sexual abuse of children in Greenland"
+       },
+       {
+        "paragraph": "60.284",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Address violence against women and provide the appropriate support services to rape and sexual assault survivors in the Faroe Islands"
+       }
+      ]
+     },
+     {
+      "paras": "60.128",
+      "n": 1,
+      "summary": "Define rape on the basis of lack of consent",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Denmark adopted a consent-based rape provision in 2020, under which sex without consent is rape.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 56 — Denmark: \"The Danish Parliament adopted in 2020 a consent-based rape provision according to which sex without consent is considered rape\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 46 — Joint submission 2: \"welcomed that Denmark's rape provision had been amended to be based on lack of consent\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.128",
+        "by": "Panama",
+        "position": "supported",
+        "text": "Incorporate consent into the elements that make up the legal definition of rape, in line with the recommendations of the Committee on Economic, Social and Cultural Rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "60.132, 60.209, 60.213, 60.214, 60.216-60.221",
+      "n": 10,
+      "summary": "Prevent and address violence against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark maintains national action plans against intimate-partner violence since 2002 (current plan 2023-2026), a consent-based rape law (2020), crisis shelters and a victims' hotline; stakeholders report rising femicide, gaps in restraining-order use, and that the current plan expires in 2026 without a successor.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 49 — Denmark: \"Since 2002, national action plans to combat intimate partner violence and intimate partner killings have been in place. The current National Action Plan (2023-2026)\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 44 — Maat Foundation for Peace, Development and Human Rights: \"47.5 percent of women had experienced physical or sexual violence or threats thereof, and referred to an increase in femicides\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 9 — Danish Institute for Human Rights: \"recommended that Denmark adopt a renewed national action plan to combat violence against women and introduce a dedicated offence code for intimate partner homicide\""
+      ],
+      "position": "9 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.132",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to strengthen policies and strategies to prevent domestic violence and to protect women and children who are victims of violence"
+       },
+       {
+        "paragraph": "60.209",
+        "by": "Ecuador",
+        "position": "supported",
+        "text": "Continue its efforts to guarantee gender equality both in law and in practice and to eliminate all forms of violence against women and girls"
+       },
+       {
+        "paragraph": "60.213",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Strengthen its efforts in combating violence against women"
+       },
+       {
+        "paragraph": "60.214",
+        "by": "Norway",
+        "position": "supported",
+        "text": "Continue efforts to combat violence against women, including increasing the attention paid to female victims of gender-based violence in policy documents and ensuring funding as recommended by the Group of Experts on Action against Violence against Women and Domestic Violence"
+       },
+       {
+        "paragraph": "60.216",
+        "by": "Somalia",
+        "position": "supported",
+        "text": "Further strengthen its commitment to protect women from violence and discrimination, including through effective measures for its prevention, investigation, prosecution and conviction of the perpetrators of such violence"
+       },
+       {
+        "paragraph": "60.217",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Adopt a specific law on violence against women and girls"
+       },
+       {
+        "paragraph": "60.218",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Continue efforts to address violence against women and children, with a particular focus on Greenland, where strengthened data collection on that matter is needed"
+       },
+       {
+        "paragraph": "60.219",
+        "by": "Bahrain",
+        "position": "supported",
+        "text": "Adopt an effective action plan to combat violence against women"
+       },
+       {
+        "paragraph": "60.220",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Intensify the efforts to combat all forms of violence against women and girls"
+       },
+       {
+        "paragraph": "60.221",
+        "by": "Croatia",
+        "position": "supported",
+        "text": "Take further steps to address violence against women by using a gender-based concept of violence"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Conditions of detention",
+    "blocks": [
+     {
+      "paras": "60.136, 60.137, 60.140",
+      "n": 3,
+      "summary": "Restrict solitary confinement",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A new disciplinary system (September 2023) substantially reduced long-term solitary confinement exceeding 14 days, but the law still allows up to 4 weeks in exceptional cases and up to 7 days for juveniles, and remand prisoners face de facto isolation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 80 — Denmark: \"A new disciplinary penalty system entered into force in September 2023, which has led to ... a substantial decrease in long-term solitary confinement exceeding 14 days\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 18 — Committee against Torture: \"solitary confinement could last up to four weeks and was still allowed for juveniles\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.136",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Address the use of solitary confinement as a disciplinary measure in line with the recommendations of the European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "60.137",
+        "by": "Norway",
+        "position": "noted",
+        "text": "Abolish the use of solitary confinement on minors and ensure that its use as a disciplinary measure for inmates is in accordance with the United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules), as recommended by the European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "60.140",
+        "by": "Sweden",
+        "position": "noted",
+        "text": "Reduce the practice of solitary confinement exceeding 14 days in prisons and at Danish deportation/refugee centres from current levels"
+       }
+      ]
+     },
+     {
+      "paras": "60.141, 60.263",
+      "n": 2,
+      "summary": "Improve detention conditions; reduce pre-trial detention",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A new disciplinary system (September 2023) reduced long-term solitary confinement over 14 days and prison capacity is being expanded, but CAT, the CPT and the DIHR report continuing overcrowding, extensive and lengthening pre-trial detention, and remand prisoners in de facto isolation up to 23 hours a day.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 80 — Denmark: \"A new disciplinary penalty system entered into force in September 2023, which has led to ... a substantial decrease in long-term solitary confinement exceeding 14 days\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 3 — Danish Institute for Human Rights: \"some detainees stayed in their cells close to 23 hours a day, often without access to meaningful activities and with restrictions on contact with the outside world\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 14 — Committee against Torture: \"a high proportion of remand detention and an increase in the duration of pretrial detention, with low usage of alternatives to detention\""
+      ],
+      "position": "1 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.141",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Take measures against serious overcrowding in prisons, terrible prison conditions and the violation of inmates’ rights"
+       },
+       {
+        "paragraph": "60.263",
+        "by": "Ghana",
+        "position": "noted",
+        "text": "Continue efforts to strengthen measures and strategies to improve detention procedures and living conditions in migration detention centres"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: juvenile justice",
+    "blocks": [
+     {
+      "paras": "60.138, 60.139",
+      "n": 2,
+      "summary": "Restrict solitary confinement",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A new disciplinary system (September 2023) substantially reduced long-term solitary confinement exceeding 14 days, but the law still allows up to 4 weeks in exceptional cases and up to 7 days for juveniles, and remand prisoners face de facto isolation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 80 — Denmark: \"A new disciplinary penalty system entered into force in September 2023, which has led to ... a substantial decrease in long-term solitary confinement exceeding 14 days\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 18 — Committee against Torture: \"solitary confinement could last up to four weeks and was still allowed for juveniles\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.138",
+        "by": "Poland",
+        "position": "noted",
+        "text": "Adopt legislation to completely abolish solitary confinement of children"
+       },
+       {
+        "paragraph": "60.139",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Prohibit the use of solitary confinement for children within the criminal justice system"
+       }
+      ]
+     },
+     {
+      "paras": "60.230",
+      "n": 1,
+      "summary": "Juvenile justice safeguards",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report notes that minors may be placed in a penalty cell for up to 7 days as a disciplinary sanction (longer if violent against staff); CAT continues to recommend ending solitary confinement of children.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 81 — Denmark: \"Minors can be imposed penalty cell as a disciplinary sanction for no more than 7 days, unless the minor has been violent against staff in the institution\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 18 — Committee against Torture: \"solitary confinement could last up to four weeks and was still allowed for juveniles\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.230",
+        "by": "Luxembourg",
+        "position": "noted",
+        "text": "Create specialized courts for minors, nominate specialized judges for children and ensure that these judges receive appropriate training"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of thought, conscience & religion",
+    "blocks": [
+     {
+      "paras": "60.142-60.146",
+      "n": 5,
+      "summary": "Freedom of religion or belief",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The 2023 provision on 'improper treatment of objects with significant religious significance' has raised expression concerns, and the European Association of Jehovah's Witnesses reports unaddressed hate incidents; the National Report describes a 2025 revision of the Act on Religious Communities but no measure directly responsive to these recommendations.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 35 — European Association of Jehovah's Witnesses: \"reports of hate incidents and acts of violence affecting Jehovah witnesses in Denmark, including in the context of the peaceful public manifestation of their beliefs\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 84 — Denmark: \"The [Act on Religious Communities] was revised in 2025 ... The revision, which entered into force on January 1st, 2026, includes additional codification of existing practices\""
+      ],
+      "position": "3 supported, 2 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.142",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Further foster freedom of religion and belief"
+       },
+       {
+        "paragraph": "60.143",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Maintain the special status of the Evangelical Lutheran Church as the “Established Church of Denmark”"
+       },
+       {
+        "paragraph": "60.144",
+        "by": "Nicaragua",
+        "position": "supported",
+        "text": "Ensure respect for personal freedoms, with an emphasis on religious freedom"
+       },
+       {
+        "paragraph": "60.145",
+        "by": "Pakistan",
+        "position": "noted",
+        "text": "Amend legislation to abolish the ban on facial covering that is violative of international human rights law"
+       },
+       {
+        "paragraph": "60.146",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Ensure members of religious minority groups are guaranteed the right to freedom of religion or belief, including by repealing the ban on full face coverings in public places and permitting kosher and halal slaughter of animals"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "60.148, 60.150-60.164",
+      "n": 16,
+      "summary": "Combat trafficking in persons",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark adopted a National Action Plan to Combat Trafficking in Human Beings 2022-2025 (with a 2026-2029 plan in preparation) and established a Special Crime Unit; CAT, CEDAW and the DIHR report a persistently low number of investigations and convictions, a limited recovery and reflection period, and no independent national rapporteur.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 30 — Committee against Torture: \"welcomed the adoption by Denmark of a National Action Plan to Combat Trafficking in Human Beings 2022-2025. However, it was concerned about the low number of investigations and convictions for trafficking in human beings and the limited recovery and reflection period for victims\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 73 — Denmark: \"A new action plan against human trafficking for the period of 2026-2029 is under preparation\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 8 — Danish Institute for Human Rights: \"a low number of convictions for trafficking of human beings, while the number of persons exposed to trafficking had increased ... establish a permanent, independent National Rapporteur\""
+      ],
+      "position": "14 supported, 2 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.148",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Ensure full investigation in cases of human trafficking, including sexual exploitation, and bring to justice the perpetrators"
+       },
+       {
+        "paragraph": "60.150",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue measures to prevent trafficking in persons"
+       },
+       {
+        "paragraph": "60.151",
+        "by": "Nigeria",
+        "position": "supported",
+        "text": "Sustain efforts in combating human trafficking and ensure the protection of the rights of victims as well as the rights of migrants"
+       },
+       {
+        "paragraph": "60.152",
+        "by": "Qatar",
+        "position": "supported",
+        "text": "Ensure just and comprehensive investigation of human trafficking cases, bring perpetrators to justice, ensure victims’ access to redress, and establish mechanisms to identify and protect child victims of trafficking"
+       },
+       {
+        "paragraph": "60.153",
+        "by": "Liechtenstein",
+        "position": "supported",
+        "text": "Strengthen its efforts to thoroughly investigate all cases of human trafficking, including trafficking in children, and ensure survivors’ access to justice and reparations"
+       },
+       {
+        "paragraph": "60.154",
+        "by": "Serbia",
+        "position": "noted",
+        "text": "Step up efforts to combat human trafficking and sexual exploitation, to establish mechanisms for the identification and protection of child victims of trafficking, to ensure that child victims are not treated as criminals, to provide free legal aid and professional psychological assistance to child victims and to ensure that children, after repatriation, have a guaranteed residence permit in Denmark"
+       },
+       {
+        "paragraph": "60.155",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Adopt a renewed action plan to combat trafficking in persons from 2022, prioritizing a victim-centred approach and prosecution of traffickers"
+       },
+       {
+        "paragraph": "60.156",
+        "by": "Belarus",
+        "position": "noted",
+        "text": "Ensure effective investigation and prosecution of crimes of trafficking in persons, especially in cases where the victims are asylum seekers, and review the conditions for granting residence permits to victims of trafficking in persons"
+       },
+       {
+        "paragraph": "60.157",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Strengthen mechanisms to protect and guard against trafficking in human beings, including sexual exploitation"
+       },
+       {
+        "paragraph": "60.158",
+        "by": "China",
+        "position": "supported",
+        "text": "Eliminate human trafficking by addressing its root causes"
+       },
+       {
+        "paragraph": "60.159",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Take effective measures to prevent and suppress trafficking in persons for the purpose of exploitation, in particular among unaccompanied minors"
+       },
+       {
+        "paragraph": "60.160",
+        "by": "Democratic People’s Republic of Korea",
+        "position": "supported",
+        "text": "Ensure that cases of trafficking in human beings are thoroughly investigated, perpetrators are brought to justice and victims could have access to reparation"
+       },
+       {
+        "paragraph": "60.161",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Ensure that child victims of trafficking are not treated as offenders and are provided child- and gender-sensitive legal and psychosocial assistance and support"
+       },
+       {
+        "paragraph": "60.162",
+        "by": "Sudan",
+        "position": "supported",
+        "text": "Consider establishing a national mechanism to identify and protect child victims of trafficking to ensure that child victims are not treated as offenders"
+       },
+       {
+        "paragraph": "60.163",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Provide victims of child trafficking with free legal aid"
+       },
+       {
+        "paragraph": "60.164",
+        "by": "Croatia",
+        "position": "supported",
+        "text": "Establish mechanisms to identify and protect child victims of trafficking, ensuring prevention of secondary victimization, and provide child victims with free legal aid, and support from child psychologists and social workers"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Access to justice & remedy",
+    "blocks": [
+     {
+      "paras": "60.149",
+      "n": 1,
+      "summary": "Access to justice and effective remedies",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CRPD reports persistent barriers to access to justice for persons with disabilities and the DIHR seeks an expanded police-complaints mandate; no responsive change is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 21 — Committee on the Rights of Persons with Disabilities: \"barriers to access to justice for persons with disabilities ... insufficient provision of procedural accommodation in judicial and administrative proceedings\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.149",
+        "by": "Jordan",
+        "position": "supported",
+        "text": "Ensure that cases of human trafficking are effectively investigated and the perpetrators prosecuted and adequately punished"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to marriage & family",
+    "blocks": [
+     {
+      "paras": "60.165, 60.166",
+      "n": 2,
+      "summary": "Family reunification",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Human Rights Committee and UNHCR call for amendment of the Aliens Act to reduce restrictions on family reunification for persons under temporary protection and to remove mandatory waiting periods; no such amendment is reported, though 2025 changes protect accompanying family members subjected to domestic violence.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 29 — Human Rights Committee: \"asked Denmark to indicate the steps taken to amend the Aliens Act with a view to reducing restrictions on family reunification for persons under temporary protection status\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 28 — Office of the United Nations High Commissioner for Refugees: \"remove mandatory waiting periods for family reunification for all beneficiaries of international protection\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.165",
+        "by": "Haiti",
+        "position": "noted",
+        "text": "Continue to support, through economic and social policies, the institution of the family and the preservation of family values"
+       },
+       {
+        "paragraph": "60.166",
+        "by": "Egypt",
+        "position": "noted",
+        "text": "Promote policies for supporting the family, as it is the fundamental and natural unit of society"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Labour rights and right to work",
+    "blocks": [
+     {
+      "paras": "60.167-60.172, 60.174-60.181, 60.241, 60.242, 60.259",
+      "n": 17,
+      "summary": "Equal pay, ILO standards and labour-market inclusion",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark ratified ILO Convention No. 190 on violence and harassment at work (2024), is implementing the EU Pay Transparency Directive and adopted a 2025-2028 disability employment action plan; a 12.3 per cent gender pay gap persists and the employment rate of persons with disabilities remains lower than others.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 8 — Denmark: \"In 2024, Denmark ratified ILO convention number 190 concerning the elimination of violence and harassment in the world of work\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 47 — Institute for Protection of Women's Rights: \"the average Danish woman earned 12.3 percent less than the average Danish man in 2023, linked to occupational and hierarchical segregation\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 32 — Committee on the Rights of Persons with Disabilities: \"the employment rate of persons with disabilities was lower than that of others and recommended that Denmark adopt a long-term employment strategy\""
+      ],
+      "position": "2 noted, 15 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.167",
+        "by": "Thailand",
+        "position": "noted",
+        "text": "Legislate on conditions of work and welfare, so as to ensure that minimum standards are applicable to all workers, especially those from non-European countries"
+       },
+       {
+        "paragraph": "60.168",
+        "by": "Luxembourg",
+        "position": "noted",
+        "text": "Take legislative measures related to conditions of work in order to guarantee that minimal standards apply to all workers, including those who are not covered by collective conventions"
+       },
+       {
+        "paragraph": "60.169",
+        "by": "Cambodia",
+        "position": "supported",
+        "text": "Consider increasing access to employment and more support programmes for immigrants’ better integration into the labour market"
+       },
+       {
+        "paragraph": "60.170",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Enforce the principle of equal pay for work of equal value in order to narrow and ultimately close the gender pay gap"
+       },
+       {
+        "paragraph": "60.171",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Continue efforts to eliminate the wage gap between women and men, especially among women migrants"
+       },
+       {
+        "paragraph": "60.172",
+        "by": "Kazakhstan",
+        "position": "supported",
+        "text": "Take necessary steps to bridge the pay gap to ensure transparency of difference in wages between the sexes"
+       },
+       {
+        "paragraph": "60.174",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue its efforts towards reducing the gender pay gap"
+       },
+       {
+        "paragraph": "60.175",
+        "by": "Netherlands",
+        "position": "supported",
+        "text": "Adopt measures to eliminate the gender pay gap, including legislative changes to ensure transparency about wages"
+       },
+       {
+        "paragraph": "60.176",
+        "by": "South Africa",
+        "position": "supported",
+        "text": "Eliminate the gender wage gap, particularly for women with migration backgrounds"
+       },
+       {
+        "paragraph": "60.177",
+        "by": "Uzbekistan",
+        "position": "supported",
+        "text": "Continue efforts to reduce the gender pay gap, which mainly affects women with migrant backgrounds"
+       },
+       {
+        "paragraph": "60.178",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Continue implementing programmes that promote women’s access to full-time employment under equal conditions, particularly for immigrant women"
+       },
+       {
+        "paragraph": "60.179",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Continue to promote equal access for women to employment and close the pay gap between women and men, paying particular attention to women with an immigrant background"
+       },
+       {
+        "paragraph": "60.180",
+        "by": "Uganda",
+        "position": "supported",
+        "text": "Continue to promote immigrant women’s equal access to full-time employment and equal pay on the labour market"
+       },
+       {
+        "paragraph": "60.181",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Continue to promote women’s equal access to full-time employment in all parts of its territory and to eliminate the gender wage gap, particularly for women with immigration backgrounds"
+       },
+       {
+        "paragraph": "60.241",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to integrate immigrants into the society and into the labour market"
+       },
+       {
+        "paragraph": "60.242",
+        "by": "Albania",
+        "position": "supported",
+        "text": "Pursue action in favour of the integration of foreigners by strengthening their active participation in the labour market and in Danish society"
+       },
+       {
+        "paragraph": "60.259",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Adopt support programmes for migrants and refugees, which grant them social inclusion and, in particular, labour integration"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & poverty",
+    "blocks": [
+     {
+      "paras": "60.182-60.184, 60.280",
+      "n": 4,
+      "summary": "Combat poverty, including child poverty",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Denmark maintains an extensive social-protection system but has no official poverty definition and does not intend to adopt one; JS2 reports roughly 49,500 people in poverty and a benefit reform reducing income for an estimated 11,000 children, and calls for a national child-poverty action plan.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 101 — Denmark: \"There is no official poverty definition in Denmark. The Government does not intend to introduce an official definition of poverty\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 38 — Joint submission 2: \"49,500 persons lived in poverty and the social benefit reform would reduce income for an estimated 11,000 children ... initiate a national action plan to combat child poverty\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.182",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Reintroduce the national poverty threshold and take active steps to combat increasing poverty among vulnerable individuals, such as children living in Greenland"
+       },
+       {
+        "paragraph": "60.183",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Take steps to reduce child poverty and social exclusion of children, with a particular focus on Greenland and the Faroe Islands, as well as children with a foreign background"
+       },
+       {
+        "paragraph": "60.184",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Take measures to combat increasing levels of child poverty, particularly among children with ethnic backgrounds"
+       },
+       {
+        "paragraph": "60.280",
+        "by": "Lithuania",
+        "position": "supported",
+        "text": "Develop specific poverty reduction measures to protect children living in Greenland and on the Faroe Islands"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to adequate housing",
+    "blocks": [
+     {
+      "paras": "60.185, 60.187, 60.190, 60.192, 60.193",
+      "n": 5,
+      "summary": "Right to housing; homelessness",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "'Housing First' has guided Danish homelessness policy since 2009 and key elements were placed in legislation in October 2023; but CERD and civil society find the 'Parallel Society'/'Ghetto' laws drive housing insecurity and demolition of social housing for residents of 'non-Western' background.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 106 — Denmark: \"Since October 2023, key elements of Housing First have been part of national Danish legislation. The main goals are significantly decreasing the number of persons in homelessness and ending long-term homelessness\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 25 — Maat Foundation for Peace, Development and Human Rights: \"the Parallel Society Act ... was leading to the reduction or demolition of social housing and the termination of rental contracts, resulting in housing insecurity\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.185",
+        "by": "Rwanda",
+        "position": "supported",
+        "text": "Develop and implement a national action plan to combat homelessness and provide long-term solutions and support social reintegration of homeless people"
+       },
+       {
+        "paragraph": "60.187",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Enhance measures to ensure that evictions and rehousing respect human rights standards"
+       },
+       {
+        "paragraph": "60.190",
+        "by": "Cambodia",
+        "position": "supported",
+        "text": "Consider taking additional measures to uphold the right to adequate housing on a non-discriminatory basis"
+       },
+       {
+        "paragraph": "60.192",
+        "by": "Malta",
+        "position": "supported",
+        "text": "Ensure that any urban regeneration and other programmes that impact housing are non-discriminatory, uphold the right to adequate housing and do not result in forced evictions, homelessness and situations where people are forced to live in inadequate housing"
+       },
+       {
+        "paragraph": "60.193",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Increase the stock of affordable and adequate public housing units by means of higher public investments and a better regulatory framework for private investors, and ensure the absence of discrimination when solving social inclusion and housing issues"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "60.203-60.208",
+      "n": 6,
+      "summary": "Inclusive and non-discriminatory education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Committee on the Rights of Persons with Disabilities reports that segregated schooling has increased and barriers to inclusive education persist; an expert group reported recommendations in June 2025 but no legislative change is reported, and stakeholders describe persistent discrimination against ethnic-minority students.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 33 — Committee on the Rights of Persons with Disabilities: \"segregated schooling had increased and that barriers to inclusive education had resulted in school refusal and the involuntary absence of children with disabilities\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 94 — Denmark: \"In May 2024 the Danish Government established an expert group to prepare specific recommendations for adjustments to the legislative framework for inclusion ... The expert group published its recommendations in June 2025\""
+      ],
+      "position": "6 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.203",
+        "by": "India",
+        "position": "supported",
+        "text": "Continue with further measures for ensuring access to education for all sections of the society"
+       },
+       {
+        "paragraph": "60.204",
+        "by": "Afghanistan",
+        "position": "supported",
+        "text": "Take steps to extend the provision of education to refugee children, irrespective of residence status"
+       },
+       {
+        "paragraph": "60.205",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Ensure universal access to education, especially for those children who come from a disadvantaged background"
+       },
+       {
+        "paragraph": "60.206",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Consider developing initiatives that promote the integration of minorities, migrants and refugees into the educational system"
+       },
+       {
+        "paragraph": "60.207",
+        "by": "Qatar",
+        "position": "supported",
+        "text": "Exert more efforts to ensure access to quality and inclusive education for all children"
+       },
+       {
+        "paragraph": "60.208",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Continue working on greater accessibility in schools for children with disabilities, guaranteeing an adequate allocation of financial resources"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Advancement of women",
+    "blocks": [
+     {
+      "paras": "60.212",
+      "n": 1,
+      "summary": "Advance women's participation and equality",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark reformed parental leave (2022), set a 40/60 board gender-balance target for large listed companies (2024) and introduced equal military conscription (2025); women remain under-represented in leadership and high-paying occupations.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 20 — Denmark: \"Full equality between men and women in relation to military conscription was introduced in 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.212",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Step up efforts to increase women’s representation in politics and in companies"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: family environment & alternative care",
+    "blocks": [
+     {
+      "paras": "60.223-60.225",
+      "n": 3,
+      "summary": "Quality and stability of alternative care",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Since 2021 Denmark has issued initiatives to improve foster-care quality and stability, with implementation funding from 2025, and the 2024 Child's Act tightened safeguards on non-consensual placement; CAT remains concerned about children placed in closed facilities alongside sentenced children.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 99 — Denmark: \"Since 2021, new initiatives have been issued to improve the quality of foster care and to ensure stability and continuity in the upbringing of children living in foster homes\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 37 — Committee against Torture: \"children in social care were placed in secure residential facilities along with children serving custodial sentences\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.223",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Strengthen the foster care system for children separated from families, with a view to reducing their institutionalization"
+       },
+       {
+        "paragraph": "60.224",
+        "by": "North Macedonia",
+        "position": "supported",
+        "text": "Further facilitate family-based care and strengthen the foster care system for children who cannot stay with their families, in particular for children with disabilities"
+       },
+       {
+        "paragraph": "60.225",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Respect international standards in the implementation of the so-called “Children’s Law”, especially in regards to the forced removal of children from families"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: definition, general principles",
+    "blocks": [
+     {
+      "paras": "60.231-60.233",
+      "n": 3,
+      "summary": "Rights of persons with disabilities",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CRPD finds continued forced treatment, guardianship-based restrictions on legal capacity and no general duty of reasonable accommodation in the disability-discrimination Act; Denmark points to a 2025-2028 inclusion action plan and a 2025 awareness campaign.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 38 — Committee on the Rights of Persons with Disabilities: \"repeal all laws and abolish all practices that allowed for the deprivation of liberty on the basis of impairment and forced treatment\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 36 — Denmark: \"In 2025, a national disability week and an information campaign ... was initiated\""
+      ],
+      "position": "2 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.231",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Adopt comprehensive legislation to include measures to combat discrimination against people with disabilities"
+       },
+       {
+        "paragraph": "60.232",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Take concrete measures to address stigma, discrimination and exclusion faced by persons living with Down syndrome and ensure provision of adequate support for them and their families and carers"
+       },
+       {
+        "paragraph": "60.233",
+        "by": "Bulgaria",
+        "position": "noted",
+        "text": "Adopt a comprehensive national disability action plan with specific and measurable targets for the implementation of the Convention on the Rights of Persons with Disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: independence, inclusion",
+    "blocks": [
+     {
+      "paras": "60.234-60.237",
+      "n": 4,
+      "summary": "De-institutionalisation; legal capacity; accommodation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Committee on the Rights of Persons with Disabilities finds no comprehensive de-institutionalisation strategy, continued forced treatment and guardianship-based restrictions on legal capacity, and that the disability-discrimination Act still imposes no general duty of reasonable accommodation; a 2025-2028 action plan on education and employment is noted.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 43 — Committee on the Rights of Persons with Disabilities: \"amend the Guardianship Act to guarantee full legal capacity and replace substituted decision-making systems with supported decision-making systems\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 44 — Committee on the Rights of Persons with Disabilities: \"the Act on Prohibition of Discrimination on Grounds of Disability did not impose an obligation to provide reasonable accommodation or to ensure accessibility\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 35 — Denmark: \"The Danish Government has allocated 25.7 million DKK from 2025-2028 for an action plan for better inclusion for people with disabilities in education and in the labour market\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.234",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue strengthening the dissemination and implementation of the mechanisms provided in the law on combating discrimination on grounds of disability that allow greater inclusion of people with disabilities in the labour market"
+       },
+       {
+        "paragraph": "60.235",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Increase measures to develop inclusive education and improve accessibility to schools for people with disabilities"
+       },
+       {
+        "paragraph": "60.236",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Ensure the allocation of necessary funds for disability-related projects such as inclusive education, to protect the rights of children with disabilities"
+       },
+       {
+        "paragraph": "60.237",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Take steps to strengthen community-based care for children with disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Members of minorities",
+    "blocks": [
+     {
+      "paras": "60.238, 60.239",
+      "n": 2,
+      "summary": "Rights of ethnic and religious minorities",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CERD and stakeholders find the 'non-Western'/'Parallel Society' framework in law and policy stigmatising and discriminatory toward ethnic minorities, and Denmark has renamed rather than repealed it.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 7 — Committee on the Elimination of Racial Discrimination: \"the laws previously known as the 'Ghetto Package' had a discriminatory impact on ethnic minorities ... (b) repeal discriminatory provisions\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 105 — Denmark: \"A political agreement has been reached to change the term 'ghetto' ... to 'parallel societies' and 'areas of transformation'\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.238",
+        "by": "Viet Nam",
+        "position": "supported",
+        "text": "Strengthen the integration process for minority groups and non-citizens so that they can enjoy equal access to, inter alia, employment, education, housing, health services and justice"
+       },
+       {
+        "paragraph": "60.239",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Improve the integration of non-citizens and minorities into mainstream society"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Migrants",
+    "blocks": [
+     {
+      "paras": "60.243, 60.244, 60.249, 60.262, 60.264, 60.266, 60.267, 60.270",
+      "n": 8,
+      "summary": "Limit immigration detention; family reunification",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Human Rights Committee asked Denmark to amend the Aliens Act to limit immigration detention and reduce restrictions on family reunification for persons under temporary protection; the National Report describes detention as a last resort and states minors are 'as a general rule' not detained, but CAT remains concerned the option to detain children remains in law and that the 'tolerated stay' regime bars work.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 48 — Human Rights Committee: \"asked Denmark to indicate the steps taken to amend the Aliens Act, with a view to limiting the detention of migrants and asylum-seekers to the shortest possible period\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 63 — Denmark: \"detention according to the Danish Aliens Act only takes place as a last resort ... as a general rule, Denmark does not detain minors\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 51 — Committee against Torture: \"while noting information provided by Denmark that children would not be detained for the purpose of return, the Committee remained concerned that such an option continued to exist in law\""
+      ],
+      "position": "6 supported, 2 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.243",
+        "by": "Democratic People’s Republic of Korea",
+        "position": "supported",
+        "text": "Stop implementing policies and measures violating rights of the migrants and effectively protect their fundamental rights"
+       },
+       {
+        "paragraph": "60.244",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue measures aimed at promoting and strengthening the integration of immigrants"
+       },
+       {
+        "paragraph": "60.249",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Take measures to ensure the rights of migrants and refugees, including their access to the labour market, health care and education, and their social integration into Danish society"
+       },
+       {
+        "paragraph": "60.262",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Review conditions and treatment of foreign nationals without residence entitlements at the Ellebaek Centre for Foreigners"
+       },
+       {
+        "paragraph": "60.264",
+        "by": "Thailand",
+        "position": "supported",
+        "text": "Step up its efforts to refrain from placing asylum-seeking children awaiting deportation in detention and consider utilizing alternatives to detention for them and for those unaccompanied children in immigration cases"
+       },
+       {
+        "paragraph": "60.266",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Promote the increase of the age limit from 15 to 18 years, so that children have the right to family reunification recognized, and the revision of the Immigration Law, according to which people in a situation of temporary protection cannot benefit from family reunification for the first 3 years of residence, in line with the recommendations of the Committee on Children’s Rights"
+       },
+       {
+        "paragraph": "60.267",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Ensure that the best interests of the child are a primary consideration in all decisions made on immigration cases involving children"
+       },
+       {
+        "paragraph": "60.270",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Ensure migrants and migrant children receive equal and fair treatment in the delivery of programmes and social benefit"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Refugees & asylum seekers",
+    "blocks": [
+     {
+      "paras": "60.245, 60.247, 60.248, 60.251, 60.254-60.256, 60.261, 60.265, 60.268",
+      "n": 10,
+      "summary": "Fair asylum procedures; end externalisation",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Denmark has enacted legislation enabling the externalisation of its asylum policy and the processing of asylum claims in a third country, contrary to recommendations for fair and accessible asylum; CAT, UNHCR and the DIHR call for this to be revisited, and CAT also criticises reliance on diplomatic assurances and prison-like conditions in the Ellebaek return centre.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 47 — Committee against Torture: \"concerned about legislation enabling the externalization of the asylum policy of Denmark, and about plans to process asylum claims in a third country. The Committee recommended that Denmark revisit legislation and plans for such externalization\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 11 — Danish Institute for Human Rights: \"legislation allowing the transfer of asylum seekers to a third country, to have their asylum case processed, lacked important legal safeguards\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 53 — Council of Europe (CPT); Joint submission 2: \"the conditions at the Ellebaek return centre were prison-like\""
+      ],
+      "position": "7 supported, 3 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.245",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Undertake further efforts to ensure refugees and asylum seekers are afforded due protection and support"
+       },
+       {
+        "paragraph": "60.247",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Conform the current rules for revoking resident permits granted for humanitarian purposes with the international norms and commitments in this area"
+       },
+       {
+        "paragraph": "60.248",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Take measures to address the problem of overcrowding in Danish temporary detention centres for refugees and to create appropriate conditions for those who are kept in those centres and who have been refused asylum"
+       },
+       {
+        "paragraph": "60.251",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Ensure that the review or termination of international protection is limited to cases in which the standards of the 1951 Convention are clearly present, the circumstances that led to the granting of protection have ceased to exist, or significant changes have occurred that ensure that the person no longer faces a real risk of serious harm"
+       },
+       {
+        "paragraph": "60.254",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Ensure that the policies on detention and return of migrants and asylum seekers respect the international standards and the principle of non-refoulement"
+       },
+       {
+        "paragraph": "60.255",
+        "by": "Bahrain",
+        "position": "noted",
+        "text": "Allow refugees and asylum seekers to reunite with their families without a waiting period"
+       },
+       {
+        "paragraph": "60.256",
+        "by": "Sudan",
+        "position": "noted",
+        "text": "Take further measures to grant refugees and asylum seekers the right to family reunification"
+       },
+       {
+        "paragraph": "60.261",
+        "by": "Uganda",
+        "position": "supported",
+        "text": "Take measures to reduce the detention period for asylum seekers and consider the use of such detention as an option of last resort"
+       },
+       {
+        "paragraph": "60.265",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Take necessary measures to ensure that the medical examinations of asylum seekers at the reception centres are performed by independent institutions"
+       },
+       {
+        "paragraph": "60.268",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Refrain from shifting its asylum and protection obligations to third countries and ensure adequate protection in law and practice for asylum seekers"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Research & other measures of implementation",
+    "blocks": [
+     {
+      "paras": "60.250",
+      "n": 1,
+      "summary": "Data collection and disaggregated statistics",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CERD and the DIHR report that Denmark still does not collect adequate data on ethnicity or disaggregated data on hate crimes and on Greenland.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 10 — Committee on the Elimination of Racial Discrimination: \"the lack of data on the ethnicity of persons residing in Denmark ... revise its data-collection processes to ensure that it collected data on ethnicity\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.250",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Further increase efforts aimed at protection of asylum seekers and migrants"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Liberty & security of the person",
+    "blocks": [
+     {
+      "paras": "60.252, 60.253",
+      "n": 2,
+      "summary": "Detention safeguards; deprivation of liberty on grounds of disability",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CRPD calls on Denmark to repeal laws allowing detention and compulsory treatment based on impairment; no such repeal is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 38 — Committee on the Rights of Persons with Disabilities: \"repeal all laws and abolish all practices that allowed for the deprivation of liberty on the basis of impairment and forced treatment, including mental health laws and institutionalization policies\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.252",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Ensure that policies related to the return and expulsion of migrants and asylum seekers respect the principle of non-refoulement and that the detention of migrants and asylum seekers is reasonable, necessary and proportionate"
+       },
+       {
+        "paragraph": "60.253",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Ensure that policies regarding migrants and asylum seekers respect the principle of non-refoulement and that detention is a measure of last resort"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Legal & institutional reform",
+    "blocks": [
+     {
+      "paras": "60.258",
+      "n": 1,
+      "summary": "Legal and institutional reform",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Key reforms sought - a stand-alone torture offence, decriminalisation of defamation, a duty of reasonable accommodation - are not reported as carried out.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 12 — Committee against Torture: \"torture was not criminalized as a distinct offence in the Danish Penal Code, the Military Criminal Code or the Greenlandic or Faroese criminal law\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.258",
+        "by": "China",
+        "position": "supported",
+        "text": "Abolish policies that violate the rights of refugees and migrants"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to name, identity & nationality",
+    "blocks": [
+     {
+      "paras": "60.271, 60.272",
+      "n": 2,
+      "summary": "Legal gender recognition; nationality of stateless children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Denmark allows administrative legal gender change from age 18 and since 2023 a procedure for minors to obtain an identification number reflecting their gender identity; legal gender recognition regardless of age was rejected by Parliament in January 2025, and children born stateless still do not acquire nationality automatically at birth.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/DNK/3), para. 50 — Joint submission 2: \"legal gender recognition regardless of age had not been adopted, following the rejection of a parliamentary proposal in January 2025\"",
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 53 — Committee on the Elimination of Discrimination against Women; UNHCR: \"children born stateless in Denmark did not automatically acquire nationality at birth ... ensure, by law, that children born in the country were automatically granted Danish citizenship if they would otherwise be stateless\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.271",
+        "by": "Belgium",
+        "position": "noted",
+        "text": "Take the necessary measures to prevent statelessness, in line with national law and the 1961 Convention on the Reduction of Statelessness, specifically regarding children born in Denmark"
+       },
+       {
+        "paragraph": "60.272",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Establish effective mechanisms to eradicate and prevent statelessness of children born within the country, in accordance with the provisions of the 1961 Convention on the Reduction of Statelessness"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & counter-terrorism",
+    "blocks": [
+     {
+      "paras": "60.273-60.279",
+      "n": 7,
+      "summary": "Counter-terrorism measures and safeguards",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The National Report notes only that combating terrorism is a 'highly important priority' with initiatives since 2015; the 4th-cycle documentation contains no specific information on measures responsive to these recommendations or on Danish counter-terrorism safeguards.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 77 — Denmark: \"Substantial counter-terrorism initiatives have been launched since the 2015 terror attacks in Copenhagen\""
+      ],
+      "position": "5 supported, 2 noted",
+      "recommendations": [
+       {
+        "paragraph": "60.273",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Continue efforts made in fighting terrorism and its financing in addition to violent extremism"
+       },
+       {
+        "paragraph": "60.274",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Uphold the rule of law and international human rights obligations in its effort to combat terrorism and terror-related crimes"
+       },
+       {
+        "paragraph": "60.275",
+        "by": "Islamic Republic of Iran",
+        "position": "supported",
+        "text": "Ensure Denmark’s compliance with its international obligations by refraining from providing support to those who are accused or convicted of terrorism, and prevent the abuse of refugees or asylum status for terrorist activities against other States"
+       },
+       {
+        "paragraph": "60.276",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Review the legislative framework relating to the fight against terrorism to align it with international human rights law, including provisions on the issue of nationality"
+       },
+       {
+        "paragraph": "60.277",
+        "by": "Pakistan",
+        "position": "noted",
+        "text": "Review counter-terrorism legislation and ensure its conformity with international law"
+       },
+       {
+        "paragraph": "60.278",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Ensure that counter-terrorism measures are in full conformity with the provisions of the International Covenant on Civil and Political Rights"
+       },
+       {
+        "paragraph": "60.279",
+        "by": "Belarus",
+        "position": "supported",
+        "text": "Bring national counter-terrorism legislation in line with Denmark’s international human rights obligations"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "60.285-60.288",
+      "n": 4,
+      "summary": "Strengthen the national human rights institution",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Danish Institute for Human Rights retains A-status accreditation; the Human Rights Committee has asked Denmark to amend the DIHR Act to secure an independent board-removal procedure, liability protection and adequate funding, and no NHRI has yet been established in the Faroe Islands.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/DNK/2), para. 4 — Human Rights Committee: \"amending the Act on the Danish Institute for Human Rights to establish an independent procedure for removal of board members ... guaranteeing adequate funding to fulfil its mandate\"",
+       "National Report (A/HRC/WG.6/52/DNK/1), para. 150 — Denmark: \"The Government has explored different options for establishing a national human rights institution [in the Faroe Islands], adapted to the small Faroese society, and will continue to do so\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "60.285",
+        "by": "the Paris Principles; India",
+        "position": "supported",
+        "text": "Consider establishing a human rights institution for the Faroe Islands in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights"
+       },
+       {
+        "paragraph": "60.286",
+        "by": "Rwanda",
+        "position": "supported",
+        "text": "Expedite the establishment of a human rights institution in the Faroe Islands, in compliance with the Paris Principles"
+       },
+       {
+        "paragraph": "60.287",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Evaluate establishing a national human rights institution in the Faroe Islands, in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "60.288",
+        "by": null,
+        "position": "supported",
+        "text": "Establish a national human rights institution covering the Faroe Islands according to recommendations made by the General Assembly in 1994 and by the Committee on Economic, Social and Cultural Rights in 2013 (Poland)."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/DNK/CO/6",
+   "session": "117th session (2016)",
+   "assessment_symbol": "CCPR/C/125/2/Add.4",
+   "assessment_date": "adopted 125th session, March 2019",
+   "round": "Single follow-up round; procedure discontinued with outstanding points folded into the list of issues for the seventh report.",
+   "n": 7,
+   "grade_dist": {
+    "A": 1,
+    "B": 3,
+    "C": 2,
+    "D": 0,
+    "E": 1
+   },
+   "score": 54
+  },
+  "paragraphs": [
+   {
+    "para": "20",
+    "title": "Domestic violence",
+    "recommendation": "Continue efforts to combat domestic violence effectively — effective reporting, investigations, prosecutions and sanctions; uniform enforcement of guidelines across all police districts; continued training of all professionals involved.",
+    "limbs": [
+     {
+      "limb": "whole paragraph",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the legislative and policy measures taken in Denmark, Greenland and the Faroe Islands — including the national unit to combat violence in family and intimate relations (operational 1 October 2017), the extension of the restraining-order Act to Greenland, and the Faroese Criminal Code amendments — and requires further information on their practical impact."
+     }
+    ]
+   },
+   {
+    "para": "24",
+    "title": "Solitary confinement",
+    "recommendation": "Bring law and practice on solitary confinement into line with the Nelson Mandela Rules by abolishing solitary confinement of minors and reducing the total permissible length for remand detainees; regularly evaluate its effects and develop alternatives.",
+    "limbs": [
+     {
+      "limb": "whole paragraph",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the extensive information and monitoring efforts, the Committee regrets that the State party neither abolished solitary confinement for minors nor reduced the total permissible length for remand detainees. It reiterates its recommendations."
+     }
+    ]
+   },
+   {
+    "para": "32",
+    "title": "Rights of migrants, refugees and asylum seekers",
+    "recommendation": "Ensure returns and expulsions afford guarantees of non-refoulement; ensure detention is reasonable, necessary and proportionate with alternatives used in practice; consider reducing the length of detention and improve conditions at Vridsløselille; repeal the November 2015 Aliens Act amendment on judicial review; and repeal the amendment on confiscation of asylum seekers' assets.",
+    "limbs": [
+     {
+      "limb": "(a) non-refoulement guarantees",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee takes note of the information on the asylum procedure and respect for non-refoulement and requires additional information, including on identification of torture victims among asylum seekers."
+     },
+     {
+      "limb": "(b) detention necessary and proportionate; alternatives",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes that detention is always to be necessary and proportionate following an individual examination, but notes the limited information on alternatives to detention in practice."
+     },
+     {
+      "limb": "(c) reduce length; Vridsløselille conditions",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The maximum period of detention remains unchanged and the Committee requires information on consideration given to reducing it; it appreciates that conditions at Vridsløselille have improved since autumn 2016."
+     },
+     {
+      "limb": "(d) repeal the November 2015 judicial-review amendment (§37k)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that paragraph 37 (k) of the Aliens Act has not been repealed and reiterates its recommendation."
+     },
+     {
+      "limb": "(e) repeal the asset-confiscation amendment",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee regrets that the State party did not implement the recommendation to repeal the amendment relating to the confiscation of asylum seekers' assets."
+     }
+    ]
+   }
+  ]
+ }
+}

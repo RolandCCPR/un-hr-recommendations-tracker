@@ -1,0 +1,2351 @@
+{
+ "a3": "PRY",
+ "name": "Paraguay",
+ "num": "600",
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "38th session (2021)",
+   "co_symbol": "A/HRC/48/9",
+   "review": "6 May 2026 (session 52)",
+   "sources": [
+    "**National Report** — A/HRC/WG.6/52/PRY/1",
+    "**UN Compilation** — A/HRC/WG.6/52/PRY/2, OHCHR",
+    "**Stakeholders' Summary** — A/HRC/WG.6/52/PRY/3, OHCHR"
+   ],
+   "headline": "**Partial implementation (B)** is the dominant outcome: Paraguay reports a concrete on-point measure in the review period across most themes (the SIMORE Plus follow-up system, monetary poverty down from ~26% to ~20%, a universal old-age pension, Inter-American Court land-restitution compliance with 637 Indigenous consultations, judicial digitalisation, 100% school-meals coverage, a new women's prison plus a 2024 alternatives-to-detention protocol, 2025 treaty ratifications, the Indigenous Languages Act, disability-certification reform, online birth registration). **No relevant action (C)** persists on the long-standing asks — a comprehensive anti-discrimination law, a migration law, abortion, criadazgo, the minimum marriage age, the journalist-protection bill — and there are clear regressions (**E**): the 2024 NGO \"Garrote\" law and Ministry-of-Education restrictions on gender and sexuality education.",
+   "n": 210,
+   "grade_dist": {
+    "A": 1,
+    "B": 124,
+    "C": 76,
+    "D": 5,
+    "E": 4
+   },
+   "score": 55
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "118.6-118.11",
+      "n": 6,
+      "summary": "Ratify outstanding international instruments",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay ratified the Convention against Discrimination in Education (2025) and approved accession to the Inter-American Convention on Older Persons (December 2025), but has not ratified the Optional Protocol to the ICESCR (still under 'internal analysis'), the Escazu Agreement, the Ljubljana-The Hague Convention or the Inter-American Conventions against racism and discrimination.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 6 — Paraguay: \"Paraguay ratified the Convention against Discrimination in Education in 2025. In December 2025, it approved accession to the Inter-American Convention on Protecting the Human Rights of Older Persons\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 2 — Special Rapporteur on minority issues; United Nations country team; UNESCO: \"recommended that Paraguay ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 13 — Amnesty International; Joint Submission 3: \"the failure to ratify the Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean (Escazu Agreement)\""
+      ],
+      "position": "6 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.6",
+        "by": "Mauritius; Rwanda",
+        "position": "supported",
+        "text": "Ratify the Convention against Discrimination in Education 1960"
+       },
+       {
+        "paragraph": "118.7",
+        "by": "Poland",
+        "position": "supported",
+        "text": "Accede to the Convention against Discrimination in Education"
+       },
+       {
+        "paragraph": "118.8",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Take additional measures, already under way in Congress, aimed at ratifying the Convention against Discrimination in Education"
+       },
+       {
+        "paragraph": "118.9",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Step up the ratification process of the Convention against Discrimination in Education"
+       },
+       {
+        "paragraph": "118.10",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Consider signing and ratifying the Inter-American Convention on Protecting the Human Rights of Older Persons"
+       },
+       {
+        "paragraph": "118.11",
+        "by": "Côte d’Ivoire",
+        "position": "supported",
+        "text": "Ratify the Inter-American Convention against Racism, Racial Discrimination and Related Forms of Intolerance"
+       }
+      ]
+     },
+     {
+      "paras": "118.1, 118.2",
+      "n": 2,
+      "summary": "Ratify the Optional Protocol to the ICESCR",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Paraguay has not ratified OP-ICESCR; the National Report says it remains under 'internal analysis'.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 2 — Special Rapporteur on minority issues; United Nations country team; UNESCO: \"recommended that Paraguay ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 8 — Paraguay: \"the possible ratification of the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights continues to be the subject of internal analysis\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.1",
+        "by": "Bahamas; Costa Rica; France; Mongolia",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights"
+       },
+       {
+        "paragraph": "118.2",
+        "by": "Niger",
+        "position": "supported",
+        "text": "Consider the ratification of the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights (Morocco); Consider ratifying the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights"
+       }
+      ]
+     },
+     {
+      "paras": "118.3, 118.4",
+      "n": 2,
+      "summary": "Ratify the Escazu Agreement",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Paraguay has not ratified the Escazu Agreement; the Government says it will 'move forward with a process of analysis and dialogue'.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 13 — Amnesty International; Joint Submission 3: \"the failure to ratify the Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean (Escazu Agreement)\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.3",
+        "by": "Escazú Agreement; Slovenia",
+        "position": "noted",
+        "text": "Ratify the Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean"
+       },
+       {
+        "paragraph": "118.4",
+        "by": "Escazú Agreement; Uruguay",
+        "position": "noted",
+        "text": "Give priority to the internal process oriented to the ratification of the Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean"
+       }
+      ]
+     },
+     {
+      "paras": "118.5",
+      "n": 1,
+      "summary": "Adopt a protection mechanism for journalists and human rights defenders",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A bill to protect journalists and human rights defenders, required by an Inter-American Court ruling, has been pending in Congress since 2021; attacks and criminalisation of defenders continue and most murders of journalists remain unpunished.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 23 — United Nations country team: \"although the Inter-American Court of Human Rights had issued a ruling ordering the establishment of a mechanism for protecting journalists and defenders, the bill presented for this purpose had not made any progress through the parliament since 2021\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 29 — Amnesty International: \"regretted the lack of progress made towards adopting the bill to protect journalists and human rights defenders\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.5",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Ratify the Escazú Agreement and ensure appropriate resources are in place to enforce it domestically in order to better protect environmental defenders, including indigenous peoples, rural leaders and journalists"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation with human rights mechanisms & requests for technical assistance",
+    "blocks": [
+     {
+      "paras": "118.12",
+      "n": 1,
+      "summary": "Cooperate with human rights mechanisms",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay is up to date with treaty-body reporting, submitted its UPR mid-term report and runs the SIMORE Plus implementation and follow-up system developed with OHCHR; several Human Rights Committee reparation orders remain unimplemented.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 11 — Paraguay: \"Paraguay is up to date with its reporting obligations to the treaty bodies\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 4 — Committee on Migrant Workers; Committee on the Rights of Persons with Disabilities: \"acknowledged the SIMORE recommendations monitoring mechanism, as an outcome of a cooperation project between Paraguay and OHCHR\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.12",
+        "by": "Azerbaijan",
+        "position": "supported",
+        "text": "Strengthen its cooperation with various United Nations human rights mechanisms"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Action Plans (or specific areas) / implementation plans",
+    "blocks": [
+     {
+      "paras": "118.13, 118.14, 118.200",
+      "n": 3,
+      "summary": "Implement the National Human Rights Plan",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay approved the fourth Action Plan of the Human Rights Network (2024-2028) and coordinates implementation through the Ministry of Justice and the SIMORE Plus system; civil society reports the action plans were prepared without broad participation and there is no comprehensive new national plan.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 9 — Paraguay: \"the fourth Action Plan of the Human Rights Network (2024-2028) was approved in 2024 with the strategic aim of promoting inter-agency and intersectoral coordination to implement the National Human Rights Plan\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 17 — Joint Submission 5: \"authorities had prepared the III Action Plan 2021-2023 without broad citizen participation and so far, there was no evidence of a comprehensive new national plan\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.13",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Continue efforts to ensure the effective implementation and monitoring of the National Human Rights Plan, ensuring the active participation of civil society"
+       },
+       {
+        "paragraph": "118.14",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Take further steps in strengthening the implementation of Paraguay ’ s human rights national action plan, especially those related to protecting the rights of women and children"
+       },
+       {
+        "paragraph": "118.200",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Create a national action plan on indigenous people ’ s rights"
+       }
+      ]
+     },
+     {
+      "paras": "118.15",
+      "n": 1,
+      "summary": "Strengthen the Ombudsman (national human rights institution)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Ombudsman's Office regained GANHRI category A status in 2025 and its budget rose, but it remains among the lowest-funded agencies and its selection process is not regulated or merit-based.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 17 — Paraguay: \"The Office of the Ombudsman was re-accredited with category A status ... officially granted in 2025 and certifies that the Office is in full compliance with the Paris Principles\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 7 — United Nations country team: \"The budget allocated to the institution had been increased, but it continued to have one of the lowest budgets of any agency\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.15",
+        "by": "Sudan",
+        "position": "supported",
+        "text": "Continue efforts to implement the National Human Rights Plan, and provide the national human rights institution with the necessary human and financial resources in order to fulfil its mandate"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "118.16-118.29",
+      "n": 14,
+      "summary": "Strengthen the Ombudsman (national human rights institution)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Ombudsman's Office regained GANHRI category A status in 2025 and its budget rose, but it remains among the lowest-funded agencies and its selection process is not regulated or merit-based.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 17 — Paraguay: \"The Office of the Ombudsman was re-accredited with category A status ... officially granted in 2025 and certifies that the Office is in full compliance with the Paris Principles\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 7 — United Nations country team: \"The budget allocated to the institution had been increased, but it continued to have one of the lowest budgets of any agency\""
+      ],
+      "position": "14 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.16",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Ensure that the national human rights institution functions fully in line with the Paris Principles, through the provision of the necessary human, technical and financial resources, to ensure that it implements its mandate"
+       },
+       {
+        "paragraph": "118.17",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Continue with measures to strengthen human rights institutions, especially the ombudsperson and the deputy ombudsperson, in line with the Paris Principles"
+       },
+       {
+        "paragraph": "118.18",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Establish a transparent and participatory procedure for the election of the Ombudsman that guarantees pluralism, independence and selection based on a track record in the defence of human rights"
+       },
+       {
+        "paragraph": "118.19",
+        "by": "India",
+        "position": "supported",
+        "text": "Further strengthen the national human rights institution, the Office of the Ombudsman, in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "118.20",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Continue efforts in aligning its national human rights institution with the Paris Principles"
+       },
+       {
+        "paragraph": "118.21",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Establish a selection procedure for the position of Ombudsman in compliance with the Paris Principles that is transparent, participatory and guarantees independence, with selection based on a recognized track record in the defence of human rights"
+       },
+       {
+        "paragraph": "118.22",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Ensure that the Office of the Ombudsman is in full compliance with the Paris Principles and adequate human, technical, financial resources are provided to ensure it fulfils its mandate"
+       },
+       {
+        "paragraph": "118.23",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Strengthen the Office of the Ombudsman with greater human and budgetary resources in accordance with the Paris Principles, and ensure that the selection process for its head is transparent, participatory and based on merit"
+       },
+       {
+        "paragraph": "118.24",
+        "by": "Namibia",
+        "position": "supported",
+        "text": "Take all necessary measures to ensure that the Office of the Ombudsman operates in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "118.25",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue measures to strengthen the Office of the Ombudsman in line with the Paris Principles"
+       },
+       {
+        "paragraph": "118.26",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Take additional measures to strengthen the Ombudsman ’ s Office, including ensuring transparency in its appointment process and the provision of requisite resources"
+       },
+       {
+        "paragraph": "118.27",
+        "by": "the Paris Principles; Romania",
+        "position": "supported",
+        "text": "Adopt measures aimed at ensuring that the Ombudsman institution complies with the principles relating to the status of national institutions for the promotion and protection of human rights"
+       },
+       {
+        "paragraph": "118.28",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Take necessary steps, including at the constitutional level, to ensure that the Office of the Ombudsman is fully compliant with the Paris Principles"
+       },
+       {
+        "paragraph": "118.29",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Implement a transparent and participatory method of selecting the human rights Ombudsman to advocate for transparency and independence in judicial processes and to ensure effective investigation into human rights violations and the prosecution of perpetrators"
+       }
+      ]
+     },
+     {
+      "paras": "118.76",
+      "n": 1,
+      "summary": "Strengthen the Ombudsman (national human rights institution)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay's Ombudsman's Office regained GANHRI category A status in 2025 and its budget was increased; the UN country team notes it still has one of the lowest budgets of any agency, and civil society reports the selection process is not regulated, merit-based or transparent, leaving the Office vulnerable to political capture.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 17 — Paraguay: \"The Office of the Ombudsman was re-accredited with category A status ... officially granted in 2025 and certifies that the Office is in full compliance with the Paris Principles\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 7 — United Nations country team: \"The budget allocated to the institution had been increased, but it continued to have one of the lowest budgets of any agency\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 19 — Joint Submission 3: \"the lack of political independence of the Ombudsman's Office, which resulted from the lack of a regulated, merit-based selection process\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.76",
+        "by": "Uzbekistan",
+        "position": "supported",
+        "text": "Provide the office of the public defender with human, technical and financial resources necessary for its mandate"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "118.30, 118.31, 118.36, 118.38-118.47",
+      "n": 13,
+      "summary": "Protect LGBTIQ+ persons from discrimination",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "There is no anti-discrimination legislation protecting LGBTIQ+ people, no legal recognition of same-sex civil unions or of self-perceived gender identity, and stakeholders and Amnesty International report rising hate speech and violence with impunity.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 21 — Amnesty International: \"impunity for hate speech and the promotion of discrimination against lesbian, gay, bisexual, transgender and intersex persons\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 61 — REPAR+: \"the situation of the LGBTQ+ population in Paraguay remained marked by the absence of legislation, by institutional and social discrimination, and the rise of hate speech\""
+      ],
+      "position": "13 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.30",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Adopt comprehensive anti-discrimination legislation that addresses direct and indirect discrimination and encompasses all the prohibited grounds of discrimination, including sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.31",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Take measures to eliminate violence against lesbian, gay, bisexual, transgender and intersex people"
+       },
+       {
+        "paragraph": "118.36",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Provide training on human rights and on combating discrimination and violence, including based on sexual orientation and gender identity, to health personnel, members of the judiciary, police forces and prison officers"
+       },
+       {
+        "paragraph": "118.38",
+        "by": "Ecuador",
+        "position": "supported",
+        "text": "Adopt the necessary legal standards to prevent and condemn all forms of discrimination, including based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.39",
+        "by": "France",
+        "position": "supported",
+        "text": "Strengthen the fight against violence and discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.40",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Beyond constitutional efforts to address discrimination, adopt a law against all forms of discrimination, including discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.41",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Adopt comprehensive legislation prohibiting discrimination, including discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.42",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Adopt a law against all forms of discrimination and violence, including based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.43",
+        "by": "Netherlands",
+        "position": "supported",
+        "text": "Adopt legislation against all forms of discrimination, including discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.44",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Pass legislation prohibiting discrimination, including comprehensive prohibitions against discrimination on the grounds of sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.45",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Encourage the adoption of a law that guarantees the prohibition of all forms of discrimination, including those based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.46",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Approve an anti-discrimination law to prevent and sanction discrimination in all its forms, including discrimination on the grounds of sexual orientation and gender identity, as previously recommended in April 2016"
+       },
+       {
+        "paragraph": "118.47",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Enact legislation to prohibit discrimination, including based on sexual orientation and gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "118.32-118.35, 118.166, 118.197",
+      "n": 6,
+      "summary": "Adopt a comprehensive anti-discrimination law",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Paraguay still has not adopted a comprehensive law against all forms of discrimination despite recommendations across successive cycles; the Special Rapporteur on minority issues, three treaty bodies and the UN country team all call for it, and the Constitution's equality clause is not backed by implementing legislation.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 12 — Special Rapporteur on minority issues; Committee on Migrant Workers: \"Paraguay still had not adopted a law against all forms of discrimination, despite the numerous international recommendations\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 13 — Special Rapporteur on minority issues; treaty bodies; United Nations country team: \"recommended that Paraguay promptly adopt a law against all forms of discrimination\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 100 — Paraguay: \"the absence of a regulatory law cannot be invoked to restrict rights or guarantees\""
+      ],
+      "position": "6 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.32",
+        "by": "Nicaragua",
+        "position": "supported",
+        "text": "Seek legislative measures that strengthen non-discrimination against minority groups"
+       },
+       {
+        "paragraph": "118.33",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Expedite the adoption of the law prohibiting all forms of discrimination in compliance with international law"
+       },
+       {
+        "paragraph": "118.34",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Redouble efforts to combat all forms of discrimination and assess the need to develop a comprehensive legislative framework in this field"
+       },
+       {
+        "paragraph": "118.35",
+        "by": "Poland",
+        "position": "supported",
+        "text": "Introduce a comprehensive anti-discrimination legal framework and tackle persistent discrimination against women, indigenous peoples and persons with disabilities"
+       },
+       {
+        "paragraph": "118.166",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Adopt a law to combat all forms of discrimination"
+       },
+       {
+        "paragraph": "118.197",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Pursue efforts aimed at protecting the rights of communities and indigenous peoples and achieve greater inclusion"
+       }
+      ]
+     },
+     {
+      "paras": "118.37",
+      "n": 1,
+      "summary": "Adopt a comprehensive anti-discrimination law",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Paraguay still has not adopted a comprehensive law against all forms of discrimination despite recommendations across cycles.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 12 — Special Rapporteur on minority issues; Committee on Migrant Workers: \"Paraguay still had not adopted a law against all forms of discrimination, despite the numerous international recommendations\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 20 — Joint Submission 12: \"adopting legislation prohibiting all forms of discrimination, including on the grounds of gender, sexual orientation, gender identity and expression, race, ethnicity, disability and age\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.37",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Continue its efforts to remove obstacles and address causes of discrimination, adopt comprehensive legislation prohibiting discrimination and guarantee protection against discrimination for women, persons of African descent and indigenous peoples"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "118.48, 118.50, 118.51",
+      "n": 3,
+      "summary": "Climate change adaptation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay operates a National Commission on Climate Change and is implementing its 2022 National Climate Change Adaptation Plan and updating its nationally determined contribution; civil society reports insufficient action on deforestation from agricultural expansion.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 95 — Paraguay: \"the National Climate Change Adaptation Plan, approved in 2022, is being implemented ... incorporates climate adaptation measures into national and local planning instruments\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 44 — Joint Submission 3: \"Paraguay had taken insufficient action to tackle the challenges of climate change, particularly with regard to halting deforestation caused by the expansion of monoculture farming\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.48",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure that women, children, persons with disabilities, minority groups, and local communities are meaningfully engaged in the development and implementation of climate change and disaster risk reduction frameworks"
+       },
+       {
+        "paragraph": "118.50",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Adopt a comprehensive national adaptation and mitigation plan for climate change, taking into account the views of all affected communities"
+       },
+       {
+        "paragraph": "118.51",
+        "by": "Panama",
+        "position": "supported",
+        "text": "Adopt measures consistent with human rights to strengthen adaptation policies and programmes to address the issues of climate change and disaster risk management"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & the environment",
+    "blocks": [
+     {
+      "paras": "118.49, 118.52",
+      "n": 2,
+      "summary": "Protect against toxics; environmental justice",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Paraguay reports steps in hazardous-waste management and a 2022 Climate Change Adaptation Plan, but the Special Rapporteur on hazardous substances reports rural communities and Indigenous Peoples face an alarming level of exposure to hazardous pesticides, most environmental laws are not observed, and Paraguay has not complied with Human Rights Committee Views in the Campo Agua'e and Colonia Yeruti cases.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 49 — Special Rapporteur on hazardous substances and wastes: \"Rural communities and Indigenous Peoples faced an alarming level of exposure to toxic substances, particularly hazardous pesticides and most of the country's environmental laws were not observed\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 3 — Special Rapporteur on hazardous substances and wastes; United Nations country team: \"recommended that Paraguay fully comply with the Views of the Human Rights Committee in the cases relating to Campo Agua' and Colonia Yeruti\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.49",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Curb deforestation and implement a forest restoration plan, and strengthen environmental legislation and its implementation, keeping in mind the rising global temperature and the role forests play in binding carbon dioxide"
+       },
+       {
+        "paragraph": "118.52",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Defend environmental commitments by titling communal lands and strengthening implementation of environmental laws such as the Zero Deforestation Law"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Conditions of detention",
+    "blocks": [
+     {
+      "paras": "118.53, 118.55, 118.56, 118.58, 118.60-118.62, 118.66, 118.70, 118.71",
+      "n": 10,
+      "summary": "Prison overcrowding; pre-trial detention; torture prevention",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay closed the Casa del Buen Pastor prison, opened a 1,200-place women's prison in Emboscada and approved a 2024 protocol on alternatives to pre-trial detention, but the UN country team and the National Mechanism for the Prevention of Torture report a structural crisis: 70 per cent of prisoners in pre-trial detention, 435 per cent overcrowding nationwide (over 1,100 per cent in some units), and maximum-security regimes amounting to torture.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 17 — United Nations country team: \"A total of 70% of the prison population was in pretrial detention, and overcrowding had reached 435% nationwide, with some facilities operating at more than 1,100% of their capacity\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 64 — Paraguay: \"A historic milestone was achieved with the definitive closure of the Casa del Buen Pastor Prison and the opening of a women's prison complex in Emboscada with capacity for more than 1,200 women\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 25 — National Mechanism for the Prevention of Torture of Paraguay: \"the persistent abuse of pretrial detention; overcrowding; maximum security regimes that constitute torture; corruption and control of prisons by criminal groups\""
+      ],
+      "position": "10 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.53",
+        "by": "the Nelson Mandela Rules; Côte d’Ivoire",
+        "position": "supported",
+        "text": "Step up efforts to improve conditions of detention, reduce overcrowding in prisons and ensure that conditions of detention in all places of deprivation of liberty are in line with the United Nations Standard Minimum Rules for the Treatment of Prisoners"
+       },
+       {
+        "paragraph": "118.55",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Take necessary measures to address prison overcrowding, especially during this time of pandemic"
+       },
+       {
+        "paragraph": "118.56",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Continue efforts aimed at dealing with prison overcrowding and poor living conditions, and work to improve conditions of detention"
+       },
+       {
+        "paragraph": "118.58",
+        "by": "Belarus",
+        "position": "supported",
+        "text": "Take measures to bring conditions of detention into line with international standards and to reduce overcrowding in places of deprivation of liberty"
+       },
+       {
+        "paragraph": "118.60",
+        "by": "Poland",
+        "position": "supported",
+        "text": "Reduce overcrowding in prisons and enhance living conditions in detention centers and establishments for persons with mental disabilities"
+       },
+       {
+        "paragraph": "118.61",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Step up efforts to improve the penitentiary system, which is in poor condition, in particular to find additional resources to deal with overcrowding"
+       },
+       {
+        "paragraph": "118.62",
+        "by": "Rwanda",
+        "position": "supported",
+        "text": "Continue efforts to improve detention conditions, including reducing overcrowding"
+       },
+       {
+        "paragraph": "118.66",
+        "by": "Uzbekistan",
+        "position": "supported",
+        "text": "Continue reforms of the penitentiary system to address the issue of overcrowding in prisons, and improve living conditions, including in educational institutions, police stations and institutions for people with mental disorders"
+       },
+       {
+        "paragraph": "118.70",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Continue efforts to end abusive practices by security forces and to improve prison and detention centre conditions, including in the context of Paraguay ’ s response to the COVID-19 pandemic"
+       },
+       {
+        "paragraph": "118.71",
+        "by": "Guyana",
+        "position": "supported",
+        "text": "Continue to ensure that the rights of persons deprived of liberty are respected, and that it investigate all deaths of persons deprived of liberty and strengthen existing mechanisms for the prevention of torture"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Preventive Mechanism (NPM)",
+    "blocks": [
+     {
+      "paras": "118.54",
+      "n": 1,
+      "summary": "Strengthen the National Preventive Mechanism against torture",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Mechanism for the Prevention of Torture reports that its budget has not been changed and that it lacks the resources to fulfil its mandate across the prison system.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 25 — National Mechanism for the Prevention of Torture of Paraguay: \"the failure to change the budget assigned to the National Mechanism for the Prevention of Torture; and the failure to professionalize prison staff\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.54",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Continue efforts to build and strengthen the national mechanism for the prevention of torture, ensuring that it is adequately resourced and empowered to fulfil its functions"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Administration of justice & fair trial",
+    "blocks": [
+     {
+      "paras": "118.57, 118.59, 118.63-118.65, 118.68, 118.72-118.75, 118.77",
+      "n": 11,
+      "summary": "Judicial independence; access to justice; impunity",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay has digitalised case files and strengthened judicial-ethics training, but the Special Rapporteur on hazardous wastes describes the judicial system as slow and inefficient with most human-rights complaints uninvestigated, and civil society reports no measures to guarantee judicial independence and systematic impunity for dictatorship-era crimes against humanity.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 20 — Special Rapporteur on hazardous substances and wastes: \"the country's judicial system was slow and inefficient, with most reports of human rights violations not being investigated\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 24 — Joint Submission 3: \"Paraguay had not taken measures to guarantee the independence and impartiality of the judiciary\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 62 — Paraguay: \"Progress has been made in modernizing the judicial system by digitalizing case files, electronically allocating cases and publishing decisions and statistics\""
+      ],
+      "position": "11 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.57",
+        "by": "Belarus",
+        "position": "supported",
+        "text": "Investigate all cases of torture, extrajudicial execution and enforced disappearance"
+       },
+       {
+        "paragraph": "118.59",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Ensure that all allegations of acts of torture, ill-treatment and arbitrary killings by the security forces are duly investigated and prosecuted"
+       },
+       {
+        "paragraph": "118.63",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Step up efforts to ensure investigations and prosecutions of alleged abuses by law enforcement officials to curb violations such as torture and arbitrary detention"
+       },
+       {
+        "paragraph": "118.64",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Reduce the use of pretrial detention and ensure that conditions of detention are in line with international standards"
+       },
+       {
+        "paragraph": "118.65",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Adopt policies as well as capacity-building and prevention measures against arbitrary detention, torture and excessive use of force by State agents, particularly in the follow-up of the health measures to combat COVID-19, and strengthen the capacities of investigation and judicial response in these areas"
+       },
+       {
+        "paragraph": "118.68",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Adopt effective initiatives to confront the abusive use of pretrial detention and the serious prison overcrowding"
+       },
+       {
+        "paragraph": "118.72",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Strengthen its efforts to eradicate all forms of interference in the judiciary by other branches of government"
+       },
+       {
+        "paragraph": "118.73",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Strengthen the judicial system, especially in the field of criminal jurisdiction, including with a view to overcome backlogs of cases"
+       },
+       {
+        "paragraph": "118.74",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Make effective efforts to further strengthen administration of justice"
+       },
+       {
+        "paragraph": "118.75",
+        "by": "Singapore",
+        "position": "supported",
+        "text": "Continue with efforts to strengthen the independence of the judiciary through concrete and transparent measures"
+       },
+       {
+        "paragraph": "118.77",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Continue its efforts to combat corruption and impunity by ensuring judicial independence through the strengthening of the institutional framework"
+       }
+      ]
+     },
+     {
+      "paras": "118.89",
+      "n": 1,
+      "summary": "Adopt a protection mechanism for journalists and human rights defenders",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A bill to protect journalists and human rights defenders, required by an Inter-American Court ruling, has been pending in Congress since 2021; attacks and criminalisation of defenders continue and most murders of journalists remain unpunished.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 23 — United Nations country team: \"although the Inter-American Court of Human Rights had issued a ruling ordering the establishment of a mechanism for protecting journalists and defenders, the bill presented for this purpose had not made any progress through the parliament since 2021\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 29 — Amnesty International: \"regretted the lack of progress made towards adopting the bill to protect journalists and human rights defenders\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.89",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure accountability for all human rights violations against journalists and human rights defenders, with the full ascertainment of the facts surrounding the violations and disclosure to the victims and their families"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Access to justice & remedy",
+    "blocks": [
+     {
+      "paras": "118.67, 118.69",
+      "n": 2,
+      "summary": "Access to justice and reparations",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The judicial system is described as slow and inefficient with most human-rights complaints uninvestigated, and civil society reports reparations ordered by the Human Rights Committee and the Inter-American Court in several cases remain unpaid.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 20 — Special Rapporteur on hazardous substances and wastes: \"the country's judicial system was slow and inefficient, with most reports of human rights violations not being investigated\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 16 — Joint Submission 3: \"the failure to provide the reparations ordered by the Human Rights Committee in a number of cases\""
+      ],
+      "position": "1 supported, 1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "118.67",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Punish human rights violations committed by the Joint Task Force, such as arbitrary executions, abusive use of lethal force and torture"
+       },
+       {
+        "paragraph": "118.69",
+        "by": "Argentina",
+        "position": "supported_noted",
+        "text": "Move forward without delay and in an impartial manner in the investigation of the murder of two 11-year-old Argentinean girls in the context of the Joint Task Force operation on 2 September 2020. To this end, Argentina reiterates its offer to make available the experience of the Argentine Forensic Anthropology Team, internationally recognized for the seriousness of its work, to clarify the facts"
+       }
+      ]
+     },
+     {
+      "paras": "118.93, 118.95",
+      "n": 2,
+      "summary": "Adopt a protection mechanism for journalists and human rights defenders",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A bill to protect journalists and human rights defenders, required by an Inter-American Court ruling, has been pending in Congress since 2021; attacks and criminalisation of defenders continue and most murders of journalists remain unpunished.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 23 — United Nations country team: \"although the Inter-American Court of Human Rights had issued a ruling ordering the establishment of a mechanism for protecting journalists and defenders, the bill presented for this purpose had not made any progress through the parliament since 2021\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 29 — Amnesty International: \"regretted the lack of progress made towards adopting the bill to protect journalists and human rights defenders\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.93",
+        "by": "Netherlands",
+        "position": "supported",
+        "text": "Pursue prompt, thorough and transparent investigations into all crimes committed against journalists, ensuring prosecution of perpetrators and victims ’ access to effective remedies"
+       },
+       {
+        "paragraph": "118.95",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Conduct swift, independent, effective and impartial investigations into all attacks against human rights defenders"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Good governance & corruption",
+    "blocks": [
+     {
+      "paras": "118.78, 118.79",
+      "n": 2,
+      "summary": "Strengthen transparency and anti-corruption",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay approved a National Anti-Corruption Strategy (2023) and enacted Act No. 7389/2024 establishing a National System for Integrity, Transparency and the Prevention of Corruption with annual measurable agency goals; civil society reports the Anti-Corruption Commission remains under-resourced.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 58 — Paraguay: \"In 2023, the National Anti-Corruption Strategy was approved to strengthen transparency and integrity in the civil service\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 59 — Paraguay: \"In 2024, Act No. 7389/2024 was enacted, establishing the National System for Integrity, Transparency and the Prevention of Corruption\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.78",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Intensify efforts to combat corruption in order to achieve a more equal and sustainable social and economic development"
+       },
+       {
+        "paragraph": "118.79",
+        "by": "Belarus",
+        "position": "supported",
+        "text": "Consider developing a national anti-corruption strategy"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of opinion and expression & access to information",
+    "blocks": [
+     {
+      "paras": "118.81, 118.84",
+      "n": 2,
+      "summary": "Adopt a protection mechanism for journalists and human rights defenders",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A bill to protect journalists and human rights defenders, required by an Inter-American Court ruling, has been pending in Congress since 2021; attacks and criminalisation of defenders continue and most murders of journalists remain unpunished.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 23 — United Nations country team: \"although the Inter-American Court of Human Rights had issued a ruling ordering the establishment of a mechanism for protecting journalists and defenders, the bill presented for this purpose had not made any progress through the parliament since 2021\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 29 — Amnesty International: \"regretted the lack of progress made towards adopting the bill to protect journalists and human rights defenders\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.81",
+        "by": "France",
+        "position": "supported",
+        "text": "Guarantee freedom of the press and the protection of journalists and the media, and end restrictions on the freedoms of association and peaceful assembly"
+       },
+       {
+        "paragraph": "118.84",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Protect the right to freedom of expression for members of the press by prosecuting assaults against journalists, providing licences to independent outlets, and supporting unions for journalists"
+       }
+      ]
+     },
+     {
+      "paras": "118.80",
+      "n": 1,
+      "summary": "Protect freedom of expression and journalists",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A bill to protect journalists has been pending since 2021; JS3 recorded 122 attacks on journalists and two killings since the previous review (21 killed 1991-2025), and UNESCO recommends decriminalising defamation, which remains a criminal offence.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 28 — Joint Submission 3: \"recorded 122 cases of violence directed at journalists by the authorities and criminal organizations and two journalists killed since the previous universal periodic review\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 25 — UNESCO: \"recommended decriminalizing defamation and placing it within civil defamation legislation that was in accordance with international standards\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.80",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Guarantee that the protection and prevention of censorship or any other limitation or violation of freedom of expression and freedom of the press is in line with international human rights standards"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of association",
+    "blocks": [
+     {
+      "paras": "118.82, 118.83, 118.86-118.88, 118.90-118.92, 118.94, 118.96-118.98",
+      "n": 12,
+      "summary": "Adopt a protection mechanism for journalists and human rights defenders",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A bill to protect journalists and human rights defenders, required by an Inter-American Court ruling, has been pending in Congress since 2021; attacks and criminalisation of defenders continue and most murders of journalists remain unpunished.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 23 — United Nations country team: \"although the Inter-American Court of Human Rights had issued a ruling ordering the establishment of a mechanism for protecting journalists and defenders, the bill presented for this purpose had not made any progress through the parliament since 2021\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 29 — Amnesty International: \"regretted the lack of progress made towards adopting the bill to protect journalists and human rights defenders\""
+      ],
+      "position": "12 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.82",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Enact as a matter of priority the law for the protection of journalists and human rights defenders"
+       },
+       {
+        "paragraph": "118.83",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Adopt measures to ensure that human rights defenders and journalists can carry out their work in a safe environment, without risk of reprisals"
+       },
+       {
+        "paragraph": "118.86",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Adopt all necessary measures to guarantee the right to life and safety of human rights defenders and journalists"
+       },
+       {
+        "paragraph": "118.87",
+        "by": "Ecuador",
+        "position": "supported",
+        "text": "Adopt all necessary measures to prevent and stop the criminalization of human rights defenders"
+       },
+       {
+        "paragraph": "118.88",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Consider progressive law reforms on the protection of journalists and human rights defenders across all sectors, further guaranteeing media freedom and freedom of expression"
+       },
+       {
+        "paragraph": "118.90",
+        "by": "France",
+        "position": "supported",
+        "text": "Establish a protection mechanism for human rights defenders"
+       },
+       {
+        "paragraph": "118.91",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Adopt all necessary measures to prevent and stop the criminalization of human rights defenders and journalists"
+       },
+       {
+        "paragraph": "118.92",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Ensure the provision of effective assistance and protection to human rights defenders and journalists against threats, violence and intimidation, and investigate attacks, reprisals and assaults against them"
+       },
+       {
+        "paragraph": "118.94",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Finalize parliamentary procedures for the enactment of the law on the protection of journalists and human rights defenders"
+       },
+       {
+        "paragraph": "118.96",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Improve policies for the protection of human rights defenders, journalists and lawyers"
+       },
+       {
+        "paragraph": "118.97",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Promote the parliamentary debate for the approval of a law for the protection of journalists and human rights defenders with the participation of all relevant actors; that includes an institutional framework for the round table on the safety of journalists"
+       },
+       {
+        "paragraph": "118.98",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Put an end to the growing hostility and criminalization of journalists and human rights defenders, and punish recent attacks against journalists for reporting on the COVID-19 emergency"
+       }
+      ]
+     },
+     {
+      "paras": "118.85",
+      "n": 1,
+      "summary": "Repeal the NGO oversight law (Act No. 7363/2024)",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Act No. 7363/2024 (the 'Garrote' Act), adopted in 2024, imposes vague and disproportionate requirements and penalties on non-profit organisations that restrict freedom of association; the Ombudsman's Office and multiple stakeholders call for its repeal - a regression.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 27 — Several stakeholders (OHCHR summary): \"Act No. 7363 (the Garrote Act), adopted in 2024, abusively restricted freedom of association with vague provisions and unclear penalties ... A number of communications recommended repealing Act No. 7363\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 5 — Ombudsman's Office of Paraguay: \"Act No. 7363/64 on the Oversight, Transparency and Accountability of Non-profit Organizations ... imposed requirements and procedures that restricted the exercise of the right of association\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.85",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Put an end to legal obstacles to the exercise of freedom of association, in particular in the workplace, and investigate incidents of persecution for trade unionism"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "118.99-118.107, 118.207",
+      "n": 10,
+      "summary": "Combat trafficking in persons",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay implemented a National Plan to Prevent and Combat Trafficking 2020-2024 (extended to 2025-2026), designated the Ministry of the Interior as lead agency with a dedicated fund (2025), opened the Nasaindy Protection Centre and maintains a specialised prosecution unit; the Committee on Migrant Workers finds standards still unsatisfactory, the ECLJ reports declining case numbers since 2019, and CRC calls for a national anti-trafficking strategy and elimination of criadazgo.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 78 — Paraguay: \"The implementation of the National Plan to Prevent and Combat Trafficking in Persons 2020-2024 consolidated the State's response ... It was therefore decided to extend the implementation of the Plan for the period 2025-2026\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 26 — Committee on Migrant Workers: \"Paraguay had not yet achieved satisfactory standards in its fight against trafficking in persons and that children, especially those living on the street in the tri-border area, continued to be subjected to exploitation\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 34 — European Centre for Law and Justice: \"the number of human trafficking cases that opened every year had decreased since 2019 due to corruption, impunity, lack of resources and inadequate victim support\""
+      ],
+      "position": "10 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.99",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Accelerate the process of effective implementation of the national programme for the prevention of, combating of, and care of victims of, trafficking in persons and the national fund for investment in prevention and the care of victims of trafficking in persons"
+       },
+       {
+        "paragraph": "118.100",
+        "by": "Belarus",
+        "position": "supported",
+        "text": "Step up efforts to combat trafficking in persons, including ensuring the effective investigation of these crimes and accountability for perpetrators"
+       },
+       {
+        "paragraph": "118.101",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Strengthen its efforts to prevent, combat and punish trafficking in persons, including by providing training for judges, prosecutors, law enforcement officers and immigration agents"
+       },
+       {
+        "paragraph": "118.102",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Continue addressing trafficking in persons by strengthening enforcement measures, strict punishment and adequate training for judges, prosecutors, law enforcement officers and immigration agents"
+       },
+       {
+        "paragraph": "118.103",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Further strengthen inter-institutional as well as multisectoral cooperation in the development and implementation of programmes to combat trafficking in persons, especially women and children"
+       },
+       {
+        "paragraph": "118.104",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Strengthen and intensify the implementation of the national programme and investment fund to prevent, combat, and care for victims of, human trafficking"
+       },
+       {
+        "paragraph": "118.105",
+        "by": "Sudan",
+        "position": "supported",
+        "text": "Step up efforts to prevent, combat and punish trafficking in persons, including by providing training for judges, prosecutors, law enforcement officers and immigration agents"
+       },
+       {
+        "paragraph": "118.106",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Ensure that human trafficking offences are investigated promptly, thoroughly and impartially, that the persons responsible are prosecuted and punished, and the victims have access to adequate protection and assistance measures, including legal assistance"
+       },
+       {
+        "paragraph": "118.107",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "End high cases of labour and sexual exploitation, and implement a comprehensive victim attention programme"
+       },
+       {
+        "paragraph": "118.207",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Safeguard the land tenure systems for all, including indigenous people, and ensure they are protected from all forms of modern slavery, such as forced or compulsory labour and debt bondage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to marriage & family",
+    "blocks": [
+     {
+      "paras": "118.108, 118.189",
+      "n": 2,
+      "summary": "End child and adolescent marriage",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The law still allows marriage from age 16 with court authorisation; CRC and UNESCO call for a minimum age of 18 without exception, and reform is only under consideration.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 53 — Committee on the Rights of the Child; UNESCO: \"amend the legislation to ensure that the minimum age of marriage was 18 years, without exception\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 143 — Paraguay: \"A proposal for regulatory reform to eliminate exceptions to the minimum age for marriage ... is currently under consideration\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.108",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Support, through economic and social policies, the institution of the family and the preservation of family values"
+       },
+       {
+        "paragraph": "118.189",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Remove all exceptions to the age of marriage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Labour rights and right to work",
+    "blocks": [
+     {
+      "paras": "118.109-118.112, 118.163",
+      "n": 5,
+      "summary": "Decent work; formalisation; forced labour",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay adopted a National Employment Plan 2022-2026 and an Integrated Strategy for Employment Formalisation 2025-2028 and is developing National Strategies on Forced Labour and Child Labour 2026-2030; the country team recommends ratifying ILO Convention No. 190, and Indigenous domestic workers report abuse and exploitation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 28 — Paraguay: \"The Integrated Strategy for Employment Formalization 2025-2028 was approved to address the significant challenges posed by informal employment\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 31 — United Nations country team: \"recommended ratifying the Violence and Harassment Convention, 2019 (No. 190) ... of the International Labour Organization\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.109",
+        "by": "Ecuador",
+        "position": "supported",
+        "text": "Protect the fundamental rights of domestic workers in precarious working conditions"
+       },
+       {
+        "paragraph": "118.110",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Take concrete steps to close the pay gap between men and women, as well as address the underrepresentation of women in public life"
+       },
+       {
+        "paragraph": "118.111",
+        "by": "Nicaragua",
+        "position": "supported",
+        "text": "Guarantee gender equality, especially by reducing the wage gap between men and women"
+       },
+       {
+        "paragraph": "118.112",
+        "by": "Nicaragua",
+        "position": "supported",
+        "text": "Ensure labour protection for domestic workers, especially indigenous women"
+       },
+       {
+        "paragraph": "118.163",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Approve a protocol criminalizing sexual harassment and develop a national action plan to prevent sexual harassment both within and outside of the workplace"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & poverty",
+    "blocks": [
+     {
+      "paras": "118.113, 118.115, 118.116, 118.118, 118.119",
+      "n": 5,
+      "summary": "Reduce poverty and inequality",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Monetary poverty fell from about 26 per cent to 20 per cent between 2021 and 2024 and Paraguay implements the Naime Poraveta Poverty Reduction Plan 2023-2030, the Tekopora cash-transfer programme and a universal old-age pension (Act No. 7322/2024, 340,203 beneficiaries); CRC and stakeholders report large numbers of children in poverty, sharp rural-urban and Indigenous disparities and high land concentration.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 18 — Paraguay: \"Between 2021 and 2024, the monetary poverty rate in Paraguay fell from approximately 26% to 20% of the population, reaching one of the lowest levels ever recorded\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 26 — Paraguay: \"Act No. 7322/2024, which establishes the universal pension for older adults ... currently benefits 340,203 people\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 33 — Committee on the Rights of the Child: \"the large number of children living in poverty and the regional disparities in access to rights\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.113",
+        "by": "China",
+        "position": "supported",
+        "text": "Carry out poverty reduction to substantially reduce the poor population, and improve the living standards of the rural population and indigenous peoples"
+       },
+       {
+        "paragraph": "118.115",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue to implement measures aimed at reducing poverty levels in rural areas, particularly for vulnerable groups"
+       },
+       {
+        "paragraph": "118.116",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Accelerate the implementation of an effective social policy, focusing on early childhood and aimed at ending intergenerational poverty"
+       },
+       {
+        "paragraph": "118.118",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Follow-up the efforts made to combat extreme poverty"
+       },
+       {
+        "paragraph": "118.119",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Continue strengthening the policies and programmes within the existing Social Protection System, which should prioritize those who find themselves in conditions of social and economic vulnerability exacerbated by the pandemic"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to social security",
+    "blocks": [
+     {
+      "paras": "118.114",
+      "n": 1,
+      "summary": "Extend social protection coverage",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Paraguay enacted a universal old-age pension (Act No. 7322/2024) reaching 340,203 people and runs the Tekopora conditional cash-transfer programme for 573,478 people; CRC still recommends expanding child-grant coverage and improving inter-agency coordination.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 26 — Paraguay: \"Act No. 7322/2024, which establishes the universal pension for older adults, provides for the granting of a monthly pension of no less than 25% of the current legal minimum wage ... It currently benefits 340,203 people\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 32 — Committee on the Rights of the Child: \"increase budget allocations for social protection programmes affecting children ... expanding coverage of the child grant programme\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.114",
+        "by": "China",
+        "position": "supported",
+        "text": "Strengthen the social security system to effectively protect the rights of vulnerable groups"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to development",
+    "blocks": [
+     {
+      "paras": "118.117",
+      "n": 1,
+      "summary": "National development planning",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay's National Development Plan 2050 and the Naime Poraveta Poverty Reduction Plan 2023-2030 guide long-term, people-centred planning with inter-agency monitoring.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 20 — Paraguay: \"The National Development Plan 2050 is the State's guiding instrument for long-term planning ... align public policies, investment and State actions with a vision of sustainable, inclusive and people-centred development\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.117",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Approve the updated version of the National Development Plan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Safe drinking water & sanitation",
+    "blocks": [
+     {
+      "paras": "118.120",
+      "n": 1,
+      "summary": "Access to safe water and sanitation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Ombudsman's Office and country team report persistent violations of Indigenous Peoples' rights to drinking water and sanitation and gaps in rural areas; some progress is noted in the Inter-American Court communities.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 12 — Ombudsman's Office of Paraguay: \"the persistent violations of Indigenous Peoples' rights to land, drinking water and sanitation\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.120",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Review environmental regulations in the field of industrial agriculture to prevent water pollution and improve the budgetary allocations of the agencies responsible for their effective implementation, thus facilitating the progressive realization of the human rights to safe water and sanitation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "118.121-118.123, 118.125-118.131, 118.199",
+      "n": 11,
+      "summary": "Access to health care; mental health; maternal mortality",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay is decentralising services through family and community health teams, doubled public-hospital mammography machines, enacted a mental-health Act (No. 7018/2022) with a 2024-2030 plan, and adopted a Plan to Reduce Maternal, Fetal and Neonatal Mortality 2023-2030; the UN country team and CRPD report continuing quality gaps in rural and Indigenous areas, prolonged institutionalisation without consent, and that Act 7018/2022 keeps a medical model of disability.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 41 — Paraguay: \"The enactment of Act No. 7018/2022 initiated the process of reforming mental healthcare\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 64 — United Nations country team: \"the enactment of the Mental Health Act and its National Plan 2024-2030. However, it added that serious shortcomings persisted, including the use of prolonged institutionalization without consent\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 36 — United Nations country team: \"challenges continued to surround the quality of healthcare, especially in rural areas and Indigenous communities\""
+      ],
+      "position": "11 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.121",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Adopt measures to strengthen the public health system, ensuring the accessibility, availability and quality of health care, especially in rural and remote areas"
+       },
+       {
+        "paragraph": "118.122",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Continue implementing the programme on family planning as a strategy to reduce child and maternal mortality"
+       },
+       {
+        "paragraph": "118.123",
+        "by": "Singapore",
+        "position": "supported",
+        "text": "Continue its work to ensure widespread accessibility of quality health care, including for indigenous persons and those living in rural areas"
+       },
+       {
+        "paragraph": "118.125",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Take further steps to improve national health infrastructure, access to emergency obstetric care and midwifery training, especially in rural areas"
+       },
+       {
+        "paragraph": "118.126",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Implement the commitment made at the Nairobi Summit on the twenty-fifth anniversary of the International Conference on Population and Development to expand the supply of combined oral contraceptive methods, incorporate sexuality education in all formal and non-formal education, and promote prevention programmes to reduce the high rate of adolescent pregnancies"
+       },
+       {
+        "paragraph": "118.127",
+        "by": "Kyrgyzstan",
+        "position": "supported",
+        "text": "Continue the effective implementation of the National Health Policy strategy for 2015–2030 to ensure universal, comprehensive and equitable access to health services"
+       },
+       {
+        "paragraph": "118.128",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Strengthen efforts to prevent HIV transmission, especially mother-to-child transmission, and improve the care for persons with HIV without discrimination"
+       },
+       {
+        "paragraph": "118.129",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Strengthen measures towards the universalization of quality health care, especially for people in vulnerable situations"
+       },
+       {
+        "paragraph": "118.130",
+        "by": "Panama",
+        "position": "supported",
+        "text": "Implement the commitment made at the Nairobi Summit on the twenty-fifth anniversary of the International Conference on Population and Development to strengthen maternal morbidity and mortality surveillance systems and death registries, by increasing targeted investment in areas of high mortality rates"
+       },
+       {
+        "paragraph": "118.131",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Take measures to combat the institutionalization and overmedication of persons with mental health conditions and psychosocial disabilities; and fight stigmatization and coercion against them, inter alia by developing human rights-based services grounded in the community and respectful of free and informed consent in line with the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "118.199",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Ensure access to education and health care for indigenous communities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & reproductive health and rights",
+    "blocks": [
+     {
+      "paras": "118.124, 118.132, 118.137, 118.140, 118.141",
+      "n": 5,
+      "summary": "Sexual and reproductive health; decriminalise abortion",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Paraguay adopted a National Sexual and Reproductive Health Plan 2024-2030 and a Plan to Reduce Maternal Mortality, but abortion remains criminalised except where life or health is at risk with no clear protocol (4,691 registered abortions in 2024; 19 maternal deaths by June 2025), the Ministry of Education restricts age-appropriate sexuality education (Resolution 933/2023), and CRC recommends decriminalisation and mandatory comprehensive sexuality education.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 40 — Committee on the Rights of the Child: \"repealing resolution No. 933/2023 of the Ministry of Education and Sciences ... decriminalizing abortion in all circumstances and ensuring access to safe, timely and quality abortion and post-abortion care services\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 39 — Joint Submission 13: \"In 2024, the Ministry of Health registered 4,691 abortions and, as of June 2025, 19 women had died. Under current legislation, women were forced to seek clandestine abortions\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 44 — Paraguay: \"The National Sexual and Reproductive Health Plan 2024-2030 promotes equitable and inclusive policies to improve access to, and the quality of, care\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.124",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Ensure the protection of sexual and reproductive health and rights to all women and girls, including access to health services and contraceptives"
+       },
+       {
+        "paragraph": "118.132",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Step up measures to reduce child and adolescent pregnancy, including by ensuring access to adequate sexual and reproductive health and education to all throughout the country"
+       },
+       {
+        "paragraph": "118.137",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Adopt legislative measures to improve protection for the sexual and reproductive rights of women and girls in accordance with international standards"
+       },
+       {
+        "paragraph": "118.140",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Consider working on legislation to ensure access to adequate sexual and reproductive health, contraception and education services from childhood. In this regard, Argentina offers to share its experiences in the matter"
+       },
+       {
+        "paragraph": "118.141",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Strengthen the protection of sexual and reproductive rights, including by ensuring access to sexual health services"
+       }
+      ]
+     },
+     {
+      "paras": "118.133, 118.135, 118.136",
+      "n": 3,
+      "summary": "Decriminalise abortion and ensure access to safe abortion",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Abortion remains criminalised except where life or health is at risk, with no clear protocol; CRC recommends decriminalisation in all circumstances, and stakeholders report 19 maternal deaths by June 2025 and women forced into clandestine abortions.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 40 — Committee on the Rights of the Child: \"decriminalizing abortion in all circumstances and ensuring access to safe, timely and quality abortion and post-abortion care services\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 39 — Joint Submission 13: \"as of June 2025, 19 women had died. Under current legislation, women were forced to seek clandestine abortions\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.133",
+        "by": "Czechia",
+        "position": "noted",
+        "text": "Legalize abortion in cases of risk to the health of the woman, rape or severe fetal impairment and decriminalize it in all other cases"
+       },
+       {
+        "paragraph": "118.135",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Expand the grounds for the decriminalization of abortion, particularly in cases of high-risk pregnancies, for girls and adolescents, and when the pregnancy is the product of sexual abuse"
+       },
+       {
+        "paragraph": "118.136",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Repeal legislation criminalizing women and girls for having an abortion and take measures to allow legal and safe abortions in cases of rape and incest, in cases where the life or health of women and girls is at risk or when the fetus is not viable, as previously recommended"
+       }
+      ]
+     },
+     {
+      "paras": "118.138",
+      "n": 1,
+      "summary": "Repeal restrictions on gender and sexuality education",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The Ministry of Education adopted Resolution No. 933/2023 and decision No. 29.664 restricting the teaching of gender and age-appropriate sexual and reproductive health information in schools, and bills to ban gender mainstreaming and abolish the Ministry for Women are pending - regressive against recommendations to guarantee comprehensive sexuality education.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 40 — Committee on the Rights of the Child: \"the prohibition by the Ministry of Education and Science on disseminating age-appropriate information on sexual and reproductive health in educational institutions\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 73 — United Nations country team: \"repealing decision No. 29.664 of the Ministry of Education and Science, which prohibited the teaching of topics related to gender theory in schools\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.138",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Undertake measures to prevent a high incidence of early, unintended pregnancy, including comprehensive sexuality education in schools and access to services in support of sexual and reproductive health and rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "118.168, 118.170-118.177, 118.179-118.184, 118.186",
+      "n": 16,
+      "summary": "Prevent and address violence against women and femicide",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay implements Act No. 5777/2016 on comprehensive protection of women, declared a social emergency on violence against women and children (Act No. 7239/2024), operates the SOS Mujer hotline, shelters, femicide protocols and electronic monitoring, and made training mandatory for civil servants; Amnesty International and the country team report femicide and very high prevalence persist, Act 5777 budgets remain inadequate, and bills to abolish the Ministry for Women and ban gender mainstreaming pose a risk of regression.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 113 — Paraguay: \"The State has stepped up its efforts to prevent and combat violence against women and girls by taking measures under Act No. 5777/2016 ... supplemented by Act No. 7239/2024, declaring a social emergency in respect of violence against women, children and adolescents\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 45 — Amnesty International: \"78.5% of women experienced gender-based violence ... legislative initiatives such as a bill to ban gender mainstreaming and another to eliminate the Ministry for Women involved a serious risk of regression\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 50 — United Nations country team: \"cases of femicide had been observed in Paraguay in previous years and, according to a national survey, the level of violence against women was very high\""
+      ],
+      "position": "16 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.168",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Ensure that all institutions involved in prevention, including education, as well as in combating violence against women, are equipped with adequate financial and human resources to carry out their missions, in line with target 5.2 of the Sustainable Development Goals"
+       },
+       {
+        "paragraph": "118.170",
+        "by": "China",
+        "position": "supported",
+        "text": "Effectively combat violence against women and girls as well as organized crime and human trafficking, and safeguard the rights of women and children"
+       },
+       {
+        "paragraph": "118.171",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Keep up efforts in the comprehensive protection of women against all forms of violence, through implementation of legislation and national plans that have been adopted in this regard"
+       },
+       {
+        "paragraph": "118.172",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Step up its efforts to prevent, combat and punish femicides and all acts of violence against women"
+       },
+       {
+        "paragraph": "118.173",
+        "by": "Denmark",
+        "position": "supported",
+        "text": "Effectively combat and investigate femicides and all acts of violence against women and girls"
+       },
+       {
+        "paragraph": "118.174",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Combat all forms of violence and discrimination against women and girls and promote awareness of gender-based violence and sexual and reproductive health"
+       },
+       {
+        "paragraph": "118.175",
+        "by": "Kyrgyzstan",
+        "position": "supported",
+        "text": "Continue its efforts in the field of preventing and combating all forms of violence against women, children and other vulnerable groups"
+       },
+       {
+        "paragraph": "118.176",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Follow up on efforts made to combat violence against women"
+       },
+       {
+        "paragraph": "118.177",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Ramp up efforts to protect women and children from gender-based violence and abuse, including through national awareness-raising campaigns to address the root cause of the issue"
+       },
+       {
+        "paragraph": "118.179",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Step up its efforts to prevent, combat and punish all acts of violence against women and girls and ensure relevant offences are investigated properly"
+       },
+       {
+        "paragraph": "118.180",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Take additional measures, including legislation, to prevent and combat domestic violence against women"
+       },
+       {
+        "paragraph": "118.181",
+        "by": "Rwanda",
+        "position": "supported",
+        "text": "Step up efforts to prevent, combat and punish femicides and all acts of violence against women, girls and adolescents, as recommended by the Human Rights Committee"
+       },
+       {
+        "paragraph": "118.182",
+        "by": "Thailand",
+        "position": "supported",
+        "text": "Strengthen its efforts in addressing gender-based violence and providing adequate support and assistance to victims"
+       },
+       {
+        "paragraph": "118.183",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Strengthen its efforts to prevent, combat and punish all acts of violence against women, girls and adolescents"
+       },
+       {
+        "paragraph": "118.184",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Step up efforts to prevent, combat and punish femicides and all acts of violence against women, girls and adolescents"
+       },
+       {
+        "paragraph": "118.186",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Implement a nationwide monitoring system to provide statistics on incidents of gender-based violence, and develop protocols to instruct officials investigating such cases"
+       }
+      ]
+     },
+     {
+      "paras": "118.134",
+      "n": 1,
+      "summary": "Decriminalise abortion and ensure access to safe abortion",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Abortion remains criminalised except where life or health is at risk, with no clear protocol; CRC recommends decriminalisation in all circumstances, and stakeholders report 19 maternal deaths by June 2025 and women forced into clandestine abortions.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 40 — Committee on the Rights of the Child: \"decriminalizing abortion in all circumstances and ensuring access to safe, timely and quality abortion and post-abortion care services\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 39 — Joint Submission 13: \"as of June 2025, 19 women had died. Under current legislation, women were forced to seek clandestine abortions\""
+      ],
+      "position": "1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "118.134",
+        "by": "France",
+        "position": "supported_noted",
+        "text": "Take all necessary measures to promote women’s rights and fight against gender-based violence. Guarantee access to sexual and reproductive rights and health, including by decriminalizing abortion"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Participation of women in political & public life",
+    "blocks": [
+     {
+      "paras": "118.139, 118.156, 118.158-118.162",
+      "n": 7,
+      "summary": "Women's political participation; parity law",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Paraguay runs training academies and an Observatory for Women's Political Participation, but women held only about 23 per cent of Congress in 2023, the 'democratic parity' bill has not been adopted, and the country team notes women's representation in governance remains limited.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 31 — Joint Submission 12: \"women accounted for only 23.2% of members of Congress and recommended the adoption of the bill on democratic parity, in accordance with the Constitution\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 102 — Paraguay: \"women accounting for an average of 22.6% of the legislature in 2023 ... the State recognizes that challenges remain\""
+      ],
+      "position": "7 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.139",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Strengthen its commitment to gender equality and women ’ s sexual and reproductive rights through the implementation of the recommendations of the Committee on the Elimination of Discrimination against Women, particularly by raising the necessary relevance of this issue among the public, members of Parliament, the judiciary and public officials"
+       },
+       {
+        "paragraph": "118.156",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue to consolidate the national mechanisms that allow greater participation and equality of women on an equal footing as well as the promotion and protection of the rights and welfare of women and girls"
+       },
+       {
+        "paragraph": "118.158",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Increase women ’ s participation in political and public life and increase their representation in decision-making positions"
+       },
+       {
+        "paragraph": "118.159",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Adopt a law on democratic parity to increase women ’ s participation in political life"
+       },
+       {
+        "paragraph": "118.160",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue measures to promote the participation of women and indigenous communities in political and public life"
+       },
+       {
+        "paragraph": "118.161",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Promote the participation of women and indigenous peoples in public office and political life"
+       },
+       {
+        "paragraph": "118.162",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Extend the participation of women in political and public life, thus contributing to their empowerment, and ensure the effectiveness of protection against domestic and sexual violence"
+       }
+      ]
+     },
+     {
+      "paras": "118.155",
+      "n": 1,
+      "summary": "Protect LGBTIQ+ persons from discrimination",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "There is no anti-discrimination legislation protecting LGBTIQ+ people, no legal recognition of same-sex civil unions or of self-perceived gender identity, and stakeholders and Amnesty International report rising hate speech and violence with impunity.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 21 — Amnesty International: \"impunity for hate speech and the promotion of discrimination against lesbian, gay, bisexual, transgender and intersex persons\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 61 — REPAR+: \"the situation of the LGBTQ+ population in Paraguay remained marked by the absence of legislation, by institutional and social discrimination, and the rise of hate speech\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.155",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Step up efforts to increase the participation of women in political and public life and to eradicate all forms of violence and discrimination based on sexual orientation, gender identity and gender expression"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "118.144-118.148, 118.150-118.153, 118.164",
+      "n": 10,
+      "summary": "Quality, inclusive and non-discriminatory education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay expanded the 'Zero Hunger in Schools' meals programme to full national coverage and runs inclusion support centres, but the Committee on the Rights of Persons with Disabilities reports under-investment in inclusive education and persistent segregated special education, and dropout rates remain high among rural, low-income and Indigenous students.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 43 — Committee on the Rights of Persons with Disabilities: \"concern at the lack of investment in the right to education of persons with disabilities ... redouble its efforts to end segregated special education\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 42 — Joint Submission 2: \"dropout rates remained high among rural and low-income students as a result of poverty, the lack of infrastructure, poor quality education\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 22 — Paraguay: \"the 'Zero Hunger in Schools' programme ... achieving 100% coverage nationwide and feeding more than 1,050,000 children and adolescents every day\""
+      ],
+      "position": "10 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.144",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue efforts aimed at strengthening inclusive education for all children"
+       },
+       {
+        "paragraph": "118.145",
+        "by": "India",
+        "position": "supported",
+        "text": "Consider measures for ensuring access to education"
+       },
+       {
+        "paragraph": "118.146",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Ensure that children with disabilities have access to inclusive education"
+       },
+       {
+        "paragraph": "118.147",
+        "by": "Lao People’s Democratic Republic",
+        "position": "supported",
+        "text": "Continue its efforts to achieve the National Education Plan in order to improve access to quality education, particularly inclusive vocational training for persons with disabilities"
+       },
+       {
+        "paragraph": "118.148",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Strengthen efforts to ensure access to quality education for all children, especially for children with disabilities"
+       },
+       {
+        "paragraph": "118.150",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Develop programmes to promote equal opportunities for access to quality education for indigenous and Afro-Paraguayan children"
+       },
+       {
+        "paragraph": "118.151",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Continue its efforts to strengthen measures to ensure that girls can have access to education at secondary and higher levels"
+       },
+       {
+        "paragraph": "118.152",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Take further measures to ensure that girls can access and complete quality education at the secondary and higher levels"
+       },
+       {
+        "paragraph": "118.153",
+        "by": "Trinidad and Tobago",
+        "position": "supported",
+        "text": "Persist with its efforts to address remaining challenges in the education sector"
+       },
+       {
+        "paragraph": "118.164",
+        "by": "Lao People’s Democratic Republic",
+        "position": "supported",
+        "text": "Further enhance the empowerment of women, through its National Equality Plan, to improve the quality of education and skills development with a view to creating more favourable conditions of work for Paraguayan women"
+       }
+      ]
+     },
+     {
+      "paras": "118.142, 118.143",
+      "n": 2,
+      "summary": "Repeal restrictions on gender and sexuality education",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The Ministry of Education adopted Resolution No. 933/2023 and decision No. 29.664 restricting the teaching of gender and age-appropriate sexual and reproductive health information in schools, and bills to ban gender mainstreaming and abolish the Ministry for Women are pending - regressive against recommendations to guarantee comprehensive sexuality education.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 40 — Committee on the Rights of the Child: \"the prohibition by the Ministry of Education and Science on disseminating age-appropriate information on sexual and reproductive health in educational institutions\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 73 — United Nations country team: \"repealing decision No. 29.664 of the Ministry of Education and Science, which prohibited the teaching of topics related to gender theory in schools\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.142",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Repeal Ministry of Education and Science resolution No. 29664 prohibiting the teaching of gender equality and resolution No. 1761 prohibiting the use of a guide for teachers on comprehensive sexuality education"
+       },
+       {
+        "paragraph": "118.143",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Revoke Ministry of Education and Science resolution No. 29664, which prohibits public education materials on gender equality, reproductive rights, sexuality and non-discrimination, and establish gender-responsive comprehensive sexuality education in schools nationwide"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights education, trainings & awareness raising",
+    "blocks": [
+     {
+      "paras": "118.149, 118.154",
+      "n": 2,
+      "summary": "Implement the National Plan for Human Rights Education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Ombudsman's Office and JS2 report the National Plan for Human Rights Education has been only partially and unevenly implemented, with gaps in budget, infrastructure and teacher training.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 10 — Ombudsman's Office of Paraguay: \"effectively implementing the National Plan for Human Rights Education, ensuring that it was allocated the necessary budget\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 43 — Joint Submission 2: \"the implementation of the National Plan for Human Rights Education had been partial and uneven\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.149",
+        "by": "Namibia",
+        "position": "supported",
+        "text": "Strengthen the implementation of the National Human Rights Education Plan of 2011"
+       },
+       {
+        "paragraph": "118.154",
+        "by": "Uzbekistan",
+        "position": "supported",
+        "text": "Develop a comprehensive national human rights education plan and ensure its full implementation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "118.157, 118.165, 118.169",
+      "n": 3,
+      "summary": "Combat discrimination against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay strengthened the Ministry for Women's budget, adopted the first Action Plan on Care 2025-2030, introduced gender-budgeting guidance and increased women's access to land titling and rural housing; the country team reports persistent gender norms restricting women's participation and only 13.4 per cent of titled land plots held by women.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 107 — Paraguay: \"a preferential interest rate of financing of 0% for women and 4% for men for the purchase of plots of land ... an increase in women's participation: from 35% to 46% in respect of land allocation\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 54 — United Nations country team: \"the persistence of gender norms restricted their full participation in the labour market and society ... women owned only 13.4% of plots of land with firm titles\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.157",
+        "by": "India",
+        "position": "supported",
+        "text": "Continue with initiatives in furtherance of gender equality"
+       },
+       {
+        "paragraph": "118.165",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Take efficient measures to remove the obstacles to achieving full equality and eliminate all forms of discrimination in the promotion of equality between men and women"
+       },
+       {
+        "paragraph": "118.169",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Intensify efforts to eliminate discrimination against women and girls through awareness-raising programmes that are oriented to equality between women and men and women ’ s empowerment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Advancement of women",
+    "blocks": [
+     {
+      "paras": "118.167",
+      "n": 1,
+      "summary": "Advance women's rights and empowerment",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay adopted the first Action Plan on Care 2025-2030, revived the Tripartite Commission on Equal Opportunities and expanded women's access to finance, land and training; women's representation in governance remains limited.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 106 — Paraguay: \"The approval of the first Action Plan on Care for 2025-2030 marked a fundamental milestone in the implementation of the National Care Policy\"",
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 55 — United Nations country team: \"women's representation in governance spaces remained limited\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.167",
+        "by": "for children; Serbia",
+        "position": "supported",
+        "text": "Invest additional efforts to improve the position of women and children in rural areas of the country, especially in terms of employment and participation in public life (for women) and in the field of education"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Legal & institutional reform",
+    "blocks": [
+     {
+      "paras": "118.178, 118.203",
+      "n": 2,
+      "summary": "Legal and institutional reform",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Key reforms sought - a comprehensive anti-discrimination law, a rights-compliant migration law, an 18-year minimum marriage age, criminalisation of criadazgo - remain unadopted.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 12 — Special Rapporteur on minority issues; Committee on Migrant Workers: \"Paraguay still had not adopted a law against all forms of discrimination, despite the numerous international recommendations\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.178",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Strengthen statistical data collection to help inform appropriate interventions for preventing and combating all forms of violence against women and girls"
+       },
+       {
+        "paragraph": "118.203",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Assess the need to strengthen the Paraguayan Indigenous Institute"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & gender-based violence",
+    "blocks": [
+     {
+      "paras": "118.185",
+      "n": 1,
+      "summary": "Protect LGBTIQ+ persons from discrimination",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "There is no anti-discrimination legislation protecting LGBTIQ+ people, no legal recognition of same-sex civil unions or of self-perceived gender identity, and stakeholders and Amnesty International report rising hate speech and violence with impunity.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 21 — Amnesty International: \"impunity for hate speech and the promotion of discrimination against lesbian, gay, bisexual, transgender and intersex persons\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 61 — REPAR+: \"the situation of the LGBTQ+ population in Paraguay remained marked by the absence of legislation, by institutional and social discrimination, and the rise of hate speech\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.185",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Strengthen appropriate avenues for reporting and effective mechanisms for investigating gender-based violence and attacks on lesbian, gay, bisexual, transgender and intersex persons"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: protection against exploitation",
+    "blocks": [
+     {
+      "paras": "118.187, 118.190, 118.194, 118.195",
+      "n": 4,
+      "summary": "Miscellaneous",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "No cluster rule matched and the evidence base contains no specific information on this recommendation.",
+      "evidence": [],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.187",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Strengthen the efforts to end all the abuses against children, including child, early and forced marriage, child labour, sexual abuse and trafficking"
+       },
+       {
+        "paragraph": "118.190",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Intensify efforts to prevent, combat and punish all forms of child labour"
+       },
+       {
+        "paragraph": "118.194",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Step up efforts to prevent, combat and punish child labour"
+       },
+       {
+        "paragraph": "118.195",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Address the increase in domestic and school violence and corporal punishment"
+       }
+      ]
+     },
+     {
+      "paras": "118.188",
+      "n": 1,
+      "summary": "Prohibit and eradicate criadazgo (child servitude)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Criadazgo (unpaid domestic child servitude) persists; a 2024 bill to criminalise it was rejected by the National Congress, though the Government plans to resume the legislative process.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 28 — Committee on the Rights of the Child: \"eliminate the practice of criadazgo (forced child servitude) and provide full protection to children who were victims\"",
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 51 — Joint Submission 6: \"the National Congress had rejected a bill aimed at protecting children against criadazgo on the grounds that it was part of Paraguayan culture\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.188",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Step up its efforts against child labour and adopt regulatory instruments and policies for eliminating the practice of criadazgo , including support for the family of origin and the development of awareness-raising campaigns"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to name, identity & nationality",
+    "blocks": [
+     {
+      "paras": "118.191-118.193",
+      "n": 3,
+      "summary": "Universal birth registration",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay's Civil Registry runs a single online birth-registration system with hospital offices in 21 locations, but CRPD reports a 30 per cent under-registration rate for births and CRC calls for free immediate registration for all children regardless of parents' immigration status.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 79 — Committee on the Rights of Persons with Disabilities: \"the 30 per cent underregistration rate for births ... step up the activities of the 'Right to an Identity' programme\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 144 — Paraguay: \"the Directorate General of the Civil Registry implements a single register of persons that allows for the online registration of births and facilitates registration through offices established within hospitals\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.191",
+        "by": "Poland",
+        "position": "supported",
+        "text": "Ensure effective procedures of issuance of birth certificates to all newborn children in Paraguay, regardless of the legal status of their parents, as previously recommended"
+       },
+       {
+        "paragraph": "118.192",
+        "by": "Thailand",
+        "position": "supported",
+        "text": "Further increase the percentage of birth-registered children, especially for those in rural areas"
+       },
+       {
+        "paragraph": "118.193",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Step up its efforts to ensure that all children born in its territory are registered"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to participate in public affairs & right to vote",
+    "blocks": [
+     {
+      "paras": "118.196, 118.202, 118.204, 118.205",
+      "n": 4,
+      "summary": "Political participation of women and Indigenous Peoples",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Women held only about 23 per cent of Congress in 2023 and the 'democratic parity' bill is not adopted; the Human Rights Committee and country team also note very low Indigenous participation in political life and public administration.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/52/PRY/3), para. 31 — Joint Submission 12: \"women accounted for only 23.2% of members of Congress and recommended the adoption of the bill on democratic parity\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 148 — Paraguay: \"an inter-agency cooperation agreement between the High Court of Electoral Justice and the National Institute of Indigenous Affairs ... to guarantee the effective exercise of the civil and political rights of Indigenous communities\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.196",
+        "by": "Denmark",
+        "position": "supported",
+        "text": "Ensure the full and effective participation of indigenous peoples in decision-making processes at all levels of government, especially by ensuring free, prior and informed consent"
+       },
+       {
+        "paragraph": "118.202",
+        "by": "Panama",
+        "position": "supported",
+        "text": "Establish effective mechanisms that promote and facilitate the participation of indigenous peoples and Afro-Paraguayans in decision-making processes in political and public life"
+       },
+       {
+        "paragraph": "118.204",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Ensure adequate measures for promoting the meaningful participation of indigenous peoples in all public decision-making processes affecting them"
+       },
+       {
+        "paragraph": "118.205",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Ensure access to education and health care for all indigenous peoples and promote their participation in public decision-making processes by finalizing and implementing the Indigenous Peoples National Plan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Land & property rights",
+    "blocks": [
+     {
+      "paras": "118.198, 118.201, 118.206",
+      "n": 3,
+      "summary": "Indigenous and campesino land rights",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Paraguay acquired 3,115 ha for Indigenous communities (2020-2025) and settled three communities under Inter-American Court judgments, but the Special Rapporteur and civil society report inadequate protection of Indigenous lands, stalled restitution and rising forced evictions, and high concentration of agricultural land ownership.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 68 — Special Rapporteur on minority issues: \"Indigenous Peoples' lands were not adequately protected, and noted an increase in forced evictions affecting Indigenous Peoples\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 149 — Paraguay: \"Between 2020 and 2025, the State acquired 3,115 ha for Indigenous communities\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.198",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Address the ongoing violations of the land rights of indigenous communities"
+       },
+       {
+        "paragraph": "118.201",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Implement public policies to effectively guarantee the right of access to land and housing for indigenous communities, incorporating international human rights standards"
+       },
+       {
+        "paragraph": "118.206",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Strengthen measures to ensure property rights and effective access to land for indigenous peoples"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: protection against exploitation, violence & abuse",
+    "blocks": [
+     {
+      "paras": "118.208",
+      "n": 1,
+      "summary": "Miscellaneous",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "No cluster rule matched and the evidence base contains no specific information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.208",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Strengthen efforts to promote and protect the right of persons with disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: definition, general principles",
+    "blocks": [
+     {
+      "paras": "118.209, 118.210",
+      "n": 2,
+      "summary": "Rights of persons with disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Action Plan 2015-2030 is being implemented and disability certification digitalised, but CRPD reports the accessibility law is barely implemented, involuntary treatment continues and Act 7018/2022 keeps a medical model of disability.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/52/PRY/2), para. 41 — Committee on the Rights of Persons with Disabilities: \"the persistence of the medical model of disability in Act No. 7018/2022\"",
+       "National Report (A/HRC/WG.6/52/PRY/1), para. 166 — Paraguay: \"The disability certification process has been modernized, migrating to a digital system\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.209",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Continue to harmonize national legislation and public policies with the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "118.210",
+        "by": null,
+        "position": "supported",
+        "text": "Continue its efforts aimed at guaranteeing the rights of persons with disabilities (Azerbaijan)."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/PRY/CO/4",
+   "session": "126th session (2019)",
+   "assessment_symbol": "CCPR/C/140/2/Add.2",
+   "assessment_date": "adopted 140th session, March 2024",
+   "round": "Single follow-up round; procedure discontinued with outstanding points folded into the next periodic report.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 4,
+    "C": 0,
+    "D": 0,
+    "E": 0
+   },
+   "score": 70
+  },
+  "paragraphs": [
+   {
+    "para": "13",
+    "title": "Human rights violations during the dictatorship (1954–1989) and the transition",
+    "recommendation": "Duly investigate all cases of serious violations during the dictatorship and the transition period and bring those responsible to justice; ensure prompt, fair and full reparation for all victims and families irrespective of when the claim was filed; and accelerate the search for missing persons and identification of remains, with the necessary resources.",
+    "limbs": [
+     {
+      "limb": "whole paragraph",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While welcoming the information on cases No. 3154/89 and No. 53/2017 and the search and compensation efforts, the Committee regrets that many requests for compensation have been refused and requests updated figures and information on the pending compensation bill."
+     }
+    ]
+   },
+   {
+    "para": "29",
+    "title": "Pretrial detention and fundamental safeguards",
+    "recommendation": "Continue reforms to significantly reduce the use of pretrial detention and ensure non-custodial alternatives (bail, electronic monitoring), with pretrial detention exceptional, reasonable and as short as possible, including for adolescents; and ensure all detainees are informed of the reasons and their rights, have access to a lawyer and can contact family from the very outset of detention.",
+    "limbs": [
+     {
+      "limb": "(a) reduce pretrial detention; non-custodial alternatives",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the enactment of Act No. 6350/19 and Supreme Court Resolution No. 1511, the committee on alternative measures and the juvenile restorative-justice work, but regrets the lack of data on impact and on the use of alternatives."
+     },
+     {
+      "limb": "(b) safeguards from the outset of detention",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While noting the free legal aid provided nationwide and the ongoing training of public defenders and police, the Committee regrets the lack of information on specific steps taken during the reporting period."
+     }
+    ]
+   },
+   {
+    "para": "35",
+    "title": "Independence of the judiciary",
+    "recommendation": "Strengthen efforts to combat corruption within the judiciary, including awareness-raising among judges, prosecutors and police; eradicate all forms of interference in the judiciary by other branches and investigate, prosecute and punish interference and corruption; and review the laws and operations of the institutions responsible for administering justice and appointing judges and prosecutors to guarantee independence, impartiality, autonomy and transparency.",
+    "limbs": [
+     {
+      "limb": "whole paragraph",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While welcoming the measures to fight corruption and promote transparency in the judiciary, the Committee requests information on their impact and regrets the lack of specific information on measures to eradicate interference by other branches of government."
+     }
+    ]
+   }
+  ]
+ }
+}

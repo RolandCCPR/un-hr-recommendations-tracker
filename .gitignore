@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+~$*            # Word/Excel lock files
+
+# NOTE: the .db files and the generated output/ + site/public/data are
+# intentionally COMMITTED. They are the data deliverables and are small.
+# They can also be rebuilt with:  python site/build.py  and the assess scripts.

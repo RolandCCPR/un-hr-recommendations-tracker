@@ -1,0 +1,3324 @@
+{
+ "a3": "USA",
+ "name": "United States of America",
+ "num": "840",
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "36th session (2020)",
+   "co_symbol": "A/HRC/46/15",
+   "review": "November 2025 (session 50)",
+   "sources": [
+    "**UN Compilation** — A/HRC/WG.6/50/USA/2, OHCHR, 28 August 2025 (UN treaty bodies and special procedures)",
+    "**Stakeholders' Summary** — A/HRC/WG.6/50/USA/3, OHCHR, 1 September 2025 (155 civil-society and NHRI submissions)",
+    "The US **National Report** (A/HRC/WG.6/50/USA/1) was not yet available at the time of assessment."
+   ],
+   "headline": "No recommendation met the threshold for **A**. The result is dominated by inaction (**C**) and by 2025 measures running directly counter to the recommendation (**E**).",
+   "n": 347,
+   "grade_dist": {
+    "A": 0,
+    "B": 7,
+    "C": 219,
+    "D": 0,
+    "E": 121
+   },
+   "score": 24
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "26.1-26.22, 26.24, 26.26-26.28, 26.30-26.32, 26.35-26.58, 26.60, 26.61, 26.63",
+      "n": 56,
+      "summary": "Ratify outstanding international human rights treaties",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The United States ratified none of the treaties covered by these recommendations in the review period and did not reconsider its ICCPR reservations.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 2 — Committee on the Elimination of Racial Discrimination: \"encouraged the United States of America to consider ratifying the international human rights treaties that it had not yet ratified, including the International Covenant on Economic, Social and Cultural Rights, the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of the Child, ... the Convention on the Rights of Persons with Disabilities and the International Convention for the Protection of All Persons from Enforced Disappearance\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 3 — Human Rights Committee: \"recommended that the United States reconsider its position regarding the reservations, declarations and understandings that it had lodged at the time of ratification of the International Covenant on Civil and Political Rights\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 2 — Several stakeholders (OHCHR summary): \"the United States of America (USA) had not yet ratified several international human rights treaties, notwithstanding repeated recommendations to that effect\""
+      ],
+      "position": "39 supported, 11 supported-noted, 6 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.1",
+        "by": "Somalia",
+        "position": "supported",
+        "text": "Consider ratifying all remaining human rights conventions"
+       },
+       {
+        "paragraph": "26.2",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Continue with the ongoing efforts to ratify outstanding core international human rights instruments at the earliest convenience"
+       },
+       {
+        "paragraph": "26.3",
+        "by": "Albania",
+        "position": "supported",
+        "text": "Take the necessary steps to ratify the international human rights instruments that the United States has already signed"
+       },
+       {
+        "paragraph": "26.4",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Ratify all the pending main human rights instruments to which it is not yet a party"
+       },
+       {
+        "paragraph": "26.5",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Ratify the main international human rights treaties that are still pending, in order to move ahead with Sustainable Development Goals 5, 11, 13 and 16"
+       },
+       {
+        "paragraph": "26.6",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Ratify the core human rights treaties that the United States is not party to"
+       },
+       {
+        "paragraph": "26.7",
+        "by": "Azerbaijan",
+        "position": "supported",
+        "text": "Become party to the core international legal instruments for protecting and promoting human rights"
+       },
+       {
+        "paragraph": "26.8",
+        "by": "South Africa",
+        "position": "supported",
+        "text": "Ratify all conventions and other instruments it had committed to in its previous universal periodic reviews of 2010 and 2015 and has not done so yet"
+       },
+       {
+        "paragraph": "26.9",
+        "by": "El Salvador",
+        "position": "supported_noted",
+        "text": "Continue the procedure for the ratification of the International Covenant on Economic, Social and Cultural Rights, as well as that of the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "26.10",
+        "by": "Pakistan",
+        "position": "supported_noted",
+        "text": "Ratify the International Covenant on Economic, Social and Cultural Rights, the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of the Child, as also recommended by a number of special procedures"
+       },
+       {
+        "paragraph": "26.11",
+        "by": "Philippines",
+        "position": "supported_noted",
+        "text": "Ratify the following treaties, which it signed: the International Covenant on Economic, Social and Cultural Rights, the Convention on the Rights of the Child and the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "26.12",
+        "by": "Romania",
+        "position": "supported_noted",
+        "text": "Finalize the ratification process of a series of human rights instruments which were already signed, namely the International Covenant on Economic, Social and Cultural Rights, the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of the Child and the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "26.13",
+        "by": "Australia",
+        "position": "supported_noted",
+        "text": "Ratify the International Covenant on Economic, Social and Cultural Rights, the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of the Child and the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "26.14",
+        "by": "Belarus",
+        "position": "supported_noted",
+        "text": "Ratify the International Covenant on Economic, Social and Cultural Rights and the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "26.15",
+        "by": "France",
+        "position": "supported_noted",
+        "text": "Ratify the International Covenant on Economic, Social and Cultural Rights, the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of Persons with Disabilities and the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "26.16",
+        "by": "India",
+        "position": "supported",
+        "text": "Consider early ratification of the International Covenant on Economic, Social and Cultural Rights, the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "26.17",
+        "by": "Slovenia",
+        "position": "supported_noted",
+        "text": "Ratify, as already recommended in previous two universal periodic review cycles, the following treaties: the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of the Child, the Convention on the Rights of Persons with Disabilities, the Optional Protocol to the International Covenant on Civil and Political Rights and the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "26.18",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Ratify immediately the Convention on the Rights of the Child, the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "26.19",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Ratify international conventions on human rights, including the Convention on the Rights of the Child, the Convention on the Elimination of All Forms of Discrimination against Women and the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "26.20",
+        "by": "Afghanistan; Sudan",
+        "position": "supported",
+        "text": "Ratify the Convention on the Rights of the Child and the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "26.21",
+        "by": "Chile",
+        "position": "supported_noted",
+        "text": "Advance in the ratification of the Convention on the Rights of the Child, the Convention on the Elimination of All Forms of Discrimination against Women and the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "26.22",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Strengthen the efforts to ratify major human rights treaties, including the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "26.24",
+        "by": "Côte d’Ivoire",
+        "position": "supported",
+        "text": "Ratify the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "26.26",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Ratify the Convention on the Rights of the Child, the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "26.27",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Expedite the process of ratification of the Convention on the Rights of Persons with Disabilities and the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "26.28",
+        "by": "Czechia",
+        "position": "supported_noted",
+        "text": "Ratify the Convention on the Rights of the Child, the Convention on the Rights of Persons with Disabilities, the Convention on the Elimination of All Forms of Discrimination against Women and the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "26.30",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Consider ratifying the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "26.31",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Ratify the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of the Child and the Convention on the Rights of Persons with Disabilities as soon as possible"
+       },
+       {
+        "paragraph": "26.32",
+        "by": "Kenya",
+        "position": "supported",
+        "text": "Ratify the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of the Child and the Convention on the Rights of Persons with Disabilities, among other critical international conventions"
+       },
+       {
+        "paragraph": "26.35",
+        "by": "Liechtenstein",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "26.36",
+        "by": "Lithuania",
+        "position": "supported",
+        "text": "Ratify the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "26.37",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Expedite the process of ratification of the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "26.38",
+        "by": "Myanmar",
+        "position": "supported",
+        "text": "Consider the ratification of core human rights treaties, namely the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of the Child, the Convention on the Rights of Persons with Disabilities and the International Covenant on Economic, Social and Cultural Rights"
+       },
+       {
+        "paragraph": "26.39",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Consider ratification of core international human rights instruments, including the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "26.40",
+        "by": "New Zealand",
+        "position": "supported",
+        "text": "Ratify urgently the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of the Child and the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "26.41",
+        "by": "Uganda",
+        "position": "supported",
+        "text": "Ensure the speedy finalization of the national processes to ratify the Convention on the Rights of the Child and the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "26.42",
+        "by": "North Macedonia",
+        "position": "supported",
+        "text": "Consider ratifying the Convention on the Rights of the Child and the Convention on the Elimination of All forms of Discrimination against Women, as previously recommended"
+       },
+       {
+        "paragraph": "26.43",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Work towards completing its ratification of the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "26.44",
+        "by": "Latvia",
+        "position": "supported",
+        "text": "Take the necessary national measures with a view of ratifying the Convention on the Elimination of All Forms of Discrimination against Women, as previously recommended"
+       },
+       {
+        "paragraph": "26.45",
+        "by": "Niger",
+        "position": "supported",
+        "text": "Explore the possibility of ratifying the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "26.46",
+        "by": "Slovakia",
+        "position": "supported",
+        "text": "Accelerate ratification of the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "26.47",
+        "by": "Rwanda; Bahamas; Namibia; Morocco",
+        "position": "supported",
+        "text": "Ratify the Convention on the Elimination of all forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "26.48",
+        "by": "Kazakhstan",
+        "position": "supported",
+        "text": "Consider ratifying the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "26.49",
+        "by": "Switzerland; Rwanda; Bahamas; Luxembourg; Mali; Morocco",
+        "position": "supported",
+        "text": "Ratify the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "26.50",
+        "by": "Slovakia",
+        "position": "supported_noted",
+        "text": "Ratify the Convention on the Rights of the Child and its Optional Protocol on a communications procedure"
+       },
+       {
+        "paragraph": "26.51",
+        "by": "Philippines",
+        "position": "noted",
+        "text": "Sign the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "26.52",
+        "by": "Honduras",
+        "position": "noted",
+        "text": "Sign and ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "26.53",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Consider acceding to the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "26.54",
+        "by": "Niger",
+        "position": "supported",
+        "text": "Explore the possibility of ratifying the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "26.55",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "26.56",
+        "by": "Armenia",
+        "position": "supported",
+        "text": "Consider the ratification of several human rights treaties, in particular the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "26.57",
+        "by": "Honduras",
+        "position": "supported",
+        "text": "Ratify the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "26.58",
+        "by": "Mali",
+        "position": "supported",
+        "text": "Complete the ratification process of the Convention on the Rights of Persons with Disabilities, submitted to the Senate on 17 May 2012"
+       },
+       {
+        "paragraph": "26.60",
+        "by": "Senegal",
+        "position": "noted",
+        "text": "Accede to the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "26.61",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Ratify the Protocol of 2014 to the Forced Labour Convention, 1930 (No. 29), of the International Labour Organization"
+       },
+       {
+        "paragraph": "26.63",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Consider acceding to the American Convention on Human Rights and recognizing the competence of the Inter-American Commission on Human Rights and the Inter-American Court of Human Rights"
+       }
+      ]
+     },
+     {
+      "paras": "26.25, 26.29, 26.33, 26.62",
+      "n": 4,
+      "summary": "Rescind sanctions on the International Criminal Court",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The recommendation was to lift or rescind the sanctions on the International Criminal Court; instead the United States maintained them and in 2025 imposed further sanctions (Executive Order 14203), including against the Court's judges and staff.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 25 — Several special procedure mandate holders: \"condemned the executive order imposing sanctions on the International Criminal Court ... by sanctioning the Court, the United States weakened the post-Nuremberg commitment to international criminal justice\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 6 — Several submissions (OHCHR summary): \"Recommendations were made to the USA to ... rescind the Executive Order 14203 sanctioning the ICC and its staff\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 25 — United Nations High Commissioner for Human Rights: \"expressed concerns about sanctions against judges of the Court and called for the prompt reconsideration and withdrawal of those measures\""
+      ],
+      "position": "3 supported-noted, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.25",
+        "by": "Cyprus",
+        "position": "supported_noted",
+        "text": "Ratify the Convention on the Elimination of All Forms of Discrimination against Women, Protocols I and II Additional to the Geneva Conventions of 1949, the Convention on the Rights of the Child, the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the Rome Statute of the International Criminal Court"
+       },
+       {
+        "paragraph": "26.29",
+        "by": "Spain",
+        "position": "supported_noted",
+        "text": "Sign and ratify the Convention on the Rights of the Child, the Rome Statute of the International Criminal Court, the Convention on the Elimination of All Forms of Discrimination against Women and the International Covenant on Economic, Social and Cultural Rights"
+       },
+       {
+        "paragraph": "26.33",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Ratify and fully align its national legislation with all the obligations under the Rome Statute of the International Criminal Court, as previously recommended"
+       },
+       {
+        "paragraph": "26.62",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported_noted",
+        "text": "Ratify all human rights treaties and protocols, the treaties and protocols of the International Labour Organization and the Rome Statute and cooperate with the International Criminal Court"
+       }
+      ]
+     },
+     {
+      "paras": "26.64, 26.65",
+      "n": 2,
+      "summary": "Rejoin / remain in the Paris Agreement",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The United States rejoined the Paris Agreement in 2021 but withdrew again in 2025 - a reversal of the step recommended.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 5 — Several United Nations experts: \"expressed concern over the country's withdrawal from key international agreements and institutions, including the Paris Agreement, the Human Rights Council and World Health Organization\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 6 — Several submissions (OHCHR summary): \"Recommendations were made to the USA to re-engage with the Human Rights Council, reverse the decisions to withdraw from the Paris Climate Agreement\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.64",
+        "by": "Slovenia",
+        "position": "supported",
+        "text": "Reconsider the 2017 decision to withdraw from the Paris Agreement on climate change"
+       },
+       {
+        "paragraph": "26.65",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Take immediate steps to overturn the executive branch decision to withdraw from the Paris Agreement"
+       }
+      ]
+     },
+     {
+      "paras": "26.23",
+      "n": 1,
+      "summary": "Re-engage with the Human Rights Council",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The United States withdrew from the Human Rights Council in 2025, contrary to the recommendation to re-engage.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 5 — Several United Nations experts: \"expressed concern over the country's withdrawal from key international agreements and institutions, including the Paris Agreement, the Human Rights Council and World Health Organization\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 6 — Several submissions (OHCHR summary): \"Recommendations were made to the USA to re-engage with the Human Rights Council\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.23",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Re-engage in the Human Rights Council and ratify the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of Persons with Disabilities and the Convention on the Rights of the Child"
+       }
+      ]
+     },
+     {
+      "paras": "26.59",
+      "n": 1,
+      "summary": "Federal moratorium on / abolition of the death penalty",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Executive Order 14164 (2025) reinstated and directed preservation of the federal death penalty, reversing the 2021 moratorium; executions resumed.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 20 — Human Rights Committee: \"recommended establishing a de jure moratorium on the death penalty at the federal level and taking steps towards its abolition\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 15 — The Dui Hua Foundation: \"Executive Order 14164 reinstating capital punishment for federal crimes, for which a moratorium had been imposed in 2021\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.59",
+        "by": "Timor-Leste",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "International criminal & humanitarian law (including crimes against humanity, war crimes, genocide)",
+    "blocks": [
+     {
+      "paras": "26.34, 26.103, 26.166-26.173",
+      "n": 10,
+      "summary": "ICC, accountability for war crimes and drone strikes",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Contrary measures: sanctions on the ICC, transfer of cluster munitions, and pardons for contractors convicted of war crimes. Mostly 'noted'.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 25 — Several special procedure mandate holders: \"condemned the executive order imposing sanctions on the International Criminal Court ... by sanctioning the Court, the United States weakened the post-Nuremberg commitment to international criminal justice\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 23 — Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment: \"urged the United States to reconsider its decision to transfer cluster munitions to a third country as those weapons posed a serious and indiscriminate threat to civilians\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 24 — Several special procedure mandate holders: \"the pardons granted to four private security contractors convicted for war crimes in a third country violated United States obligations under international law\""
+      ],
+      "position": "9 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.34",
+        "by": "ACT Group; Liechtenstein",
+        "position": "noted",
+        "text": "Join the code of conduct regarding Security Council action against genocide, crimes against humanity or war crimes elaborated in the framework of the Accountability, Coherence and Transparency Group"
+       },
+       {
+        "paragraph": "26.103",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Work with the international community to monitor and follow up on human rights violations of peoples under foreign occupation and work towards the implementation of their right to self-determination in accordance with relevant United Nations resolutions"
+       },
+       {
+        "paragraph": "26.166",
+        "by": "Syrian Arab Republic",
+        "position": "noted",
+        "text": "Put an end to the occupation of the Syrian territories and address its consequences in accordance with international humanitarian law and international human rights law"
+       },
+       {
+        "paragraph": "26.167",
+        "by": "Syrian Arab Republic",
+        "position": "noted",
+        "text": "Hold United States political and military personnel to account for war crimes committed by the United States military forces in the Syrian Arab Republic, including in Raqqa and Deir Azzur"
+       },
+       {
+        "paragraph": "26.168",
+        "by": "Syrian Arab Republic",
+        "position": "noted",
+        "text": "End immediately the pillage of Syrian natural resources and compensate for that pillage in accordance with international law"
+       },
+       {
+        "paragraph": "26.169",
+        "by": "Syrian Arab Republic",
+        "position": "noted",
+        "text": "Stop any support to terrorists and separatist militias"
+       },
+       {
+        "paragraph": "26.170",
+        "by": "Syrian Arab Republic",
+        "position": "noted",
+        "text": "End any extrajudicial killing crimes or threats thereof, especially during acts of aggression committed outside its territories"
+       },
+       {
+        "paragraph": "26.171",
+        "by": "Islamic Republic of Iran",
+        "position": "noted",
+        "text": "End systematic arbitrary killings by drones and prosecute and punish all involved in the criminal assassination of Iranian nationals, including General Soleimani, the antiterrorism hero, also recognized as such by the United Nations Special Rapporteur on extrajudicial, summary or arbitrary executions"
+       },
+       {
+        "paragraph": "26.172",
+        "by": "Islamic Republic of Iran",
+        "position": "noted",
+        "text": "End its complicity in atrocities committed by Saudi forces against Yemeni people and by the Israeli regime against Palestinians and stop selling arms to them"
+       },
+       {
+        "paragraph": "26.173",
+        "by": "China",
+        "position": "noted",
+        "text": "Stop the use of torture in antiterrorism operations, halt military intervention in other countries and stop killing civilians in military operations"
+       }
+      ]
+     },
+     {
+      "paras": "26.160",
+      "n": 1,
+      "summary": "Rescind sanctions on the International Criminal Court",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The recommendation was to lift or rescind the sanctions on the International Criminal Court; instead the United States maintained them and in 2025 imposed further sanctions (Executive Order 14203), including against the Court's judges and staff.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 25 — Several special procedure mandate holders: \"condemned the executive order imposing sanctions on the International Criminal Court ... by sanctioning the Court, the United States weakened the post-Nuremberg commitment to international criminal justice\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 6 — Several submissions (OHCHR summary): \"Recommendations were made to the USA to ... rescind the Executive Order 14203 sanctioning the ICC and its staff\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 25 — United Nations High Commissioner for Human Rights: \"expressed concerns about sanctions against judges of the Court and called for the prompt reconsideration and withdrawal of those measures\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.160",
+        "by": "Islamic Republic of Iran",
+        "position": "noted",
+        "text": "Cooperate with the International Criminal Court in the investigation of war crimes by the United States military in Afghanistan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation with human rights mechanisms & requests for technical assistance",
+    "blocks": [
+     {
+      "paras": "26.66-26.75",
+      "n": 10,
+      "summary": "Rescind sanctions on the International Criminal Court",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The recommendation was to lift or rescind the sanctions on the International Criminal Court; instead the United States maintained them and in 2025 imposed further sanctions (Executive Order 14203), including against the Court's judges and staff.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 25 — Several special procedure mandate holders: \"condemned the executive order imposing sanctions on the International Criminal Court ... by sanctioning the Court, the United States weakened the post-Nuremberg commitment to international criminal justice\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 6 — Several submissions (OHCHR summary): \"Recommendations were made to the USA to ... rescind the Executive Order 14203 sanctioning the ICC and its staff\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 25 — United Nations High Commissioner for Human Rights: \"expressed concerns about sanctions against judges of the Court and called for the prompt reconsideration and withdrawal of those measures\""
+      ],
+      "position": "9 supported, 1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "26.66",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Annul Executive Order No. 13928 without delay, lift sanctions against the International Criminal Court and constructively collaborate in investigations aimed at preventing impunity for international crimes"
+       },
+       {
+        "paragraph": "26.67",
+        "by": "Denmark",
+        "position": "supported",
+        "text": "Rescind Executive Order No. 13928 authorizing sanctions regarding the International Criminal Court"
+       },
+       {
+        "paragraph": "26.68",
+        "by": "Liechtenstein",
+        "position": "supported",
+        "text": "Rescind Executive Order No. 13928 authorizing sanctions aimed at undermining the International Criminal Court ’ s essential mandate"
+       },
+       {
+        "paragraph": "26.69",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Withdraw all measures against the International Criminal Court"
+       },
+       {
+        "paragraph": "26.70",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Lift the sanctions currently in force against the staff of the International Criminal Court"
+       },
+       {
+        "paragraph": "26.71",
+        "by": "France",
+        "position": "supported",
+        "text": "Lift all sanctions imposed against the staff of the International Criminal Court"
+       },
+       {
+        "paragraph": "26.72",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Lift sanctions against independent International Criminal Court staff"
+       },
+       {
+        "paragraph": "26.73",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Reverse all measures against the International Criminal Court, its officials and staff"
+       },
+       {
+        "paragraph": "26.74",
+        "by": "Sweden",
+        "position": "supported",
+        "text": "Reconsider its position and reverse the measures it has taken against the International Criminal Court and its staff"
+       },
+       {
+        "paragraph": "26.75",
+        "by": "State of Palestine",
+        "position": "supported_noted",
+        "text": "Put an end to impunity for international law violations, including by ending the sanctions imposed on International Criminal Court staff and ratifying the Rome Statute of the International Criminal Court"
+       }
+      ]
+     },
+     {
+      "paras": "26.77-26.82",
+      "n": 6,
+      "summary": "Re-engage with the Human Rights Council",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The United States withdrew from the Human Rights Council in 2025, contrary to the recommendation to re-engage.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 5 — Several United Nations experts: \"expressed concern over the country's withdrawal from key international agreements and institutions, including the Paris Agreement, the Human Rights Council and World Health Organization\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 6 — Several submissions (OHCHR summary): \"Recommendations were made to the USA to re-engage with the Human Rights Council\""
+      ],
+      "position": "6 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.77",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Reconsider the withdrawal from the Human Rights Council and the Paris Agreement on climate change"
+       },
+       {
+        "paragraph": "26.78",
+        "by": "Lithuania",
+        "position": "supported",
+        "text": "Consider rejoining the work of the Human Rights Council"
+       },
+       {
+        "paragraph": "26.79",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Re-engage with the Human Rights Council"
+       },
+       {
+        "paragraph": "26.80",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Resume immediately its engagement with the Human Rights Council and fully comply with its obligations under the international human rights instruments and standards"
+       },
+       {
+        "paragraph": "26.81",
+        "by": "Jordan",
+        "position": "supported",
+        "text": "Take steps to re-engage and participate in the work of the Human Rights Council"
+       },
+       {
+        "paragraph": "26.82",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Re-engage actively with the Human Rights Council and the special procedures mechanisms of OHCHR"
+       }
+      ]
+     },
+     {
+      "paras": "26.76, 26.88",
+      "n": 2,
+      "summary": "Rescind ICC sanctions and re-engage with UN mechanisms",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Some special-procedure visits took place in 2021-2024, but no standing invitation was issued and cooperation deteriorated sharply in 2025.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 8 — Several special procedure mandate holders: \"condemned the United States sanctions against Francesca Albanese, Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967, as a direct attack on the integrity of the United Nations human rights system\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 5 — Several United Nations experts: \"alarmed by the escalating attacks by the United States on the international architecture of human rights\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.76",
+        "by": "Poland",
+        "position": "supported",
+        "text": "Recommit to multilateral human rights institutions"
+       },
+       {
+        "paragraph": "26.88",
+        "by": "Niger",
+        "position": "supported",
+        "text": "Continue collaborative efforts with human rights mechanisms"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Special Procedures",
+    "blocks": [
+     {
+      "paras": "26.83-26.85, 26.87",
+      "n": 4,
+      "summary": "Standing invitation to special procedures and visit requests",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Some special-procedure visits occurred in 2021-2024, but no standing invitation was issued and a mandate holder was sanctioned in 2025.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 8 — Several special procedure mandate holders: \"condemned the United States sanctions against Francesca Albanese ... as a direct attack on the integrity of the United Nations human rights system\""
+      ],
+      "position": "2 supported, 2 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.83",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Further enhance cooperation with United Nations human rights mechanisms, including by providing the Special Rapporteur on torture with full access to the facilities and permission to interview the detainees"
+       },
+       {
+        "paragraph": "26.84",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Consider extending a standing invitation to all special procedure mandate holders of the Human Rights Council, as previously recommended"
+       },
+       {
+        "paragraph": "26.85",
+        "by": "Costa Rica; Cyprus",
+        "position": "noted",
+        "text": "Extend a standing invitation to the special procedures"
+       },
+       {
+        "paragraph": "26.87",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Respond to all outstanding visit requests from United Nations special procedures"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & follow up with the Universal Periodic Review (UPR)",
+    "blocks": [
+     {
+      "paras": "26.86",
+      "n": 1,
+      "summary": "UPR follow-up mechanism and mid-term report",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No cycle-3 UPR mid-term report and no dedicated national follow-up mechanism.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 10 — Special Rapporteur on minority issues: \"recommended establishing an inter-agency federal body responsible for implementation of and follow-up to United Nations human rights mechanisms' recommendations\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.86",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Review all outstanding recommendations from the universal periodic review process, the United Nations treaty bodies and experts, with a view to implementing them"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Racial discrimination",
+    "blocks": [
+     {
+      "paras": "26.89, 26.112, 26.115-26.117, 26.125, 26.132, 26.136-26.138, 26.141, 26.142",
+      "n": 12,
+      "summary": "Combat systemic racism and hate speech",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No national action plan against racism was adopted; systemic racism is still reported as persistent.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 12 — Special Rapporteur on racism: \"racially marginalized groups continued to experience persistent systemic racism\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 9 — Presbyterian Church (USA): \"racial discrimination remained pervasive\""
+      ],
+      "position": "12 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.89",
+        "by": "South Africa",
+        "position": "supported",
+        "text": "Cooperate fully with the United Nations High Commissioner for Human Rights in the preparation of her report on systemic racism and violations of international human rights law against Africans and people of African descent by law enforcement agencies, as all States were called upon to do by the Human Rights Council in its resolution 43/1"
+       },
+       {
+        "paragraph": "26.112",
+        "by": "Slovakia",
+        "position": "supported",
+        "text": "Take effective measures to review policies at the federal, state and local levels with a view to preventing racism, racial discrimination, xenophobia and related intolerance"
+       },
+       {
+        "paragraph": "26.115",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Continue to pay attention to issues related to racial discrimination or hate crime and make efforts to address those issues"
+       },
+       {
+        "paragraph": "26.116",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Continue efforts to combat racism and discrimination against minorities and protect vulnerable groups"
+       },
+       {
+        "paragraph": "26.117",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Continue the efforts to prevent and combat racism, racial discrimination, xenophobia and all other forms of intolerance"
+       },
+       {
+        "paragraph": "26.125",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Consider adopting measures to combat racial discrimination, including adopting a national action plan to combat racial discrimination, as recommended by the Committee on the Elimination of Racial Discrimination"
+       },
+       {
+        "paragraph": "26.132",
+        "by": "Egypt",
+        "position": "supported",
+        "text": "Take effective measures to eliminate all forms of racial discrimination, hate speech and violence, especially against people of African descent, and to strengthen racial equality in the criminal law system"
+       },
+       {
+        "paragraph": "26.136",
+        "by": "Azerbaijan",
+        "position": "supported",
+        "text": "Make reforms to end systematic racism against people based on their descent, race and legal status"
+       },
+       {
+        "paragraph": "26.137",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Enhance measures to address racial disparities and discrimination and to improve police-community relations"
+       },
+       {
+        "paragraph": "26.138",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Stop incitement to violence and the escalation of racism and supremacism"
+       },
+       {
+        "paragraph": "26.141",
+        "by": "Islamic Republic of Iran",
+        "position": "supported",
+        "text": "Take necessary measures to end systemic racism against minorities, including African-Americans"
+       },
+       {
+        "paragraph": "26.142",
+        "by": "China",
+        "position": "supported",
+        "text": "Root out systemic racism, address widespread police brutality and combat discrimination against African- and Asian-Americans"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Mechanisms for Reporting & Follow-up (NMRF)",
+    "blocks": [
+     {
+      "paras": "26.90, 26.100",
+      "n": 2,
+      "summary": "Establish a national reporting and follow-up mechanism",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No inter-agency federal body for follow-up to UN recommendations was established. Both 'noted'.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 10 — Special Rapporteur on minority issues: \"recommended establishing an inter-agency federal body responsible for implementation of and follow-up to United Nations human rights mechanisms' recommendations\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.90",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Establish a permanent national mechanism for the implementation, reporting and follow-up of recommendations in the field of human rights and consider the possibility of engaging in cooperation for this purpose within the framework of Sustainable Development Goals 16 and 17"
+       },
+       {
+        "paragraph": "26.100",
+        "by": "Albania",
+        "position": "noted",
+        "text": "Establish a federal mechanism to ensure comprehensive and coordinated compliance with international human rights instruments at the federal, state and local levels"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "26.91-26.99",
+      "n": 9,
+      "summary": "Establish a Paris-Principles-compliant NHRI",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No national human rights institution has been established.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 9 — Committee on the Elimination of Racial Discrimination: \"reiterated its recommendation that the United States create a national human rights institution in accordance with the ... Paris Principles\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 7 — JS61; Elizka Relief Foundation: \"the USA had not established a National Human Rights Institution (NHRI), resulting in a critical gap in the country's human rights protection framework\""
+      ],
+      "position": "4 noted, 5 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.91",
+        "by": "the Paris Principles; Philippines",
+        "position": "noted",
+        "text": "Take steps towards the establishment of a national human rights institution in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights"
+       },
+       {
+        "paragraph": "26.92",
+        "by": "Zambia",
+        "position": "noted",
+        "text": "Take steps aimed at creating a national human rights institution"
+       },
+       {
+        "paragraph": "26.93",
+        "by": "Qatar",
+        "position": "noted",
+        "text": "Establish a national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "26.94",
+        "by": "Somalia",
+        "position": "supported",
+        "text": "Continue with its human rights commitments and establish national human rights institutions"
+       },
+       {
+        "paragraph": "26.95",
+        "by": "India",
+        "position": "supported",
+        "text": "Consider establishing a national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "26.96",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Consider establishing an independent national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "26.97",
+        "by": "Sudan",
+        "position": "supported",
+        "text": "Consider the establishment of a national human rights institution compliant with the Paris Principles"
+       },
+       {
+        "paragraph": "26.98",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Consider establishing an independent national human rights institution in line with the Paris Principles"
+       },
+       {
+        "paragraph": "26.99",
+        "by": "Lithuania",
+        "position": "noted",
+        "text": "Establish an independent national human rights institution at the federal level"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights education, trainings & awareness raising",
+    "blocks": [
+     {
+      "paras": "26.101, 26.102, 26.248-26.250, 26.252, 26.261",
+      "n": 7,
+      "summary": "Human rights and anti-bias training and education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Recommended human-rights and anti-bias training was not institutionalised; book bans and curriculum restrictions cut the other way.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 46 — Special Rapporteur on racism: \"recommended ... training all teachers and school staff in racial equality, implicit bias and non-discrimination standards\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 14 — Human Rights Watch: \"regretted the growing movement that prevented educating students about structural racism, including banning books or censoring classroom discussions of race, sexuality and gender\""
+      ],
+      "position": "7 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.101",
+        "by": "Greece",
+        "position": "supported",
+        "text": "Work across federal agencies and departments to foster more comprehensive education and training for state and local agencies and officials on human rights"
+       },
+       {
+        "paragraph": "26.102",
+        "by": "Cambodia",
+        "position": "supported",
+        "text": "Carry out additional anti-discrimination training for government officials at all levels and systematically"
+       },
+       {
+        "paragraph": "26.248",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Train the personnel of law enforcement agencies on human rights principles in arrest, detention, investigation and decent treatment"
+       },
+       {
+        "paragraph": "26.249",
+        "by": "Qatar",
+        "position": "supported",
+        "text": "Provide appropriate training to law enforcement officers, enhance accountability and prevent impunity in order to eliminate racial profiling and excessive use of force by police officers"
+       },
+       {
+        "paragraph": "26.250",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Take further measures to realize its commitment to eliminating racial discrimination, including by providing human rights education to law enforcement officers"
+       },
+       {
+        "paragraph": "26.252",
+        "by": "Lesotho",
+        "position": "supported",
+        "text": "Launch awareness-raising campaigns fostered at putting an end to all forms of police brutality"
+       },
+       {
+        "paragraph": "26.261",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Address the growing influence of extremist groups, such as white supremacists, within law enforcement agencies and start comprehensive training mechanisms focused on human rights and fundamental freedoms for law enforcement members"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Constitutional & legislative framework",
+    "blocks": [
+     {
+      "paras": "26.104",
+      "n": 1,
+      "summary": "Reform the Alien Enemies Act",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No relevant constitutional or legislative reform; recommendation 'noted'.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 8 — JS15: \"the 1798 Alien Enemies Act being used to deport natives, citizens and foreigners without a hearing or standard process\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.104",
+        "by": "Democratic People ’ s Republic of Korea",
+        "position": "noted",
+        "text": "Take legal and practical measures to abolish the North Korean Human Rights Act of 2004 and other evil extraterritorial laws and stop political pressure and military actions that infringe upon the sovereignty or threaten the lives of the people in those countries"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Inter-State cooperation and assistance",
+    "blocks": [
+     {
+      "paras": "26.105, 26.106, 26.109",
+      "n": 3,
+      "summary": "International cooperation and non-interference",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No relevant change; most of these recommendations were 'noted'.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 5 — Several United Nations experts: \"alarmed by the escalating attacks by the United States on ... multilateralism, the principles of sovereign equality and self-determination\""
+      ],
+      "position": "2 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.105",
+        "by": "Russian Federation",
+        "position": "noted",
+        "text": "Stop interfering in the internal affairs of sovereign States"
+       },
+       {
+        "paragraph": "26.106",
+        "by": "China",
+        "position": "noted",
+        "text": "Stop interfering, for political purposes, in other countries ’ internal affairs under the pretext of human rights"
+       },
+       {
+        "paragraph": "26.109",
+        "by": "Nicaragua",
+        "position": "supported",
+        "text": "Respect the peoples of the world in their freedoms and in the democratic development of their own constitutional electoral processes"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Unilateral coercive measures",
+    "blocks": [
+     {
+      "paras": "26.107, 26.155-26.159, 26.161",
+      "n": 7,
+      "summary": "Lift unilateral sanctions / embargoes",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Unilateral sanctions regimes were maintained and expanded; all 'noted'.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 30 — IPLSA (International Probono Legal Services Association): \"their prolonged and unchecked application raised concerns regarding compliance with international law and human rights standards ... thereby creating de facto perpetual states of emergency in those countries\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 31 — ADVT (Association for Defending Victims of Terrorism): \"recommended the USA to immediately lift all unilateral sanctions that negatively affect civilian populations\""
+      ],
+      "position": "7 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.107",
+        "by": "Cuba",
+        "position": "noted",
+        "text": "Put an immediate end to the blockade against Cuba, which seriously violates the human rights of the Cuban people"
+       },
+       {
+        "paragraph": "26.155",
+        "by": "Syrian Arab Republic",
+        "position": "noted",
+        "text": "Abolish all laws and executive orders imposing unilateral coercive measures"
+       },
+       {
+        "paragraph": "26.156",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "noted",
+        "text": "Repeal the infamous unilateral coercive measures it imposes on the Bolivarian Republic of Venezuela and on other sovereign countries"
+       },
+       {
+        "paragraph": "26.157",
+        "by": "China",
+        "position": "noted",
+        "text": "Lift unilateral coercive measures immediately and refrain from infringing upon the human rights of people of other countries"
+       },
+       {
+        "paragraph": "26.158",
+        "by": "Cuba",
+        "position": "noted",
+        "text": "Recognize and respect the human rights to peace, development and international solidarity through the renunciation of aggression, interference and unilateral coercive measures"
+       },
+       {
+        "paragraph": "26.159",
+        "by": "Islamic Republic of Iran",
+        "position": "noted",
+        "text": "Stop imposing unilateral coercive measures and embargoes on other nations, which have caused widespread and gross violations of human rights, and cooperate with the Special Rapporteur on the negative impact of unilateral coercive measures on the enjoyment of human rights"
+       },
+       {
+        "paragraph": "26.161",
+        "by": "Bolivarian Republic of; Nicaragua",
+        "position": "noted",
+        "text": "Put an end to sanctions and unilateral coercive measures, which undermine the sovereignty and self-determination of the peoples of the world and, in our America, of Cuba, Nicaragua and Venezuela"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Business & Human Rights",
+    "blocks": [
+     {
+      "paras": "26.108, 26.153",
+      "n": 2,
+      "summary": "Business and human rights, including mandatory due diligence",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No updated national action plan; mandatory human-rights due-diligence legislation was not adopted.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 51 — Several special procedure mandate holders: \"urged businesses in the United States to reaffirm their commitment to diversity, equity and inclusion principles, uphold their human rights responsibilities under the Guiding Principles on Business and Human Rights\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 69 — JS65: \"requested the USA to require businesses to conduct human rights due diligence in conflict-affected contexts and develop policies to protect human rights defenders\""
+      ],
+      "position": "1 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.108",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Stop the illegal export of weapons to other countries"
+       },
+       {
+        "paragraph": "26.153",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Ensure that its policies, legislation, regulations and enforcement measures effectively serve to prevent and address the heightened risk of business involvement in abuses in conflict situations, which includes situations of foreign occupation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "26.110, 26.111, 26.113, 26.114, 26.118-26.124, 26.126-26.129, 26.131, 26.133-26.135, 26.139, 26.143, 26.145",
+      "n": 22,
+      "summary": "Comprehensive anti-discrimination legislation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No comprehensive federal anti-discrimination legislation was adopted; supported recommendations to combat systemic racial discrimination were not implemented.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 15 — Special Rapporteur on minority issues: \"recommended adopting comprehensive national human rights legislation to include international human rights obligations, particularly on the recognition of the right to equality without discrimination\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 9 — Human Rights Watch: \"the USA had not implemented UPR supported recommendations to combat systemic racial discrimination, further entrenching discriminatory practices\""
+      ],
+      "position": "21 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.110",
+        "by": "Nigeria",
+        "position": "supported",
+        "text": "Adopt further measures to ensure the enjoyment of human rights by all without discrimination"
+       },
+       {
+        "paragraph": "26.111",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Adopt measures to combat structural discrimination"
+       },
+       {
+        "paragraph": "26.113",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Take effective measures to eliminate discrimination on the basis of race, ethnicity, religion and sex and to stop racial profiling by law enforcement agencies"
+       },
+       {
+        "paragraph": "26.114",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Resolutely combat all forms of discrimination by guaranteeing equitable access to justice, medical care and quality education, as well as by ensuring that the use of force and firearms by the police is in compliance with human rights"
+       },
+       {
+        "paragraph": "26.118",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Continue efforts to combat all forms of discrimination, racial discrimination and xenophobia"
+       },
+       {
+        "paragraph": "26.119",
+        "by": "Lesotho",
+        "position": "supported",
+        "text": "Continue to put in place measures to eradicate racism, xenophobia and all forms of related intolerance across the country"
+       },
+       {
+        "paragraph": "26.120",
+        "by": "Singapore",
+        "position": "supported",
+        "text": "Continue to take concrete actions to promote inter-racial and inter-religious respect and eliminate discrimination, including by addressing the socioeconomic root causes and strengthening domestic remedies"
+       },
+       {
+        "paragraph": "26.121",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Continue advancing, through federal policies, towards the elimination of all forms of racism, racial discrimination, xenophobia and related forms of structural, economic, social and cultural intolerance"
+       },
+       {
+        "paragraph": "26.122",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Continue to promote and implement anti-discrimination policies, including those that prohibit racial discrimination and intolerance"
+       },
+       {
+        "paragraph": "26.123",
+        "by": "Saudi Arabia",
+        "position": "supported",
+        "text": "Enhance laws and legislation based on the abolition of all forms of discrimination, racism and hatred"
+       },
+       {
+        "paragraph": "26.124",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Develop an action plan to address structural discrimination with clear timelines and milestones"
+       },
+       {
+        "paragraph": "26.126",
+        "by": "South Africa",
+        "position": "supported",
+        "text": "Adopt and promote a comprehensive national plan to combat racism, racial discrimination, xenophobia and related intolerance, including incitement to hatred"
+       },
+       {
+        "paragraph": "26.127",
+        "by": "Qatar",
+        "position": "supported",
+        "text": "Adopt effective measures to enhance equality and eliminate racial discrimination and xenophobia against migrants and refugees, as well as racial, ethnic and religious minorities"
+       },
+       {
+        "paragraph": "26.128",
+        "by": "Pakistan",
+        "position": "noted",
+        "text": "Take meaningful and demonstrable steps to end Islamophobia and hate speech, including through criminalization"
+       },
+       {
+        "paragraph": "26.129",
+        "by": "Bahrain",
+        "position": "supported",
+        "text": "Continue developing effective remedies to protect vulnerable groups and minorities from violent intolerance and hate speech"
+       },
+       {
+        "paragraph": "26.131",
+        "by": "Nicaragua",
+        "position": "supported",
+        "text": "Prioritize urgent measures to combat hate speech, discrimination, racism and xenophobia, mainly in Latino and Afrodescendant communities that face high rates of police brutality"
+       },
+       {
+        "paragraph": "26.133",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Take measures to eliminate discrimination and xenophobic speech and eradicate practices such as excessive use of force and racial profiling"
+       },
+       {
+        "paragraph": "26.134",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Combat racial profiling and Islamophobia on a non-discriminatory basis applicable to all religious groups"
+       },
+       {
+        "paragraph": "26.135",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Strengthen efforts to address discrimination, racial profiling, religious intolerance and incidents of Islamophobia, including when perpetrated by the authorities"
+       },
+       {
+        "paragraph": "26.139",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Take steps to ensure the full implementation of domestic and international laws to end all forms of discrimination, including discrimination on the basis of race, sex and religion, and bring the perpetrators to justice"
+       },
+       {
+        "paragraph": "26.143",
+        "by": "Kenya",
+        "position": "supported",
+        "text": "Take the necessary measures to eliminate all forms of racial, gender, religious and other forms of discrimination"
+       },
+       {
+        "paragraph": "26.145",
+        "by": "Myanmar",
+        "position": "supported",
+        "text": "Address issues of racism, xenophobia and bullying among children at schools"
+       }
+      ]
+     },
+     {
+      "paras": "26.140, 26.146-26.148",
+      "n": 4,
+      "summary": "Prohibit discrimination based on sexual orientation and gender identity",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "2025 executive orders and state-level actions targeting LGBTI people are retrogressive; the Equality Act did not pass.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 62 — Independent Expert on protection against violence and discrimination based on sexual orientation and gender identity: \"concerned by a widespread set of state-level legislative, executive and judicial actions aimed at regression in the protection of the human rights of LGBT persons\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 89 — Human Rights Watch: \"the USA had enacted policies that reinforced discrimination against LGBT people\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.140",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Strengthen activities and laws aimed at eliminating discrimination in society and other forms of intolerance against minorities and other groups, including based on race, ethnicity, sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "26.146",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Take all possible steps at the state and federal levels to prohibit discrimination based on sexual orientation or gender identity in credit, education, employment, housing, jury service, public accommodation and taxpayer-funded programmes"
+       },
+       {
+        "paragraph": "26.147",
+        "by": "France",
+        "position": "supported",
+        "text": "Guarantee the protection of lesbian, gay, bisexual, transgender and intersex persons and put an end to the discrimination they suffer"
+       },
+       {
+        "paragraph": "26.148",
+        "by": "Malta",
+        "position": "supported",
+        "text": "Strengthen measures to prevent and combat violence, especially the rate of murder of transgender women of colour, as well as the violence experienced by the broader lesbian, gay, bisexual and transgender community"
+       }
+      ]
+     },
+     {
+      "paras": "26.130",
+      "n": 1,
+      "summary": "Protect access to asylum and non-refoulement; limit immigration detention",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Access to asylum was severely curtailed, detention without due process expanded and family separation resumed - directly contrary measures.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 69 — Human Rights Committee: \"measures adopted to address migration challenges excessively restricted protection of the right to seek asylum and increased the risk of breaches of the principle of refoulement\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 90 — JS47: \"at the US-Mexico border, asylum had been all but eliminated\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.130",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Combat racism and hate speech, especially against immigrants and asylum seekers, and reinforce their protection"
+       }
+      ]
+     },
+     {
+      "paras": "26.144",
+      "n": 1,
+      "summary": "Honour Indigenous treaties and guarantee free, prior and informed consent",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Executive Order 14112 on Tribal self-determination and funding was revoked in March 2025; FPIC is still not guaranteed in law or practice.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 58 — Committee on the Elimination of Racial Discrimination; Human Rights Committee: \"recommended that the United States honour the treaties entered into with Indigenous Peoples, guarantee, in law and in practice, the principle of free, prior and informed consent\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 83 — Several submissions (OHCHR summary): \"Executive Order 14112, which had expanded access of Tribal Nations to federal funding and self-determination ... was revoked in March 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.144",
+        "by": "Kenya",
+        "position": "supported",
+        "text": "Implement deliberate strategies to reduce the gap between African-Americans and the rest of the population, as well as between indigenous and non-indigenous populations, and hence reduce structural and institutional discrimination"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "26.149, 26.240",
+      "n": 2,
+      "summary": "Eliminate violence against women and girls",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Persistent violence against women is still recorded as a serious concern, with Indigenous women and girls disproportionately affected and no comprehensive data; 2025 brought funding cuts.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 53 — Human Rights Committee: \"expressed concern about the persistence of violence against women and about Indigenous women and girls being disproportionally affected by violence, homicide and disappearances\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 70 — GFG (Global Freedom Group): \"reported funding cuts to the Violence Against Women Act and domestic violence programmes\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.149",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Implement the commitment made at the Nairobi summit to increase the financing of development cooperation for the prevention of female genital mutilation and child and forced marriage"
+       },
+       {
+        "paragraph": "26.240",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Address further the issue of sexual violence in the military"
+       }
+      ]
+     },
+     {
+      "paras": "26.322, 26.323",
+      "n": 2,
+      "summary": "Eliminate violence against women and girls",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Violence Against Women Act was reauthorised in 2022 with expanded tribal-jurisdiction provisions - a concrete step - but implementation gaps persist and 2025 brought funding cuts.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 53 — Human Rights Committee: \"recommended intensifying efforts to prevent, combat and eradicate all forms of violence against women and girls, paying special attention to women from minority and marginalized groups\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 70 — GFG (Global Freedom Group): \"reported funding cuts to the Violence Against Women Act and domestic violence programmes\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.322",
+        "by": "Greece",
+        "position": "supported",
+        "text": "Prioritize services for preventing and responding to gender-based violence, including in institutional settings such as the penitentiary system"
+       },
+       {
+        "paragraph": "26.323",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Vigorously continue measures directed at the elimination of violence against women and girls"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "26.150-26.152",
+      "n": 3,
+      "summary": "Climate-change mitigation and adaptation",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Contrary measures: renewed withdrawal from the Paris Agreement and 2025 executive orders reviving fossil fuels and abolishing decarbonisation targets.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 50 — Human Rights Committee: \"recommended that the United States intensify efforts to prevent and mitigate the effects of climate change and environmental degradation\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 67 — JS3: \"the elimination of 70 climate change initiatives and the abolition of federal targets to reduce emissions and decarbonise by 2035\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 67 — GAF (Geneva Agape Foundation): \"several 2025 Executive Orders revisited some measures to reduce carbon dioxide emissions, increased the leasing of public lands to oil and gas development\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.150",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Advance towards the implementation of instruments to combat climate change and its negative impacts on human rights"
+       },
+       {
+        "paragraph": "26.151",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Intensify efforts to develop and strengthen the necessary legislative frameworks that address cross-sectoral environmental challenges, including climate change adaptation and mitigation frameworks"
+       },
+       {
+        "paragraph": "26.152",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Pursue the fight against the global problem of climate change and its negative impacts, in particular by strengthening cooperation with the international community in this area"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & toxics / hazardous wastes",
+    "blocks": [
+     {
+      "paras": "26.154",
+      "n": 1,
+      "summary": "Clean up toxic contamination affecting minority communities",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Toxic-waste clean-up in disproportionately affected communities was still being urged; no national plan. 'Noted'.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 49 — Special Rapporteur on racism: \"recommended urgently cleaning up toxic waste and environmental contamination, particularly in areas where it was having a disproportionate impact on marginalized racial and ethnic groups, including in the overseas territories\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.154",
+        "by": "Marshall Islands",
+        "position": "noted",
+        "text": "Respond appropriately to the substance of the relevant recommendations made by the Special Rapporteur on the implications for human rights of the environmentally sound management and disposal of hazardous substances and wastes in the 2012 report on his visit to the United States and the Marshall Islands"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to physical & moral integrity",
+    "blocks": [
+     {
+      "paras": "26.162, 26.163",
+      "n": 2,
+      "summary": "End excessive use of force",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No federal use-of-force legislation and reversal of the 2022 accountable-policing executive order.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 17 — International Independent Expert Mechanism to Advance Racial Justice and Equality in Law Enforcement; Special Rapporteur on minority issues; High Commissioner: \"expressed concern about police killings of and violence and brutality towards African Americans\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.162",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Continue efforts to limit armed violence and crimes by regulating the possession and use of arms"
+       },
+       {
+        "paragraph": "26.163",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Take further and more targeted measures to address the disproportionate impact of violence on the poor, minorities and immigrant women, and expedite the ratification of the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of the Child"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Prohibition of torture & ill-treatment (including cruel, inhuman or degrading treatment)",
+    "blocks": [
+     {
+      "paras": "26.164",
+      "n": 1,
+      "summary": "Criminalise torture and provide redress for rendition victims",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No specific federal offence of torture was enacted; rendition-programme victims remain uncompensated.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 21 — Human Rights Committee: \"the United States should review its position regarding the establishment of a specific offence of torture, enact legislation prohibiting torture in line with international law\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 27 — Special Rapporteur on ... human rights ... while countering terrorism: \"none of the former detainees had been compensated for the systematic crimes of extraordinary rendition, torture, cruel, inhuman and degrading treatment and arbitrary detention\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.164",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Prohibit torture in detention and ensure detainees have access to fair trials and full redress"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Arbitrary arrest & detention",
+    "blocks": [
+     {
+      "paras": "26.165",
+      "n": 1,
+      "summary": "End arbitrary detention",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No indication of change; recommendation 'noted'.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 26 — Committee on the Elimination of Racial Discrimination: \"highlighted the continued arbitrary detention of non-citizens at the Guantanamo Bay facility, without effective and equal access to the ordinary criminal justice system\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.165",
+        "by": "Islamic Republic of Iran",
+        "position": "noted",
+        "text": "End the arbitrary detention of many Iranians under bogus allegations of violating its unlawful sanctions"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & counter-terrorism",
+    "blocks": [
+     {
+      "paras": "26.174-26.177",
+      "n": 4,
+      "summary": "Close Guantanamo and end indefinite detention",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Twenty-five detainees were transferred from Guantanamo Bay since the last review and some conditions improved, but 15 men remain in indefinite detention and the facility is not closed.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 28 — Amnesty International: \"15 men were still arbitrarily and indefinitely detained at Guantanamo Bay, following the transfer of 25 detainees since the previous review\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 28 — Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism: \"urged the United States to close the Guantanamo Bay detention facility, while preserving it to ensure independent and effective investigation of torture\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 28 — Human Rights Committee: \"recommended expediting the transfer of detainees designated for transfer from that facility and putting an end to administrative detention without charge or trial\""
+      ],
+      "position": "1 noted, 3 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.174",
+        "by": "Democratic People ’ s Republic of Korea",
+        "position": "noted",
+        "text": "Take legal and practical measures to close illegal United States secret detention facilities and end violations by United States forces in foreign lands"
+       },
+       {
+        "paragraph": "26.175",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Close Guantanamo and guarantee the rights of detainees"
+       },
+       {
+        "paragraph": "26.176",
+        "by": "France",
+        "position": "supported",
+        "text": "Close as soon as possible the Guantanamo detention centre"
+       },
+       {
+        "paragraph": "26.177",
+        "by": "Nicaragua",
+        "position": "supported",
+        "text": "Close totally illegal extraterritorial prisons, especially at Guantanamo, a territory illegally occupied by the United States"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Death penalty",
+    "blocks": [
+     {
+      "paras": "26.178-26.200, 26.202-26.211",
+      "n": 33,
+      "summary": "Federal moratorium on / abolition of the death penalty",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Executive Order 14164 (2025) reinstated and directed preservation of the federal death penalty, reversing the 2021 moratorium; executions resumed.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 20 — Human Rights Committee: \"recommended establishing a de jure moratorium on the death penalty at the federal level and taking steps towards its abolition\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 15 — The Dui Hua Foundation: \"Executive Order 14164 reinstating capital punishment for federal crimes, for which a moratorium had been imposed in 2021\""
+      ],
+      "position": "8 supported, 23 noted, 2 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "26.178",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Continue the efforts towards the abolition of the death penalty"
+       },
+       {
+        "paragraph": "26.179",
+        "by": "Switzerland",
+        "position": "noted",
+        "text": "Establish a moratorium on the death penalty and executions at the federal level and encourage the federated states to do the same"
+       },
+       {
+        "paragraph": "26.180",
+        "by": "Norway",
+        "position": "noted",
+        "text": "Repeal the decision to resume federal capital punishment and take steps to promote federal- and state-level moratoriums on executions with a view to permanently abolishing the death penalty"
+       },
+       {
+        "paragraph": "26.181",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Consider the possibility of abolishing the death penalty in those states that still maintain it, in line with Sustainable Development Goal 16"
+       },
+       {
+        "paragraph": "26.182",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Continue efforts towards abolishing the death penalty and halting executions"
+       },
+       {
+        "paragraph": "26.183",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Consider establishing a moratorium on the death penalty in States that have not yet abolished it"
+       },
+       {
+        "paragraph": "26.184",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Ensure that federal and state authorities impose a moratorium on executions with a view to abolishing the death penalty nationwide"
+       },
+       {
+        "paragraph": "26.185",
+        "by": "Rwanda",
+        "position": "noted",
+        "text": "Impose a moratorium on the death penalty at the federal and state levels aiming at its complete abolition"
+       },
+       {
+        "paragraph": "26.186",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Impose a moratorium on the death penalty at the federal and state levels aiming at its complete abolition"
+       },
+       {
+        "paragraph": "26.187",
+        "by": "Czechia",
+        "position": "noted",
+        "text": "Impose a moratorium on executions with a view to abolishing the death penalty nationwide"
+       },
+       {
+        "paragraph": "26.188",
+        "by": "Slovakia",
+        "position": "noted",
+        "text": "Impose a moratorium on executions of death sentences at the federal and state levels and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "26.189",
+        "by": "New Zealand",
+        "position": "supported",
+        "text": "Impose urgently a moratorium on executions and work towards the complete abolition of the death penalty"
+       },
+       {
+        "paragraph": "26.190",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Reimpose the federal moratorium on capital punishment, with a view to eventual abolition of the death penalty"
+       },
+       {
+        "paragraph": "26.191",
+        "by": "Cyprus",
+        "position": "noted",
+        "text": "Restore a moratorium on the use of the death penalty at the federal level"
+       },
+       {
+        "paragraph": "26.192",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Impose a moratorium on executions with a view to abolishing the death penalty nationwide"
+       },
+       {
+        "paragraph": "26.193",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, and consider establishing a moratorium on executions as the first step towards the official abolition of the death penalty. Commute the death penalty of the Argentinian citizen Víctor Saldaño , who has been on death row since 1996"
+       },
+       {
+        "paragraph": "26.194",
+        "by": "Bulgaria",
+        "position": "noted",
+        "text": "Take steps towards establishing an immediate moratorium on the death penalty, with a view to its complete abolition"
+       },
+       {
+        "paragraph": "26.195",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Introduce a federal moratorium on the death penalty aiming at complete abolition"
+       },
+       {
+        "paragraph": "26.196",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Establish a moratorium on all pending death sentences as a first step towards the abolition of capital punishment in all states of the country"
+       },
+       {
+        "paragraph": "26.197",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Abstain from further use of capital punishment, after the regrettable resumption of the federal death penalty, which is inhuman and violates a person ’ s right to life, and carefully review the new execution protocol"
+       },
+       {
+        "paragraph": "26.198",
+        "by": "France",
+        "position": "noted",
+        "text": "Declare a moratorium on executions at the federal level with a view to definitively abolishing the death penalty for all crimes"
+       },
+       {
+        "paragraph": "26.199",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Reinstate a moratorium on the death penalty at the federal and state levels where applicable, aiming at its complete abolition"
+       },
+       {
+        "paragraph": "26.200",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Immediately introduce a moratorium on the federal death penalty and cease sentencing juvenile offenders to life without parole"
+       },
+       {
+        "paragraph": "26.202",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Establish a moratorium on the death penalty with a view to its eventual abolition and consider ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "26.203",
+        "by": "Liechtenstein",
+        "position": "noted",
+        "text": "Establish immediately an official moratorium on executions and commute all death sentences with a view to abolishing the death penalty"
+       },
+       {
+        "paragraph": "26.204",
+        "by": "Malta",
+        "position": "supported_noted",
+        "text": "Establish a moratorium on the death penalty at the federal level with a view to complete abolition and take measures to avoid racial bias in capital punishment"
+       },
+       {
+        "paragraph": "26.205",
+        "by": "Lithuania",
+        "position": "noted",
+        "text": "Introduce an immediate moratorium on the application of the death penalty as a step towards its complete abolishment in the future"
+       },
+       {
+        "paragraph": "26.206",
+        "by": "Sweden",
+        "position": "noted",
+        "text": "Introduce a moratorium on the use of the death penalty at the federal level as a first step towards its abolition"
+       },
+       {
+        "paragraph": "26.207",
+        "by": "Mexico",
+        "position": "supported_noted",
+        "text": "Defer or suspend the application of the death penalty and expedite the adoption of a federal law to comply with the ruling of the International Court of Justice in the Avena case"
+       },
+       {
+        "paragraph": "26.208",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Take all necessary steps to work towards an immediate moratorium on the execution of the death penalty with a view to complete abolishment, in line with international human rights standards such as the right to life"
+       },
+       {
+        "paragraph": "26.209",
+        "by": "Namibia",
+        "position": "supported",
+        "text": "Commit to ending the death penalty federally and create incentives for states to enact similar bans"
+       },
+       {
+        "paragraph": "26.210",
+        "by": "Cambodia",
+        "position": "supported",
+        "text": "Consider legislatively abolishing the practice of the death penalty in all states"
+       },
+       {
+        "paragraph": "26.211",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Consider abolishing the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "26.201, 26.244",
+      "n": 2,
+      "summary": "Federal moratorium on / abolition of the death penalty",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Directly contrary measures: the federal death penalty was reinstated and the 2021 moratorium reversed; executions resumed and expanded.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 20 — Human Rights Committee: \"recommended establishing a de jure moratorium on the death penalty at the federal level and taking steps towards its abolition\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 15 — The Dui Hua Foundation: \"Executive Order 14164 reinstating capital punishment for federal crimes, for which a moratorium had been imposed in 2021, and instructing the Attorney-General to preserve it\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 20 — United Nations High Commissioner for Human Rights: \"regretted the execution of a man in Alabama by suffocation using nitrogen gas, warning that it might amount to torture or cruel, inhuman and degrading treatment\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.201",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Take into consideration the possibility of adopting a moratorium on capital executions at the state and federal levels"
+       },
+       {
+        "paragraph": "26.244",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Improve access to legal assistance for individuals who may face a death sentence"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to life",
+    "blocks": [
+     {
+      "paras": "26.212-26.218",
+      "n": 7,
+      "summary": "Prevent gun violence",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No federal gun-violence legislation was enacted; the White House Office of Gun Violence Prevention was shut down in 2025.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 19 — Human Rights Committee: \"recommended that the United States prevent and reduce gun violence by strengthening legislative and policy measures requiring background checks for all private acquisitions and transfers of firearms and ammunition\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 19 — FOR-USA (Fellowship of Reconciliation-USA): \"In March 2025, the Gun Violence Federal Health Advisory and the White House Office of Gun Violence Prevention were shut down\""
+      ],
+      "position": "7 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.212",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Strengthen regulations regarding background checks for private transfers of firearms"
+       },
+       {
+        "paragraph": "26.213",
+        "by": "China",
+        "position": "supported",
+        "text": "Address the proliferation of guns and guarantee people ’ s right to life"
+       },
+       {
+        "paragraph": "26.214",
+        "by": "Croatia",
+        "position": "supported",
+        "text": "Strengthen federal law in order to restrict access to firearms by potential abusers and implement regulations with the aim of removing the so-called “ gunshow loophole ”"
+       },
+       {
+        "paragraph": "26.215",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Take necessary measures to reduce gun violence, concerned at the large number of gun-related deaths and injuries, which disproportionately affect members of racial and ethnic minorities"
+       },
+       {
+        "paragraph": "26.216",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Cease State terrorism and punish those who commit murder, torture and disappearances and who use lethal force and violence against African-Americans and ethnic minorities"
+       },
+       {
+        "paragraph": "26.217",
+        "by": "India",
+        "position": "supported",
+        "text": "Strengthen legislation with a view to eliminating racial injustice and killings resulting from gun violence"
+       },
+       {
+        "paragraph": "26.218",
+        "by": "Norway",
+        "position": "supported",
+        "text": "Increase action to prevent excessive use of force by law enforcement officers and ensure that relevant allegations are investigated and that perpetrators are prosecuted"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Administration of justice & fair trial",
+    "blocks": [
+     {
+      "paras": "26.219-26.239, 26.241-26.243, 26.245-26.247, 26.251, 26.253-26.256, 26.258-26.260, 26.262-26.264",
+      "n": 38,
+      "summary": "Police use of force, racial profiling and accountability",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No federal legislation on police use of force or accountability was enacted and the 2022 accountable-policing executive order was reversed.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 18 — International Independent Expert Mechanism to Advance Racial Justice and Equality in Law Enforcement: \"the existing regulatory framework on the use of force was conducive to the early and unjustified use of force, including lethal force, by law enforcement officers\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 21 — Amnesty International: \"regretted the lack of action by Congress to pass the George Floyd Justice in Policing Act\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 35 — JS5 (Physicians for Human Rights; Omega Research Foundation): \"Executive Order 14148 reversed policies linked to Executive Order 14074 on advancing effective, accountable policing and criminal justice practices\""
+      ],
+      "position": "37 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.219",
+        "by": "Thailand",
+        "position": "supported",
+        "text": "Strengthen further its measures to address police brutality in accordance with existing international standards governing the use of force"
+       },
+       {
+        "paragraph": "26.220",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Take measures to combat systemic racism and police violence against people of African descent"
+       },
+       {
+        "paragraph": "26.221",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Work with state and local government on best practice on the use of force by the police and on improving relationships between law enforcement and the communities they serve"
+       },
+       {
+        "paragraph": "26.222",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Ensure that state legislatures introduce, or review and amend, statutes that authorize the use of lethal force to ensure they are in line with international law standards"
+       },
+       {
+        "paragraph": "26.223",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Take concrete measures to eliminate racial profiling by law enforcement officials and conduct credible investigations into arbitrary executions of people of African descent"
+       },
+       {
+        "paragraph": "26.224",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Adopt the legal and administrative measures necessary to carry out the investigation and punishment of cases of discriminatory police practices and the excessive use of force by security forces, including measures to stop murders such as that of George Floyd and to ensure that justice is served when they happen"
+       },
+       {
+        "paragraph": "26.225",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Continue to take concrete steps to eliminate racial discrimination and excessive use of force in policing"
+       },
+       {
+        "paragraph": "26.226",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Continue efforts to combat racial discrimination in the criminal justice system and prevent excessive use of force by law enforcement officials, especially by adopting appropriate federal legislation"
+       },
+       {
+        "paragraph": "26.227",
+        "by": "Azerbaijan",
+        "position": "supported",
+        "text": "Prevent racially discriminatory and violent practices perpetrated by law enforcement agencies against people of African descent"
+       },
+       {
+        "paragraph": "26.228",
+        "by": "Belarus",
+        "position": "supported",
+        "text": "Take urgent action to end systemic racism in police work and bring those responsible for racially motivated violence to justice"
+       },
+       {
+        "paragraph": "26.229",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Ensure that each allegation of excessive use of force by law enforcement officials is promptly and effectively investigated"
+       },
+       {
+        "paragraph": "26.230",
+        "by": "Colombia",
+        "position": "supported",
+        "text": "Continue efforts to ensure the equitable treatment of all citizens against the use of force by law enforcement officials at the federal, state and local levels"
+       },
+       {
+        "paragraph": "26.231",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Adopt the necessary measures to combat racism and police violence, including through the adoption of a comprehensive national plan to combat racial discrimination and to reform police surveillance at the federal, state and local levels, and ensure that police forces adhere to international standards on the use of force"
+       },
+       {
+        "paragraph": "26.232",
+        "by": "Côte d’Ivoire",
+        "position": "supported",
+        "text": "Adopt appropriate measures to combat the excessive use of force by the police, as well as acts of discrimination, and ensure that perpetrators are punished"
+       },
+       {
+        "paragraph": "26.233",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Investigate, in a transparent manner, all cases of disproportionate violence by law enforcement and ensure fairness to all citizens, particularly African-Americans and members of other minority communities"
+       },
+       {
+        "paragraph": "26.234",
+        "by": "Ecuador",
+        "position": "supported",
+        "text": "Redouble efforts to combat discrimination in all its forms, as well as to eliminate the excessive use of force in police work, punish abuses in accordance with law provisions and implement measures to prohibit racial profiling"
+       },
+       {
+        "paragraph": "26.235",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Further strengthen its efforts to effectively combat incidents of racial discrimination, including through the implementation of recent measures such as the “ Safe policing for safe communities ” Executive Order, prohibitions on racial profiling and monitoring of prisons"
+       },
+       {
+        "paragraph": "26.236",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Take further measures to prevent, investigate and punish the excessive use of force by law enforcement, including against minorities and migrants at the border"
+       },
+       {
+        "paragraph": "26.237",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Strengthen efforts to prevent the excessive use of force by law enforcement officials"
+       },
+       {
+        "paragraph": "26.238",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Put an end to structural racism and segregation, take measures to end police misconduct and documented human rights violations and pursue structural reforms to reduce the role of police in addressing societal problems"
+       },
+       {
+        "paragraph": "26.239",
+        "by": "Sudan",
+        "position": "supported",
+        "text": "Intensify efforts to combat human rights violations and police brutality against people of African descent"
+       },
+       {
+        "paragraph": "26.241",
+        "by": "Uganda",
+        "position": "supported",
+        "text": "Ensure that appropriate measures are taken by the police to identify and protect persons suffering from mental illness during their operations"
+       },
+       {
+        "paragraph": "26.242",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Take further action to prevent overcrowding of jails and prisons, especially during the current pandemic; eliminating or reducing mandatory minimum sentences would be crucial to this effect"
+       },
+       {
+        "paragraph": "26.243",
+        "by": "Democratic People ’ s Republic of Korea",
+        "position": "supported",
+        "text": "Take legal and practical measures to end deep-rooted racism and racial discrimination, police brutality, killings by guns and torture in national detention facilities"
+       },
+       {
+        "paragraph": "26.245",
+        "by": "South Sudan",
+        "position": "supported",
+        "text": "Continue to implement Project Safe Neighborhoods , bringing together law enforcement and the communities they serve to reduce violent crime and make neighbourhoods safer"
+       },
+       {
+        "paragraph": "26.246",
+        "by": "Croatia",
+        "position": "noted",
+        "text": "Adopt relevant national legislation that will ban issuing life without parole sentences for juveniles"
+       },
+       {
+        "paragraph": "26.247",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue taking active steps towards critical policing reform"
+       },
+       {
+        "paragraph": "26.251",
+        "by": "Kazakhstan",
+        "position": "supported",
+        "text": "Undertake the necessary law enforcement reforms"
+       },
+       {
+        "paragraph": "26.253",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Take adequate measures to put an end to police violence"
+       },
+       {
+        "paragraph": "26.254",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Ensure systematic accountability and full and prompt redress for victims in cases of police misconduct and brutality"
+       },
+       {
+        "paragraph": "26.255",
+        "by": "Malta",
+        "position": "supported",
+        "text": "Continue to reduce the role of policing as a response to societal problems largely related to poverty, while investing in direct solutions to those problems that do not involve criminalization"
+       },
+       {
+        "paragraph": "26.256",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Continue implementing reforms in order to address recurrent challenges to the promotion and protection of human rights, in particular in the field of racial discrimination and excessive use of force by the police"
+       },
+       {
+        "paragraph": "26.258",
+        "by": "Saudi Arabia",
+        "position": "supported",
+        "text": "Pursue efforts to fight discrimination based on religion and creed in investigation, inspection and other interrogation processes in the context of law enforcement"
+       },
+       {
+        "paragraph": "26.259",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Step up its efforts to address racial disparities in the criminal justice system"
+       },
+       {
+        "paragraph": "26.260",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Take urgent measures to counter institutionalized racism, especially within law enforcement agencies, and improve the legal framework with a view to eradicating discrimination and intolerance against ethnic, racial and religious groups"
+       },
+       {
+        "paragraph": "26.262",
+        "by": "South Sudan",
+        "position": "supported",
+        "text": "Redouble efforts in addressing issues of racial disparities in the criminal justice system"
+       },
+       {
+        "paragraph": "26.263",
+        "by": "South Africa",
+        "position": "supported",
+        "text": "Take further steps to reform the criminal justice system in such a way as to reform sentencing laws such as the so-called “ three strikes rule ” that have wrongly and disproportionately harmed African-American communities, with life imprisonment for non-violent crimes"
+       },
+       {
+        "paragraph": "26.264",
+        "by": "Namibia",
+        "position": "supported",
+        "text": "Adopt legislation that aims to reduce incidents of profiling by law enforcement"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Legal & institutional reform",
+    "blocks": [
+     {
+      "paras": "26.257",
+      "n": 1,
+      "summary": "Legal and institutional reforms",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The composite reforms sought saw no relevant legislative action.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 30 — International Independent Expert Mechanism to Advance Racial Justice and Equality in Law Enforcement: \"systemic racism had manifested in the disproportionate incarceration and harsher sentencing of Black individuals, perpetuating structural inequality and limiting access to justice\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.257",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Take effective measures to prevent trafficking in persons and to address the issues of overcrowding in prisons, police violence and the increase in manifestations of racism, extremism and xenophobia"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of thought, conscience & religion",
+    "blocks": [
+     {
+      "paras": "26.265-26.267",
+      "n": 3,
+      "summary": "Combat religious intolerance and Islamophobia",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Religious intolerance and Islamophobia are reported to have risen; the recommended amendment of the Civil Rights Act was not made.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 59 — Special Rapporteur on minority issues: \"recommended amending the Civil Rights Act of 1964 to cover discrimination based on religion or belief\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 88 — JS33 (Othering & Belonging Institute; Council on American-Islamic Relations): \"an increase in Islamophobia in the USA through prejudicial views, discriminatory language, violence, and policing, profiling, surveillance, torture, and detention along racial/ethnic religious lines\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.265",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Maintain religious freedom as a high priority and continue to engage the international community in constructive initiatives"
+       },
+       {
+        "paragraph": "26.266",
+        "by": "China",
+        "position": "supported",
+        "text": "Combat the increasingly severe religious intolerance and xenophobic violence"
+       },
+       {
+        "paragraph": "26.267",
+        "by": "Colombia",
+        "position": "supported",
+        "text": "Continue advancing in strengthening religious freedom, with the participation of all creeds or beliefs and civil society"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of opinion and expression & access to information",
+    "blocks": [
+     {
+      "paras": "26.268, 26.269",
+      "n": 2,
+      "summary": "Protect freedom of expression, journalists and whistle-blowers",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Stakeholders and special procedures report a decline in freedom of expression: visa revocations for speech, use of the Espionage Act, and pressure on journalists.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 36 — Several submissions (OHCHR summary): \"a decline in freedom of opinion and expression, including unjustified restrictions on media content, narrowing digital spaces, and threats against journalists and whistleblowers\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 33 — Special Rapporteur on the right to education: \"warned that those attacks signalled an erosion of intellectual freedom and democratic principles in educational settings\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.268",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Adopt new measures to guarantee freedom of expression on the Internet"
+       },
+       {
+        "paragraph": "26.269",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Guarantee freedom of expression and freedom of the media, and create safe working conditions for journalists"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to peaceful assembly",
+    "blocks": [
+     {
+      "paras": "26.270-26.272",
+      "n": 3,
+      "summary": "Protect the right to peaceful assembly",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Contrary measures: disproportionate policing of protests, new laws criminalising protest, and deportation/visa action against student protesters.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 33 — Special Rapporteur on the rights to freedom of peaceful assembly and of association: \"authorities and law enforcement entities had responded disproportionately to peaceful student-led protests, with vilification, criminalization, sanctions, arrests, detentions and the use of excessive force\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 37 — Amnesty International: \"the introduction of bills restricting the right to protest, criminalising specific forms of protest, and the use of vague and broad laws to suppress protest movements\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.270",
+        "by": "Belarus",
+        "position": "supported",
+        "text": "Ensure that the right to peaceful assembly is respected and refrain from the use of force and lethal weapons when dealing with protests"
+       },
+       {
+        "paragraph": "26.271",
+        "by": "Egypt",
+        "position": "supported",
+        "text": "Investigate any allegations of the excessive use of force by law enforcement officials against protesters and investigate any allegations of torture and reduce restrictions on the right to peaceful assembly"
+       },
+       {
+        "paragraph": "26.272",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Take steps to ensure that competent authorities at the state level refrain from enacting new laws which unduly restrict the right to freedom of peaceful assembly"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights defenders",
+    "blocks": [
+     {
+      "paras": "26.273",
+      "n": 1,
+      "summary": "Protect human rights defenders",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No policy framework to protect human rights defenders was adopted.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 69 — JS65: \"requested the USA to ... develop policies to protect human rights defenders\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.273",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Develop measures to allow migrants ’ rights defenders to carry out their work freely"
+       }
+      ]
+     },
+     {
+      "paras": "26.274",
+      "n": 1,
+      "summary": "Protect access to asylum and non-refoulement; limit immigration detention",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Access to asylum was severely curtailed, detention without due process expanded and family separation resumed - directly contrary measures.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 69 — Human Rights Committee: \"measures adopted to address migration challenges excessively restricted protection of the right to seek asylum and increased the risk of breaches of the principle of refoulement\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 90 — JS47: \"at the US-Mexico border, asylum had been all but eliminated\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.274",
+        "by": "South Sudan",
+        "position": "supported",
+        "text": "Ensure an environment in which immigrant human rights defenders can do their work freely, without threat of immigration detention and deportation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to participate in public affairs & right to vote",
+    "blocks": [
+     {
+      "paras": "26.275-26.278",
+      "n": 4,
+      "summary": "Protect voting rights and restore Voting Rights Act protections",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Federal voting-rights legislation did not pass; state-level restrictions increased with a disproportionate impact on racially marginalised voters.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 35 — Human Rights Committee: \"expressed concern at the increasing number of legislative initiatives and practices at the state level limiting the right to vote, including partisan gerrymandering, restrictions on voting by mail and burdensome voter identification\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 36 — Special Rapporteur on minority issues; Special Rapporteur on racism: \"recommended adopting the Freedom to Vote and the John R. Lewis Voting Rights Advancement Act\""
+      ],
+      "position": "3 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.275",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Ensure the exercise of the right to vote, including by demanding that states refrain from using voter identification requirements that can have a discriminatory impact on voters"
+       },
+       {
+        "paragraph": "26.276",
+        "by": "Greece",
+        "position": "supported",
+        "text": "Ensure the right to vote without discrimination by increasing access to every method of voting allowed in each state or jurisdiction"
+       },
+       {
+        "paragraph": "26.277",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Ensure that United States citizens fully exercise their voting rights"
+       },
+       {
+        "paragraph": "26.278",
+        "by": "Belarus",
+        "position": "noted",
+        "text": "Amend legislation to ensure that elections are held in accordance with international standards and in the presence of observers of the Organization for Security and Cooperation in Europe"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "26.279-26.281",
+      "n": 3,
+      "summary": "Combat trafficking in persons",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Human Rights Committee still recommends redoubling efforts and stakeholders report continuing failures in victim identification.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 38 — Human Rights Committee: \"recommended that the United States redouble its efforts to combat trafficking in persons by improving victim identification, strengthening its preventive measures\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 49 — JS22: \"reported failures in identifying and supporting victims and securing criminal convictions\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.279",
+        "by": "Republic of Moldova",
+        "position": "supported",
+        "text": "Continue to improve efforts to reduce and eliminate adult and child trafficking"
+       },
+       {
+        "paragraph": "26.280",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Strengthen its bilateral collaboration to abolish human trafficking and slavery in the fisheries industries"
+       },
+       {
+        "paragraph": "26.281",
+        "by": "Nigeria",
+        "position": "supported",
+        "text": "Continue efforts in combating human trafficking and ensure the protection of the rights of victims of trafficking, as well as the rights of migrants"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Labour rights and right to work",
+    "blocks": [
+     {
+      "paras": "26.282",
+      "n": 1,
+      "summary": "Working conditions, minimum wage and forced prison labour",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Forced prison labour continues and the right to work is reported to have worsened, with mass terminations of federal employees in 2025.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 30 — Special Rapporteur on racism: \"referred to reports of poorly paid or unpaid forced labour by prisoners, who were disproportionately from racially marginalized groups\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 50 — Elizka Relief Foundation: \"observed a worsening of the right to work, including reduction and terminations of federal employees and precarious employment of migrants\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.282",
+        "by": "Myanmar",
+        "position": "supported",
+        "text": "Strengthen sanctions against employers who engage in unfair labour practices and ensure that workers ’ rights are not violated"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & poverty",
+    "blocks": [
+     {
+      "paras": "26.283-26.285",
+      "n": 3,
+      "summary": "Address poverty, inequality and its criminalisation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Around 40 million people live in poverty; stakeholders report no measures on the structural drivers and expanding criminalisation of poverty.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 39 — Independent Expert on the enjoyment of human rights by persons with albinism: \"income inequalities remained high in the United States, with some 40 million people reportedly living in poverty\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 39 — Special Rapporteur on racism: \"referred to reports of the criminalization of poverty, which trapped people in the criminal justice system\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.283",
+        "by": "China",
+        "position": "supported",
+        "text": "Take holistic measures to eliminate rich-poor polarization and social inequality"
+       },
+       {
+        "paragraph": "26.284",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "End the criminalization of poverty, which disproportionately affects African-Americans"
+       },
+       {
+        "paragraph": "26.285",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Introduce reforms to reverse the high rates of poverty and inequality and recognize economic, social and cultural rights internally"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to adequate housing",
+    "blocks": [
+     {
+      "paras": "26.286",
+      "n": 1,
+      "summary": "Realise the right to housing and decriminalise homelessness",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Governments at all levels are reported to have failed to meet the right to housing; laws banning sleeping in public spaces spread.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 42 — Committee on the Elimination of Racial Discrimination; Human Rights Committee: \"expressed concern about the high number of persons belonging to racial and ethnic minorities affected by homelessness and recommended abolishing laws and policies that criminalized homelessness\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 53 — Human Rights Watch: \"governments at all levels had failed to meet the right to housing\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.286",
+        "by": "Ethiopia",
+        "position": "supported",
+        "text": "Further enhance activities that will lead to reducing homelessness among vulnerable groups across the country"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to an adequate standard of living",
+    "blocks": [
+     {
+      "paras": "26.287",
+      "n": 1,
+      "summary": "Honour Indigenous treaties and guarantee free, prior and informed consent",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Executive Order 14112 on Tribal self-determination and funding was revoked in March 2025; FPIC is still not guaranteed in law or practice.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 58 — Committee on the Elimination of Racial Discrimination; Human Rights Committee: \"recommended that the United States honour the treaties entered into with Indigenous Peoples, guarantee, in law and in practice, the principle of free, prior and informed consent\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 83 — Several submissions (OHCHR summary): \"Executive Order 14112, which had expanded access of Tribal Nations to federal funding and self-determination ... was revoked in March 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.287",
+        "by": "Azerbaijan",
+        "position": "supported",
+        "text": "Develop strategies for addressing the housing and sanitary problems of marginalized communities such as indigenous and migrant communities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "26.288-26.298, 26.305",
+      "n": 12,
+      "summary": "Equitable, affordable access to health care",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No move toward universal healthcare or nationwide Medicaid expansion; health inequities persist and 2025 brought cancellation of health grants.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 60 — Human Rights Watch: \"systemic racism and the cost barriers of the predominantly for-profit health care system played a huge part in health inequities\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 59 — JS9; Human Rights Watch: \"reported cancellation of grants for substance use and mental health programmes\""
+      ],
+      "position": "11 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "26.288",
+        "by": "Poland",
+        "position": "supported",
+        "text": "Protect expanded and equitable access to health care"
+       },
+       {
+        "paragraph": "26.289",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Take concrete steps to ensure the enjoyment of the human right to health by all its people without discrimination"
+       },
+       {
+        "paragraph": "26.290",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Take further measures to make health-care services accessible to vulnerable people not supported by the current health system"
+       },
+       {
+        "paragraph": "26.291",
+        "by": "Azerbaijan",
+        "position": "supported",
+        "text": "Take measures for providing health-care services to all without prejudice to race, economic situation and citizenship status of persons under its jurisdiction"
+       },
+       {
+        "paragraph": "26.292",
+        "by": "Ethiopia",
+        "position": "supported",
+        "text": "Step up its efforts, both at home and abroad, to improve the health, dignity and well-being of women, children and their families"
+       },
+       {
+        "paragraph": "26.293",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Ensure access to health care, drugs and treatment to all segments of society"
+       },
+       {
+        "paragraph": "26.294",
+        "by": "Singapore",
+        "position": "supported",
+        "text": "Continue its ongoing efforts to build a more inclusive society and reduce inequalities, including by updating its strategic plans to address the disproportionate impact of the COVID-19 pandemic on vulnerable populations"
+       },
+       {
+        "paragraph": "26.295",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Ensure equal, full and rapid access for all segments of United States society to free health care in the face of the COVID-19 pandemic"
+       },
+       {
+        "paragraph": "26.296",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Establish a public system that guarantees the right to health of its people, which has been decimated by the pandemic"
+       },
+       {
+        "paragraph": "26.297",
+        "by": "China",
+        "position": "noted",
+        "text": "Urge politicians to respect people ’ s right to life and right to health, and stop politicizing and stigmatizing the COVID-19 pandemic"
+       },
+       {
+        "paragraph": "26.298",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Guarantee the right to health, even in the context of COVID-19"
+       },
+       {
+        "paragraph": "26.305",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Make essential health services accessible to all women and girls, paying special attention to those who face multiple and intersecting forms of discrimination"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & reproductive health and rights",
+    "blocks": [
+     {
+      "paras": "26.299-26.304, 26.306-26.312",
+      "n": 13,
+      "summary": "Access to abortion and maternal health care",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The 2022 Dobbs decision removed the federal constitutional right to abortion; the Women's Health Protection Act did not pass and stakeholders report none of the supported SRHR recommendations were implemented.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 43 — Several special procedure mandate holders: \"the United States Supreme Court decision to strike down Roe v. Wade represented a setback for the rule of law and for gender equality\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 57 — JS3: \"none of the supported recommendations on sexual health and reproductive rights had been implemented\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 43 — Human Rights Committee: \"recommended adopting the Women's Health Protection Act\""
+      ],
+      "position": "13 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.299",
+        "by": "Norway",
+        "position": "supported",
+        "text": "Lift funding restrictions on United States foreign assistance to promote women ’ s full access to sexual and reproductive health and rights"
+       },
+       {
+        "paragraph": "26.300",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Clarify its approach to ensuring access to comprehensive sexual and reproductive health services"
+       },
+       {
+        "paragraph": "26.301",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Ensure that laws permitting the refusal of care based on religious and moral beliefs do not restrict women ’ s sexual and reproductive health and rights and that measures are put in place to monitor and prevent violations of these rights"
+       },
+       {
+        "paragraph": "26.302",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Reverse policies inhibiting comprehensive and universal access to voluntary sexual and reproductive health services, especially in emergency situations, and end related restrictions on foreign assistance"
+       },
+       {
+        "paragraph": "26.303",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Take action to support equitable access to sexual and reproductive health and rights services, and review policies that effectively limit foreign assistance for sexual and reproductive health and rights services abroad"
+       },
+       {
+        "paragraph": "26.304",
+        "by": "Denmark",
+        "position": "supported",
+        "text": "Rescind the Title X restrictions to ensure access to comprehensive family planning services for all"
+       },
+       {
+        "paragraph": "26.306",
+        "by": "France",
+        "position": "supported",
+        "text": "Ensure access by women and girls to sexual and reproductive rights and health"
+       },
+       {
+        "paragraph": "26.307",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Protect the sexual and reproductive health and rights of women and girls by ensuring their access to sexual and reproductive health information, commodities and services"
+       },
+       {
+        "paragraph": "26.308",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Guarantee essential health services for all, including sexual and reproductive health services"
+       },
+       {
+        "paragraph": "26.309",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Ensure universal access to sexual and reproductive health information, education and services for all"
+       },
+       {
+        "paragraph": "26.310",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Ensure access by all women to sexual and reproductive health information and services"
+       },
+       {
+        "paragraph": "26.311",
+        "by": "Netherlands",
+        "position": "supported",
+        "text": "Repeal the Helms Amendment and the Protecting Life in Global Health Assistance Policy and, in the interim, allow United States foreign assistance to be used, at a minimum, for safe abortion in cases of rape, incest and life endangerment"
+       },
+       {
+        "paragraph": "26.312",
+        "by": "New Zealand",
+        "position": "supported",
+        "text": "Ensure that its international aid allows access to sexual and reproductive health services"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "26.313",
+      "n": 1,
+      "summary": "Equitable, quality public education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Systemic funding inequities persist, book bans expanded, and the Department of Education is reported to be being dismantled.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 45 — Special Rapporteur on the right to education: \"identified systemic inequalities in the education system, including inequitable funding, overreliance on standardized testing, discriminatory disciplinary practices and the diversion of public funds to private and charter schools\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 62 — JS6: \"expressed concern at the dismantling of the Education Department\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.313",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Take further robust and comprehensive measures to promote wider and equitable access to quality education at all levels"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "26.314-26.320",
+      "n": 7,
+      "summary": "Combat discrimination against women in work, pay and public life",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Persistent discrimination in wages, employment and education is reported; no federal equal-pay legislation was enacted and DEI policies were revoked in 2025.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 75 — Elizka Relief Foundation: \"persistent discrimination against women across various sectors such as wages, employment, and education\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 51 — Abshar; IESW: \"recommended enacting federal legislation enforcing equal pay for equal work\""
+      ],
+      "position": "7 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.314",
+        "by": "Republic of Moldova",
+        "position": "supported",
+        "text": "Strengthen legislation in order to eliminate all forms of gender discrimination in employment"
+       },
+       {
+        "paragraph": "26.315",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Explore the option of introducing a by-law on mandatory paid minimum maternity leave"
+       },
+       {
+        "paragraph": "26.316",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Strengthen further equality in the workplace by moving towards universal paid maternity leave and advancing universal maternal health care"
+       },
+       {
+        "paragraph": "26.317",
+        "by": "India",
+        "position": "supported",
+        "text": "Continue reinforcing legislation to eliminate all forms of gender discrimination in employment and ensure equal pay for work of equal value in the workplace"
+       },
+       {
+        "paragraph": "26.318",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Encourage further private employers to strengthen equality and to offer paid maternity leave"
+       },
+       {
+        "paragraph": "26.319",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Implement fully the commitments in the women and peace and security agenda at the national and international levels, notably in the framework of its role as a member of the Security Council, and ensure – politically and financially – the participation of women in peace processes"
+       },
+       {
+        "paragraph": "26.320",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Strengthen further the existing non-discriminatory, inclusive and integrated approach to work to ensure women ’ s equality and the promotion and protection of these rights"
+       }
+      ]
+     },
+     {
+      "paras": "26.321",
+      "n": 1,
+      "summary": "Eliminate violence against women and girls",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Violence Against Women Act was reauthorised in 2022 with expanded tribal-jurisdiction provisions - a concrete step - but implementation gaps persist and 2025 brought funding cuts.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 53 — Human Rights Committee: \"recommended intensifying efforts to prevent, combat and eradicate all forms of violence against women and girls, paying special attention to women from minority and marginalized groups\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 70 — GFG (Global Freedom Group): \"reported funding cuts to the Violence Against Women Act and domestic violence programmes\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.321",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Eliminate the wage gap and gender-based violence and guarantee access to justice and reparation for victims"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Advancement of women",
+    "blocks": [
+     {
+      "paras": "26.324",
+      "n": 1,
+      "summary": "Women's participation in work and leadership",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Persistent gender inequality in the workforce and leadership is reported, aggravated by the 2025 DEI revocation.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 76 — IPWR (Institute for Protection of Women's Rights): \"the persistent gender inequality in the workforce ... Women, particularly women of colour, were significantly underrepresented in leadership roles and high-paying occupations\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.324",
+        "by": "Bahrain",
+        "position": "supported",
+        "text": "Continue efforts made and measures taken to ensure the protection of women ’ s and children ’ s rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: definition",
+    "blocks": [
+     {
+      "paras": "26.325",
+      "n": 1,
+      "summary": "Racial equity in child welfare and parental due process",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Racial disparities in the child-welfare system persist; recommended due-process protections for parents were not adopted.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 54 — Committee on the Elimination of Racial Discrimination: \"expressed concern about the disproportionate number of children from racial and ethnic minorities removed from their families and placed in foster care\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 54 — Human Rights Committee: \"recommended increasing due process protections for parents and reviewing the factors triggering child welfare interventions, in particular poverty and lack of financial resources\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.325",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Create a federal mechanism to provide the necessary support to boys and young men in order to avoid any delay in their psychosocial development"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Indigenous peoples",
+    "blocks": [
+     {
+      "paras": "26.326",
+      "n": 1,
+      "summary": "Honour Indigenous treaties and guarantee free, prior and informed consent",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Executive Order 14112 on Tribal self-determination and funding was revoked in March 2025; FPIC is still not guaranteed in law or practice.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 58 — Committee on the Elimination of Racial Discrimination; Human Rights Committee: \"recommended that the United States honour the treaties entered into with Indigenous Peoples, guarantee, in law and in practice, the principle of free, prior and informed consent\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 83 — Several submissions (OHCHR summary): \"Executive Order 14112, which had expanded access of Tribal Nations to federal funding and self-determination ... was revoked in March 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.326",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Develop norms that ensure free, prior and informed consultations with indigenous communities in relation to projects with a potential impact on their territories and traditional ways of life, in accordance with Sustainable Development Goals 10 and 16"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Migrants",
+    "blocks": [
+     {
+      "paras": "26.328-26.333, 26.335, 26.336, 26.338, 26.340-26.347",
+      "n": 17,
+      "summary": "Asylum access, immigration detention and deportations",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Measures run directly counter to these recommendations: asylum access was severely curtailed, detention without due process expanded and family separation resumed.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 69 — Human Rights Committee: \"measures adopted to address migration challenges excessively restricted protection of the right to seek asylum and increased the risk of breaches of the principle of refoulement\"",
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 64 — Several special procedure mandate holders: \"the misuse of the Alien Enemies Act by the Government of the United States to deny due process and enable arbitrary deportations, involving enforced disappearances\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 90 — JS47: \"at the US-Mexico border, asylum had been all but eliminated; migration enforcement escalated focusing on mass deportations\""
+      ],
+      "position": "17 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.328",
+        "by": "Myanmar",
+        "position": "supported",
+        "text": "Step up measures to protect and ensure the rights of migrants"
+       },
+       {
+        "paragraph": "26.329",
+        "by": "Egypt",
+        "position": "supported",
+        "text": "Strengthen the rights of migrant workers and their family members"
+       },
+       {
+        "paragraph": "26.330",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Institute adequate mechanisms and means to deal with migratory flows in full respect with human dignity and international standards"
+       },
+       {
+        "paragraph": "26.331",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "End the zero-tolerance policy and protect the rights of migrants"
+       },
+       {
+        "paragraph": "26.332",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Review administrative measures that criminally penalize migrants who enter the country without authorization"
+       },
+       {
+        "paragraph": "26.333",
+        "by": "Norway",
+        "position": "supported",
+        "text": "Ensure that detention conditions for immigrants, particularly for minors, comply with international human rights law"
+       },
+       {
+        "paragraph": "26.335",
+        "by": "Thailand",
+        "position": "supported",
+        "text": "Increase its efforts to protect migrants, especially those in vulnerable groups, including by seeking alternatives to detention for migrant children and ensuring access to basic services"
+       },
+       {
+        "paragraph": "26.336",
+        "by": "Slovenia",
+        "position": "supported",
+        "text": "That the United States Department of Homeland Security and the United States Immigration and Customs Enforcement agency should acknowledge the human right of families to remain united and/or be reunited"
+       },
+       {
+        "paragraph": "26.338",
+        "by": "China",
+        "position": "supported",
+        "text": "Stop incarcerating migrants, including migrant children, and guarantee the rights of migrants"
+       },
+       {
+        "paragraph": "26.340",
+        "by": "Ecuador",
+        "position": "supported",
+        "text": "Protect the rights of children who arrive in the United States and seek alternatives to the current detention system for migrant children, both unaccompanied and part of family groups, and allow them to remain under the protection of their parents"
+       },
+       {
+        "paragraph": "26.341",
+        "by": "Colombia",
+        "position": "supported",
+        "text": "Fully guarantee the human rights and fundamental freedoms of migrant children and adolescents regardless of their immigration status"
+       },
+       {
+        "paragraph": "26.342",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure that detention centres for migrants and refugees and the treatment they receive meet the basic conditions called for under international human rights law and standards"
+       },
+       {
+        "paragraph": "26.343",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Improve conditions of confinement pertaining to immigrants to meet human rights standards and international treaties"
+       },
+       {
+        "paragraph": "26.344",
+        "by": "Islamic Republic of Iran",
+        "position": "supported",
+        "text": "Stop separating young children from their migrant parents and putting them in cages"
+       },
+       {
+        "paragraph": "26.345",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Include in legislation the ban on the separation of families in the context of migration"
+       },
+       {
+        "paragraph": "26.346",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Guarantee respect for the life, dignity, security and human rights of migrants and refugees, ensure adequate conditions in detention centres, prioritize the family unit and safeguard the best interests of the child"
+       },
+       {
+        "paragraph": "26.347",
+        "by": null,
+        "position": "supported",
+        "text": "Ensure the enjoyment of human rights by minorities and vulnerable groups in the country, especially those in detention centres for migrants along the southern border of the United States (Nicaragua)."
+       }
+      ]
+     },
+     {
+      "paras": "26.327, 26.334, 26.337, 26.339",
+      "n": 4,
+      "summary": "Protect access to asylum and non-refoulement; limit immigration detention",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Access to asylum was severely curtailed, detention without due process expanded and family separation resumed - directly contrary measures.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/50/USA/2), para. 69 — Human Rights Committee: \"measures adopted to address migration challenges excessively restricted protection of the right to seek asylum and increased the risk of breaches of the principle of refoulement\"",
+       "Stakeholders' Summary (A/HRC/WG.6/50/USA/3), para. 90 — JS47: \"at the US-Mexico border, asylum had been all but eliminated\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "26.327",
+        "by": "El Salvador",
+        "position": "supported",
+        "text": "Make efforts in favour of the human rights of migrants, asylum seekers and refugees"
+       },
+       {
+        "paragraph": "26.334",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Ensure that the detention and separation of migrant families and asylum seekers are not used as punitive measures to deter irregular entry into the country"
+       },
+       {
+        "paragraph": "26.337",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Seek alternatives to the present immigration detention system and improve conditions of confinement to meet basic human rights standards"
+       },
+       {
+        "paragraph": "26.339",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Stop the cruel, inhuman and degrading treatment of migrants and asylum seekers and the separation of hundreds of minors from their families"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/USA/CO/4",
+   "session": "110th session (March 2014)",
+   "assessment_symbol": "CCPR/C/114/2",
+   "assessment_date": "adopted July 2015",
+   "round": "First follow-up round. The Committee assessed the United States across further rounds (114th, 116th, 120th sessions); the grades below are the first-round evaluation.",
+   "n": 13,
+   "grade_dist": {
+    "A": 0,
+    "B": 4,
+    "C": 8,
+    "D": 1,
+    "E": 0
+   },
+   "score": 44
+  },
+  "paragraphs": [
+   {
+    "para": "5",
+    "title": "Accountability for unlawful killing, torture and enforced disappearance",
+    "recommendation": "Ensure that all cases of unlawful killing, torture or other ill-treatment, unlawful detention or enforced disappearance are effectively, independently and impartially investigated, perpetrators (including persons in positions of command) prosecuted and sanctioned, and victims provided with effective remedies; establish the responsibility of those who provided legal pretexts for manifestly illegal behaviour; incorporate the doctrine of “command responsibility”; and declassify and publish the Senate Select Committee on Intelligence report on the CIA secret detention programme.",
+    "limbs": [
+     {
+      "limb": "(a) investigations, prosecutions and remedies",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While noting, with appreciation, the recent prosecutions of law-enforcement officials and the conviction of four Blackwater USA contractors, the Committee requires information on investigations, prosecutions or convictions of Government personnel in positions of command."
+     },
+     {
+      "limb": "(b) responsibility for legal pretexts",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee requires information on measures taken to establish the responsibility of those who provided legal pretexts for manifestly illegal behaviour. It reiterates its recommendations."
+     },
+     {
+      "limb": "(c) doctrine of command responsibility",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that no action has been taken to incorporate into its criminal law the doctrine of command responsibility for crimes under international law."
+     },
+     {
+      "limb": "(d) declassify the SSCI CIA report",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the declassification and release of over 500 pages of the report but is concerned that over 6,000 pages remain classified and that the Department of Justice does not plan to reopen investigations."
+     }
+    ]
+   },
+   {
+    "para": "10",
+    "title": "Right to life — gun violence and “Stand Your Ground” laws",
+    "recommendation": "Effectively curb gun violence, including legislation requiring background checks for all private firearm transfers and strict enforcement of the Lautenberg Amendment; and review the Stand Your Ground laws to remove far-reaching immunity and ensure necessity and proportionality in the use of deadly force.",
+    "limbs": [
+     {
+      "limb": "(a) curb gun violence; background checks",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While welcoming the Supreme Court decision upholding the federal domestic-violence firearms ban, the Committee requests information on new measures taken since the review and repeats its recommendations."
+     },
+     {
+      "limb": "(b) review Stand Your Ground laws",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee requests information on measures taken to implement the recommendation and is concerned that the immunity provided by stand-your-ground laws has, in some areas, expanded."
+     }
+    ]
+   },
+   {
+    "para": "21",
+    "title": "Guantánamo Bay — transfer, trial or release, and closure",
+    "recommendation": "Expedite the transfer of detainees designated for transfer and the periodic-review process; ensure trial or immediate release and closure of the Guantánamo Bay facility; end administrative detention without charge or trial; and deal with criminal cases through the ordinary criminal justice system rather than military commissions.",
+    "limbs": [
+     {
+      "limb": "(a) expedite transfers and review",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes steps taken to expedite the review and transfer of detainees but is concerned that, at the current rate, review hearings would not be completed for all detainees until 2020. Updated statistical data is required."
+     },
+     {
+      "limb": "(b) end administrative detention; no military commissions",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that persons continue to be held without charge or trial, in many cases for over a decade, and regrets the plans to continue prosecution by military commission, which is contrary to its recommendations."
+     }
+    ]
+   },
+   {
+    "para": "22",
+    "title": "Surveillance and the right to privacy (article 17)",
+    "recommendation": "Bring surveillance activities within and outside the United States into conformity with article 17 (legality, proportionality, necessity, regardless of nationality or location); ensure interference is authorised by publicly accessible, precise law with effective safeguards; reform oversight to include judicial involvement; refrain from mandatory third-party data retention; and ensure effective remedies for abuse.",
+    "limbs": [
+     {
+      "limb": "(a)–(b) conformity with article 17; law-based safeguards",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While the Committee welcomes the administrative measures taken, it requires information on legislative measures to ensure the safeguards are provided for by law, and is concerned the administrative measures do not adequately protect article 17 rights."
+     },
+     {
+      "limb": "(c) reform oversight; judicial involvement",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "No measures appear to have been taken since March 2014 to provide for judicial involvement in the authorization and monitoring of surveillance or to establish strong and independent oversight."
+     },
+     {
+      "limb": "(d) no mandatory third-party data retention",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee requires information on measures taken to stop the practice of mandatory retention of data by third parties."
+     },
+     {
+      "limb": "(e) effective remedies for abuse",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "No information was provided by the State party on access to remedies for persons affected in cases of abuse."
+     },
+     {
+      "limb": "extraterritorial surveillance",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes that the State party has not responded with regard to surveillance acts outside the United States and asks for more information."
+     }
+    ]
+   }
+  ]
+ }
+}

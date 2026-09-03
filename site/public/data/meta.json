@@ -1,0 +1,52 @@
+{
+ "generated": "2026-09-03",
+ "assessed_countries": [
+  "DNK",
+  "NAM",
+  "PRY",
+  "USA"
+ ],
+ "mechanisms": {
+  "upr": {
+   "name": "Universal Periodic Review",
+   "what": "A peer review of every UN member State's whole human rights record, every ~4.5 years, by the other States. This site tracks how each country implemented the recommendations it received in the 3rd cycle, judged against the UN and civil-society reports prepared for its 4th-cycle review."
+  },
+  "hrc": {
+   "name": "Human Rights Committee follow-up",
+   "what": "The ICCPR treaty body selects ~3 priority recommendations from each country's Concluding Observations. About three years later the State reports back, NGOs comment, and the Committee's Special Rapporteur grades each one A–E. These are the Committee's own gradings."
+  }
+ },
+ "scale": [
+  {
+   "grade": "A",
+   "label": "Largely implemented / action largely satisfactory",
+   "score": 100,
+   "meaning": "Information/action largely satisfactory"
+  },
+  {
+   "grade": "B",
+   "label": "Partially implemented / steps taken, further action needed",
+   "score": 70,
+   "meaning": "Information/action partially satisfactory"
+  },
+  {
+   "grade": "C",
+   "label": "Not implemented / no relevant action taken",
+   "score": 35,
+   "meaning": "Information/action not satisfactory"
+  },
+  {
+   "grade": "D",
+   "label": "No information available on implementation",
+   "score": 15,
+   "meaning": "No cooperation with the Committee"
+  },
+  {
+   "grade": "E",
+   "label": "Contrary measures taken, or recommendation rejected",
+   "score": 0,
+   "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation"
+  }
+ ],
+ "methodology": "Recommendations are grouped by their OHCHR theme and graded on the Human Rights Committee's A–E scale (CCPR/C/108/2). A concrete, on-point measure adopted in the review period scores B; a completed measure meeting the core ask scores A; only pre-existing framework, stalled bills or no action scores C; a new contrary measure or explicit rejection scores E; no information scores D. The UPR grading is a first-pass assessment for expert review; the Human Rights Committee gradings are the Committee's own."
+}

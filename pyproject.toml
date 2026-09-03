@@ -1,0 +1,23 @@
+[project]
+name = "recommendations-assessment"
+version = "0.1.0"
+description = "Track UN human rights recommendations, their source (Universal Human Rights Index), and implementation status."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4"]
+
+[project.scripts]
+recommendations = "recommendations.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["recommendations"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
