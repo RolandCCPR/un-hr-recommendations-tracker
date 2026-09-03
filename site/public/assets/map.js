@@ -62,7 +62,7 @@ export async function drawMap({ mountSel, tooltipSel, countries, worldUrl, numA3
       const bar = GRADE_ORDER.filter((gr) => m.grade_dist[gr])
         .map((gr) => `<span style="background:${GRADE_COLOR[gr]}">${gr} ${m.grade_dist[gr]}</span>`)
         .join("");
-      s += `<div style="margin-top:6px"><b>${label}</b> — score ${m.score}/100<div class="tg">${bar}</div></div>`;
+      s += `<div style="margin-top:6px"><b>${label}</b> — ${m.score.toFixed(2)} / 5<div class="tg">${bar}</div></div>`;
     }
     return s;
   }

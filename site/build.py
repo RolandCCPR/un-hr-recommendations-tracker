@@ -39,8 +39,9 @@ ASSETS = PUBLIC / "assets"
 SLUG_A3 = {"united-states": "USA", "denmark": "DNK", "namibia": "NAM",
            "paraguay": "PRY"}
 
-# Grade -> score on a 0-100 implementation scale (drives the choropleth colour).
-GRADE_SCORE = {"A": 100, "B": 70, "C": 35, "D": 15, "E": 0}
+# Grade -> points on a 1-5 ordinal scale (E=1 .. A=5). The country/mechanism
+# score is the mean of these points; it drives the choropleth colour.
+GRADE_SCORE = {"A": 5, "B": 4, "C": 3, "D": 2, "E": 1}
 GRADE_MEANING = {g.value: g.committee_meaning for g in Grade if g.value != "not_assessed"}
 GRADE_LABEL = {g.value: g.label for g in Grade if g.value != "not_assessed"}
 
@@ -75,11 +76,11 @@ def _collapse_ranges(paras):
     return ", ".join(parts)
 
 
-def _score(dist: dict[str, int]) -> int | None:
+def _score(dist: dict[str, int]) -> float | None:
     tot = sum(dist.values())
     if not tot:
         return None
-    return round(sum(GRADE_SCORE[g] * n for g, n in dist.items()) / tot)
+    return round(sum(GRADE_SCORE[g] * n for g, n in dist.items()) / tot, 2)
 
 
 # --------------------------------------------------------------------------- UPR
@@ -264,9 +265,12 @@ def main():
                        "the core ask scores A; only pre-existing framework, "
                        "stalled bills or no action scores C; a new contrary "
                        "measure or explicit rejection scores E; no information "
-                       "scores D. The UPR grading is a first-pass assessment for "
-                       "expert review; the Human Rights Committee gradings are "
-                       "the Committee's own.",
+                       "scores D. Each grade is worth points (E=1, D=2, C=3, "
+                       "B=4, A=5) and a country's score for a mechanism is the "
+                       "average of those points across all its graded items, "
+                       "between 1 and 5. The UPR grading is a first-pass "
+                       "assessment for expert review; the Human Rights Committee "
+                       "gradings are the Committee's own.",
     }
     (DATA / "meta.json").write_text(
         json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -278,8 +282,8 @@ def main():
     for a3 in sorted(SLUG_A3.values()):
         u = summaries[a3]["upr"]
         hh = summaries[a3]["hrc"]
-        print(f"  {a3}: UPR score {u['score']:>3} (n={u['n']:>3})   "
-              f"HRC score {hh['score']:>3} (n={hh['n']:>2})")
+        print(f"  {a3}: UPR score {u['score']:>4}/5 (n={u['n']:>3})   "
+              f"HRC score {hh['score']:>4}/5 (n={hh['n']:>2})")
     print(f"data written to {DATA.relative_to(ROOT)}")
 
 
@@ -293,7 +297,7 @@ def build_sqlite(details, a3_name):
     CREATE TABLE assessment (
         id INTEGER PRIMARY KEY, country_a3 TEXT, mechanism TEXT,
         scope TEXT, source_symbol TEXT, review TEXT,
-        n INTEGER, score INTEGER,
+        n INTEGER, score REAL,
         a INTEGER, b INTEGER, c INTEGER, d INTEGER, e INTEGER
     );
     CREATE TABLE upr_recommendation (

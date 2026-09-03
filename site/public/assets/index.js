@@ -27,8 +27,8 @@ const $ = (s) => document.querySelector(s);
       map.paint(b.dataset.mech);
       $("#map-cap").textContent =
         b.dataset.mech === "upr"
-          ? "Shading: UPR 3rd-cycle implementation score (0–100)."
-          : "Shading: Human Rights Committee follow-up score (0–100).";
+          ? "Shading: UPR 3rd-cycle implementation score (average grade, 1–5)."
+          : "Shading: Human Rights Committee follow-up score (average grade, 1–5).";
     });
   });
 
@@ -40,8 +40,8 @@ const $ = (s) => document.querySelector(s);
       return `<a class="card" href="country.html?c=${c.a3}">
         <h3>${esc(c.name)}</h3>
         <div class="scores">
-          <div>UPR<b style="color:${scoreColor(u.score)}">${u.score}</b>${u.n} recs</div>
-          <div>HR Cttee<b style="color:${scoreColor(h.score)}">${h.score}</b>${h.n} items</div>
+          <div>UPR<b style="color:${scoreColor(u.score)}">${u.score.toFixed(1)}</b>${u.n} recs · /5</div>
+          <div>HR Cttee<b style="color:${scoreColor(h.score)}">${h.score.toFixed(1)}</b>${h.n} items · /5</div>
         </div>
         ${distBar(u.grade_dist)}
       </a>`;

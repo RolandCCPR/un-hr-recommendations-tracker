@@ -86,21 +86,26 @@ support adding a custom domain (`Settings → Domains` / `Custom domain`).
 
 ## What the grades mean
 
-The map and pages use the Human Rights Committee's A–E scale:
+The map and pages use the Human Rights Committee's A–E scale, each grade worth
+points on a 1–5 ordinal scale:
 
-| | | score used for the map |
+| | | points |
 |---|---|---|
-| **A** | largely implemented / action largely satisfactory | 100 |
-| **B** | partially implemented / concrete steps taken, more needed | 70 |
-| **C** | not implemented / no relevant action | 35 |
-| **D** | no information | 15 |
-| **E** | contrary measures taken, or recommendation rejected | 0 |
+| **A** | largely implemented / action largely satisfactory | 5 |
+| **B** | partially implemented / concrete steps taken, more needed | 4 |
+| **C** | not implemented / no relevant action | 3 |
+| **D** | no information | 2 |
+| **E** | contrary measures taken, or recommendation rejected | 1 |
 
-A country's score for a mechanism is the average of its graded items. The
-**Universal Periodic Review** gradings are a first-pass assessment for expert
-review (built from the UN compilation and stakeholder reports). The **Human
-Rights Committee** gradings are the Committee's own, from its follow-up
-evaluation documents.
+A country's **score for a mechanism is the average of those points** across all
+its graded items — a number between 1 and 5. The map shades from red (1) through
+yellow (3) to green (5). The **Universal Periodic Review** gradings are a
+first-pass assessment for expert review (built from the UN compilation and
+stakeholder reports). The **Human Rights Committee** gradings are the Committee's
+own, from its follow-up evaluation documents.
+
+To use a different weighting, change `GRADE_SCORE` near the top of `build.py`
+and re-run `python site/build.py`.
 
 ## No internet dependencies
 

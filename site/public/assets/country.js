@@ -110,13 +110,13 @@ function hrcSection(hrc) {
   $("#summary").innerHTML = `
     <div class="box">
       <div class="lbl">Universal Periodic Review</div>
-      <div class="big" style="color:${scoreColor(um.score)}">${um.score}<span style="font-size:1rem;color:var(--muted)">/100</span></div>
+      <div class="big" style="color:${scoreColor(um.score)}">${um.score.toFixed(2)}<span style="font-size:1rem;color:var(--muted)"> / 5</span></div>
       <div>${um.n} recommendations · ${esc(um.cycle)}</div>
       ${distBar(um.grade_dist)}
     </div>
     <div class="box">
       <div class="lbl">Human Rights Committee</div>
-      <div class="big" style="color:${scoreColor(hm.score)}">${hm.score}<span style="font-size:1rem;color:var(--muted)">/100</span></div>
+      <div class="big" style="color:${scoreColor(hm.score)}">${hm.score.toFixed(2)}<span style="font-size:1rem;color:var(--muted)"> / 5</span></div>
       <div>${hm.n} graded limbs · ${esc(hm.co_symbol)}</div>
       ${distBar(hm.grade_dist)}
     </div>`;

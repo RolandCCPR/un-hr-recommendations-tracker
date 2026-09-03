@@ -2,17 +2,18 @@
 export const GRADE_COLOR = { A: "#1a9850", B: "#91cf60", C: "#fee08b", D: "#cfd4da", E: "#d73027" };
 export const GRADE_ORDER = ["A", "B", "C", "D", "E"];
 
-// Continuous 0-100 -> red..yellow..green (piecewise, mirrors d3.interpolateRdYlGn roughly)
+// Score on the 1-5 grade scale (E=1 .. A=5) -> red..yellow..green.
+// Anchored at the integer grade points: 1 red, 2 orange, 3 yellow, 4 light green, 5 green.
 export function scoreColor(s) {
   if (s == null) return "#e6e6e6";
   const stops = [
-    [0, [215, 48, 39]],
-    [25, [244, 109, 67]],
-    [50, [254, 224, 139]],
-    [70, [166, 217, 106]],
-    [100, [26, 152, 80]],
+    [1, [215, 48, 39]],
+    [2, [244, 109, 67]],
+    [3, [254, 224, 139]],
+    [4, [166, 217, 106]],
+    [5, [26, 152, 80]],
   ];
-  s = Math.max(0, Math.min(100, s));
+  s = Math.max(1, Math.min(5, s));
   for (let i = 1; i < stops.length; i++) {
     if (s <= stops[i][0]) {
       const [x0, c0] = stops[i - 1], [x1, c1] = stops[i];
