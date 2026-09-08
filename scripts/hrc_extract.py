@@ -35,6 +35,10 @@ CO_RE = re.compile(r"CCPR/C/([A-Z]{2,4})/CO/(\d+)")
 GRADE = re.compile(r"\[([ABCDE])[12]?\]")
 PTS = {"A": 5, "B": 4, "C": 3, "D": 2, "E": 1}
 
+# Session -> calendar year, for the few reports that carry no "Adopted by the
+# Committee at its Nth session (dates)" line to parse.
+SESSION_YEAR = {112: 2014, 117: 2016, 128: 2020}
+
 # Editorial topic titles for pre-2019 evaluations where the UN document gave
 # none. Short, neutral, in the Committee's own naming style. Flagged as
 # editorial in the site methodology.
@@ -341,7 +345,8 @@ def main():
                 "assessment_symbol": report_sym,
                 "assessment_session": adopt_s,
                 "assessment_date": adopt_d,
-                "assessment_year": _year(adopt_d) or (2011 + (s - 100) // 3),
+                "assessment_year": (_year(adopt_d) or SESSION_YEAR.get(adopt_s)
+                                    or (2011 + (adopt_s - 100) // 3)),
                 "header_grades": hg,
                 "paragraphs": paras,
                 "titles_editorial": code in EDITORIAL_TITLES,
