@@ -22,6 +22,7 @@ from __future__ import annotations
 import collections
 import datetime as _dt
 import json
+import re
 import sqlite3
 import sys
 from pathlib import Path
@@ -195,6 +196,144 @@ def hrc_detail(rec: dict):
     return {"meta": meta, "paragraphs": paras, "history": hist}
 
 
+# --------------------------------------------------------- methodology page
+import html as _html  # noqa: E402
+
+DOCS_MD = ROOT / "docs" / "METHODOLOGY.md"
+
+
+def _md_inline(s: str) -> str:
+    s = _html.escape(s, quote=False)
+    s = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", s)
+    s = re.sub(r"(?<!\w)\*([^*\s][^*]*?)\*(?!\w)", r"<em>\1</em>", s)
+    s = re.sub(r"`([^`]+)`", r"<code>\1</code>", s)
+    return s
+
+
+def _logical_lines(md: str):
+    """Un-wrap soft line breaks: a line continues the previous one unless it is
+    blank, a heading, a rule, or a list marker."""
+    out: list[str] = []
+    for l in md.split("\n"):
+        st = l.strip()
+        is_block = (not st or st == "---"
+                    or re.match(r"#{1,3}\s", st)
+                    or re.match(r"[ ]{2,}[-*]\s", l)
+                    or re.match(r"[-*]\s", st)
+                    or (re.match(r"\d+\.\s", l) and not l[:1].isspace()))
+        if is_block:
+            out.append("" if not st else l.rstrip())
+        elif out and out[-1] != "":
+            out[-1] = out[-1].rstrip() + " " + st
+        else:
+            out.append(st)
+    return out
+
+
+def _md_to_html(md: str) -> str:
+    out: list[str] = []
+    ul = ol = li = sub = False   # open-tag flags
+
+    def close_sub():
+        nonlocal sub
+        if sub:
+            out.append("</ul>"); sub = False
+
+    def close_li():
+        nonlocal li
+        close_sub()
+        if li:
+            out.append("</li>"); li = False
+
+    def close_all():
+        nonlocal ul, ol
+        close_li()
+        if ul:
+            out.append("</ul>"); ul = False
+        if ol:
+            out.append("</ol>"); ol = False
+
+    for ln in _logical_lines(md):
+        s = ln.strip()
+        if not s:
+            close_li(); continue          # blank between list items: keep the list open
+        if s == "---":
+            close_all(); out.append("<hr>"); continue
+        m = re.match(r"(#{1,3})\s+(.*)", s)
+        if m:
+            close_all()
+            t = {1: "h1", 2: "h2", 3: "h3"}[len(m.group(1))]
+            out.append(f"<{t}>{_md_inline(m.group(2))}</{t}>")
+            continue
+        m = re.match(r"[ ]{2,}[-*]\s+(.*)", ln)          # nested bullet
+        if m and (ol or ul):
+            if not sub:
+                out.append("<ul>"); sub = True
+            out.append(f"<li>{_md_inline(m.group(1))}</li>")
+            continue
+        m = re.match(r"(\d+)\.\s+(.*)", ln)              # ordered item
+        if m and not ln[:1].isspace():
+            if ul:
+                close_all()
+            close_li()
+            if not ol:
+                out.append("<ol>"); ol = True
+            out.append(f"<li>{_md_inline(m.group(2))}")
+            li = True
+            continue
+        m = re.match(r"[-*]\s+(.*)", s)                  # top bullet
+        if m:
+            if ol:
+                close_all()
+            close_sub()
+            if not ul:
+                out.append("<ul>"); ul = True
+            out.append(f"<li>{_md_inline(m.group(1))}</li>")
+            continue
+        close_all()
+        if s.startswith("*") and s.endswith("*") and "**" not in s:
+            out.append(f'<p class="note"><em>{_md_inline(s[1:-1])}</em></p>')
+        else:
+            out.append(f"<p>{_md_inline(s)}</p>")
+    close_all()
+    return "\n".join(out)
+
+
+def render_methodology(generated: str):
+    if not DOCS_MD.exists():
+        return
+    md = DOCS_MD.read_text(encoding="utf-8")
+    first = re.match(r"#\s+(.*)", md.strip())
+    title = first.group(1) if first else "Methodology"
+    body = _md_to_html(re.sub(r"^#\s+.*\n", "", md, count=1))
+    page = f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Methodology — UNHRRIT</title>
+<link rel="stylesheet" href="assets/app.css" />
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <p class="crumbs"><a href="index.html">◂ Map</a></p>
+    <h1>{_html.escape(title)}</h1>
+    <p class="sub">Data generated {generated}.</p>
+  </div>
+</header>
+<main>
+  <div class="wrap doc">
+{body}
+    <p class="note" style="margin-top:30px"><a href="index.html">◂ Back to the world map</a></p>
+  </div>
+</main>
+</body>
+</html>
+"""
+    (PUBLIC / "methodology.html").write_text(page, encoding="utf-8")
+
+
 # ------------------------------------------------------------------------- write
 def main():
     DATA.mkdir(parents=True, exist_ok=True)
@@ -316,6 +455,7 @@ def main():
         json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
 
     build_sqlite(details)
+    render_methodology(meta["generated"])
 
     print(f"countries.json : {len(countries)} rows, {len(details)} assessed "
           f"({len(upr)} with UPR, {len(hrc_all)} with HR Committee)")

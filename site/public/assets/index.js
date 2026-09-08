@@ -109,5 +109,7 @@ const $ = (s) => document.querySelector(s);
     )
     .join("");
 
-  $("#methodology").textContent = meta.methodology;
+  $("#methodology").innerHTML =
+    esc(meta.methodology) +
+    ' Please see full methodology <a href="methodology.html">here</a>.';
 })();

@@ -234,3 +234,16 @@ footer.site { border-top: 1px solid var(--line); background: var(--panel); font-
 footer.site .wrap { padding: 20px; }
 
 .disclaimer { background: #fff8e6; border: 1px solid #f0d98b; border-radius: 8px; padding: 10px 14px; font-size: 0.88rem; margin: 14px 0; }
+
+/* methodology / doc page */
+.wrap.doc { max-width: 760px; }
+.wrap.doc h2 { margin-top: 30px; border-top: 1px solid var(--line); padding-top: 18px; }
+.wrap.doc h2:first-of-type { border-top: 0; padding-top: 0; }
+.wrap.doc h3 { margin-top: 18px; font-size: 0.98rem; }
+.wrap.doc p, .wrap.doc li { line-height: 1.6; }
+.wrap.doc ul, .wrap.doc ol { padding-left: 26px; }
+.wrap.doc ol > li { margin: 8px 0; }
+.wrap.doc ul ul { margin: 5px 0; }
+.wrap.doc hr { border: 0; border-top: 1px solid var(--line); margin: 22px 0; }
+.wrap.doc code { background: var(--panel); border: 1px solid var(--line); border-radius: 3px; padding: 0 3px; font-size: 0.85em; }
+.wrap.doc p.note em { color: var(--muted); }
