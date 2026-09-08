@@ -92,8 +92,8 @@ function hrcSection(hrc) {
   return `
     <h2>Human Rights Committee — follow-up to ${esc(m.co_symbol)}</h2>
     <div class="disclaimer">${esc(m.caveat)}</div>
-    <p class="note">Committee's evaluation: <strong>${esc(m.assessment_symbol)}</strong>${
-      m.year ? `, as of ${m.year}` : ""}. Priority paragraphs: ${esc((m.followup_paras || []).join(", "))}.${
+    <p class="note">Committee's grading: <strong>${esc(m.assessment_symbol)}</strong>${
+      m.year ? `, from ${m.year}` : ""}.${
       m.titles_editorial ? " Topic titles below are added by us for navigation (the document of this period gave none)." : ""}</p>
     ${hist}
     ${paras}`;
