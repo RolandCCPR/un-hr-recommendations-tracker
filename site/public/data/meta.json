@@ -3,9 +3,19 @@
  "n_assessed": 114,
  "n_hrc": 114,
  "n_upr": 4,
+ "upr_countries": [
+  "Denmark",
+  "Namibia",
+  "Paraguay",
+  "United States of America"
+ ],
  "hrc_year_range": [
   2015,
   2026
+ ],
+ "hrc_session_range": [
+  112,
+  145
  ],
  "hrc_caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
  "mechanisms": {
@@ -15,7 +25,7 @@
   },
   "hrc": {
    "name": "Human Rights Committee follow-up",
-   "what": "The ICCPR treaty body selects two to four priority recommendations from each country's Concluding Observations. About three years later the State reports back, NGOs may comment, and the Committee's Special Rapporteur grades each one A–E. Every grade on the map is the Committee's own, taken verbatim from the Rapporteur's follow-up report; each country shows its most recent evaluation."
+   "what": "The ICCPR treaty body selects two to four priority recommendations from each country's Concluding Observations. About three years later the State reports back, NGOs may comment, and the Committee's Special Rapporteur grades each one A–E (the scale has been used in this tabular form since 2013). The map carries every country whose most recent follow-up evaluation falls between the Committee's 112th (2015) and 145th (2026) sessions — 114 countries, every grade taken verbatim from the Rapporteur's report. Countries with no colour have not completed the procedure in that window."
   }
  },
  "scale": [

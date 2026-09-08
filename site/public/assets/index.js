@@ -11,6 +11,16 @@ const $ = (s) => document.querySelector(s);
 
   $("#generated").textContent = meta.generated;
 
+  const [ys, ye] = meta.hrc_year_range || [];
+  const [ss, se] = meta.hrc_session_range || [];
+  $("#coverage").innerHTML =
+    `<strong>Coverage.</strong> Human Rights Committee follow-up gradings for ` +
+    `<strong>${meta.n_hrc} countries</strong> — each country's most recent ` +
+    `evaluation, from the Committee's <strong>${ss}th–${se}th sessions ` +
+    `(${ys}–${ye})</strong>. Grey = no evaluation completed in that window. ` +
+    `UPR implementation is assessed for ${meta.n_upr} countries ` +
+    `(${(meta.upr_countries || []).join(", ")}).`;
+
   const map = await drawMap({
     mountSel: "#map",
     tooltipSel: "#tt",

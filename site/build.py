@@ -254,8 +254,11 @@ def main():
         "n_assessed": len(details),
         "n_hrc": len(hrc_all),
         "n_upr": len(upr),
+        "upr_countries": [details[a]["name"] for a in sorted(SLUG_A3.values())],
         "hrc_year_range": [min(h["assessment_year"] for h in hrc_all.values()),
                            max(h["assessment_year"] for h in hrc_all.values())],
+        "hrc_session_range": [min(h["assessment_session"] for h in hrc_all.values()),
+                              max(h["assessment_session"] for h in hrc_all.values())],
         "hrc_caveat": HRC_CAVEAT,
         "mechanisms": {
             "upr": {
@@ -273,10 +276,18 @@ def main():
                         "recommendations from each country's Concluding "
                         "Observations. About three years later the State reports "
                         "back, NGOs may comment, and the Committee's Special "
-                        "Rapporteur grades each one A–E. Every grade on the "
-                        "map is the Committee's own, taken verbatim from the "
-                        "Rapporteur's follow-up report; each country shows its "
-                        "most recent evaluation.",
+                        "Rapporteur grades each one A–E (the scale has been used "
+                        "in this tabular form since 2013). The map carries every "
+                        "country whose most recent follow-up evaluation falls "
+                        f"between the Committee's "
+                        f"{min(h['assessment_session'] for h in hrc_all.values())}th "
+                        f"({min(h['assessment_year'] for h in hrc_all.values())}) "
+                        "and "
+                        f"{max(h['assessment_session'] for h in hrc_all.values())}th "
+                        f"({max(h['assessment_year'] for h in hrc_all.values())}) "
+                        f"sessions — {len(hrc_all)} countries, every grade taken "
+                        "verbatim from the Rapporteur's report. Countries with no "
+                        "colour have not completed the procedure in that window.",
             },
         },
         "scale": [
