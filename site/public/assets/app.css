@@ -51,6 +51,7 @@ main .wrap { padding-top: 28px; padding-bottom: 60px; }
 h2 { font-size: 1.2rem; margin: 34px 0 10px; letter-spacing: -0.01em; }
 h3 { font-size: 1.02rem; margin: 22px 0 8px; }
 p.lead { font-size: 1.02rem; color: #333; max-width: 70ch; }
+p.lead.intro { max-width: none; }
 p.note { color: var(--muted); font-size: 0.9rem; }
 
 .controls {

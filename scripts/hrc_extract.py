@@ -238,11 +238,26 @@ def parse_limbs(ev: str, name: str = ""):
         grade = m.group(1).upper()
         label = _ws(m.group(2) or "").strip(" :.-–,")
         raw = ev[m.end(): marks[j + 1].start() if j + 1 < len(marks) else len(ev)]
-        # a label sometimes sits just inside the text ("(a), (b) and (c) The Committee…")
-        lm = re.match(r"\s*(" + _LABEL + r")\s+(?=(?:The|While|With|As|Recalling|Concerning|Regarding|Noting)\b)", raw)
-        if not label and lm:
-            label = _ws(lm.group(1)).strip(" :.-–,")
-            raw = raw[lm.end():]
+        # the scope of the grade ("(a), (b) and (c)") sometimes sits at the front
+        # of the evaluation text instead of in the label slot. Pull it out — an
+        # optional single "(x)" that begins the itemised comment stays in the text.
+        if not label:
+            _SCOPE = (r"\(\s*[a-z0-9]{1,3}\s*\)"
+                      r"(?:[\s,]*(?:and\s+|&\s+|to\s+|[-–]\s*)?[\s,]*\(\s*[a-z0-9]{1,3}\s*\))+")
+            lm = re.match(
+                r"\s*(" + _SCOPE + r")\s+"
+                r"(?=(?:\([a-z0-9]{1,3}\)\s+)?"
+                r"(?:The|While|With|As|Recalling|Concerning|Regarding|Noting|It|In)\b)",
+                raw)
+            if lm:
+                label = _ws(lm.group(1)).strip(" :.-–,")
+                raw = raw[lm.end():]
+                # the greedy scope may have swallowed the single "(x)" that
+                # begins the itemised comment — push it back onto the text
+                tail = re.match(r"^(.+\))\s+(\([a-z0-9]{1,3}\))$", label)
+                if tail and re.match(r'[A-Z"]', raw):
+                    label = tail.group(1).strip()
+                    raw = tail.group(2) + " " + raw
         txt = _scrub(raw, name)
         if len(txt) < 20:
             continue

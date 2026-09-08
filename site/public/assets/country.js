@@ -69,14 +69,14 @@ function hrcSection(hrc) {
             .map(
               (l) => `<div class="hrc-limb">
                 <div class="lh">${chip(l.grade)}
-                  <span class="name">${l.limb ? esc(l.limb) : "whole paragraph"}</span>
+                  <span class="name">${l.limb ? esc(l.limb) : "Concluding Observation"}</span>
                   <span class="meaning">— ${esc(l.meaning)}</span></div>
                 <p class="ev">${esc(l.eval)}</p></div>`
             )
             .join("")
-        : `<p class="ev note">The evaluation text for this paragraph was not captured; the grade above is from the Committee's summary.</p>`;
+        : `<p class="ev note">The evaluation text for this Concluding Observation was not captured; the grade above is from the Committee's summary.</p>`;
       return `<div class="hrc-para">
-        <h3>Paragraph ${esc(p.para)}${p.title ? " — " + esc(p.title) : ""}${hg}</h3>
+        <h3>Concluding Observation ${esc(p.para)}${p.title ? " — " + esc(p.title) : ""}${hg}</h3>
         ${p.recommendation ? `<div class="rec"><em>Recommendation:</em> ${esc(p.recommendation)}</div>` : ""}
         ${limbs}
       </div>`;
@@ -94,6 +94,8 @@ function hrcSection(hrc) {
     <div class="disclaimer">${esc(m.caveat)}</div>
     <p class="note">Committee's grading: <strong>${esc(m.assessment_symbol)}</strong>${
       m.year ? `, from ${m.year}` : ""}.${
+      (m.followup_paras && m.followup_paras.length)
+        ? ` Priority Concluding Observations: ${esc(m.followup_paras.join(", "))}.` : ""}${
       m.titles_editorial ? " Topic titles below are added by us for navigation (the document of this period gave none)." : ""}</p>
     ${hist}
     ${paras}`;
@@ -137,7 +139,7 @@ function hrcSection(hrc) {
   boxes.push(`<div class="box">
     <div class="lbl">Human Rights Committee${hm.year ? " · " + hm.year : ""}</div>
     <div class="big" style="color:${scoreColor(hm.score)}">${hm.score.toFixed(2)}<span> / 5</span></div>
-    <div>${hm.n} graded limbs · ${esc(hm.co_symbol)}</div>
+    <div>${hm.n} grades · ${esc(hm.co_symbol)}</div>
     ${distBar(hm.grade_dist)}</div>`);
   $("#summary").innerHTML = boxes.join("");
 
