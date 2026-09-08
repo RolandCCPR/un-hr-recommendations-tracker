@@ -46,10 +46,23 @@ training/
   blindtest/                                CO + State + NGO docs used for the
                                             blind grading test
 
+scripts/hrc_extract.py     parses the HR Committee follow-up grade for EVERY
+                           country from the Rapporteur's reports (sessions
+                           109-145) -> site/data/hrc_all.json (~114 countries,
+                           most recent evaluation each, grades normalised,
+                           verbatim text, editorial titles for pre-2019)
+training/ccpr_followup/reports/   the 120 report text extracts it reads
+
 site/
-  build.py                consolidates everything -> site/assessments.db + JSON
-  data/hrc_followup.py     the HR Committee follow-up grades (hand-entered)
+  build.py                consolidates UPR (4 countries) + hrc_all.json (~114)
+                          -> site/assessments.db + site/public/data/*.json
+  data/hrc_followup.py     SUPERSEDED hand-entered version (4 countries); kept
+                           for reference, no longer imported by build.py
   public/                  the static website (deploy this folder)
+    index.html / index.js  world map + sortable country table (~114 rows)
+    country.html/country.js per-country: UPR section (if any) + HR Committee
+                           section with the priority-recs caveat, "as of <year>",
+                           earlier-rounds history
   README.md                how to rebuild, preview and deploy
 
 output/ , countries/<slug>/output/
