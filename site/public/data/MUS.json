@@ -1,0 +1,108 @@
+{
+ "a3": "MUS",
+ "name": "Mauritius",
+ "num": 480,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MUS/CO/5",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/133/3/Add.4",
+   "assessment_session": 133,
+   "assessment_date": "11 October–5 November 2021",
+   "year": 2021,
+   "followup_paras": [
+    "8",
+    "38",
+    "40"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
+   "grade_dist": {
+    "A": 2,
+    "B": 1,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.83
+  },
+  "paragraphs": [
+   {
+    "para": "8",
+    "title": "National human rights commission",
+    "recommendation": "The State party should: (a) ensure a more transparent and participative process for the selection and appointment of the members of the Commission and of its divisions, with a view to guaranteeing their independence; (b) guarantee their tenure; (c) take measures to prevent conflicts of interest in relation to members’ duties; (d) clarify the missions of each division of the Commission; and (e) provide the Commission with sufficient and stable trained staff so as to enable it to properly discharge its mandate, in full compliance with the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles)",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While it takes note of the information provided on sections 3 (2) and (8) of the Act, the Committee regrets the lack of information on measures taken after the adoption of the Committee’s concluding observations to ensure a more transparent and participative process for the selection and appointment of the members of the Commission and of its divisions, with a view to guaranteeing their independence. The Committee also takes note of the information provided on section 3 (10) of the Act and on the Constitution. Nevertheless, it regrets the lack of information on any specific steps taken to implement the Committee’s recommendation. The Committee notes with concern the lack of information on measures taken to prevent conflicts of interest in relation to members’ duties. The Committee is also concerned by the absence of information on measures taken after the adoption of the concluding observations to clarify the missions of each division of the Commission"
+     },
+     {
+      "limb": "(e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information provided by the State party. It requests further information on: (i) whether additional investigators were recruited following the decision to do so, including information on their number and date of recruitment; and (ii) the progress made in amending the law to ensure that the Commission can recruit its own secretary"
+     }
+    ]
+   },
+   {
+    "para": "38",
+    "title": "Refugees, asylum seekers and stateless persons",
+    "recommendation": "The State party should consider establishing a national framework on asylum, including a mechanism for assessing and determining refugee status in order to also ensure respect of the principle of non-refoulement. It should take the necessary measures to prevent statelessness, and collect and publish information on the number of asylum seekers, refugees and stateless persons residing in its territory",
+    "header_grades": [
+     "C",
+     "A"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party, including on the Extradition Act 2017. Nevertheless, it is concerned that the State party continues to lack a national framework on asylum and a mechanism for assessing and determining refugee status in order to also ensure respect of the principle of non-refoulement"
+     },
+     {
+      "limb": "",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the statistics provided by the State party on the number of asylum seekers, refugees and stateless persons residing in its territory"
+     }
+    ]
+   },
+   {
+    "para": "40",
+    "title": "Juvenile justice",
+    "recommendation": "The State party should: (a) set a minimum age of criminal responsibility in its legislation in accordance with international standards; (b) finalize the setting up of juvenile justice tribunals and related procedures and provide them with adequate human, technical and financial resources, including designating specialized trained judges; (c) train police officers to handle cases relating to juvenile justice; and (d) ensure that children in conflict with the law are systematically assisted by a lawyer or counsel and appear for trial with their legal representatives",
+    "header_grades": [
+     "C",
+     "A"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes that the Children’s Bill established the minimum age of criminal responsibility at 12 years of age. It regrets that this legal reform has not been implemented, given that the bill has not been enacted into law. While the Committee notes the provision in the Children’s Bill for the establishment of a juvenile court, it notes with concern that the Children’s Bill has not been adopted. It reiterates its recommendation. The Committee takes note of the information provided by the State party on legal aid, including on the Legal Aid and Legal Assistance Act. While noting that the Children’s Bill provided for legal assistance to juveniles, the Committee regrets that those provisions have not been adopted. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(c)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the information provided on the measures taken to train police officers to handle cases relating to juvenile justice. It requests further information on the training sessions mentioned by the State party, including the number and nature of all such training activities, when they took place, the number of participants in the 16 training sessions mentioned and their substantive impact"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.83
+}

@@ -1,0 +1,120 @@
+{
+ "a3": "DEU",
+ "name": "Germany",
+ "num": 276,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/DEU/CO/7",
+   "co_session": 133,
+   "co_date": "1 November 2021",
+   "fco_symbol": "CCPR/C/DEU/FCO/7",
+   "assessment_symbol": "CCPR/C/144/2/Add.2",
+   "assessment_session": 144,
+   "assessment_date": "23 June–17 July 2025",
+   "year": 2025,
+   "followup_paras": [
+    "21",
+    "31",
+    "43"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 1,
+    "B": 3,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 4.0
+  },
+  "paragraphs": [
+   {
+    "para": "21",
+    "title": "Intersex persons",
+    "recommendation": "The State Party should take all steps necessary to ensure that all acts relating to the assignment of a sex to intersex children performed without their free and informed consent are specifically prohibited, except in cases where such interventions are absolutely necessary for medical reasons and the best interests of the child have been duly taken into account. This should include the consideration of amendments to the Law on the Protection of Children with Variations in Sex Development of 2021 within the five-year period allocated for its review, if necessary. The State Party should also ensure that all victims have access to remedies, including through a revision of the application of statutes of limitation for violations in childhood, taking steps to ensure that all victims have access to their health records and considering the establishment of a dedicated compensation fund",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information that a review is under way to evaluate how to further improve safeguards for intersex children, and that a review of the new provisions under the Act on the Protection of Children with Variations in Sexual Development will take place within five years from the adoption (that is, before May 2026). It regrets, however, the lack of concrete information provided on the steps taken during the reporting period: (a) to ensure compliance with and the adequate implementation of the Act; and (b) to guarantee the provision of remedies in practice. It reiterates its recommendations in this regard, and requests further information on the progress of the legislative review and statistical data on the number of complaints received regarding violations of the legislation, on any criminal charges that have been brought and on the compensation provided to victims"
+     }
+    ]
+   },
+   {
+    "para": "31",
+    "title": "Institutional care",
+    "recommendation": "Recalling the Committee’s previous recommendation, the State Party should: (a) Continue and step up efforts to monitor, prevent and eradicate the use of physical and chemical restraints in institutional care settings; (b) Intensify efforts to monitor, prevent and eradicate all forms of abuse against older persons and those with psychosocial disabilities in residential care facilities; (c) Consider further harmonizing the legal standards in the different Länder on the involuntary hospitalization and forced committal of those with psychosocial disabilities, ensuring that all such standards and judicial oversight mechanisms uphold the principles of necessity and proportionality; (d) Remove any exception in the law to the ban on the forced sterilization of adults with disabilities and ensure that such standards are effectively implemented; (e) Consider increasing the availability of specific complaints mechanisms to receive, investigate and facilitate the prosecution and punishment of those responsible for all forms of abuse in institutional care settings; (f) Take targeted measures to protect older persons from coronavirus disease (COVID-19) and/or other major public health emergencies and restore full regulatory oversight as soon as possible",
+    "header_grades": [
+     "B",
+     "C",
+     "A"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)–(c) and (e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While welcoming the 2022 resolution on protection from violence for people in need of care, which initiated efforts to develop practical safeguards, the Committee regrets the absence of specific data on inspections of care facilities, the outcomes thereof and the sanctions imposed in relation to the use of physical and chemical restraints. It requests further details on the process referred to by the State Party aimed at improving protection against violence in longterm residential care facilities, reducing the use of measures involving deprivation of liberty and meeting the needs of persons with psychosocial disabilities. The Committee notes with satisfaction that, following decisions of the Federal Constitutional Court, the mental health acts of the Länder are becoming increasingly uniform in the areas of physical restraint and compulsory medication, and requests further information in this regard. While noting the information provided on the standards applied in the mental health acts of all 16 Länder, the Committee regrets the lack of information on further steps taken to harmonize the legal standards in the different Länder on the involuntary hospitalization and forced committal of those with psychosocial disabilities. The Committee reiterates its recommendation in this regard. The Committee welcomes the efforts being made to amend the provisions governing care homes at the Land level, and the establishment of complaints offices in several Länder, and it appreciates that more extensive complaints mechanisms are being discussed. The Committee requests further information in this regard and specific data on the number of complaints of abuse received, the investigations that have been conducted and the results thereof, including the sanctions applied"
+     },
+     {
+      "limb": "(d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While welcoming the replacement of former section 1905 of the Civil Code with new section 1830 through the Act to Reform the Law on Guardianship, passed on 4 May 2021 and in effect since 1 January 2023, the Committee regrets that the legislation still provides for circumstances under which the forced sterilization of adults with disabilities remains permissible. It reiterates is recommendation"
+     },
+     {
+      "limb": "(f)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the steps taken by the State Party to protect older persons from COVID-19 and to ensure long-term preparedness, including by taking the decision to set up a national reserve for health protection and continuing to make protective equipment available to care facilities. It requests additional information on the progress of the national “lessons-learned” process referred to by the State Party"
+     }
+    ]
+   },
+   {
+    "para": "43",
+    "title": "Right to privacy",
+    "recommendation": "The State Party should ensure that all types of surveillance activities and interference with privacy are in full conformity with the Covenant, in particular article 17. Such activities should comply with the principles of legality, proportionality and necessity and be subject to judicial authorization. The State Party should also ensure that surveillance is subject to effective independent oversight mechanisms, namely judicial mechanisms, and ensure access to effective remedies in cases of abuse",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the State Party’s efforts to ensure that all types of surveillance activities and interference with privacy are in full conformity with the Covenant. In particular, it notes with satisfaction: (a) the reforms of the Federal Intelligence Service Act since 2021, ensuring a secure legal basis for the Service’s actions and consistent protection of fundamental rights under national and international obligations; and (b) the legislative amendments made in response to decisions of the Federal Constitutional Court in May 2020 and September 2022, including the establishment of the Independent Control Council in 2022 to provide independent legal oversight. The Committee regrets, however, the lack of concrete information on the practical implementation of the Federal Intelligence Service Act. It requests additional details on the reforms of the Federal Intelligence Service Act that have taken place since 2021 and concrete information on the work of the Independent Control Council. Furthermore, it requests data on the complaints received regarding any abuse of surveillance powers, the investigations carried out and the results thereof, and the effective remedies provided"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2012,
+    "session": 117,
+    "co_symbol": "CCPR/C/DEU/CO/6",
+    "grades": "15 B"
+   },
+   {
+    "year": null,
+    "session": 117,
+    "co_symbol": "CCPR/C/DEU/CO/6",
+    "grades": "6 C · 21 CC · 22 C"
+   },
+   {
+    "year": 2012,
+    "session": 113,
+    "co_symbol": "CCPR/C/DEU/CO/6",
+    "grades": "15 B"
+   }
+  ]
+ },
+ "combined_score": 4.0
+}

@@ -1,0 +1,96 @@
+{
+ "a3": "EST",
+ "name": "Estonia",
+ "num": 233,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/EST/CO/4",
+   "co_session": null,
+   "co_date": "21 March 2019",
+   "fco_symbol": "CCPR/C/EST/FCO/4",
+   "assessment_symbol": "CCPR/C/137/2/Add.2",
+   "assessment_session": 137,
+   "assessment_date": "27 February–24 March 2023",
+   "year": 2023,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 1,
+    "B": 1,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.6
+  },
+  "paragraphs": [
+   {
+    "para": "14",
+    "title": "Hate speech and hate crimes",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee takes note of the ongoing review and planned amendments to the Criminal Code with regard to offences of equality. It requests further information on the timeline and outcome of the review and on the content of the planned draft amendments to the specific articles of the Code. The Committee also takes note of the training provided to law enforcement officials and the development of guidelines on recording hate crimes. It requests further information on the content of the training, especially concerning hate crime, its frequency and mandatory nature. The Committee regrets the lack of information on training provided for prosecutors and judges, awareness-raising activities conducted among the public and the implementation of the plan to expand the number of web constables. It reiterates its recommendations in this respect"
+     },
+     {
+      "limb": "(c), (d) and (f)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the information on the recognition of “other base motive” as an aggravating circumstance, the Committee regrets the lack of specific steps taken to recognize hate motives as aggravating circumstances for all offences. It reiterates its recommendation. The Committee regrets the lack of information on any legislative measures taken to prohibit the public denial, justification or condoning of crimes of genocide, crimes against humanity, war crimes or hate propaganda that is racist or otherwise incites discrimination. It reiterates its recommendation. The Committee also regrets the lack of specific information on the measures taken to ensure the effective investigation, conviction and punishment of hate crimes. It reiterates its recommendation and requests statistical information in this respect for the reporting period"
+     }
+    ]
+   },
+   {
+    "para": "24",
+    "title": "Non-consensual psychiatric treatment",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided on the legal framework governing non-consensual psychiatric treatment in criminal and civil proceedings. Nevertheless, it regrets the lack of specific information on measures taken after the adoption of the concluding observations to put in place comprehensive procedures for seeking consent for the administration of psychiatric treatment and to sufficiently inform relatives and any other legal representatives of patients about the procedure for requesting the termination of coercive treatment, pursuant to article 403 of the Code of Criminal Procedure. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "28",
+    "title": "Refugees and asylum-seekers",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the information on the full respect of the principle of non-refoulement, the Committee regrets the lack of information on specific measures taken to effectively guarantee, in practice, the rights of asylum-seekers to lodge asylum applications and any steps taken to establish an independent monitoring system at border crossings. It reiterates its recommendations and requests further information on the cooperation with UNHCR. While taking note of the information on the provision of free legal aid and representation, the Committee regrets the lack of specific information on measures taken to ensure that asylumseekers are provided with legal counselling or assistance. It reiterates its recommendation and requests statistical information on the number of asylum-seekers who have received such assistance at the border during the reporting period. While taking note of the information provided on criminal liability, the Committee regrets the lack of information on any steps taken to include adequate safeguards in the Criminal Code to ensure that asylum-seekers are released from any criminal liability for illegal entry or stay. It reiterates its recommendation and requests statistical information on the number of asylum-seekers who have been accused and convicted of irregular entry or stay. The Committee takes note of the information on the termination in 2017 of proceedings on draft law 472 SE following the expiry of the mandate of the parliament. Nevertheless, it regrets the lack of information on whether similar legislation concerning the revocation of refugee status has been adopted during the reporting period or is envisaged, and requests further information"
+     },
+     {
+      "limb": "(e)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the information on the creation and provision by the Estonian Police and Border Guard Board of training modules for its officials. It requests further information on the content of the training modules, especially those covering international standards, and whether the training is mandatory for all officials who come in contact with migrants and asylum-seekers"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2010,
+    "session": 110,
+    "co_symbol": "CCPR/C/EST/CO/3",
+    "grades": "5 B · 6 B"
+   }
+  ]
+ },
+ "combined_score": 3.6
+}

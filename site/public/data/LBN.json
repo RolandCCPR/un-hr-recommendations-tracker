@@ -1,0 +1,89 @@
+{
+ "a3": "LBN",
+ "name": "Lebanon",
+ "num": 422,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/LBN/CO/3",
+   "co_session": null,
+   "co_date": "3 April 2018",
+   "fco_symbol": "CCPR/C/LBN/FCO/3",
+   "assessment_symbol": "CCPR/C/134/3/Add.3",
+   "assessment_session": 134,
+   "assessment_date": "28 February–25 March 2022",
+   "year": 2022,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.4
+  },
+  "paragraphs": [
+   {
+    "para": "20",
+    "title": "Violence against women, including domestic and sexual violence",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information provided, the Committee remains concerned at the absence of information on any specific steps taken within the reporting period to strengthen legal protection against violence against women, including domestic violence, rape, marital rape and sexual harassment, and requests provision of such information. The Committee welcomes the fact that a law criminalizing sexual harassment has been proposed and requests up-to-date information about the status of these efforts and additional details on whether harassment in all settings, including the home, will be included and on the penalties envisaged for such offences. The Committee welcomes the steps taken towards amending articles 505 and 518 of the Criminal Code. Nevertheless, it is concerned at the absence of information about the exact material scope and legal status of the amendments and requests additional information. The Committee notes the information on measures to improve data on violence against women and requests additional information about those measures, including any mechanisms to collect data about reported cases of violence against women that do not result in a conviction. It also notes the information on the State party’s commitment to ensuring victims’ access to remedies, including the 2019 initiative to facilitate legal aid. It requests additional information on this initiative, including the number of victims who have benefited from it and any data on its efficacy, and on the protection services in place to support women and girls who are victims of violence"
+     },
+     {
+      "limb": "(c) and (d)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information on the measures taken to prevent violence against women, including awareness-raising activities, measures to encourage use of a hotline to report violence and the launch in 2019 of a national strategy to combat violence against women. It requests additional information about these measures, including how they ensure that victims are able to report cases without fear of humiliation and any data on their efficacy. The Committee welcomes the information on the various training activities on how to detect and deal properly with cases of violence against women. It requests additional information about these activities, including the number of courses held for stakeholders within each relevant sector, the dates of the training courses and the number of attendees, as well as any available data on their efficacy"
+     }
+    ]
+   },
+   {
+    "para": "38",
+    "title": "Refugees and asylum seekers",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c), (d) and (f)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information on the State party’s commitment to upholding the rights of refugees and asylum seekers, the Committee remains concerned at the absence of information about any specific measures taken to implement the recommendations contained in subparagraphs (a), (c) and (f). It also regrets the absence of any information from the State party on the recommendations contained in subparagraphs (b) and (d). The Committee reiterates its recommendations and requests information on any concrete steps taken within the reporting period to implement them"
+     },
+     {
+      "limb": "(e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information that the curfews introduced in municipalities hosting large numbers of refugees were lifted after a short period and requests additional information about the specific measures taken to ensure that curfews remain an exceptional measure and that those that were imposed were lawful and strictly justified under the Covenant"
+     }
+    ]
+   },
+   {
+    "para": "40",
+    "title": "Migrant domestic workers",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information on legal reforms relevant to the protection of domestic workers, including Act No. 164 and Decree No. 168/1 of 2015. However, that information was already available to the Committee at the time of the adoption of the recommendation. The Committee also notes the steps taken to ensure that domestic workers are aware of their rights and can access available remedies, and to reform recruitment practices with a view to protecting domestic workers against abuse. Nevertheless, the Committee is concerned at the absence of information about concrete measures taken to implement its recommendation to strengthen existing protections for migrant domestic workers. It reiterates its recommendation and requests information on measures taken to implement all parts of its recommendation, including the development and material scope of the unified employment contract. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2028 (country review in 2029 in accordance with the predictable review cycle). 5"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.4
+}

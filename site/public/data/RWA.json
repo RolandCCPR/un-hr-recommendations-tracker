@@ -1,0 +1,118 @@
+{
+ "a3": "RWA",
+ "name": "Rwanda",
+ "num": 646,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/RWA/CO/4",
+   "co_session": null,
+   "co_date": "24 March 2016",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/124/2",
+   "assessment_session": 124,
+   "assessment_date": "8 October–2 November 2018",
+   "year": 2018,
+   "followup_paras": [
+    "16",
+    "20",
+    "32",
+    "40"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "16",
+    "title": "Violence against women and children",
+    "recommendation": "The State party should: (a) Make the necessary legislative amendments in order to apply the same penalties to all types of rape and repeal the provision that criminalizes the victim’s refusal to testify; (b) Ensure that cases of domestic and sexual violence are thoroughly investigated, that the perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims are adequately compensated; (c) Guarantee the issuance of protection orders in order to ensure the safety of victims; (d) Step up its efforts to guarantee the availability of a sufficient number of Isange one-stop centres and support services in all parts of the country",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (d)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the enactment of the new Penal Code, which provides for penalties, without distinction, for all perpetrators of the crime of rape, and the implicit repeal of the provision punishing victims who refuse to testify in cases alleging violence against them. It requests, however, information on the progress made in the adoption of the new Penal Code, the content, definition and punishment for the crime of rape provided therein and an update on the efforts made to explicitly repeal article 36 of Law No. 59/2008 after its implicit repeal by article 765 of the Penal Code of 2012, which is due to be replaced by the new Penal Code. The Committee notes the information provided on the assistance guaranteed to victims and the cases of gender-based violence filed and prosecuted. Nevertheless, it regrets the large discrepancy between the number of cases received by the National Public Prosecution Authority and those brought before the courts. It requests the State party to provide further information in this regard. The Committee welcomes the significant increase in the number of Isange one-stop centres throughout the country, as well as the provision of services to victims round the clock, and advises the State party to continue its efforts in this regard"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided by the State party, but regrets that the State party has not taken measures after the Committee’s concluding observations to provide guarantees for the issuance of protection orders to ensure the safety of victims. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "20",
+    "title": "Unlawful detention and allegations of torture and ill-treatment",
+    "recommendation": "The State party should: (a) Make the legislative amendments necessary to ensure that the normal maximum period of detention before a suspect is brought before a judge is 48 hours; (b) Ensure that all persons deprived of their liberty are only detained in official places of detention and are provided in practice with all legal safeguards; (c) Ensure that allegations of unlawful detention, torture and ill-treatment are promptly investigated and that the perpetrators are brought to justice; (d) Guarantee that persons who have been victims of unlawful detention, torture and ill-treatment have an effective right to remedy and redress",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information on legislative amendments regarding the normal maximum period of detention of 48 hours before suspects are brought before a judge. It requests the State party to provide information on the progress made in the review of the Law on Criminal Procedure. The Committee reiterates its recommendation. The Committee notes the information provided by the State party, but regrets the lack of information on the measures taken after the Committee’s concluding observations. The Committee remains concerned about the continuation of the State party’s denial of unlawful detention practices and the lack of a reply to reports of incommunicado detentions. The Committee reiterates its recommendation. While noting the information provided on the cases of torture and ill-treatment that have been investigated and prosecuted, the Committee remains concerned about the low number of such cases. In this regard, the Committee requests information on (a) the number of complaints of unlawful detention, torture and ill-treatment registered after the Committee’s concluding observations and the investigations and prosecutions conducted; and (b) the measures taken after the adoption of the Committee’s concluding observations to ensure that all allegations of unlawful detention, torture and ill-treatment are promptly investigated and that the perpetrators are brought to justice. The Committee notes the information provided by the State party, but requires information on the measures taken to ensure that victims of unlawful detention, torture and ill-treatment have an effective right to remedy and redress. In this regard, the State party should also provide information on the cases decided after the Committee’s concluding observations in which victims were provided with adequate compensation and other guarantees"
+     }
+    ]
+   },
+   {
+    "para": "32",
+    "title": "Prison conditions",
+    "recommendation": "The State party should continue its efforts to address overcrowding in police and military detention facilities and prisons, including through increased resort to alternative forms of detention. It should also improve detention conditions in all premises and continue its efforts to guarantee the separation of pretrial detainees from convicted prisoners",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee appreciates the information provided on the construction and renovation of prisons to bring them into line with international standards, as well as the information provided on its continued efforts to separate both children and women from other inmates, as well as pretrial detainees from convicted individuals, and encourages the State party to continue its efforts. It requests further information about which specific renovations were made in order to meet international standards, as well as the capacity of the renovated and new prisons, the number of prison personnel and the services provided to prisoners"
+     }
+    ]
+   },
+   {
+    "para": "40",
+    "title": "Freedom of expression",
+    "recommendation": "The State party should undertake the legislative measures necessary to ensure that any restrictions on the exercise of freedom of expression comply with the strict requirements set out in the Covenant. It should also refrain from prosecuting politicians, journalists and human rights defenders as a means of discouraging them from freely expressing their opinions and take immediate action to investigate attacks against them and to provide them with effective protection. The State party should also consider decriminalizing defamation and the crime of insult and ensure that hate crimes and crimes against State security are defined in a precise and narrow manner. Summary of State party’s reply While the freedom of the press and freedom of expression are recognized and guaranteed by the State, article 38 of the Constitution, as revised in 2015, exceptionally limits these freedoms in the interest of public order, good morals, the protection of young persons and children, the right of every citizen to honour and dignity and the protection of personal and family privacy. The State party announces that the new Penal Code decriminalizes defamation and related offences. Committee’s evaluation [B]: The Committee welcomes the information that defamation and related offences have been decriminalized in the new Penal Code, and requires clarification as to whether the crime of insult has also been decriminalized. [C]: The Committee regrets that no information has been given in relation to the protection afforded to politicians, journalists and human rights defenders who ar",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information that defamation and related offences have been decriminalized in the new Penal Code, and requires clarification as to whether the crime of insult has also been decriminalized"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that no information has been given in relation to the protection afforded to politicians, journalists and human rights defenders who are being prosecuted to deter them from exercising their freedom of expression. The Committee requires complete information on those matters, as well as specific information on: (a) the definitions and content of crimes such as hate crimes and crimes against State security that are envisaged in the new Penal Code; and (b) how the new Penal Code is in compliance with the State party’s international legal obligations, in particular the Covenant. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be addressed in the State party’s next periodic report. Next periodic report: 31 March 2019. 20"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.5
+}

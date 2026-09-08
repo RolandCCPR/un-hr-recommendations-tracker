@@ -1,0 +1,108 @@
+{
+ "a3": "MRT",
+ "name": "Mauritania",
+ "num": 478,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MRT/CO/2",
+   "co_session": null,
+   "co_date": "19 July 2019",
+   "fco_symbol": "CCPR/C/MRT/FCO/2",
+   "assessment_symbol": "CCPR/C/139/2/Add.3",
+   "assessment_session": 139,
+   "assessment_date": "9 October–3 November 2023",
+   "year": 2023,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 3,
+    "D": 0,
+    "E": 1
+   },
+   "score": 2.8
+  },
+  "paragraphs": [
+   {
+    "para": "11",
+    "title": "The fight against impunity and past human rights violations",
+    "recommendation": "The State party should take all necessary steps to definitively resolve the humanitarian consequences of the events of 1989 to 1991, in particular by repealing Act No. 93-23 in order to establish the facts of the offences, prosecute and appropriately punish those responsible and award full reparation to all the victims and their beneficiaries",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that no new measures appear to have been taken to implement the Committee’s recommendation since the adoption of its concluding observations. The Committee particularly regrets the absence of measures to repeal Act No. 93-23 in order to establish the facts of the offences, prosecute and appropriately punish those responsible, or to award full reparation to all the victims and their beneficiaries. The Committee reiterates its recommendation and requests further information on measures taken to ensure the effective and equitable reintegration of refugees, notably with regard to the provision of civil status documentation and the restitution of agricultural land"
+     }
+    ]
+   },
+   {
+    "para": "21",
+    "title": "Harmful practices against women and girls",
+    "recommendation": "The State party should: (a) Amend its legislation to prohibit the practice of female genital mutilation against all women and girls; (b) Ensure that all cases of female genital mutilation are promptly investigated and prosecuted, that perpetrators and accomplices are appropriately punished and that victims have access to social and medical services; (c) Strengthen awareness-raising and education programmes with a view to eradicating the practice; (d) Amend the Personal Status Code in order to prohibit marriage under the age of 18 years, without exception, and take all necessary steps to eliminate child marriage",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a) and (c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the adoption by the Council of Ministers on 6 May 2020 of a bill on combating violence against women and girls, which would make female genital mutilation punishable by law in all cases. Nevertheless, the Committee is concerned that the bill has yet to be adopted by the National Assembly, in the light of reports that the National Assembly has rejected two earlier drafts due to their “non-compliance with Islam”. The Committee requests additional information in this regard. While noting the measures taken to educate and raise awareness about female genital mutilation, the Committee regrets that the general nature of the information provided does not allow for proper assessment of the implementation of the recommendation. It requests date-specific and quantitative information on measures taken"
+     },
+     {
+      "limb": "(b) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the absence of information on investigations and prosecution of perpetrators and reiterates its recommendation in this regard. While noting the information provided on medical and social services provided to victims, the Committee regrets that the general nature of the information provided does not allow for proper assessment of the implementation of this part of the recommendation, and therefore also reiterates its recommendation in this regard. While noting the State party’s indication that awareness-raising campaigns to counter child marriage have been implemented, the Committee regrets that the information provided is too general to allow for proper assessment of implementation of the recommendation. The Committee takes note of reports indicating that child marriage is still widely practised and that government-backed bills seeking to amend the Personal Status Code in order to prohibit marriage under the age of 18 years without exception have been unsuccessful. The Committee reiterates its recommendation and requests additional and specific information on measures taken to counter child marriage"
+     }
+    ]
+   },
+   {
+    "para": "43",
+    "title": "Freedom of expression and protection of human rights defenders",
+    "recommendation": "The State party should: (a) Amend the aforementioned Acts [the Act on the criminalization of discrimination, the Act on cybercrime, the Act on combating terrorism and the Act on freedom of the press] to align them with articles 18 and 19 of the Covenant; (b) Refrain from intimidating, harassing, arresting, detaining and prosecuting human rights defenders, on the basis of loosely defined offences, for exercising their right to freedom of expression; (c) Release unconditionally all human rights defenders who are being arbitrarily detained; (d) Ensure that all human rights violations committed against human rights defenders are thoroughly and impartially investigated as quickly as possible, that those responsible are prosecuted and sentenced to penalties commensurate with the gravity of their acts and that the victims obtain redress",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the State party’s indication that no human rights defenders are currently deprived of their liberty or in arbitrary detention, the Committee takes note of reports indicating recurrent arbitrary arrest and detention of human rights defenders. It reiterates its recommendation, since human rights defenders are still detained regularly, albeit temporarily. The Committee regrets the absence of information from the State party concerning investigations and appropriate punishment of alleged human rights violations against human rights defenders. The Committee reiterates its recommendation and requests that the State party provide specific information in this regard in its next periodic report"
+     },
+     {
+      "limb": "(a) and (b)",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee regrets that the State party appears to have taken measures, in the form of recently adopted legislation, which appear contrary to its recommendation, such as the law on the protection of State symbols, the criminalization of attacks on the authority of the State and the honour of the citizen, adopted on 9 November 2021, and the law on combating manipulation of information, adopted on 24 June 2020. While noting the State party’s statement that human rights defenders are protected by the law and engage in their activities freely, without constraint or intimidation, the Committee is concerned by detailed reports indicating the continued intimidation, arbitrary arrest, detention and prosecution of human rights defenders, on the basis of loosely defined offences, for exercising their right to freedom of expression. The Committee reiterates its recommendation"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": null,
+    "session": 116,
+    "co_symbol": "CCPR/C/MRT/CO/1",
+    "grades": "5 B · 14 CCBBB · 17 CBB · 19 BB"
+   },
+   {
+    "year": null,
+    "session": 116,
+    "co_symbol": "CCPR/C/MRT/CO/1",
+    "grades": "5 B · 14 BCBBB · 17 BBC · 19 BB"
+   },
+   {
+    "year": 2013,
+    "session": 113,
+    "co_symbol": "CCPR/C/MRT/CO/1",
+    "grades": "5 B · 14 CCBBB · 17 CBB · 19 BB"
+   }
+  ]
+ },
+ "combined_score": 2.8
+}

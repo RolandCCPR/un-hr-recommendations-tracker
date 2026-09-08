@@ -1,0 +1,87 @@
+{
+ "a3": "KHM",
+ "name": "Cambodia",
+ "num": 116,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/KHM/CO/3",
+   "co_session": 134,
+   "co_date": null,
+   "fco_symbol": "CCPR/C/KHM/FCO/3",
+   "assessment_symbol": "CCPR/C/145/2/Add.2",
+   "assessment_session": 145,
+   "assessment_date": "2–19 March 2026",
+   "year": 2026,
+   "followup_paras": [
+    "9",
+    "35",
+    "39"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.0
+  },
+  "paragraphs": [
+   {
+    "para": "9",
+    "title": "Anti-corruption measures",
+    "recommendation": "The State Party should increase its efforts to prevent and eradicate corruption and impunity at all levels. It should ensure that all cases of corruption, including those related to land issues, illegal logging and contracts for development projects, are independently and thoroughly investigated, that those responsible are duly tried and adequately punished, and that victims receive full reparation. The State Party should ensure adequate protection for whistle-blowers, witnesses and victims of corruption, including by adopting the draft law on reporting persons and the draft law on witnesses, experts and victims, after open, transparent and meaningful consultations with civil society and other relevant stakeholders",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information provided by the State Party, the Committee regrets the absence of concrete measures taken during the reporting period to effectively combat corruption and to ensure adequate protection for whistle-blowers, witnesses and victims of corruption. The Committee is particularly concerned by reports of convictions and the imprisonment of civil society actors for exposing alleged corruption and illegal exploitation of natural resources. The Committee reiterates its previous recommendations and urges the State Party to adopt and implement effective measures to guarantee the protection of whistle-blowers and to ensure that civil society actors and human rights defenders are not subjected to reprisals or punishment for the legitimate exercise of their rights"
+     }
+    ]
+   },
+   {
+    "para": "35",
+    "title": "Freedom of expression",
+    "recommendation": "The Committee reiterates its previous recommendation on freedom of expression and urges the State Party to take immediate measures to ensure that everyone can freely exercise the right to freedom of expression, in accordance with article 19 of the Covenant and the Committee’s general comment No. 34 (2011) on the freedoms of opinion and expression. In doing so, the State Party should: (a) Refrain from prosecuting and imprisoning journalists, human rights defenders and other civil society actors as a means of deterring or discouraging them from freely expressing their opinions; (b) Prevent acts of harassment and intimidation against, the placement of arbitrary restrictions on, or arrests of journalists, activists and human rights defenders who merely criticize public officials or government policies; (c) Decriminalize defamation and bring any other relevant provisions of the Criminal Code and the Law on Telecommunications into line with article 19 of the Covenant; (d) Review and revise its current and pending legislation, including the Sub-Decree on the National Internet Gateway, draft amendments to the Press Law and the draft laws on cybercrimes and on access to information, to avoid the use of vague terminology and overly broad restrictions; (e) Ensure that in the formulation and enforcement of its legislation, including ministerial sub-decrees, any restrictions on the exercise of freedom of expression and association comply with the strict requirements of articles 19 (3) and 22 of the Covenant",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information provided by the State Party, including ongoing legal consultations, the Committee regrets the absence of details on concrete measures taken and their effect during the reporting period. It remains concerned by reports of the continued use of legislation that includes vague terminology and overly broad restrictions, and of judicial proceedings to silence or prosecute journalists, human rights defenders and other civil society actors, thereby deterring or discouraging freedom of expression. The Committee reiterates its previous recommendations and urges the State Party to take effective steps to ensure full protection of freedom of expression, in accordance with its obligations under the Covenant"
+     }
+    ]
+   },
+   {
+    "para": "39",
+    "title": "Participation in public affairs",
+    "recommendation": "The State Party should bring its electoral regulations and practices into full compliance with the Covenant, including article 25, by, among other things: (a) Ending all arbitrary arrests of and acts of harassment, intimidation and violence against members and supporters of opposition parties; (b) Conducting thorough and independent investigations into all allegations of harassment, intimidation and arbitrary arrest and acts of violence against members and supporters of opposition parties, in particular in the killing of Sin Khon, and bring the perpetrators to justice; (c) Ending all mass trials against members of the opposition and ensuring that all proceedings brought against them, as well as against human rights defenders, are in conformity with all of the procedural guarantees set out in the Covenant; (d) Ensuring the full and meaningful enjoyment of electoral rights by everyone, including opposition political candidates, and that all political parties can conduct an equal, free and transparent electoral campaign; (e) Guaranteeing the freedom to engage in pluralistic political debate, including by facilitating peaceful demonstrations and meetings and by refraining from using criminal laws to suppress that freedom or to exclude opposition candidates from electoral processes; (f) Strengthening the judicial and electoral mechanisms to ensure a fair electoral process, particularly in time for the 2022 commune elections and the 2023 national elections",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information provided by the State Party, the Committee regrets the lack of details on concrete measures taken during the reporting period. The Committee reiterates its recommendations and urges the State Party to take all steps necessary to ensure the effective implementation of electoral regulations in practice, guaranteeing full compliance with the Covenant, particularly article 25"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.0
+}

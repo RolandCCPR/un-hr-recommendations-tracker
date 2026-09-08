@@ -1,0 +1,72 @@
+{
+ "a3": "MLT",
+ "name": "Malta",
+ "num": 470,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MLT/CO/2",
+   "co_session": null,
+   "co_date": "28 October 2014",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/123/2",
+   "assessment_session": 123,
+   "assessment_date": "2–27 July 2018",
+   "year": 2018,
+   "followup_paras": [
+    "13",
+    "16"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 2,
+    "D": 0,
+    "E": 1
+   },
+   "score": 3.0
+  },
+  "paragraphs": [
+   {
+    "para": "13",
+    "title": "Abortion",
+    "recommendation": "The State party should revise its legislation on abortion by making exceptions to the general ban on abortion for therapeutic purposes and when the pregnancy is the result of rape or incest. The State party should ensure that reproductive health services are accessible to all women and girls throughout the country. It should also increase the number, and ensure the implementation of education and awareness programmes at the formal level (in schools) and at the informal level (through the media and other means of communication) on the importance of using contraceptives and on sexual and reproductive health rights. 2 The concluding observations the Committee adopted on the second periodic report of Burundi in October 2014 contained mistaken references to three of the four follow-up paragraphs. A corrigendum indicating the correct follow-up paragraphs (8, 13, 14 and 18) was issued on 27 April 2015. The two reminders sent to Burundi on 19 November 2015 and 19 April 2016 made reference to the wrong paragraphs. The correct follow-up paragraphs were indicated to the State party in the letter dated 13 October 2016 from the Special Rapporteur for follow-up to concluding observations. The State party challenged the [D] grade received in July 2017. The State party was notified by a note verbale on 20 November 2017 of its new deadline of 1 March 2018. No follow-up report has been received to date. 3 See https://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=INT% 2fCCPR%2fFUL%2fBDI%2f22333&Lang=en. 4 See https://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=INT% 2fCCPR%2fFUL%2fBDI%2f23652&Lang=en. 5 See https://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=INT% 2fCCPR%2fFUL%2fBDI%2f31853&Lang=en. 6 See https://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=INT% 2fCCPR%2fFUL%2fBDI%2f31841&Lang=en. 7 See http://tbinternet.ohchr.org/_layouts/TreatyBodyExternal/FollowUp.aspx?Treaty=CCPR& Lang=en",
+    "header_grades": [
+     "E",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee regrets that the State party has not acted upon the Committee’s recommendation and that the Ministry for Health does not consider there to be a medical need for therapeutic abortion. The Committee reiterates its recommendation and requests information regarding plans to bring the State party’s abortion regulations and practices into compliance with the Covenant by ensuring effective access to safe, legal abortion when the life or health of a pregnant woman or girl is at risk and when carrying a pregnancy to term would cause the woman or girl substantial pain or suffering, most notably when the pregnancy is the result of rape or incest or when it is not viable"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of specific information on educational initiatives implemented after the adoption of the concluding observations on 28 October 2014 to raise awareness about sexual and reproductive health among women, men and adolescents, as well as about effective access to reproductive health services and contraception throughout the country. The Committee requires such information, and reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "16",
+    "title": "Administrative detention of migrants and asylum seekers",
+    "recommendation": "The State party should: (a) Guarantee that administrative detention for immigration purposes is justified as reasonable, necessary and proportionate in light of the specific circumstances and used as a measure of last resort for the shortest appropriate period; (b) Further develop specific needs assessments of migrants in a vulnerable situation, particularly of unaccompanied children; (c) Guarantee that every unaccompanied child receives free legal assistance for the duration of the administrative proceedings; (d) Ensure that the principle of the best interests of the child is given due consideration in all decisions concerning unaccompanied children; (e) Establish in its legislation a specific time limit and alternatives for detention; (f) Ensure that administrative detention for immigration purposes is subjected to periodic evaluation and judicial review by an independent judicial body, in accordance with the requirements of article 9 of the Covenant",
+    "header_grades": [
+     "B",
+     "B",
+     "C"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.0
+}

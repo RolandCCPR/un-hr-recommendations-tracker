@@ -1,0 +1,101 @@
+{
+ "a3": "FRA",
+ "name": "France",
+ "num": 250,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/FRA/CO/5",
+   "co_session": null,
+   "co_date": "21 July 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/121/2",
+   "assessment_session": 121,
+   "assessment_date": "16 October–10 November 2017",
+   "year": 2017,
+   "followup_paras": [
+    "11",
+    "12",
+    "16"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 5,
+    "C": 0,
+    "D": 0,
+    "E": 0
+   },
+   "score": 4.0
+  },
+  "paragraphs": [
+   {
+    "para": "11",
+    "title": "Post-sentence preventive detention",
+    "recommendation": "The State party should reconsider the practice of placing persons who have received criminal sentences in post-sentence preventive detention after they have served their sentences owing to their “dangerousness”, in the light of its obligations under articles 9, 14 and 15 of the Covenant",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the national debate surrounding the continued use of postsentence preventive detention, in particular the report issued in December 2015 by the commission established to review the law on criminal sanctions. It requests further information on the follow-up by the Ministry of Justice to the opinions of various national institutions recommending the abolition of post-sentence preventive detention, in particular in cases where post-sentence preventive detention is imposed in the absence of a connection to any ruling or initial sentence"
+     }
+    ]
+   },
+   {
+    "para": "12",
+    "title": "Surveillance activities",
+    "recommendation": "The State party should take all necessary steps to guarantee that its surveillance activities within and outside its territory are in conformity with its obligations under the Covenant, in particular article 17. Specifically, measures should be taken to guarantee that any interference in persons’ private lives should be in conformity with the principles of legality, proportionality and necessity. The State party should ensure that the collection and use of data on communications take place on the basis of specific and legitimate objectives and that the exact circumstances in which such interference may be authorized and the categories of persons likely to be placed under surveillance are set out in detail. It should also ensure the effectiveness and independence of a monitoring system for surveillance activities, in particular by making provision for the judiciary to take part in the authorization and monitoring of surveillance measures. France",
+    "header_grades": [
+     "B",
+     "B",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "In connection with the principles of legality, proportionality and necessity, the Committee requests further information on the measures taken to: (a) guarantee the strict interpretation, in conformity with the principles of legality, proportionality and necessity, of the grounds for interference set forth in article L. 811-3 of the Internal Security Code; and (b) define the categories of persons likely to be placed under surveillance and the precise circumstances in which the provisions of article L. 811-3 of the Internal Security Code are implemented, including the maximum duration of surveillance measures, in order to guard against the risk of abuse by the executive in the use of intelligencegathering techniques"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "In connection with the collection and use of data, the Committee requests further information on: (a) the use, in practice, of data collection, including the exact number of individuals who have been the targets of surveillance measures and for how long, and the methods most frequently employed; (b) the procedures employed for the use and storage of data collected as part of the automated analysis of connection data in counter-terrorism operations; and (c) the measures in place to ensure that authorized intelligence-gathering techniques do not allow for de facto mass surveillance"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "In connection with the monitoring of surveillance activities, the Committee requests further information on: (a) the measures taken to ensure that the general public is aware of the existence of the National Commission for the Control of Intelligence Techniques and that the Commission has sufficient resources to carry out its duties; (b) the potential for authorities other than the Prime Minister to request opinions from the Commission; (c) the total number of opinions received by the Commission and the number of unfavourable opinions issued; and (d) the duty to inform individuals that they have been placed under surveillance, and access, in practice, to effective remedies in the event of abuse. France"
+     }
+    ]
+   },
+   {
+    "para": "16",
+    "title": "Sexual abuse in the Central African Republic",
+    "recommendation": "The State party should ensure that the allegations of sexual abuse committed against children in the Central African Republic by French soldiers are effectively investigated as soon as possible and that the perpetrators are brought to justice",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee acknowledges with appreciation the State party’s willingness to cooperate with the United Nations and the Central African Republic and the information provided on the investigations undertaken. It nevertheless requests information on: (a) the expected time frame for the conclusion of the investigations and the provisional measures imposed in the interim on those individuals suspected of involvement; (b) the status of the investigations and any sentences, punishments and disciplinary measures imposed on those found responsible; and (c) the measures of redress that have been made available to the victims"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 4.0
+}

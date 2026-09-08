@@ -1,0 +1,118 @@
+{
+ "a3": "YEM",
+ "name": "Yemen",
+ "num": 887,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/YEM/CO/5",
+   "co_session": null,
+   "co_date": "28 March 2012",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/113/2",
+   "assessment_session": 113,
+   "assessment_date": "16 March–2 April 2015",
+   "year": 2015,
+   "followup_paras": [
+    "7",
+    "10",
+    "15",
+    "21"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 0,
+    "D": 2,
+    "E": 1
+   },
+   "score": 2.83
+  },
+  "paragraphs": [
+   {
+    "para": "7",
+    "title": "National human rights institution",
+    "recommendation": "The State party should establish a national human rights institution, in line with the principles relating to the status of national institutions for the promotion and protection of human rights (Paris Principles). The Committee encourages the State party to benefit from the assistance of the Office of the High Commissioner for Human Rights in establishing such a mechanism",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While the Committee welcomes the initial legislative measures taken by the State party to develop an independent national human rights institution, the adoption is yet to be finalized. The Committee reiterates its recommendations and requests further information from the State party regarding the status and implementation of the bill"
+     }
+    ]
+   },
+   {
+    "para": "10",
+    "title": "Equality between men and women",
+    "recommendation": "In line with its previous concluding observations (CCPR/CO/84/YEM, para. 9; CCPR/CO/75/YEM, paras. 7–11), the Committee urges the State party to ensure equality between men and women in the enjoyment of all the rights enshrined in the Covenant, which necessitates abolishing all discriminatory provisions in matters of marriage, divorce, testimony and inheritance. In this regard, the State party should inter alia (a) set a minimum age for marriage that complies with international standards; (b) abolish article 23 of the Personal Status law; (c) eradicate the use of temporary marriage for the sexual exploitation of children, and (d) ensure that honour crimes are punished in accordance with their gravity. The State party should engage in official and systematic awareness-raising campaigns in order to eradicate polygamy, which is a form of discrimination against women",
+    "header_grades": [
+     "E"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee notes Council of Ministers Decision No. 137 of 2012, which is interpreted by the State party as an affirmation of the existing laws. The Committee regrets that the decision and the refusal to change the law to ensure equality between men and women, as requested by the Committee, results in a situation that is contrary to the Committee’s recommendations and conflicts with the State party’s obligations under the Covenant. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "15",
+    "title": "Investigation of killings of civilians",
+    "recommendation": "The State party should launch a transparent and independent investigation, in accordance with international standards, into all allegations of involvement of members of its law enforcement and security forces in the killings of civilians, excessive use of force, arbitrary detention, including enforced disappearance, torture and ill-treatment, whether this is related to the 2011 unrest, or to the unrest in the south, the conflict in the north and the fight against Al-Qaida’s presence in the territory of the State party. Furthermore, the State party should initiate criminal proceedings against the alleged perpetrators of such acts, sentence those responsible and afford victims reparation, including adequate compensation",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While initial legislative measures have been taken by the State party to establish a commission of inquiry to investigate human rights abuses committed in 2011 and to implement requests for the release of certain currently detained persons, the Committee notes that the presidential decrees remain to be implemented in practice. Furthermore, no substantive information has been provided on measures to ensure that: (a) Along with allegations of crimes relating to the 2011 unrest, those related to the unrest in the south, the conflict in the north and the fight against Al-Qaida’s presence in the territory of the State party will be investigated; (b) Investigations launched will be transparent and independent; (c) Criminal proceedings against alleged perpetrators, particularly members of the law enforcement and security forces, will be initiated, and those convicted will be sentenced appropriately; (d) Victims will be afforded reparation and adequate compensation. Additional information on the implementation and impact of the State party’s legislative measures, as well as information regarding items (a)–(d) outlined above, is required"
+     }
+    ]
+   },
+   {
+    "para": "21",
+    "title": "Refugee and asylum procedures",
+    "recommendation": "The State party should take concrete measures to ensure the adequacy of the refugee determination process and asylum procedures for migrants of all nationalities. Asylum seekers and refugees should not be held in penal conditions",
+    "header_grades": [
+     "B",
+     "D",
+     "D"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "Further information should be provided on the implementation of the State party’s partnership with UNHCR as well as on any consideration of its continuance into 2013 and beyond"
+     },
+     {
+      "limb": "",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "The Committee notes that no information has been received regarding concrete measures taken to ensure the adequacy of the refugee determination process and asylum procedures for migrants of all nationalities"
+     },
+     {
+      "limb": "",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "Concerning immigrants unlawfully held in detention centres, the Committee regrets that no information was provided on measures taken to ensure that asylum seekers and refugees are not held in penal conditions"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 2.83
+}

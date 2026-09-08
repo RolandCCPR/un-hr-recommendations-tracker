@@ -1,0 +1,107 @@
+{
+ "a3": "MDG",
+ "name": "Madagascar",
+ "num": 450,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MDG/CO/4",
+   "co_session": null,
+   "co_date": "25 July 2017",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/130/2/Add.2",
+   "assessment_session": 130,
+   "assessment_date": "12 October–6 November 2020",
+   "year": 2020,
+   "followup_paras": [
+    "8",
+    "14",
+    "30"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 1,
+    "B": 2,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.8
+  },
+  "paragraphs": [
+   {
+    "para": "8",
+    "title": "Independent National Human Rights Commission and the High Council for the Defence of Democracy and the Rule of Law",
+    "recommendation": "The State party is encouraged: (a) to ensure that the Independent National Human Rights Commission is provided, as soon as possible, with an independent budget that is sufficient for it to implement its mandate in full; (b) to ensure that it complies with the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles) by launching an accreditation procedure as soon as possible; and (c) to step up the process of establishing the High Council for the Defence of Democracy and the Rule of Law and ensure the independence of that institution by granting it financial autonomy and sufficient resources for it to carry out its mandate in full",
+    "header_grades": [
+     "A"
+    ],
+    "limbs": [
+     {
+      "limb": "(b)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the State party’s successful launching of an accreditation process for its national human rights institution, the Commission nationale indépendante des droits de l’homme, and the A status that it was awarded, reflecting the institution’s compliance with the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles)"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "(a), and (c) The Committee welcomes the budget for the Independent National Human Rights Commission made available in 2018. It requests information on whether the referred budget is sufficient for the Commission to implement its mandate in full and efficiently. The Committee welcomes the measures taken to establish the High Council for the Defence of Democracy and the Rule of Law. It requests information on whether the Council is fully operational and if the budget allocated is sufficient for it to perform its functions"
+     }
+    ]
+   },
+   {
+    "para": "14",
+    "title": "Investigations of human rights violations committed between 2009 and 2013 and the process of national reconciliation",
+    "recommendation": "The State party should speed up the process of national reconciliation, by, inter alia: (a) investigating all allegations of acts of torture, enforced disappearances and summary and extrajudicial executions, ensuring that no serious human rights violations perpetrated in the past go unpunished; and (b) making the Malagasy Reconciliation Council and the National Reparations and Compensation Fund operational by providing them with adequate resources",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information on investigations into allegations of acts of torture, enforced disappearances and summary and extrajudicial executions, and reiterates its recommendation"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information provided according to which the Malagasy Reconciliation Council is functioning, but regrets that a national reparations and compensation fund has not yet been established. It requests information on the budget allocated to the Council and on whether it is sufficient for it to perform its functions. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "30",
+    "title": "Prohibition of torture and ill-treatment",
+    "recommendation": "The State party should: (a) amend Act No. 2008-008 as soon as possible to include penalties for ill-treatment, the non-applicability of statutory limitations to torture and the inadmissibility of confessions obtained under coercion or torture as evidence before the courts; (b) make the amendments needed to ensure that the provisions of Act No. 2008-008 are reflected in the Criminal Code and the Criminal Procedure Code; (c) ensure that alleged cases of torture and ill-treatment committed by the police or security forces are thoroughly investigated and that the alleged perpetrators are prosecuted and, if found guilty, are sentenced appropriately; (d) ensure that victims are properly compensated and offered rehabilitation services; and (e) establish an independent mechanism to investigate complaints of acts of torture or ill-treatment committed by members of the police or security forces",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (c) and (e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information provided that the reform introduced by Act No. 2008-008 of 25 June 2008, which prohibits torture and other cruel, inhuman or degrading treatment or punishment, has being finalized. It requests information on its content, including on whether it complies with the Committee’s recommendation and whether it has been adopted. The Committee welcomes the information provided on the training that has been carried out. It requests information on the measures taken, since the adoption by the Committee of its concluding observations, to ensure that alleged cases of torture and ill-treatment committed by the police or security forces are thoroughly investigated and that alleged perpetrators are prosecuted and, if found guilty, sentenced appropriately. The Committee welcomes Act No. 2018-028 of 2019, which provides for the designation of the Commission as the national preventive mechanism responsible for conducting unannounced visits to places of detention, in accordance with the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment. It also takes note of the information that the Independent National Commission on Human Rights is an independent mechanism empowered to investigate allegations of torture or ill-treatment committed by members of the police or of security forces. The Committee requests further information on investigations carried out by the Commission"
+     },
+     {
+      "limb": "(b) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party, but requests information on the measures taken, since the adoption by the Committee of its concluding observations, to ensure that the new provisions of Act No. 2008-008 can be implemented and do not contradict the Criminal Code and the Criminal Procedure Code. The Committee regrets that the State party has not provided information on measures taken to ensure that victims are properly compensated and offered rehabilitation services. It reiterates its recommendations. Recommended action: A letter should be sent to the State party informing it of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 28 July 2021. 4"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.8
+}

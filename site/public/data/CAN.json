@@ -1,0 +1,88 @@
+{
+ "a3": "CAN",
+ "name": "Canada",
+ "num": 124,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/CAN/CO/6",
+   "co_session": null,
+   "co_date": "20 July 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/123/2",
+   "assessment_session": 123,
+   "assessment_date": "2–27 July 2018",
+   "year": 2018,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.6
+  },
+  "paragraphs": [
+   {
+    "para": "9",
+    "title": "Murdered and missing indigenous women and girls",
+    "recommendation": "The State party should, as a matter of priority, (a) address the issue of murdered and missing indigenous women and girls by conducting a national inquiry, 8 See http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno= INT%2fCCPR%2fFCO%2fCAN%2f25188&Lang=en. 9 See http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno= INT%2fCCPR%2fFCO%2fCAN%2f25189&Lang=en. as called for by the Committee on the Elimination of Discrimination against Women, in consultation with indigenous women’s organizations and families of the victims; (b) review its legislation at the federal, provincial and territorial levels, and coordinate police responses across the country, with a view to preventing the occurrence of such murders and disappearances; (c) investigate, prosecute and punish the perpetrators and provide reparation to victims; and (d) address the root causes of violence against indigenous women and girls",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee appreciates the information provided regarding the establishment of the national pre-inquiry process and the appointment of Commissioners to lead the National Inquiry. The Committee notes the allocation of budgetary resources for the Inquiry, and the timeline until December 2018. The Committee regrets, however, that the State party’s reply lacks specific information about the Inquiry’s mandate and terms of reference. The Committee requests further information regarding: (a) the mandate and terms of reference of the Inquiry; (b) the number of hearings the Inquiry has held since its inception; and (c) the action taken by the Inquiry to address the Committee’s recommendation"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the State party’s engagement with non-governmental stakeholders to address violence against indigenous women through its National Round Table, as well as through the Justice Framework. The Committee regrets that the State party made no reference to any legislative review at any level that was taking place or being planned, and requires information on this point. The Committee acknowledges the examples provided in the State party’s reply of collaboration between law enforcement agencies and other entities, but requires information about the coordination of police responses across the country to prevent the murders and disappearances of indigenous women and girls, which was not provided"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee appreciates the fact that the State party is working to increase the number and quality of shelters, and that the reporting policies and practices have been updated to ensure better data collection on the indigenous origin of victims of violent crimes. The Committee regrets, however, that no information was provided on specific measures taken to effectively investigate, prosecute and punish the perpetrators of these crimes and provide reparation to victims. The Committee therefore requests information in this regard. In particular, the Committee notes that there are concerns that there is no independent mechanism to re-examine cases where investigations carried out by the police may have been inadequate; that hearings are frequently delayed and that there are organizational problems during these processes; and that there are no national protocols and insufficient training on data-collection procedures. The Committee requests the State party to respond to these concerns. The Committee also asks the State party to clarify if there are, or will be, accessible shelters available for all First Nations communities"
+     },
+     {
+      "limb": "(d)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes that resources have been allocated in the federal budget to improve the socioeconomic condition of indigenous peoples, but requires additional information on a concrete plan for utilizing these resources. The Committee acknowledges the measures being taken to address issues in the child welfare system, housing, public health and to tackle human trafficking, but requests information about: (a) any measures being taken to address excessive use of force towards and abuse of indigenous women and girls in the context of large-scale development projects and associated labour camps; (b) measures taken to assess the impact of large-scale development projects on indigenous women and girls; and (c) measures taken to address the April 2016 Canadian Human Rights Tribunal decision ordering reform of the First Nations Child and Family Services Program and a halt to its discriminatory practices, particularly regarding the underfunding of onreserve child welfare"
+     }
+    ]
+   },
+   {
+    "para": "12",
+    "title": "Immigration detention, asylum seekers and non-refoulement",
+    "recommendation": "The State party should refrain from detaining irregular migrants for an indefinite period of time and should ensure that detention is used as a measure of last resort, that a reasonable time limit for detention is set, and that non-custodial measures and alternatives to detention are made available to persons in immigration detention. The State party should review the Immigration and Refugee Protection Act in order to provide refugee claimants from “safe countries” with access to an appeal hearing before the Refugee Appeal Division. The State party should ensure that all refugee claimants and irregular migrants have access to essential health-care services, irrespective of their status",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee welcomes the reactivation of the Interim Federal Health Program in 2016, but requires information on its coverage, particularly regarding irregular migrants. The Committee notes the lack of specific information on measures taken after the adoption of its concluding observations on detention of irregular migrants. It requires information on: (a) measures taken to establish a reasonable time limit for detention of irregular migrants and to ensure that detention is used only as a measure of last resort; (b) the policy that “designated foreign nationals” are subject to mandatory arrest and detention, and the number of individuals detained under this policy since the adoption of the Committee’s concluding observations; and (c) the access given to “designated foreign nationals” to the Refugee Appeals Division. The Committee also requests the State party’s response to allegations that there is no independent oversight mechanism for the Border Services Agency"
+     }
+    ]
+   },
+   {
+    "para": "16",
+    "title": "Indigenous lands and titles",
+    "recommendation": "The State party should consult indigenous people to (a) seek their free, prior and informed consent whenever legislation and actions impact on their lands and rights; and (b) resolve land and resources disputes with indigenous peoples and find ways and means to establish their titles over their lands with respect to their treaty rights",
+    "header_grades": [],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.6
+}

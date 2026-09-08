@@ -1,0 +1,81 @@
+{
+ "a3": "BEN",
+ "name": "Benin",
+ "num": 204,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/BEN/CO/2",
+   "co_session": null,
+   "co_date": "3 November 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/124/2",
+   "assessment_session": 124,
+   "assessment_date": "8 October–2 November 2018",
+   "year": 2018,
+   "followup_paras": [
+    "9",
+    "19",
+    "23"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.75
+  },
+  "paragraphs": [
+   {
+    "para": "9",
+    "title": "National Human Rights Commission",
+    "recommendation": "The State party should take all necessary measures to appoint the members of the National Human Rights Commission as soon as possible. It should guarantee the Commission’s independence by ensuring that it has financial autonomy and adequate human and material resources to enable it to fulfil its mandate in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights (Paris Principles)",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While the Committee appreciates the measures taken by the State party, including the establishment of a selection committee to supervise the appointment of 11 members of the Commission and the call for applications publicized in 2017, it requires additional information with regard to the measures taken to ensure compliance with the Paris Principles. The Committee requires specific information in particular on: (a) the expected dates for the appointment of the Commission’s members; and (b) the measures taken to ensure its financial autonomy and adequate human and material resources, in accordance with the Paris Principles"
+     }
+    ]
+   },
+   {
+    "para": "19",
+    "title": "Right to life",
+    "recommendation": "The State party should adopt the new Criminal Code as soon as possible so as to expressly abolish the death penalty. It should commute death sentences to prison sentences. The State party should take steps to initiate or continue investigations into cases of murder or attempted murder and bring the perpetrators to justice. It should also take stringent measures to punish infanticide. It should raise public awareness of respect for the right to life",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee appreciates the information on the Constitutional Court’s ruling regarding the provisions on the death penalty being rendered null and void, the current commutation of death penalties to prison sentences and the information on the plan to adopt the new Criminal Code. In this regard, it requires further information on: (a) the progress of the adoption of the new Criminal Code and the inclusion of a provision to abolish the death penalty; and (b) the process to commute the remaining 14 death sentences referred to by the State party. While the Committee welcomes the information on actions taken to raise awareness of infanticide and the right to life, it requires specific information on the stringent measures taken after the adoption of the Committee’s concluding observations to punish infanticide, including information on the steps taken to initiate or continue investigations into cases of murder or attempted murder and bring the perpetrators to justice"
+     }
+    ]
+   },
+   {
+    "para": "23",
+    "title": "Prohibition of torture and impunity",
+    "recommendation": "The State party should adopt the new Criminal Code as soon as possible so as to expressly define and criminalize torture in line with article 7 of the Covenant. It should establish a national observatory for the prevention of torture in addition to an independent mechanism for the systematic consideration of complaints of torture or ill-treatment. The State party should conduct thorough and impartial investigations into all allegations of torture and ill-treatment, including such acts committed between 1972 and 1990, and take the necessary measures in this regard",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.75
+}

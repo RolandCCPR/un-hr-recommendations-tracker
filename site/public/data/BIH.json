@@ -1,0 +1,71 @@
+{
+ "a3": "BIH",
+ "name": "Bosnia and Herzegovina",
+ "num": 70,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/BIH/CO/3",
+   "co_session": null,
+   "co_date": "23 March 2017",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/129/2/Add.3",
+   "assessment_session": 129,
+   "assessment_date": "29 June–24 July 2020",
+   "year": 2020,
+   "followup_paras": [
+    "14",
+    "20",
+    "36"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.0
+  },
+  "paragraphs": [
+   {
+    "para": "14",
+    "title": "Prosecution for crimes against humanity and other international crimes and protection of victims and witnesses",
+    "recommendation": "The State party should expedite the prosecution for crimes against humanity and other international crimes and continue to provide adequate support, including psychological support, and protection to victims and witnesses of those crimes, particularly those related to sexual violence. The State party should also make the system of free legal aid fully operational throughout its territory and available to all vulnerable citizens, including victims of wartime sexual violence, and provide for an effective victims and witnesses protection programme",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party has taken no specific measures to implement the Committee’s recommendation. In this regard, it requests information on the content of the revised National War Crimes Prosecution Strategy, including information on whether it complies with the Covenant and on measures taken to expedite its adoption. The Committee also requests information on specific measures taken to provide adequate support, including psychological support, and protection to victims and witnesses of crimes against humanity and other international crimes, particularly those relating to sexual violence; and on specific measures taken to make fully operational the law on the provision of free legal aid adopted in 2016, including by providing sufficient financial and human resources for its implementation. The Committee further requires information on the application by civil courts of a statute of limitations, and on the imposition of high court fees and the resulting impact on victims seeking redress"
+     }
+    ]
+   },
+   {
+    "para": "20",
+    "title": "Enforced disappearance and missing persons",
+    "recommendation": "The State party should expedite the investigation of all unresolved cases involving missing persons. Furthermore, it should take all measures necessary to ensure that the Missing Persons Institute is adequately funded and able to fully implement its mandate with a view to resolving those cases as foreseen in the Law on Missing Persons. The State party should, as a matter of urgency, establish a fund for support to families of missing persons to provide adequate support to families of missing persons",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information provided on the implementation of the Committee’s recommendation. The Committee reiterates its recommendation. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 29 March 2022. 4"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.0
+}

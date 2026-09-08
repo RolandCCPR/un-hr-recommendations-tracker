@@ -1,0 +1,125 @@
+{
+ "a3": "LKA",
+ "name": "Sri Lanka",
+ "num": 144,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/LKA/CO/5",
+   "co_session": null,
+   "co_date": "27 October 2014",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/117/2",
+   "assessment_session": 117,
+   "assessment_date": null,
+   "year": 2016,
+   "followup_paras": [
+    "5",
+    "14",
+    "15",
+    "21"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 8,
+   "grade_dist": {
+    "A": 0,
+    "B": 7,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.88
+  },
+  "paragraphs": [
+   {
+    "para": "5",
+    "title": "Constitutional and institutional reform",
+    "recommendation": "The State party should: (a) Repeal the 18th Amendment to the Constitution; (b) Take legislative and other measures to ensure transparent and impartial processes for appointments to the judiciary and other independent bodies; (c) Take concrete measures to ensure the protection of members of its judiciary from improper influences, inducements, pressures, threats or interferences, including those of the executive and/or legislature of the State party. In taking the above measures, the State party should take into full account the Committee’s general comment No. 32 (2007) on the right to equality before courts and tribunals and to a fair trial, the Basic Principles on the Independence of the Judiciary and the Paris Principles (General Assembly resolution 48/134, annex). Sri Lanka",
+    "header_grades": [
+     "B",
+     "B",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While the Committee welcomes the enactment of the 19th Amendment, it requires further information on whether it repeals all controversial provisions introduced in the 18th Amendment, in particular with regard to the dismissal or appointment of members of the judiciary"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee acknowledges the actions taken by the State party to limit the President’s discretionary power and to increase transparency and impartiality in the process to appointment the members of independent bodies. It requires information on the criteria for appointment and dismissal, particularly with regard to members of the judiciary"
+     },
+     {
+      "limb": "(c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee acknowledges the actions taken by the State party to strengthen the independence of the judiciary. It requires information on: (i) The role and mandate of the Judicial Service Commission; (ii) The content and implementation of the 19th Amendment; and (iii) The follow-up given to the impeachment of the Chief Justice in January 2013, which took place in circumstances that raised serious doubts about its consistency with basic principles of due process and judicial independence"
+     }
+    ]
+   },
+   {
+    "para": "14",
+    "title": "Unlawful use of force and the right to life",
+    "recommendation": "The State party should take all measures necessary to vigorously investigate all allegations of unlawful use of force and violations of the right to life promptly, transparently and impartially, with the aim of bringing those responsible to justice by prosecution and punishment, and provide adequate remedies to victims and their relatives. It should redouble its efforts to implement the recommendations of the Lessons Learned and Reconciliation Commission pertaining to the need to investigate allegations of serious violations of international law through independent investigative mechanisms. In particular, the State party should: (a) Cooperate with the Office of the United Nations High Commissioner for Human Rights in investigating all allegations of serious human rights violations; (b) In the context of the killings that took place in the towns of Muthur and Trincomalee, as well as other similar cases, consider allowing witness testimony by video link from secure and secret locations in order to facilitate the investigations with due regard to the needs of witness protection. Sri Lanka",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While acknowledging the plans envisaged to address the right to truth, justice and reparations and to guarantee the non-recurrence of the violations, the Committee requests updated information on their concrete content and implementation or the envisaged timeline for their implementation. It reiterates its recommendation"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While welcoming the information provided on the Trincomalee and Action Contre La Faim cases, and on testimony through video link, the Committee requests information on measures taken to allow overseas witnesses to testify by video link from secure and secret locations outside of Sri Lanka"
+     }
+    ]
+   },
+   {
+    "para": "15",
+    "title": "Enforced disappearances and missing persons",
+    "recommendation": "The State party should: (a) Expeditiously investigate, prosecute and punish perpetrators of enforced disappearance and establish the whereabouts of missing persons in a transparent and impartial manner; (b) Ensure the rights of families to know the location or status of disappeared persons by ensuring that the Presidential Commission to Investigate into Complaints regarding Missing Persons and other relevant bodies are provided with adequate legal powers, as well as human, technical and financial resources, to operate in an independent, timely and effective manner that ensures adequate witness protection. Sri Lanka",
+    "header_grades": [
+     "B",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the steps taken by the State party in clarifying cases of enforced disappearances, but requests additional information on: (a) any new cases of missing persons or enforced disappearances from the prior conflict that have been identified; (b) the number of investigations, prosecutions and convictions of perpetrators; and (c) the results of the 2015 visit of the Working Group. It also requires information on the follow-up given to the report of the Paranagama and the Udalagama Commissions"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the State party’s cooperation with the ICRC to establish an office for missing persons and requests information on progress made in this regard. It requires further information on measures taken to ensure the rights of families to know the whereabouts of the disappeared persons in a transparent and impartial manner, and to ensure adequate witness protection. It also requires information on measures taken to ensure that the Presidential Commission to Investigate into Complaints regarding Missing Persons and other relevant bodies are provided with adequate legal powers, as well as human, technical and financial resources"
+     }
+    ]
+   },
+   {
+    "para": "21",
+    "title": "Freedom of expression",
+    "recommendation": "The State party should refrain from any measures amounting to intimidation or harassment taken against persons exercising their right to freedom of expression, and ensure that any restriction to that right is in compliance with article 19, paragraph 3, of the Covenant. It should vigorously investigate all cases of threats and attacks against journalists, lawyers, clergymen, political activists, members of non-governmental organizations and human rights defenders, hold the perpetrators accountable and provide effective remedies to victims. Furthermore, it should ensure that any individual or organization can provide information freely to the Committee, and should protect them against any reprisals for providing such information",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.88
+}

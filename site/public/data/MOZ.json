@@ -1,0 +1,107 @@
+{
+ "a3": "MOZ",
+ "name": "Mozambique",
+ "num": 508,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MOZ/CO/1",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/118/2",
+   "assessment_session": 118,
+   "assessment_date": "17 October-4 November 2016",
+   "year": 2016,
+   "followup_paras": [],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 8,
+   "grade_dist": {
+    "A": 0,
+    "B": 4,
+    "C": 3,
+    "D": 1,
+    "E": 0
+   },
+   "score": 3.38
+  },
+  "paragraphs": [
+   {
+    "para": "13",
+    "title": "Arbitrary arrest and detention",
+    "recommendation": "The State party should take appropriate measures to ensure that no one under its jurisdiction is subject to arbitrary arrest or detention and that detained persons enjoy all legal guarantees, in compliance with articles 9 and 14 of the Covenant. It should ensure that persons deprived of their liberty are adequately informed about their rights so as to enable them to exercise in practice their right to effective judicial redress and compensation, and that appropriate sanctions be imposed on those responsible",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the Constitutional Council’s judgment 4/CC/2013 and the enactment of the Criminal Code, as indicated by civil society. It requests further information on the content and implementation of any new protections related to arbitrary arrests and detentions resulting from those measures since the adoption of the concluding observations of 30 October 2013 (CCPR/C/MOZ/CO/1)"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the civil and legal educational programmes conducted in detention facilities and the training courses provided to police and prison staff, but requests information on the number and content of such courses and the number of persons trained since the adoption of the concluding observations. The Committee also notes the State party’s acknowledgment that access to legal assistance remains an issue, and requests information on measures taken since the adoption of the concluding observations to ensure that all detainees have access to counsel. The Committee requests information on the investigations carried out on arbitrary arrest or detention, the prosecutions and sanctions imposed on those found responsible since the adoption of the concluding observations, and the compensation awarded to victims. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "14",
+    "title": "Conditions of detention and monitoring",
+    "recommendation": "The State party should take urgent measures to establish a system of regular and independent monitoring of places of detention and to reduce overcrowding and improve conditions of detention, including for juvenile offenders, in line with the Covenant and the Standard Minimum Rules for the Treatment of Prisoners. In this regard, the State party should consider not only the construction of new prison facilities but also the application of alternative measures to pretrial detention, such as bail, home arrest, etc., and non-custodial sentences, such as suspended sentences, parole and community service. The State party should investigate promptly cases of death in custody, prosecute those responsible and provide appropriate compensation to families of victims. It should also ensure that the principle of separation of juvenile detainees from adults in detention facilities is respected and that prisoners who have completed their sentences are released without delay",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the ratification of the Optional Protocol to the Convention against Torture and the designation of the National Human Rights Commission as a national preventive mechanism. The Committee requests further information on measures envisaged to ensure that the National Human Rights Commission can undertake in full independence regular and unannounced visits to all places of detention in the State party, including police stations"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the adoption of new legislation and measures to improve conditions of detention and reduce overcrowding, but requests information on the content and impact of those measures, including: (a) Current levels of overcrowding, disaggregated by facility; (b) The content of the new legislation on alternative measures to detention and steps taken to implement those measures; (c) The plans for constructing new prison facilities and progress made in implementing those plans"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information on disciplinary offenses recorded, but requests further information on the types of offenses committed and the penalties imposed. It reiterates its request for information on investigations of cases of death in custody and efforts to prosecute those responsible and provide appropriate compensation to families of victims"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the State party’s statement that it has no record of individuals detained beyond the end of their sentence, and requests information on measures taken to prevent and remedy such detention"
+     },
+     {
+      "limb": "",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "The Committee regrets the absence of information on the separation of juveniles and adults and requests information in that regard. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "15",
+    "title": "Administration of justice",
+    "recommendation": "The State party should continue to increase the number of qualified and professionally trained judicial personnel, as a matter of urgency; continue efforts to decrease delays in proceedings, simplify and make transparent the procedure by which court fees are calculated and ensure that legal assistance is provided in all cases where the interest of justice so requires. The State party should also ensure that the system of community courts function in a manner consistent with article 14 and paragraph 24 of general comment No. 32 (2007) on the right to equality before courts and tribunals and to a fair trial, and decisions emanating from these bodies do not run counter the State party’s obligations under the Covenant",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee acknowledges the information provided on measures aimed at reforming the judicial system, but requests information on which actions occurred after the adoption on 30 October 2013 of the Committee’s concluding observations ("
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.38
+}

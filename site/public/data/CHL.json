@@ -1,0 +1,101 @@
+{
+ "a3": "CHL",
+ "name": "Chile",
+ "num": 152,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/CHL/CO/6",
+   "co_session": null,
+   "co_date": "22 July 2014",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/119/2",
+   "assessment_session": 118,
+   "assessment_date": "17 October-4 November 2016",
+   "year": 2016,
+   "followup_paras": [
+    "7",
+    "15",
+    "19"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 4,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.8
+  },
+  "paragraphs": [
+   {
+    "para": "7",
+    "title": "Counter-Terrorism Act",
+    "recommendation": "The State party should amend the Counter-Terrorism Act and adopt a clear and precise definition of terrorism offences in order to ensure that the counterterrorism efforts of law enforcement personnel do not target specific individuals on account of their ethnic origin or any other social or cultural factors. It should, furthermore, ensure that the procedural guarantees contained in article 14 of the Covenant are observed. The Committee urges the State party to refrain from applying the Counter-Terrorism Act against the Mapuches",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the State party’s acknowledgement of infirmities in the current Counter-Terrorism Act, the information provided on the counter-terrorism bill by both the State party and the NGOs, and the information on application of the current law against the Mapuche community. It requires additional information on the content of the bill and the progress of its adoption, including information on: (a) whether the new definition of terrorism offences and other key concepts, such as “seriously disturb public order”, comply with the principles of legal certainty and predictability and with international standards on the definition of terrorism; (b) whether there are exceptions to the disclosure of the identity of protected witnesses to the defence to ensure the safety of such witnesses while also respecting the defendant’s right fair trial; (c) measures taken to ensure that persons charged with terrorism offences are afforded all procedural guarantees under article 14 of the Covenant; and (d) the duration of pretrial detention allowed and sentences imposed in terrorism cases under the bill. The Committee also requires updated information on the application of the Counter-Terrorism Act (Act No. 18.314) against persons exercising their freedom of expression and peaceful assembly, and against the Mapuche community. Chile"
+     }
+    ]
+   },
+   {
+    "para": "15",
+    "title": "Access to abortion",
+    "recommendation": "The State party should establish exceptions to the general prohibition of abortion to take account of therapeutic abortion and cases where a pregnancy is the result of rape or incest. The State party should ensure that all women and adolescents have access to reproductive health services in all parts of the country. The State party should, furthermore, increase the number of sexual and reproductive health education and awareness-raising programmes, particularly for adolescents, and make sure that they are implemented",
+    "header_grades": [
+     "B",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee takes note of the bill decriminalizing voluntary termination of pregnancy when a woman’s life is at risk and in cases of fatal foetal abnormality or rape (the latter subject to gestational age restrictions). The Committee remains concerned regarding the absence of exceptions to the prohibition on voluntary termination of pregnancy for, inter alia, pregnancy resulting from incest, therapeutic abortion, including the woman’s health, and to avoid prompting women to seek backstreet abortions that endanger their lives and health, and requests information regarding the State party’s plans to include such exceptions. The Committee requires additional information on the status and content of the bill, including any amendments to the original bill submitted to Congress on 31 January 2015, the rationale for the restrictions on abortion in case of pregnancy as a result of rape based on gestational age; the nature of the provisions for conscientious objection and any reporting obligations and any burdensome procedures for securing a voluntary termination of pregnancy. The Committee reiterates its recommendation. (b)"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided by the State party on sexual and reproductive health services, including the increase in the number of counselling sessions in 2014 and the measures taken by the National Service for Women with regard to education and awareness-raising programmes. It also notes the reported long waiting lists for gynaecologist or obstetrician consultations and specific medical procedures and disparities in access to such services, as well as the reported absence of a State policy on sexual and reproductive health education. The Committee therefore requests information on: measures taken since the concluding observations were adopted to ensure that all women and adolescents have effective access to reproductive health services in all parts of the country; whether the Healthy Sexuality and Reproductive Life Programme will have been expanded to 60 towns in 2016 and 90 towns in 2017, as planned, and the outcome of its implementation; the progress achieved by the Intersectoral Round Table on Teenage Pregnancy and the outcome of the pilot project aimed at preventing repeat teenage pregnancies; and whether sexual and reproductive health education is a formal part of the school curriculum. Chile"
+     }
+    ]
+   },
+   {
+    "para": "19",
+    "title": "Torture and ill-treatment",
+    "recommendation": "The State party should redouble its efforts to prevent and eliminate torture and ill-treatment by, inter alia, strengthening human rights training for members of the security forces and revising operating procedures for law enforcement personnel in the light of the relevant international standards. The State party should, furthermore, ensure that all allegations of torture or ill-treatment are investigated promptly, thoroughly and independently, that perpetrators are brought to justice and that victims receive appropriate reparation, including health and rehabilitation services",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided on the human rights training for Carabineros officers and on the operating protocols in force. However, it requires additional information on: (a) the number of training hours dedicated to prevention of torture and illtreatment in the curriculum for Carabineros, the content of such training and the number of persons trained since the adoption of the concluding observations; (b) the development of specific training modules for face-to-face teaching and distance learning regarding prevention of torture and ill-treatment; (c) instances of non-compliance with relevant operating protocols in the context of police interventions during demonstrations since the adoption of the concluding observations, including with regard to the use of water cannons and tear gas and sanctioning of such conduct"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the general information provided by the State party but regrets the lack of concrete information on measures taken since the adoption of the concluding observations regarding the number of investigations, prosecutions and convictions regarding torture and ill-treatment, specific punishments imposed and reparations provided to victims, including health and rehabilitation services. The Committee reiterates its recommendation"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.8
+}

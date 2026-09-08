@@ -1,0 +1,77 @@
+{
+ "a3": "SWE",
+ "name": "Sweden",
+ "num": 752,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/SWE/CO/7",
+   "co_session": null,
+   "co_date": "23 March 2016",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/125/2/Add.3",
+   "assessment_session": 125,
+   "assessment_date": "4–29 March 2019",
+   "year": 2019,
+   "followup_paras": [
+    "17",
+    "33"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 1,
+    "B": 1,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 4.0
+  },
+  "paragraphs": [
+   {
+    "para": "17",
+    "title": "Racism and hate speech",
+    "recommendation": "The State party should redouble its efforts, both through law enforcement activities and awareness-raising, to combat hate speech, including on the Internet, racist and xenophobic violence against and negative stereotyping and portrayal of ethnic or religious minorities, in accordance with articles 19 and 20 of the Covenant and the Committee’s general comment No. 34 (2011) on freedoms of opinion and expression. It should, inter alia: (a) institute new awareness-raising campaigns aimed at promoting respect for human rights and tolerance for diversity and targeted at revisiting and eradicating stereotypes towards different ethnic or religious minorities; and (b) effectively implement the legal and policy frameworks to counter all manifestations of racism, hatred and xenophobia, including by thoroughly investigating such cases, prosecuting suspected perpetrators where appropriate and, if they are convicted, punishing them and providing victims with adequate remedies",
+    "header_grades": [
+     "A"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (b)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee appreciates the significant actions taken by the State party to prevent and combat racism, xenophobia and other forms of intolerance, particularly through awareness-raising, research and training activities provided for under the national plan adopted on 24 November 2016; it requires information on the impact of these measures, including clarification substantiated by relevant data as to whether implementation translated into a decrease in manifestations of racism and intolerance identified as concerns by the Committee, as well as on the remaining gaps and challenges. The Committee welcomes the new measures taken by the State party to strengthen its response to hate crimes, including the establishment of a national contact point and specific hate crime units in the three metropolitan police regions, allocation of resources for criminal investigations and assistance to victims, and the update (December 2016) to the Prosecution Authority’s general procedure for the investigation of hate crimes. It requires further information on whether and how such measures contributed to improved practices of identification, investigation and prosecution of racism, xenophobia and other forms of intolerance and to better support for victims, including relevant data on the number of incidents reported since 2016, investigations, prosecutions and convictions secured, and on remedies provided to victims of such violations"
+     }
+    ]
+   },
+   {
+    "para": "33",
+    "title": "Rights of aliens, including migrants, refugees and asylum seekers",
+    "recommendation": "The State party should: (a) Ensure that its policies and practices related to the return and expulsion of migrants and asylum seekers afford sufficient guarantees of respect for the principle of non-refoulement, in particular for those migrants and asylum seekers covered by the new temporary adjustments to the asylum legislation that are currently being drafted within the government offices, and for those designated as “security cases” or “qualified security cases”; (b) Ensure that the detention of migrants and asylum seekers is a measure of last resort and for the shortest period of time, is necessary and proportionate in the light of the circumstances, and that alternatives to detention are resorted to in practice",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes that the legal regime applicable to “security cases” and “qualified security cases” appears to remain unchanged from the date when the concluding observations were adopted. It appreciates the information regarding the act on temporary restrictions on the right to obtain residence permits in force since 20 July 2016, the unaltered application of the principle of non-refoulement, and the Migration Agency’s training of employees and development of methods for individualized risk assessments. The Committee requires additional information on: (a) the adjudication of appeals in “security cases” and “qualified security cases” by the Migration Court of Appeal, particularly regarding the procedural rights of the aliens concerned, the number of Court opinions on such appeals since the adoption of the concluding observations and the number of those opinions that found impediments to the enforcement of expulsion; (b) any relevant legislative and policy developments following the expiration of the temporary legislation of July 2016, their compatibility with the Covenant as regards, inter alia, robust safeguards against refoulement; and (c) the implementation in practice of methods of individualized risk assessment in asylum cases and the positive impact on reducing the risk of refoulement"
+     },
+     {
+      "limb": "(b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information regarding detention of migrants and asylum seekers and the application of supervision as an alternative whenever possible. However, it requires (a) further information on whether detention is used as a measure of last resort, is applied for the shortest appropriate period, and is justifiable as reasonable, necessary and proportionate in the light of the circumstances; (b) further information on the time limit on immigration detention; and (c) up-to-date data on the implementation of alternatives to detention in practice. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The requests for additional information will be included, as appropriate, in the list of issues prior to submission of the eighth periodic report of Sweden. Next periodic report: 31 March 2023. 4"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 4.0
+}

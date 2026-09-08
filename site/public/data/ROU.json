@@ -1,0 +1,94 @@
+{
+ "a3": "ROU",
+ "name": "Romania",
+ "num": 642,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/ROU/CO/5",
+   "co_session": 121,
+   "co_date": "6 November 2017",
+   "fco_symbol": "CCPR/C/ROU/FCO/5",
+   "assessment_symbol": "CCPR/C/135/2/Add.4",
+   "assessment_session": 135,
+   "assessment_date": "27 June–27 July 2022",
+   "year": 2022,
+   "followup_paras": [
+    "12",
+    "30",
+    "42"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.75
+  },
+  "paragraphs": [
+   {
+    "para": "12",
+    "title": "Equality and non-discrimination of Roma",
+    "recommendation": "",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the amendment made to the law on territorial planning and urbanism and several guarantees therein, including in relation to prior consultation with the inhabitants of informal settlements in case of dismantlement, their relocation and targeted social assistance. It requests information on the implementation of this amendment, particularly on the provision of adequate advance notice of eviction and cases of legal challenges made in relation to eviction orders against Roma. The Committee welcomes the information on the Education, Scholarships, Apprenticeships and Youth Entrepreneurship Programme, the amendment to the national education law on mandatory preschool education and the establishment of the National Committee for Desegregation and Educational Inclusion. It requests information on the enrolment status of Roma children in preschool during the reporting period and on measures taken to prevent and intervene in cases of segregation of Roma children, including the reconfiguration of school districts. The Committee welcomes the information concerning government Emergency Ordinance No. 18/2017 on community health nursing, the services provided, the increased number of health mediators and nurses and the contribution of the Ministry of Health in that regard. It requests information on the impact of these measures, including on the health status and life expectancy of Roma. The Committee notes the ongoing assessment of the National Strategy for the inclusion of Romanian citizens belonging to the Roma minority, the launch of policy recommendations on Roma inclusion by the National Agency for the Roma and the sanctions imposed on local authorities for discriminatory acts. Nevertheless, it regrets the lack of specific information on effective coordination with local authorities and a comprehensive data-collection system on discrimination against Roma. It reiterates its recommendation and requests information on the results of the assessment of the National Strategy and the sanctions imposed on local authorities for discriminatory acts against Roma during the reporting period"
+     }
+    ]
+   },
+   {
+    "para": "30",
+    "title": "Ill-treatment in public care facilities",
+    "recommendation": "",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While noting the monitoring activities conducted by the national preventive mechanism, the National Monitoring Council and social inspectors, the Committee regrets the lack of information on the implementation of the recommendations made by these monitoring bodies to improve living conditions and treatment in public care facilities. It reiterates its recommendation and requests such information. The Committee welcomes the efforts made towards the deinstitutionalization of persons with disabilities, including by setting a maximum capacity at residential centres and restructuring the centres. It also notes the coordination mechanism under the 2021–2027 national strategy. Nevertheless, it regrets the lack of information on community-based support provided in the context of deinstitutionalization and requests information in this respect"
+     },
+     {
+      "limb": "(b), (d) and (e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information on specific measures taken to ensure that persons with disabilities are not discriminated against in the enjoyment of their rights, and that any restrictions are legal, necessary and proportionate to the individual circumstances and include guarantees of an effective remedy. It reiterates its recommendations. While welcoming the Constitutional Court’s decision of 13 July 2020, finding full deprivation of legal capacity to be unconstitutional, the Committee regrets the lack of information on measures taken to pursue legal amendments in this regard and on any efforts made to restore the legal capacity of persons with disabilities. It reiterates its recommendation and requests information on the implementation of the Constitutional Court’s decision, including any proportional protection measures requested by the Court. The Committee is concerned about the absence of information on specific measures taken to strengthen complaints mechanisms for persons with disabilities and persons in psychiatric institutions to investigate cases of abuse and prosecute those responsible, and to ensure independent representation of persons with disabilities in any proceedings to safeguard their rights. It reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "42",
+    "title": "Protection of minors and rights of the child",
+    "recommendation": "",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While welcoming the decrease in the number of children in residential institutions and the legislative measures taken, including the proposed amendment to limit the institutionalization of children under the age of 3, the Committee regrets the lack of information on specific measures taken to avoid the institutionalization of children from single-parent households, to use alternative family-based settings and to ensure adequate living conditions and health care in residential facilities. It reiterates its recommendation in this respect. The Committee notes the efforts made by the National Authority for the Rights of Persons with Disabilities, Children and Adoptions and the intersectoral county teams to combat the exploitation of children, and the establishment of the Child’s Advocate. It requests further information on the impact of those measures. While noting that a number of investigations have been conducted into cases of exploitation of children, the Committee regrets the lack of information on the outcome of those investigations, including the punishments that were imposed. It reiterates its recommendation and requests information on any remedies provided to victims in such cases. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2027 (country review in 2028, in accordance with the predictable review cycle). 5"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.75
+}

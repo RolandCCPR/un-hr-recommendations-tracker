@@ -1,0 +1,94 @@
+{
+ "a3": "GRC",
+ "name": "Greece",
+ "num": 300,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/GRC/CO/2",
+   "co_session": null,
+   "co_date": "3 November 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/124/2",
+   "assessment_session": 124,
+   "assessment_date": "8 October–2 November 2018",
+   "year": 2018,
+   "followup_paras": [
+    "16",
+    "32",
+    "34"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.4
+  },
+  "paragraphs": [
+   {
+    "para": "16",
+    "title": "Excessive use of force and ill-treatment",
+    "recommendation": "The State party should ensure that all allegations of unauthorized and disproportionate use of force by law enforcement officials are thoroughly and promptly investigated by an independent authority, that the alleged perpetrators are prosecuted, that those found guilty are punished with sentences that are commensurate with the gravity of the offence, and that compensation is provided to the victims or their families. The State party should also ensure that the police receive appropriate professional training that includes full respect for human rights principles",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the designation of the Ombudsman as the national mechanism for the investigation of incidents of ill-treatment committed by law enforcement and detention facility agents. It requires additional information on: (a) the mandate and actions taken by the national mechanism for the investigation of incidents of ill-treatment committed by law enforcement and detention facility agents to investigate allegations of unauthorized and disproportionate use of force by such agents; and (b) whether the State party envisages rendering the Ombudsman’s recommendations binding"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information on concrete measures taken after the adoption of the concluding observations to ensure that all allegations of unauthorized and disproportionate use of force by law enforcement officials are thoroughly and promptly investigated by an independent authority. It therefore requires information on: (a) the measures taken to punish, as well as the sentences imposed on, law enforcement officials for misconduct, ill-treatment or disproportionate use of force, after the adoption of the Committee’s concluding observations; (b) the progress of investigations made into the cases of Thanasis Panayotopoulos, Yannis Bekos, Vasilis Loukas and similar ones; and (c) the number, regularity, duration and content of professional training for police officers and other law enforcement agents conducted after the Committee’s concluding observations. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "32",
+    "title": "Unaccompanied minors",
+    "recommendation": "The State party should ensure that the principle of the best interests of the child is given due consideration in all decisions concerning unaccompanied children, including by: (a) Ensuring that unaccompanied minors who enter the country in an irregular manner are not detained or are held in detention only as a measure of last resort and for the shortest period of time necessary; (b) Creating new reception facilities and increasing the number of detention spaces in existing structures, while ensuring adequate conditions for unaccompanied minors in those facilities, including their segregation from adults; (c) Pursuing its efforts to redesign the guardian assignment procedure to ensure that each unaccompanied child is provided with a legal guardian; (d) Ensuring that the age assessment procedure is based on safe and scientific methods, taking the children’s mental well-being into account and avoiding all risks of violating their physical integrity",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee appreciates the information provided by the State party and the data provided on the custody of unaccompanied minors, however, it regrets that the detention may be extended to periods of time that can be considered excessive. In this regard, the Committee requires the State party to provide information on the measures taken to ensure that unaccompanied minors who enter the country in an irregular manner are not detained or are only held in detention as a measure of last resort and for the shortest period of time necessary. It also requires information on the number of current and previous unaccompanied minors in custody since 2015, the duration of their custody, the vulnerability assessments made, medical assessments undergone, facilities sent to and guarantees provided to ensure that they are informed of their legal status and entitlement to legal aid. The Committee notes the information provided by the State party on the involvement of doctors and psychologists in the age assessment procedure. However, it regrets reports indicating that the procedure is intrusive and inaccurate and that it is not thoroughly implemented in all cases, particularly with respect to individuals who illegally entered or reside on the mainland. The Committee therefore requires information on whether any steps have been taken to develop a standard protocol for the age assessment procedure, which is applicable to any individual whose age is questioned. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(b) and (c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information provided, including the increase in the number of shelters from 17 to 41 and the addition of approximately 690 places to the pre-existing 420, as well as the information provided on the separation of unaccompanied minors from adults and the services and safe zones provided to them. The Committee requires information from the State party on the steps taken to continue its efforts in analysing the current needs and building new shelters with the aim of reducing the number of unaccompanied minors awaiting placement in shelters. The Committee welcomes the envisaged draft laws on guardianship and foster care, but regrets the lack of specific information on their content. The Committee requires information on: (a) how the aforementioned laws would enhance the protection of children deprived of parental care; (b) which guarantees are included in the special provisions for unaccompanied minors; and (c) what progress has been made in the draft bills’ legislative process and implementation"
+     }
+    ]
+   },
+   {
+    "para": "34",
+    "title": "Expulsion of asylum seekers and undocumented immigrants",
+    "recommendation": "The State party should ensure that all persons seeking international protection have access to fair and personalized assessment procedures, protection against refoulement without discrimination and an independent mechanism with the authority to suspend negative decisions. The State party is encouraged, in consultation with its international and regional partners and neighbours, to allow migrants wishing to enter its territory to have access to safe entry points where their asylum claims can be evaluated. The State party should also take all the measures necessary to ensure that informal returns do not occur and that immigrants are not subjected to illtreatment during their deportation and expulsion or while in pre-removal centres. The State party should also ensure that ill-treatment of refugees and migrants is effectively reported, undertake, as a matter of priority, prompt, effective and independent investigations into all claims of irregular returns and ill-treatment of migrants, punish the perpetrators, where appropriate, and provide compensation to victims",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.4
+}

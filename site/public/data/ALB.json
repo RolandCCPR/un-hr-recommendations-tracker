@@ -1,0 +1,72 @@
+{
+ "a3": "ALB",
+ "name": "Albania",
+ "num": 8,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/ALB/CO/2",
+   "co_session": null,
+   "co_date": "24 July 2013",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/115/2",
+   "assessment_session": 115,
+   "assessment_date": "19 October-6 November 2015",
+   "year": 2015,
+   "followup_paras": [
+    "9",
+    "13"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 1,
+    "D": 1,
+    "E": 0
+   },
+   "score": 3.4
+  },
+  "paragraphs": [
+   {
+    "para": "9",
+    "title": "Investigation into the January 2011 demonstrations",
+    "recommendation": "The State party should intensify its efforts to conclude its investigation into the January 2011 demonstrations, ensure compliance with international standards of investigation, and to this end, bring perpetrators to justice, punish them adequately, if convicted, and compensate victims",
+    "header_grades": [
+     "C",
+     "D"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that investigations into the January 2011 demonstrations are still ongoing. Additional information is required on measures taken to improve the effectiveness of the investigations, to ensure compliance with international standards, and to this end, to bring perpetrators to justice and punish them adequately"
+     },
+     {
+      "limb": "",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "The Committee regrets that the State party has not provided information on measures taken to compensate victims. Information is required on measures taken to compensate victims, including on the pension that it has been agreed will be granted to the victims’ families, who will qualify for it, its amount and duration, and whether the pensions have already been granted"
+     }
+    ]
+   },
+   {
+    "para": "13",
+    "title": "Identification of persons needing international protection",
+    "recommendation": "The State party should ensure proper implementation of pre-screening procedures at the border and inside the country in order to ensure that persons in need of international protection are identified and referred to the asylum procedure, regardless of whether or not they entered the country in an irregular manner. It should refrain from detaining asylum seekers on the basis of the manner of entry into the country. It should improve living conditions in transit reception facilities",
+    "header_grades": [
+     "B",
+     "B",
+     "B"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.4
+}

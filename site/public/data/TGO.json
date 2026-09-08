@@ -1,0 +1,93 @@
+{
+ "a3": "TGO",
+ "name": "Togo",
+ "num": 768,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/TGO/CO/4",
+   "co_session": null,
+   "co_date": "28 March 2011",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/112/2",
+   "assessment_session": 112,
+   "assessment_date": null,
+   "year": 2015,
+   "followup_paras": [
+    "10",
+    "15",
+    "16"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 0,
+    "D": 0,
+    "E": 0
+   },
+   "score": 4.0
+  },
+  "paragraphs": [
+   {
+    "para": "10",
+    "title": "Accountability for the 2005 human rights violations",
+    "recommendation": "Follow-up question: [B2]: Information is required on the decisions taken in respect of the human rights violations committed in 2005 and on their implementation",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes that no information was provided on the conduct of independent and impartial investigation and the prosecution of those responsible, as requested by the Committee. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "15",
+    "title": "Torture and impunity",
+    "recommendation": "Follow-up question: [B2]: Additional information is still required on: (i) The content of the provisions of the Criminal Code relating to torture; (ii) The progress made towards the adoption of the bills by the Government",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes that the State party has not provided information on the content of the provisions of the Criminal Code relating to torture, as requested by the Committee"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "Additional information is required on the progress towards the adoption of the bills by the Government"
+     }
+    ]
+   },
+   {
+    "para": "16",
+    "title": "Conditions of detention",
+    "recommendation": "Follow-up question: [B1]: Additional information will be required when measures have been adopted to continue the implementation of the recommendations of the National Human Rights Commission. Togo",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee requests further information on: (a) The specific reforms to the ANR which the State party has undertaken and the dates of such reforms; (b) The current status of the delivery of victims’ compensation; (c) Whether impartial and independent criminal investigations have begun on alleged cases of torture"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 4.0
+}

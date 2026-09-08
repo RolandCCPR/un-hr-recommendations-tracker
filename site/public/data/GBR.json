@@ -1,0 +1,112 @@
+{
+ "a3": "GBR",
+ "name": "United Kingdom of Great Britain and Northern Ireland",
+ "num": 826,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/GBR/CO/7",
+   "co_session": null,
+   "co_date": "21 July 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/122/2",
+   "assessment_session": 122,
+   "assessment_date": "12 March–6 April 2018",
+   "year": 2018,
+   "followup_paras": [
+    "8",
+    "9"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 8,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 7,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.12
+  },
+  "paragraphs": [
+   {
+    "para": "8",
+    "title": "Accountability for conflict-related violations in Northern Ireland",
+    "recommendation": "The State party should: (a) Ensure, as a matter of particular urgency, that independent, impartial, prompt and effective investigations, including those proposed under the Stormont House Agreement, are conducted to ensure a full, transparent and credible account of the circumstances surrounding events in Northern Ireland with a view to identifying, prosecuting and punishing perpetrators of human rights violations, in particular the right to life, and providing appropriate remedies for victims; (b) Ensure, given the passage of time, the establishment and full operation of the Historical Investigations Unit as soon as possible; guarantee its independence, by statute; secure adequate and sufficient funding to enable the effective investigation of all outstanding cases; and ensure its access to all documentation and material relevant to its investigations; (c) Ensure that the Legacy Investigation Branch and the Coroner’s Court in Northern Ireland are adequately resourced and are well positioned to review outstanding legacy cases effectively; (d) Reconsider its position on the broad mandate of the executive to suppress the publication of inquiry reports under the Inquiries Act 2005; (e) Finucane. Consider launching an official inquiry into the murder of Patrick",
+    "header_grades": [
+     "B",
+     "C",
+     "C",
+     "C",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information on first charges for conflict-era legacy killings against three soldiers as reported by the NGO, and requires updated information on the outcome of those cases and on any other prosecutions for conflict-related human rights violations secured by investigative mechanisms as well as on eventual convictions and reparations provided to victims. The Committee also notes with concern the proposed enactment of a statute of limitations covering all Troubles-related incidents, and requires updates on any relevant developments concerning the initiative, including on any draft or adopted legislation to that effect, its content and its compliance with Covenant obligations"
+     },
+     {
+      "limb": "(b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the framework for addressing the legacy of the past in Northern Ireland under the Stormont House Agreement of December 2014, but regrets the lack of progress in establishing the four institutions, in particular the Historical Investigations Unit, and the negative impact that such delay may have on conducting independent, impartial, prompt and effective investigations into the conflict-related human rights violations in Northern Ireland. The Committee requires additional information on: (a) any draft bill or adopted legislation establishing the Historical Investigations Unit and other legacy bodies and any public consultations on such legislation; (b) the independence and impartiality of the Historical Investigations Unit and how its investigations satisfy the standards under the Covenant; (c) allocation of adequate resources to enable it to carry out its mandate effectively; (d) access to information and full disclosure by the Government to the Historical Investigations Unit, including any national security exceptions to such disclosure and their compatibility with State party’s obligations under the Covenant; (e) progress made by the Historical Investigations Unit in investigating cases falling under its remit (if applicable). The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The State party provided no specific information on measures taken to ensure that the Legacy Investigation Branch within the Police Service of Northern Ireland and the Coroner’s Court in Northern Ireland were adequately resourced and were well positioned to review outstanding legacy cases effectively. While welcoming the proposal by the Lord Chief Justice of Northern Ireland of a dedicated legacy inquest unit to address the backlog of legacy inquests, the Committee regrets that the resources necessary for its establishment and operation have not been provided. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party has not reconsidered its position on the broad mandate of the executive to suppress the publication of inquiry reports under the Inquiries Act 2005. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The State party has not considered conducting an official inquiry into the murder of Patrick Finucane. The Committee also notes that the decision not to hold a public inquiry is the subject of judicial review by the Supreme Court, and it requires information on the outcome of appeal proceedings and on any other measures taken to implement its recommendation. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "9",
+    "title": "Accountability for human rights violations committed by British forces abroad",
+    "recommendation": "The State party should: (a) Ensure that the proceedings before the Intelligence and Security Committee of Parliament meet the requirements of the Covenant, including an adequate balance between security interests and the need for accountability for human rights violations, and consider initiating a full judicial investigation in all relevant detainee cases; (b) Address the excessive delays in the investigation of cases dealt with by the Iraq Historical Allegations Team and consider establishing more robust accountability measures to ensure prompt, independent, impartial and effective investigations; (c) Ensure that the allegations in connection with Camp Nama are thoroughly, independently and impartially investigated",
+    "header_grades": [
+     "C",
+     "C",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes that the Intelligence and Security Committee’s inquiry into human rights violations committed by British forces abroad is still ongoing. The State party provided no information on measures taken to ensure that proceedings before the Intelligence and Security Committee met the requirements of the Covenant, including an adequate balance between security interests and accountability for human rights violations, nor on whether consideration had been given to initiating a full judicial investigation in all relevant detainee cases. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes from publicly available information that the Iraq Historic Allegations Team officially closed on 30 June 2017, and that the remaining investigations have been taken over by Service Police Legacy Investigations. It requires clarification on the independence and impartiality of Service Police Legacy Investigations and its capacity to conduct prompt, independent, impartial and effective investigations; and information on: (a) the outcome of investigations undertaken by the Iraq Historic Allegations Team until its closure; and (b) the number of cases transferred to Service Police Legacy Investigations and the progress of the investigations. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the State party’s assertion regarding the inability to identify Camp Nama with a particular location and the lack of specific information on measures taken to investigate the allegations in connection with Camp Nama thoroughly, independently and impartially. The Committee reiterates its recommendation"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.12
+}

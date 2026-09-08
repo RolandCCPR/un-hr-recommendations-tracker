@@ -1,0 +1,101 @@
+{
+ "a3": "GHA",
+ "name": "Ghana",
+ "num": 288,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/GHA/CO/1",
+   "co_session": null,
+   "co_date": "8 July 2016",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/127/2/Add.1",
+   "assessment_session": 127,
+   "assessment_date": "14 October–8 November 2019",
+   "year": 2019,
+   "followup_paras": [
+    "18",
+    "28",
+    "30"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.6
+  },
+  "paragraphs": [
+   {
+    "para": "18",
+    "title": "Non-discrimination and harmful traditional practices",
+    "recommendation": "The State party should: (a) Strengthen its awareness-raising and education programmes in that regard, in particular in those communities where the practices remain widespread; (b) practices; Further enhance its efforts to prevent and eradicate harmful traditional (c) Proactively investigate cases of traditional harmful practices and ensure that victims have access to effective remedies and adequate protection, rehabilitation and reintegration mechanisms",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee regrets the lack of information provided by the State party, but notes the information received from civil society on awareness-raising and education programmes relating to non-discrimination and harmful traditional practices. It appreciates the establishment in 2017 of the Gender and Development Initiative for Africa, but requires information on its implementation, particularly regarding coordination between the Ministry of Gender, Children and Social Protection and the Office of the President. The Committee also requires information on the activities carried out by the Regional Child Protection Committees and on further measures taken to strengthen awareness-raising and education in the areas of non-discrimination and harmful traditional practices since the adoption of the Committee’s concluding observations"
+     },
+     {
+      "limb": "(b) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that no information was provided by the State party on the measures taken to prevent and eradicate harmful traditional practices. The Committee reiterates its recommendations. The Committee notes the existence of a dedicated telephone line for victims of domestic violence, but requests clarification on whether it can be used to report cases related to harmful traditional practices. It also requires information on actions taken to ensure that reported cases are investigated and prosecuted. The Committee welcomes the adoption in 2017 of the legislative instrument for the implementation of the Domestic Violence Act, but regrets the absence of information from the State party on its content, particularly as regards harmful traditional practices, and on its implementation. The Committee also requires information on measures taken to ensure that victims have access to effective remedies and adequate protection, rehabilitation and reintegration mechanisms"
+     }
+    ]
+   },
+   {
+    "para": "28",
+    "title": "Persons with disabilities and psychiatric treatment",
+    "recommendation": "The State party should: (a) Ensure the implementation of the Mental Health Act, including through the adoption of legislative instruments for its implementation and the recruitment of qualified mental health professionals; (b) Ensure registration, regulation and control of “prayer camps”, with a view to preventing ill-treatment, including inhumane practices involving shackling and mandatory fasting; (c) Ensure an effective and independent monitoring and reporting system for mental health and social care institutions, and ensure that abuses are effectively investigated and prosecuted and that compensation is provided to the victims and their families; (d) Prohibit non-consensual psychiatric treatment, such as forced medication and confinement; (e) Ensure that persons with mental disabilities or their legal representatives are able to exercise the right to effective remedy against violations of their rights",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (c), (d) and (e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided by the State party on the training of staff of the Judicial Council of Ghana, but regrets that no information was provided about the adoption of legislative instruments for the implementation of the Mental Health Act or about the recruitment of qualified mental health professionals. The Committee also notes the information provided by civil society and requires information about whether coordinators have now been appointed for the Community Mental Health Units and whether a new Board has been constituted for the Mental Health Authority. The Committee reiterates its recommendation. The Committee notes the information provided by the State party that any prayer camp refusing to release mental health patients will be prosecuted. However, the Committee requires concrete information on any prosecutions that have been carried out in the last two years. In this regard, the Committee regrets that no information was provided on measures taken to ensure that abuses were investigated and prosecuted and the victims and their families were compensated. It notes the information provided by civil society on the establishment of three regional visiting committees, and requires information on the establishment of the remaining regional visiting committees and on any monitoring visits that have been carried out. The Committee regrets that the State party has not provided any information on measures taken to prohibit non-consensual psychiatric treatment. The Committee notes the information provided by civil society on the draft mental health policy for psychiatric hospitals, but requires information on its content and the timeline for its adoption. The Committee reiterates its recommendations. The Committee regrets that no information was provided by the State party regarding the measures taken to ensure the right to an effective remedy for persons with mental disabilities. The Committee reiterates its recommendations"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the measures taken by the Mental Health Authority to release mental health patients, including from the Nyankumasi Prayer Camp. It notes the information provided that the Mental Health Authority conducts monitoring visits in some of the prayer camps, but requires information on the dates of the visits that have been carried out in the last two years. It also notes information provided by civil society on the guidelines for traditional and faith-based healers on mental health care and on the establishment of specialist outreach clinics, but requires further information on the content of the guidelines, the progress made in implementing them and the work carried out by the clinics. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "30",
+    "title": "Conditions of detention and violence among inmates",
+    "recommendation": "The State party should take measures to improve the conditions and treatment of persons held in custody and take steps to address the problem of prison overcrowding, including by introducing a genuine policy on the use of non-custodial penalties, in accordance with the United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules). It should take the necessary steps to separate prisoners by age, sex and custodial status. The State party should also ensure that inmates are not given any disciplinary authority over other inmates. Given the recent ratification of the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, the State party should expedite its efforts to establish a national mechanism for the prevention of torture as soon as possible, as well as a mechanism for receiving and processing complaints lodged by detainees",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes that the State party has repeated information provided in its initial report and its replies to the list of issues (CCPR/C/GHA/1 and CCPR/C/GHA/Q/1/Add.1). It notes the information provided by civil society on a bill on non-custodial penalties and a policy on non-custodial sentencing, pending approval by the Cabinet. However, the Committee requires information on the contents of the bill and the policy, as well as on timelines for adoption. It also requires information on additional measures taken to address the situation of overcrowding and to improve the conditions and treatment of persons held in custody, including information on food provided to prisoners. The Committee welcomes the separation of prisoners by age, sex and custodial status, but requires information on the report received that juveniles suspected of falsifying their age are placed in prisons for adults. The Committee regrets that no information was provided on measures taken to ensure that inmates were not given disciplinary authority over other inmates. The Committee welcomes the information provided on the process to amend the mandate of the Commission on Human Rights and Administrative Justice to make it the national mechanism for the prevention of torture and requires updated information in this respect. It also requires information on measures taken to establish a mechanism for receiving and processing complaints submitted by detainees"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.6
+}

@@ -1,0 +1,94 @@
+{
+ "a3": "THA",
+ "name": "Thailand",
+ "num": 764,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/THA/CO/2",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/129/2/Add.2",
+   "assessment_session": 129,
+   "assessment_date": "29 June–24 July 2020",
+   "year": 2020,
+   "followup_paras": [
+    "8",
+    "22",
+    "34"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "8",
+    "title": "Constitutional and legal framework",
+    "recommendation": "The State party should review all measures adopted under the interim Constitution of 2014, in particular under sections 44, 47 and 48, in the light of its obligations under the Covenant, and make sure that all measures to be adopted under the new draft Constitution, including section 279, will be consistent with its obligations under the Covenant, including the obligation to provide effective remedies to victims of human rights violations",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party has taken no specific measures to implement the Committee’s recommendation. In this regard, the Committee requests information on claims filed with the Constitutional Court challenging the provisions referred to in the Committee’s recommendation, and the results of these cases. It also requires information on the timetable for the revision of laws, regulations and measures enacted under the Constitution that was promulgated on 6 April 2017. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "22",
+    "title": "Extrajudicial killings, enforced disappearances and torture",
+    "recommendation": "The State party should: (a) Ensure that cases are reported and that prompt, impartial and thorough investigations are carried out into all allegations and complaints concerning the unlawful and excessive use of force by law enforcement officials and the military, including torture, enforced disappearances and extrajudicial killings, including in the context of the southern border provinces. It should also ensure that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions; (b) Provide the truth about the circumstances of those crimes and, in cases of enforced disappearances, clarify the fate or whereabouts of the victims and ensure that their relatives are informed about the progress and the results of investigations; (c) Ensure that the victims are provided with full reparation, including satisfaction and guarantees of non-repetition; (d) Amend the Martial Law Act, Emergency Decree and Order 3/2015 to ensure that they comply with all the provisions of the Covenant, including with the guarantees against incommunicado detention enumerated in the Committee’s general comment No. 35 (2014) on liberty and security of person. The State party should also amend criteria with a view to lifting the Martial Law and Emergency Decree in the provinces currently under them without undue delay; (e) Promptly set up an independent mechanism for the prevention and suppression of torture and enforced disappearances; (f) Reinforce the training of law enforcement officials and military personnel on full respect for human rights, including on the appropriate use of force and on the eradication of torture and ill-treatment, ensuring that all training materials are in line with the Covenant and the United Nations Basic Principles on the Use of Force and Firearms by Law Enforcement Officials",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c) and (f)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes with interest order No. 131/2560 of 23 May 2017, but requires information on the measures taken by the National Committee for Managing Cases Relating to Torture and Enforced Disappearance, including the investigations carried out and the outcome of cases of torture and enforced disappearance. It requires information on the following: (i) the progress made on the adoption of the draft act on the prevention and suppression of torture and enforced disappearance, and whether the current draft complies fully with the Covenant; (ii) the case of Porlajee “Billy” Rakchongcharoen, which was announced in the Royal Gazette of 11 July 2018 as a special case under investigation by the Department of Special Investigations; (iii) the case of Somchai Neelapaijit; and (iv) the reported cases of defamation lawsuits filed by military officials against those reporting on torture. The Committee reiterates its recommendation. The Committee takes note of the National Justice System Reform Plan, established in April 2018, and the measures taken to provide victims with financial reparation. It requires, however, information on the measures taken to guarantee full and systematic reparation, including psychological assistance, to all victims. The Committee notes the information on training sessions conducted for law enforcement officials and military personnel, but requires updated information on the frequency and content of this training and on whether judges and prosecutors participate in such training"
+     },
+     {
+      "limb": "(d) and (e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information on the measures taken to amend the Martial Law Act, the Emergency Decree and Order No. 3/2015 (No. 3/2558) to ensure that they comply with all provisions of the Covenant. It also regrets the reported excessive use of such legislation, in violation of the Covenant. The Committee reiterates its recommendation. The Committee regrets the lack of information provided on the measures taken to set up an independent mechanism for the prevention and suppression of torture and enforced disappearance. It reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "34",
+    "title": "Conditions of detention",
+    "recommendation": "The State party should continue to strengthen its efforts to improve conditions of detention by taking practical measures to reduce overcrowding, particularly by promoting alternatives to detention. It should also increase efforts to guarantee the right of detainees to be treated with humanity and dignity and ensure that conditions of detention in all of the country’s prisons are compatible with the United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules)",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the State party’s efforts to improve conditions of detention, particularly by the Department of Corrections under the Ministry of Justice and the Institute of Justice. It also notes the introduction of an electronic monitoring system as an alternative to detention. It is concerned, however, about the persistent reports of overcrowding and the poor conditions of detention. It requires further information on the impact of the measures taken by the State party to reduce overcrowding and to improve conditions of detention. The Committee reiterates its recommendation. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 29 March 2021. 10"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.5
+}

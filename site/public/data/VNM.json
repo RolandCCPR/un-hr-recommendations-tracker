@@ -1,0 +1,94 @@
+{
+ "a3": "VNM",
+ "name": "Viet Nam",
+ "num": 704,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/VNM/CO/3",
+   "co_session": 125,
+   "co_date": "25 March 2019",
+   "fco_symbol": "CCPR/C/VNM/FCO/3",
+   "assessment_symbol": "CCPR/C/136/2/Add.4",
+   "assessment_session": 136,
+   "assessment_date": "10 October–4 November 2022",
+   "year": 2022,
+   "followup_paras": [
+    "24",
+    "46",
+    "52"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 2,
+    "D": 0,
+    "E": 2
+   },
+   "score": 2.0
+  },
+  "paragraphs": [
+   {
+    "para": "24",
+    "title": "Death penalty",
+    "recommendation": "The Committee reiterates its recommendation1 that the State party should: (a) Consider introducing a moratorium on the application of capital punishment and ratifying or acceding to the Second Optional Protocol to the Covenant, aiming at the abolition of the death penalty; (b) Until a moratorium is in place, amend the Penal Code to further reduce the number of crimes subject to the death penalty and ensure that such punishment is retained only for the most serious crimes, that is, for crimes of extreme gravity involving intentional killing; (c) Ensure that the death penalty is not a mandatory sentence for any crimes and, if imposed, is never in violation of the Covenant’s provisions, including with regard to fair trial procedures, and give reasonable advance notice of the scheduled date and time of execution to the affected death row inmates and their families; (d) Ensure that pardons or commutations of death penalty sentences are effectively available in all cases, and regardless of the crimes committed; (e) Publish official figures regarding death sentences and executions, disaggregated by sex, age, ethnicity, religion and crime. * Adopted by the Committee at its 136th session (10 October–4 November 2022). 1 CCPR/CO/75/VNM, para. 7. 051222",
+    "header_grades": [
+     "C",
+     "E"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the studies conducted on the retention and abolition of the death penalty and the possible ratification of the Second Optional Protocol to the Covenant, aiming at the abolition of the death penalty, the Committee remains concerned about the reported increase in the number of death sentences and death row prisoners in recent years. It reiterates its recommendation. While also taking note of the State party’s policy of reducing crimes punishable by the death penalty and an ongoing study in this respect, the Committee regrets the lack of information on the reduction in the number of such crimes and any measures taken to ensure that the death penalty is applied only for crimes of extreme gravity involving intentional killing"
+     },
+     {
+      "limb": "(c), (d) and (e)",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "While noting that the death penalty is not a mandatory sentence for any crimes, the Committee remains concerned about the reportedly systemic failure to respect due process guarantees in death penalty cases. It reiterates its recommendation and requests further information on the plan to study and introduce legislative amendments on giving advance notice of execution to death row inmates. The Committee also regrets the lack of specific information on measures taken to make commutation effectively available in all cases, particularly considering the reported increase in the number of death sentences and death row prisoners. It reiterates its recommendation and requests information on the number of commuted sentences during the reporting period. While taking note of the State party’s statement, the Committee received information alleging that official data on death sentences remain unavailable to the public. It therefore reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "46",
+    "title": "Freedom of expression",
+    "recommendation": "The State party should, as a matter of urgency, take all necessary steps, including revising legislation, to end violations of the right to freedom of expression offline and online, and ensure that restrictions do not go beyond the strictly defined limitations set forth in article 19 of the Covenant, taking into account the Committee’s general comment No. 34 (2011) on the freedoms of opinion and expression. It should also promote pluralistic media that can operate free from undue State interference",
+    "header_grades": [
+     "E"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "While noting the State party’s information on legislative measures taken to implement the Committee’s recommendations, the Committee remains concerned about reports that, on the contrary, the adoption of Decrees 119/2020/ND-CP and 15/2020/ND-CP further restricts the right to freedom of expression. While noting information about the number of radio and television channels and of Internet users, the Committee regrets the lack of specific information on steps taken to promote pluralistic media free from State interference. It reiterates its recommendation and requests further information on measures taken to bring into line with the Covenant Decrees 119/2020/ND-CP and 15/2020/ND-CP and any amendment envisaged to Decree 72/2013/ND-CP"
+     }
+    ]
+   },
+   {
+    "para": "52",
+    "title": "Human rights defenders",
+    "recommendation": "The State party should ensure that human rights defenders and other civil society actors are protected against threats, intimidation and physical attacks and investigate, prosecute and convict perpetrators of such acts. It should also allow them the necessary latitude to carry out their activities, including engaging with the United Nations, without fear of restrictions or reprisal",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the information provided, including on the law being drafted on foreign non-governmental organizations, the Committee regrets the lack of specific information on measures taken to ensure the protection of human rights defenders and civil society actors. It reiterates its recommendation and requests further information on: (a) the cases involving four environmental rights defenders, Mai Phan Lợi, Bạch Hùng Dương, Đặng Đình Bách and Ngụy Thị Khanh, including on respect of fair trial guarantees in their proceedings; and (b) the compatibility with the Covenant, particularly article 22, of Decrees 80/2020/ND-CP and 56/2020/ND-CP and Prime Minister’s Decision 06/2020/QD-Ttg"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 2.0
+}

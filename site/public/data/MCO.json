@@ -1,0 +1,46 @@
+{
+ "a3": "MCO",
+ "name": "Monaco",
+ "num": 492,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MCO/CO/3",
+   "co_session": null,
+   "co_date": "31 March 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/122/2",
+   "assessment_session": 122,
+   "assessment_date": "12 March–6 April 2018",
+   "year": 2018,
+   "followup_paras": [
+    "10"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 1,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.0
+  },
+  "paragraphs": [
+   {
+    "para": "10",
+    "title": "Freedom of expression",
+    "recommendation": "The Committee recommends that the State party review articles 58 to 60 of its Criminal Code, on publicly offending the royal family, to bring them into line with article 19 of the Covenant. Pursuant to its general comment No. 34 (2011) on freedom of opinion and freedom of expression, the Committee reiterates that the imprisonment of persons by reason of the exercise of their freedom of expression constitutes a violation of article 19, which attaches special importance to free speech. The Committee points out that all public figures, including those who hold office at the highest level, are legitimately exposed to criticism and political dissent, and the laws should not establish harsher penalties solely on the basis of the status of the person being referred to",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.0
+}

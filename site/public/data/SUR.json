@@ -1,0 +1,88 @@
+{
+ "a3": "SUR",
+ "name": "Suriname",
+ "num": 740,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/SUR/CO/3",
+   "co_session": null,
+   "co_date": "3 November 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/123/2",
+   "assessment_session": 123,
+   "assessment_date": "2–27 July 2018",
+   "year": 2018,
+   "followup_paras": [
+    "10",
+    "22",
+    "32"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 2,
+    "D": 0,
+    "E": 1
+   },
+   "score": 2.75
+  },
+  "paragraphs": [
+   {
+    "para": "10",
+    "title": "National human rights institution",
+    "recommendation": "The State party should take measures to ensure the effective functioning of the National Human Rights Institute with a broad human rights mandate, and provide it with adequate financial and human resources, in line with the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles)",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the launch of the National Human Rights Institute in 2016, and requires additional information on the planned measures aimed at ensuring its compliance with the Paris Principles, the progress in the implementation of those measures and the anticipated time frame for achieving the Institute’s full compliance with the Principles, including with regard to institutional and financial independence and autonomy, and its mandate"
+     }
+    ]
+   },
+   {
+    "para": "22",
+    "title": "Impunity for past human rights violations",
+    "recommendation": "Recalling its previous recommendation (see CCPR/CO/80/SUR, para. 7), the Committee urges the State party to repeal the Amnesty Act. The State party should also comply forthwith with international human rights law requiring accountability for those responsible for serious human rights violations in respect of which States are required to bring perpetrators to justice, including by completing the pending criminal prosecutions. In this regard, the Committee draws attention to its general comment No. 31 (2004) on the nature of the general legal obligation imposed on States parties to the Covenant, in particular paragraph 18, in which the Committee states that States parties may not relieve perpetrators of acts such as torture, arbitrary or extrajudicial killings or enforced disappearance from their personal responsibility. The State party should also ensure the effective protection of witnesses and diligently enquire into all cases of suspected witness intimidation",
+    "header_grades": [
+     "E",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee regrets that the State party does not intend to repeal the Amnesty Act and that no measures have been taken to bring perpetrators of serious human rights violations, including for the Moiwana massacre of 1986, to justice, including by completing the pending criminal prosecutions brought against the President, Desiré Bouterse, and 24 others accused of the extrajudicial executions of 15 political opponents in December 1982. The Committee reiterates its recommendation, and recalls its general comment No. 31 (2004) on the nature of the general legal obligation imposed on States parties to the Covenant, in particular paragraph 18, in which it indicates that States parties may not relieve perpetrators of acts such as torture, arbitrary or extrajudicial killings or enforced disappearance from personal responsibility. The Committee regrets the State party’s assertion that it has no knowledge of cases of threats or harm to witnesses, and requests information on progress made in securing witness testimonies in relation to the Moiwana case and on any witness protection measures and programmes in place to ensure the effective protection of witnesses against any kind of intimidation or threats"
+     }
+    ]
+   },
+   {
+    "para": "32",
+    "title": "Judicial control of detention",
+    "recommendation": "The State party should adopt legislation to ensure that anyone arrested or detained on a criminal charge is brought before a judge within 48 hours. The Committee draws the attention of the State party to its general comment No. 35 (2014) on liberty and security of person, in particular paragraph 33, in which it states that 48 hours is ordinarily sufficient to transport the individual and to prepare for the judicial hearing. An especially strict standard of promptness, such as 24 hours, should apply in the case of juveniles. Moreover, a public prosecutor cannot be considered an officer exercising judicial power under article 9 (3) of the Covenant (see para. 32 of the general comment)",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party has not adopted legislation requiring that anyone arrested or detained on a criminal charge be brought before a judge within 48 hours, invoking resource constraints. It notes the stated intention of the State party to do everything in its power to ensure the implementation of the recommendation. The Committee requires clarification as to whether the judicial control of detention under article 9 (3) of the Covenant is exercised by a public prosecutor or by a judge. The Committee reiterates its recommendation"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 2.75
+}

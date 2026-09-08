@@ -1,0 +1,95 @@
+{
+ "a3": "DOM",
+ "name": "Dominican Republic",
+ "num": 214,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/DOM/CO/6",
+   "co_session": null,
+   "co_date": "3 November 2017",
+   "fco_symbol": "CCPR/C/DOM/FCO/6",
+   "assessment_symbol": "CCPR/C/133/3/Add.1",
+   "assessment_session": 133,
+   "assessment_date": "11 October–5 November 2021",
+   "year": 2021,
+   "followup_paras": [
+    "10",
+    "16",
+    "26"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.4
+  },
+  "paragraphs": [
+   {
+    "para": "10",
+    "title": "Non-discrimination",
+    "recommendation": "The State party should take the necessary steps to ensure full protection against discrimination and to eradicate, in law and in practice, stereotypes and discrimination against persons of Haitian descent, including Haitian migrants, persons with disabilities and LGBTI persons, by inter alia increasing the number of training programmes for law enforcement personnel and awareness-raising campaigns promoting tolerance and respect for diversity. In addition, it should adopt laws to prohibit discrimination and hate crimes on grounds of sexual orientation or gender identity and fully recognize the equality of same-sex couples and the legal identity of transgender persons. It should also ensure that cases of discrimination and violence committed by individuals or State officials are systematically investigated, that those held to be responsible are punished with appropriate penalties and that victims have access to comprehensive reparation",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information provided on the functions of the Attorney General’s Office, the Committee regrets that the State party has not provided information on concrete measures taken to implement the Committee’s recommendation. In particular, the Committee notes with concern that the State party has not referred to any measures taken to ensure protection for persons of Haitian descent, including Haitian migrants, for persons with disabilities and for lesbian, gay, bisexual, transgender and intersex persons. The Committee welcomes the statistics provided by the State party, while nevertheless noting with concern the low number of registered cases of discrimination and of criminal sanctions imposed. It therefore requests information on specific measures taken to fully implement the Committee’s recommendation"
+     }
+    ]
+   },
+   {
+    "para": "16",
+    "title": "Voluntary termination of pregnancy and reproductive rights",
+    "recommendation": "The State party should amend its legislation to guarantee safe, legal and effective access to voluntary termination of pregnancy where the life or health of the pregnant woman or girl is in danger or where carrying the pregnancy to term could cause the pregnant woman or girl substantial harm or suffering, especially in cases where the pregnancy is the result of rape or incest or when it is non-viable. Furthermore, the State party may not regulate any pregnancy or abortion in a manner that runs contrary to its obligation to ensure that women and girls need not resort to unsafe abortions; it will have to amend its legislation accordingly. The State party should not impose criminal sanctions on women and girls who undergo an abortion or on medical service providers who provide abortion assistance, as such measures force women and girls to resort to unsafe abortions. Furthermore, it should ensure unimpeded access to sexual and reproductive health services and education for men, women and adolescents nationwide. It should also ensure that all procedures to obtain the full and informed consent of persons with disabilities are followed with regard to sterilization. For this purpose, the State party should offer special training to health personnel to better acquaint them with these consent procedures and with the harmful effects and consequences of forced sterilization",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided on measures taken to amend the Criminal Code and to adopt a law establishing the terms and conditions for the voluntary termination of pregnancy. While it notes that the draft criminal code provides for an exception when abortion is performed to save the lives of the mother and the fetus, the Committee regrets that it does not contemplate abortion where the life and health of the pregnant woman or girl is at risk, the pregnancy is the result of rape or incest or when the pregnancy is non-viable. Furthermore, it is concerned that the draft criminal code provides for criminal sanctions for a woman who causes or consents to abortion and for the health-care professionals involved in the procedure, contrary to the Committee’s recommendations. It requests information on: (a) progress in the adoption of the revised Criminal Code; (b) whether the State party intends to amend the draft criminal code to guarantee safe, legal and effective access to voluntary termination of pregnancy in cases where the pregnancy is the result of rape or incest or when it is non-viable, and to ensure that no criminal sanctions are imposed on women and girls who undergo an abortion or on health-care professionals who provide abortion assistance; and (c) the bill establishing the terms and conditions for the voluntary termination of pregnancy and progress in its adoption"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the measures taken to ensure access to sexual and reproductive health services and education for men, women and adolescents in the State party. It requires information on the impact of the actions taken in the 20 towns which were prioritized as they had the highest rates of teenage pregnancy and child marriage. The Committee also welcomes the information that the State party is planning to conduct training for health-care personnel on the harmful effects and consequences of forced sterilization. It requests further information on the planned training sessions, including the number and nature of training activities, when they will take place and the number of participants"
+     }
+    ]
+   },
+   {
+    "para": "26",
+    "title": "Statelessness",
+    "recommendation": "The State party should, as a matter of urgency, take specific steps to: (a) Restore the Dominican nationality of all persons affected by decision No. TC/0168/13 in accordance with the Covenant and other relevant international instruments, including by enforcing the judgment of the Inter-American Court of Human Rights of August 2014. Specifically, the State party should ensure that all persons in group A receive their nationality documents, thereby restoring their Dominican nationality, and that all those who meet the requirements under group B promptly recover their Dominican nationality, including through the adoption of special measures for group B individuals who were unable to register during the special registration process. In addition, it should restore the Dominican nationality of those persons born between 18 April 2007 and 26 January 2010. It should also periodically publish updated information on all persons who have benefited from Act No. 169/14 and on those who have received identity documents; (b) Adopt all necessary legal and practical measures to prevent and reduce cases of statelessness, including by considering accession to the 1954 Convention relating to the Status of Stateless Persons and the 1961 Convention on the Reduction of Statelessness, as previously recommended by the Committee.1",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": [
+   {
+    "year": null,
+    "session": 116,
+    "co_symbol": "CCPR/C/DOM/CO/5",
+    "grades": "8 C · 11 CBB · 22 BBD"
+   }
+  ]
+ },
+ "combined_score": 3.4
+}

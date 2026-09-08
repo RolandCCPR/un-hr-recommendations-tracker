@@ -1,0 +1,108 @@
+{
+ "a3": "BFA",
+ "name": "Burkina Faso",
+ "num": 854,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/BFA/CO/1",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/126/2/Add.3",
+   "assessment_session": 126,
+   "assessment_date": "1–26 July 2019",
+   "year": 2019,
+   "followup_paras": [
+    "16",
+    "24",
+    "36"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
+   "grade_dist": {
+    "A": 1,
+    "B": 3,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.83
+  },
+  "paragraphs": [
+   {
+    "para": "16",
+    "title": "Equality between men and women and practices that are harmful to women",
+    "recommendation": "The State party should: (a) amend the Personal and Family Code so as to guarantee that the same minimum age for marriage applies to men and women and to all marriages, including traditional or religious marriages, and take steps to reduce polygamy with a view to its abolition; (b) extend the ban on forced marriages to cover traditional or religious marriages; (c) ensure that traditional or religious marriages are officially registered and that the age and consent of the spouses are systematically verified; (d) pursue efforts to raise awareness and devise new strategies for action to eradicate the practice of female genital mutilation; and (e) strengthen action to educate and sensitize the public, including traditional and religious leaders, to the need to combat traditional practices that are harmful to women, and ensure the effective application of the legal provisions that guarantee equality in matters of inheritance and access to land",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information on the review of the Personal and Family Code and other draft legislation, and that these measures were taken before the adoption of the concluding observations. Therefore, the Committee requires additional information on measures taken and progress made since the adoption of the concluding observations, including: (i) any specific legislative reviews undertaken and amendments adopted; (ii) a timeline for the adoption of amendments to the Personal and Family Code; and (iii) whether the envisaged review covers traditional and religious marriages. The Committee regrets the lack of information on steps taken to reduce and abolish polygamy in the State party. The Committee reiterates its recommendations. The Committee regrets that no information was provided by the State party on extending the ban on forced marriage to cover traditional or religious marriages. It notes, however, information from other sources that the new Criminal Code, adopted in 2018, establishes penalties of imprisonment for forced marriage in the case of both traditional and religious marriages. The Committee requires details of the new definition of marriage contained in the Criminal Code adopted in 2018 and whether it complies with the Committee’s recommendation to establish a ban on forced marriage in the case of traditional and religious marriages. The Committee also requires information on measures taken to ensure that traditional or religious marriages are officially registered and that the age and consent of the spouses are systematically verified. The Committee reiterates its recommendations"
+     },
+     {
+      "limb": "(d) and (e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee appreciates the information provided by the State party on awareness-raising on and new strategies to eradicate female genital mutilation. The Committee requires additional information on the beneficiaries of the National Strategic Plan, including whether (i) it involves the participation of traditional and religious leaders; and (ii) it has proven to be effective in terms of reducing the practice. The Committee also requires statistical data on the practice of female genital mutilation in both rural and urban areas of the country in the last three years. While the Committee notes information on several awareness-raising activities carried out in the State party in 2016 and 2017 to combat traditional practices that are harmful to women, it requires further information on (i) the envisaged continuation of these activities; (ii) tangible outcomes from these activities; and (iii) measures taken to ensure the effective application of the legal provisions guaranteeing equality in inheritance and access to land"
+     }
+    ]
+   },
+   {
+    "para": "24",
+    "title": "Mob justice and vigilante groups",
+    "recommendation": "The State party should: (a) reinforce the presence of national security and defence forces so as to guarantee the security of the population throughout the country and prevent the vigilante groups, including the “Koglweogo”, from taking the place of the State and performing law-enforcement tasks; (b) conduct investigations, prosecute all alleged perpetrators of human rights violations and, if they are found guilty, sentence them appropriately; and (c) organize awareness campaigns on the illegality of summary and mob justice and the criminal responsibility of perpetrators",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee appreciates the information on the actual and the planned increases in the number of security officers, on capacity-building, the creation of new police and gendarmerie services, and the adoption of a decree to combat insecurity and protect populations and property. The Committee requires further information on (i) steps taken to prevent vigilante groups from engaging in law-enforcement acts in practice; (ii) the results achieved by the implementation of the 2016 Council of Ministers decree since its implementation; and (iii) the results of the national forum on security and community policing that took place in October 2017 and the status of implementation of the resulting recommendations. The Committee notes the information that legal proceedings have been brought against alleged perpetrators of cruel, inhuman and degrading treatment. However, it requires more specific information on the number of investigations carried out, prosecutions made and the sentences imposed on perpetrators who have been found guilty in the last three years. The Committee takes note of the information provided on awareness-raising activities to encourage vigilante groups to work with the defence and security forces and end human rights violations. Nevertheless, it regrets that specific information was not provided on (i) the periodicity of these activities; and (ii) awareness-raising concerning the illegality of summary and mob justice. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "36",
+    "title": "Human trafficking and child labour",
+    "recommendation": "The State party should: (a) continue its efforts to make the general public and those who work in the criminal justice system aware of the problem of trafficking and the risks of economic and sexual exploitation; (b) strictly enforce the laws and regulations related to child trafficking, child labour and the exploitation of children, with a view to eliminating these practices and strengthening monitoring mechanisms; (c) amend Act No. 011-2014/AN so as to ensure that the penalties handed down for sex offences involving children are commensurate with the seriousness of such offences; and (d) collect disaggregated data on the extent of trafficking for purposes of the sexual and economic exploitation, forced labour and exploitation of children",
+    "header_grades": [
+     "A",
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the State party’s information on the awareness-raising activities to combat the economic and sexual exploitation of children and strongly encourages the continuation of these activities"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While the Committee welcomes the information provided by the State party, it requires additional details on measures taken since the adoption of the concluding observations to combat child trafficking, child labour and the exploitation of children, including: (i) measures taken to ensure that cases referred by social workers or other bodies are properly investigated, prosecuted and punished, when appropriate; (ii) the number of cases of child trafficking, child labour and exploitation of children that were reported, investigated and prosecuted and the number of convictions handed down in the last three years; and (iii) the tangible outcomes of the work of the watchdog and monitoring committees and measures taken to strengthen their work"
+     },
+     {
+      "limb": "(c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information on advocacy activities carried out with regard to Act No. 011-2014/AN, but regrets that no concrete legal steps have been taken to amend the Act in line with the Committee’s recommendation. The Committee also regrets the lack of disaggregated data or information on the collection of official data on the extent of trafficking for purposes of sexual and economic exploitation, forced labour and exploitation of children. The Committee reiterates its requests for information and reiterates its recommendation. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be addressed in the State party’s next periodic report. Next periodic report: 15 July 2020. 5"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.83
+}

@@ -1,0 +1,87 @@
+{
+ "a3": "CHE",
+ "name": "Switzerland",
+ "num": 756,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/CHE/CO/4",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/132/2/Add.4",
+   "assessment_session": 132,
+   "assessment_date": "28 June–23 July 2021",
+   "year": 2021,
+   "followup_paras": [
+    "7",
+    "15",
+    "29"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.0
+  },
+  "paragraphs": [
+   {
+    "para": "7",
+    "title": "Constitutional and legal framework within which the Covenant is implemented",
+    "recommendation": "The State party should: (a) strengthen, as a matter of priority, its mechanisms for ensuring that the compatibility of citizens’ initiatives with the obligations arising from the Covenant is subject to some form of check before such initiatives are put to the vote; and (b) undertake a thorough review of national laws that are at variance with the Covenant with a view to their revision",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee welcomes the steps taken by the State party to assess the compatibility of citizens’ initiatives with international law and its efforts to recommend the rejection of the proposed “Swiss law instead of foreign judges” initiative. Nevertheless, the Committee is concerned about the lack of information on any concrete measures taken within the reporting period to strengthen the checks implemented before citizens’ initiatives are put to the vote, which was recommended as a matter of priority. The Committee reiterates its recommendation and requests information on whether the State party plans to take steps to further strengthen such checks within the reporting period. The Committee regrets the lack of information on action taken within the reporting period to initiate a thorough review of national laws that are at variance with the Covenant with a view to their revision, and the State party’s indication that it has no plans to conduct such a review. The Committee reiterates its recommendation and requests information about steps taken towards its implementation"
+     }
+    ]
+   },
+   {
+    "para": "15",
+    "title": "National human rights institution",
+    "recommendation": "The Committee reiterates its recommendation that the State party should establish as soon as possible an independent national human rights institution with a broad human rights protection mandate and adequate human and financial resources, in conformity with principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles)",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party on the steps taken to establish a legal basis for a future national human rights institution, based on a “status quo +” model, following a pilot project. Nevertheless, the Committee is concerned that the State party continues to lack a national human rights institution that is in full conformity with the Paris Principles. It is also concerned that plans for a more permanent institution do not address the issues of concern to the Committee, including the absence of an explicit human rights protection mandate and the plan for the institution to be university-based. The Committee is further concerned by the absence of information clearly indicating that the resources provided to the national human rights institution will be adequate and that they are to be provided in a way that fully enables the institution’s accessibility and independent functioning. The Committee reiterates its recommendation to establish a national human rights institution as soon as possible. It requests information about the steps taken by the State party in the reporting period to ensure that a national human rights institution in full conformity with the Paris Principles is in place, including further details about how the funding of the institution complies with these standards"
+     }
+    ]
+   },
+   {
+    "para": "29",
+    "title": "Conduct of police officers",
+    "recommendation": "The State party should establish expeditiously an independent mechanism with powers to: (a) receive all complaints concerning violence or ill-treatment by police officers; (b) conduct effective and impartial investigations and prosecutions in respect of such complaints; and (c) maintain up-to-date, centralized and disaggregated statistics on all complaints, prosecutions and convictions linked to police brutality",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the information provided on the competence of cantonal public prosecutors in relation to complaints of violence and ill-treatment by police officers, the Committee regrets the lack of information on any specific steps taken to implement its recommendation to establish an independent mechanism with powers to receive and investigate complaints concerning violence or ill-treatment by police officers and to maintain centralized statistics. It strongly reiterates its recommendations in this regard. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report: Due in 2026 (country review in 2027, in accordance with the predictable review cycle. See www.ohchr.org/EN/HRBodies/CCPR/Pages/Predictable ReviewCycle.aspx). 4"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.0
+}

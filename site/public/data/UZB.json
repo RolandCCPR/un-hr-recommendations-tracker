@@ -1,0 +1,96 @@
+{
+ "a3": "UZB",
+ "name": "Uzbekistan",
+ "num": 860,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/UZB/CO/5",
+   "co_session": null,
+   "co_date": "27 March 2020",
+   "fco_symbol": "CCPR/C/UZB/FCO/5",
+   "assessment_symbol": "CCPR/C/140/2/Add.4",
+   "assessment_session": 140,
+   "assessment_date": "4–28 March 2024",
+   "year": 2024,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.25
+  },
+  "paragraphs": [
+   {
+    "para": "5",
+    "title": "Views under the Optional Protocol",
+    "recommendation": "The State party should take all necessary measures to ensure the implementation of all pending Views adopted by the Committee, through appropriate and effective mechanisms, so as to guarantee the right of victims to an effective remedy when there has been a violation of the Covenant, in accordance with article 2 (3) of the Covenant. The State party should also ensure that national legislation is not interpreted in a way that constitutes an obstacle to the implementation of the Views of the Committee",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the absence of information on measures taken to ensure the implementation of all pending Views adopted by the Committee, through appropriate and effective mechanisms. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "25",
+    "title": "Prohibition of torture and ill-treatment",
+    "recommendation": "The State party should take robust measures to eradicate torture and ill-treatment, including by: (a) Conducting prompt, thorough, effective, independent and impartial investigations into all allegations of torture and ill-treatment, in line with the Manual * Adopted by the Committee at its 140th session (4–28 March 2024). 180424 on the Effective Investigation and Documentation of Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Istanbul Protocol), ensuring that perpetrators are prosecuted and, if convicted, punished appropriately and that victims receive full reparation; (b) Ensuring that all persons deprived of liberty have access to an independent and effective complaints mechanism to investigate allegations of torture and ill-treatment that guarantees prompt, effective and direct access to the bodies responsible for handling such complaints, including by strengthening the independence and capacity of the ombudsman to respond to such complaints; (c) Guaranteeing the protection of complainants against any form of reprisal, and ensuring that any case of reprisal is investigated and that the perpetrators are prosecuted and, if convicted, are punished appropriately; (d) Eliminating any obstacles, including in national legislation and in practice, that can discourage the reporting of torture and other ill-treatment",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee, while noting the figures provided on cases brought and prosecutions initiated, regrets the absence of information on measures taken to ensure that all allegations of torture and ill-treatment are investigated promptly, effectively, independently and impartially. The Committee also regrets the lack of detailed information on the sentences handed down to perpetrators, including the duration of custodial sentences. While noting the strengthening of legislative provisions relating to compensation for victims of torture and ill-treatment, the Committee also notes that only one victim appears to have been awarded compensation during the reporting period. The Committee regrets the absence of information on other forms of reparation provided to victims, including rehabilitation. The Committee requests that the State party provide detailed information on all of the above in its next report. While noting the figures provided, the Committee regrets the absence of information on measures taken to ensure that all persons deprived of liberty have access to an independent and effective complaints mechanism to investigate allegations of torture and ill-treatment, including measures taken to strengthen the independence and capacity of the ombudsman to respond to such complaints. The Committee reiterates its recommendation. The Committee notes that no cases have been brought in the reporting period under article 144, part 2, of the Criminal Code concerning reprisals relating to the submission of complaints to State authorities on alleged torture and ill-treatment. It also notes that no one convicted of a crime under this provision is serving a sentence in a penal establishment. The Committee reiterates its request for information on measures taken to ensure that acts of reprisal are effectively sanctioned and requests information on the number and type of complaints submitted under article 44, part 2, of the Criminal Code, on related prosecutions and convictions, and details of sentences handed down. The Committee regrets the absence of information on measures taken to ensure protection of complainants from reprisals and reiterates its recommendation in this regard. The Committee regrets the absence of information on measures taken to eliminate obstacles, including in national legislation and in practice, that can discourage the reporting of torture and other ill-treatment. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "29",
+    "title": "Liberty and security of person",
+    "recommendation": "The State party should bring its legislation and practice into line with article 9 of the Covenant, in particular by ensuring that: (a) Persons arrested or detained on a criminal charge are brought promptly before a judge or other officer authorized by law to exercise judicial power, within 48 hours, in order to bring their detention under judicial control; (b) All fundamental legal safeguards are guaranteed in practice to all persons deprived of their liberty from the very outset of their deprivation of liberty; (c) The judicial review of the detention of anyone who is deprived of his or her liberty satisfies the standards required under article 9 (4) of the Covenant, including the standards set out in the Committee’s general comment No. 35 (2014) on liberty and security of person, indicating, inter alia, that a public prosecutor cannot be considered as an officer exercising judicial power under article 9 (3) of the Covenant; (d) Alternative measures to detention and imprisonment are used for juvenile offenders where appropriate",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee takes note of the amendments to the Code of Criminal Procedure introduced on 14 May 2020, pursuant to Act No. 617, aiming at strengthening safeguards for all persons deprived of their liberty, including the mandatory use and storage of video recording during custody proceedings, the provision of interpreters and the requirement that relatives or friends be notified immediately upon application of coercive measures such as detention. The Committee requests that the State party provide information on the implementation of these measures and of other fundamental legal safeguards in its next periodic report, including information on measures taken to ensure that all persons deprived of their liberty are able to access a lawyer of their choice"
+     },
+     {
+      "limb": "(a), (c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the absence of information on measures taken to ensure that persons arrested or detained on a criminal charge are brought promptly before a judge or other officer authorized by law to exercise judicial power, within 48 hours, in order to bring their detention under judicial control. The Committee reiterates its recommendation. The Committee notes the statistical information provided on judicial review of detention, including on illegal detention under article 234 of the Criminal Code. The Committee regrets the absence of information on whether the State party’s framework for judicial review of detention is in conformity with article 9 of the Covenant, including the standards set out in the Committee’s general comment No. 35 (2014) on liberty and security of person, indicating, inter alia, that a public prosecutor cannot be considered as an officer exercising judicial power under article 9 (3) of the Covenant. The Committee reiterates its recommendation. The Committee notes the statistics provided on custodial sentences handed down to juveniles during the reporting period. The Committee regrets the lack of information provided on measures in place to ensure that alternatives to the detention of juvenile offenders are used where appropriate, in line with international standards. The Committee requests additional information on the availability and use of alternatives to detention that are appropriate to the age of the child and that take into account the desirability of promoting the child’s reintegration into society"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2015,
+    "session": 121,
+    "co_symbol": "CCPR/C/UZB/CO/4",
+    "grades": "11 BC · 13 EE · 19 BC"
+   },
+   {
+    "year": 2010,
+    "session": 109,
+    "co_symbol": "CCPR/C/UZB/CO/3",
+    "grades": "14 B · 24 D"
+   }
+  ]
+ },
+ "combined_score": 3.25
+}

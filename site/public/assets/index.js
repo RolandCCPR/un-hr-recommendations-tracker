@@ -34,21 +34,53 @@ const $ = (s) => document.querySelector(s);
     });
   });
 
-  // assessed-country cards
-  const assessed = countries.filter((c) => c.assessed).sort((a, b) => a.name.localeCompare(b.name));
-  $("#cards").innerHTML = assessed
-    .map((c) => {
-      const u = c.upr, h = c.hrc;
-      return `<a class="card" href="country.html?c=${c.a3}">
-        <h3>${esc(c.name)}</h3>
-        <div class="scores">
-          <div>UPR<b style="color:${scoreColor(u.score)}">${u.score.toFixed(1)}</b>${u.n} recs · /5</div>
-          <div>HR Cttee<b style="color:${scoreColor(h.score)}">${h.score.toFixed(1)}</b>${h.n} items · /5</div>
-        </div>
-        ${distBar(u.grade_dist)}
-      </a>`;
-    })
-    .join("");
+  // assessed-country table (sortable)
+  const assessed = countries.filter((c) => c.assessed);
+  $("#country-count").textContent = assessed.length;
+  const cell = (v) =>
+    v == null
+      ? '<span class="num none">—</span>'
+      : `<span class="num" style="color:${scoreColor(v)}">${v.toFixed(2)}</span>`;
+
+  let sortKey = "combined", sortDir = -1;
+  const val = (c, k) =>
+    k === "name" ? c.name
+    : k === "upr" ? (c.upr ? c.upr.score : -1)
+    : k === "hrc" ? (c.hrc ? c.hrc.score : -1)
+    : k === "year" ? (c.hrc ? c.hrc.year : -1)
+    : (c.combined == null ? -1 : c.combined);
+
+  function render() {
+    assessed.sort((a, b) => {
+      const x = val(a, sortKey), y = val(b, sortKey);
+      if (x < y) return -sortDir;
+      if (x > y) return sortDir;
+      return a.name.localeCompare(b.name);
+    });
+    $("#country-table tbody").innerHTML = assessed
+      .map(
+        (c) => `<tr onclick="location.href='country.html?c=${c.a3}'">
+          <td class="cty">${esc(c.name)}</td>
+          <td>${cell(c.upr ? c.upr.score : null)}</td>
+          <td>${cell(c.hrc ? c.hrc.score : null)}</td>
+          <td>${cell(c.combined)}</td>
+          <td class="yr">${c.hrc ? c.hrc.year : ""}</td>
+        </tr>`
+      )
+      .join("");
+    document.querySelectorAll("#country-table th[data-k]").forEach((th) => {
+      th.setAttribute("aria-sort",
+        th.dataset.k !== sortKey ? "none" : sortDir === 1 ? "ascending" : "descending");
+    });
+  }
+  document.querySelectorAll("#country-table th[data-k]").forEach((th) => {
+    th.addEventListener("click", () => {
+      if (sortKey === th.dataset.k) sortDir = -sortDir;
+      else { sortKey = th.dataset.k; sortDir = th.dataset.k === "name" ? 1 : -1; }
+      render();
+    });
+  });
+  render();
 
   // mechanisms explainer
   $("#mech-explain").innerHTML = Object.values(meta.mechanisms)

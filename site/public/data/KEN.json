@@ -1,0 +1,101 @@
+{
+ "a3": "KEN",
+ "name": "Kenya",
+ "num": 404,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/KEN/CO/4",
+   "co_session": 131,
+   "co_date": "26 March 2021",
+   "fco_symbol": "CCPR/C/KEN/FCO/4",
+   "assessment_symbol": "CCPR/C/141/2/Add.1",
+   "assessment_session": 141,
+   "assessment_date": "1–23 July 2024",
+   "year": 2024,
+   "followup_paras": [
+    "19",
+    "41",
+    "49"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "19",
+    "title": "Violence against women",
+    "recommendation": "The State party should: (a) Continue and expand its efforts to prevent and address female genital mutilation, including through prosecution and punishment, awareness-raising, sensitization, cross-border cooperation and data collection; (b) Take concrete steps to eradicate other harmful traditional practices, including wife inheritance, ritual cleansing and child marriage; (c) Take all necessary measures to provide effective remedies to women who were victims of violence, including sexual violence, in the period surrounding the 2017 elections, and to punish such acts of violence; (d) Strengthen its institutional and legal frameworks to address domestic violence, including the criminalization of marital rape, targeted measures to protect women from violence during the coronavirus disease (COVID-19) pandemic and the full and effective implementation of the Protection against Domestic Violence Act (Act No. 2 of 2015); (e) Ensure that safe spaces are available to women who have been victims of violence in all parts of the State party’s territory, including rural areas; (f) Collect data on minority women subjected to violence in order to effectively target measures to ensure their protection. * Adopted by the Committee at its 141st session (1–23 July 2024). 290824",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)–(e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While welcoming the State party’s continued efforts to prevent and address female genital mutilation, the Committee regrets that specific information on the prosecution and punishment of female genital mutilation was not provided. It is concerned about the need for increased awareness of the action plan to end cross-border female genital mutilation, additional training for law enforcement and health workers, and alternative means of reporting cases of female genital mutilation. The Committee reiterates its recommendation and requests further information, including statistical data, on the prosecution and punishment of female genital mutilation. The Committee welcomes the efforts to increase child protection, including through the prohibition of child marriage. Nevertheless, it regrets the lack of information on steps taken to eradicate other harmful traditional practices, including wife inheritance and ritual cleansing, and requests information in this regard. The Committee is concerned about reports indicating the lack of a comprehensive strategy to eliminate harmful cultural practices and that the Children Act, 2022, has allegedly not been fully implemented. It reiterates its recommendations and requests further information in this regard. While noting with satisfaction the efforts of the Independent Policing Oversight Authority to investigate and prosecute serious offences committed by police officers, the Committee is concerned that progress in cases of sexual violence is slow. Furthermore, the Committee regrets that allegedly, no plans or programmes have been developed to ensure reparation for women who were victims of violence in the period surrounding the 2017 elections. It reiterates its recommendation and requests additional information on the number of prosecutions and convictions handed down for cases of violence in the period surrounding the 2017 elections. The Committee welcomes the various measures taken to address sexual and gender-based violence. Nevertheless, it regrets the continued failure to criminalize marital rape and requests further information in this regard. The Committee is also concerned about reports indicating that the Protection against Domestic Violence Act, 2015, is not being fully and effectively implemented and that gaps remain in access to essential services. It reiterates its recommendation. While welcoming the efforts to ensure that safe spaces are available to all women who have been victims of violence, the Committee is concerned about the alleged lack of financial and human resources available for both private and government-led safe houses. It reiterates its recommendation and requests further information on whether the State party plans to increase the number of safe houses and the resources available to them"
+     },
+     {
+      "limb": "(f)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information provided, the Committee is concerned that data on minority women subjected to violence remain unavailable. It reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "41",
+    "title": "Forced evictions",
+    "recommendation": "The State party should ensure that all evictions are carried out in accordance with national and international standards, including by: (a) Putting in place a sustainable system of equitable land tenure to prevent forced evictions; (b) When there is no alternative to forced evictions, taking all necessary measures to implement effective protections, including the need for adequate notice and prior and meaningful consultation with and the provision of adequate compensation and/or resettlement of those affected. In that regard, it should effectively implement the Land Laws (Amendment) Act (Act No. 28 of 2016), including the safeguards contained in section 152G; (c) Strictly upholding the moratorium declared during the COVID-19 pandemic and all judicial decisions on evictions; (d) Improving compensation and resettlement among those affected by evictions, including through enacting the Evictions and Resettlement Bill of 2012 into law without delay; (e) Ensuring the investigation, prosecution, conviction and punishment of all individuals who breach the law during evictions",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While welcoming the information provided, the Committee regrets the lack of specific information on the current status of the Nairobi City County Evictions, Resettlement and Demolitions Control Bill, 2020, and when it is likely to be enacted. It requests further information in this regard. The Committee is also concerned at reports indicating that: (a) forced evictions continue to take place without sufficient notice; (b) no compensation or alternative location for resettlement was allegedly offered to the 40,000 people who were forcefully evicted in November 2021; and (c) no cases of violations committed during evictions have been brought to court. The Committee reiterates its recommendations and requests information on the status of the amendment of the National Land Commission Act, 2012. It also requests information on any funding allocated to communities to ensure fair and just compensation for the land lost due to the Government’s acquisition and for the resettlement of squatters, including statistical information on the number of communities and persons who have received compensation and who have been resettled"
+     }
+    ]
+   },
+   {
+    "para": "49",
+    "title": "Participation in public affairs",
+    "recommendation": "The State party should intensify efforts to provide remedies to all victims of violence in the context of the 2017 elections, including guarantees of non-repetition. The State party should also take all necessary steps ahead of the 2022 elections to prevent violence and ensure the effective and independent functioning of the Independent Electoral and Boundaries Commission. In addition, it should adopt all measures necessary to ensure transparency in voting and in vote-counting procedures",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the State party’s efforts ahead of and during the 2022 election period to prevent violence and ensure the effective and independent functioning of the Independent Electoral and Boundaries Commission and to ensure transparency in voting and in vote-counting procedures. While also welcoming the information that 12 police officers will face charges for crimes committed during the post-election protests in 2017, the Committee regrets the lack of information provided on efforts to provide remedies to all victims of violence in the context of the 2017 elections, including guarantees of non-repetition, and that victims have allegedly not received financial assistance, medical care or counselling. The Committee reiterates its recommendations in this regard"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2012,
+    "session": 115,
+    "co_symbol": "CCPR/C/KEN/CO/3",
+    "grades": "6 B · 13 C · 16 BCBC"
+   }
+  ]
+ },
+ "combined_score": 3.5
+}

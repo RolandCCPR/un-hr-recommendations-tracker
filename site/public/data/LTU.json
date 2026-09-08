@@ -1,0 +1,115 @@
+{
+ "a3": "LTU",
+ "name": "Lithuania",
+ "num": 440,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/LTU/CO/4",
+   "co_session": 123,
+   "co_date": "20 July 2018",
+   "fco_symbol": "CCPR/C/LTU/FCO/4",
+   "assessment_symbol": "CCPR/C/135/2/Add.3",
+   "assessment_session": 135,
+   "assessment_date": "27 June–27 July 2022",
+   "year": 2022,
+   "followup_paras": [
+    "10",
+    "20",
+    "22"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
+   "grade_dist": {
+    "A": 1,
+    "B": 3,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.83
+  },
+  "paragraphs": [
+   {
+    "para": "10",
+    "title": "Discrimination on the grounds of sexual orientation and gender identity",
+    "recommendation": "",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While noting the implementation of the Action Plan for the Promotion of Non-Discrimination and the removal of legal provisions discriminating against transgender persons in relation to certain professions, the Committee regrets the lack of information on measures to prevent the discriminatory interpretation and application of legislation. It reiterates its recommendation and requests information on measures taken to: (a) assess the impact of the Action Plan on the Covenant rights of lesbian, gay, bisexual and transgender individuals; (b) include gender identity as a protected ground in the Law on Equal Treatment; and (c) prevent and prohibit discriminatory interpretation and application of the Law on the Protection of Minors from the Detrimental Effects of Public Information. While welcoming the Constitutional Court’s decision of 11 January 2019 recognizing a samesex couple’s union concluded abroad, the Committee remains concerned at the lack of information on specific measures taken to fully recognize the equality of same-sex couples and to provide administrative procedures for gender reassignment. It reiterates its recommendation and requests information on the status of the Law on Equal Treatment in relation to the definition of the family, the draft law on recognition of gender identity and measures taken to define civil unions and the relevant registration procedure"
+     }
+    ]
+   },
+   {
+    "para": "20",
+    "title": "Migrants and asylum-seekers",
+    "recommendation": "",
+    "header_grades": [
+     "B",
+     "A",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (c) and (e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the decrease in the number of asylum-seekers in detention and the duration of their detention. It requests information on the alternatives to detention used, the frequency of their use, and the number of judicial challenges made regarding detention of asylum-seekers, including their outcomes, during the reporting period. While noting the information on the agreement with UNHCR and the availability of legal aid, the Committee regrets the lack of information on any investigations conducted into denials of entry and access to asylum procedures. It reiterates its recommendation. While noting the training courses provided for State Border Guard Service officials and civil servants, the Committee requests information on the frequency of the courses, the number of participants and whether the courses are mandatory"
+     },
+     {
+      "limb": "(b)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the renovation of the Foreigners’ Registration Centre, the construction of a dormitory for vulnerable asylum-seekers and the employment of additional medical staff, social workers and psychologists. It requests information on the procedures for asylum-seekers to access social, psychological, rehabilitation and health-care services in the Centre and statistics on the number of beneficiaries of these services during the reporting period"
+     },
+     {
+      "limb": "(d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information on measures taken to ensure against unlawful or arbitrary detention of asylum-seekers at the border and to clarify in the Aliens Law that such holding of asylum-seekers at the border constitutes detention and thus necessitates that the accompanying procedural and judicial guarantees are upheld. It reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "22",
+    "title": "Persons deprived of liberty and detention conditions",
+    "recommendation": "",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the proposed amendment to the Code of Criminal Procedure on bail and the increased use of alternatives to imprisonment. It requests information on the adoption of the amendment and statistics on the number of individuals in pretrial detention and those who received alternative measures to imprisonment during the reporting period. The Committee welcomes the measures taken to improve material conditions and overcrowding in prisons. It requests information on the impact of those measures, including on the prison occupancy rate and the number of releases on parole granted during the reporting period"
+     },
+     {
+      "limb": "(c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee is concerned at the continued low number of pretrial investigations conducted into ill-treatment by prison staff and the lack of information on effective remedies provided to the victims. It reiterates its recommendation and requests statistics on the number of complaints received during the reporting period concerning ill-treatment and excessive use of force in places of deprivation of liberty, and their outcomes. While noting the information on existing safeguards available to detained persons, the Committee regrets the lack of information on specific measures taken after the adoption of the concluding observations to implement its recommendation. It reiterates its recommendation"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2012,
+    "session": 113,
+    "co_symbol": "CCPR/C/LTU/CO/3",
+    "grades": "9 B · 12 BB"
+   }
+  ]
+ },
+ "combined_score": 3.83
+}

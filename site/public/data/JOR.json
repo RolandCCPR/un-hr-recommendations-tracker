@@ -1,0 +1,76 @@
+{
+ "a3": "JOR",
+ "name": "Jordan",
+ "num": 400,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/JOR/CO/4",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/133/3/Add.3",
+   "assessment_session": 133,
+   "assessment_date": "11 October–5 November 2021",
+   "year": 2021,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.33
+  },
+  "paragraphs": [
+   {
+    "para": "19",
+    "title": "Right to life, liberty and security of person and treatment of persons deprived of their liberty",
+    "recommendation": "The Committee reiterates its recommendation1 that the State party amend the Act on crime prevention in order to put an end to the practice of administrative detention. In the meantime, the State party should take concrete steps to significantly reduce the number of people held in administrative detention. Moreover, the State party should ensure that those held in administrative detention have access to an independent and impartial court with the power to rule on the legality of their detention. It should allow increased access for independent visits to all places of detention, including the facilities of the General Intelligence Directorate",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party on the legal and institutional frameworks in place to prevent the abuse of administrative detention and monitor the conditions in which detainees are held. Nevertheless, it regrets the lack of information about steps taken during the reporting period to amend the law in order to put an end to the practice of administrative detention. It reiterates its recommendation and requests information on whether the State party intends to introduce a legal reform to that end within the reporting period"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the measures taken to ensure judicial oversight of administrative detention. It requests more information on the steps taken to put an end to the practice of administrative detention, including the number of individuals released within the reporting period, as well as the number who remain in administrative detention. The Committee also welcomes the steps taken to allow independent visits to places of detention and requests information on the number of visits undertaken within the reporting period"
+     }
+    ]
+   },
+   {
+    "para": "25",
+    "title": "Refugees and non-refoulement",
+    "recommendation": "The State party should take all measures necessary to ensure compliance with the principle of non-refoulement, including for Palestinian refugees regardless of their status in Jordan, and develop procedural safeguards against refoulement, including review by an independent judicial body and effective remedies. The State party should ensure that citizenship is not revoked, except in accordance with the provisions of domestic legislation that are in accordance with the Covenant and international standards, and under independent judicial review. It should also adopt measures to improve the status and living conditions of refugees in camps",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee welcomes the information provided by the State party on the Response Plan for the Syrian Crisis 2017–2019 and the Rapid Response Programme 2020– 2022. The Committee requests additional information on these programmes and their efficacy. The Committee takes note of the information on the national legal framework and the memorandum of understanding with UNHCR on non-refoulement. Nevertheless, it regrets the lack of information on measures taken during the reporting period to strengthen procedural safeguards against non-refoulement, including review by an independent body and accessible remedies. The Committee also regrets the lack of information on steps taken to ensure that citizenship is not revoked in circumstances contravening the Covenant and on measures to improve conditions in refugee camps. It reiterates its recommendation and requests information on any specific steps that have been taken by the State party during the reporting period to strengthen the protection in place to ensure citizenship is not revoked in circumstances that violate the Covenant. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2025 (country review in 2026, in accordance with the predictable review cycle. See www.ohchr.org/EN/HRBodies/CCPR/Pages/Predictable ReviewCycle.aspx). 5"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2010,
+    "session": 113,
+    "co_symbol": "CCPR/C/JOR/CO/4",
+    "grades": "5 C · 11 C · 12 B"
+   }
+  ]
+ },
+ "combined_score": 3.33
+}

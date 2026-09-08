@@ -1,0 +1,94 @@
+{
+ "a3": "SWZ",
+ "name": "Eswatini",
+ "num": 748,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/SWZ/CO/1",
+   "co_session": null,
+   "co_date": "25 July 2017",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/130/2/Add.1",
+   "assessment_session": 130,
+   "assessment_date": "12 October–6 November 2020",
+   "year": 2020,
+   "followup_paras": [
+    "27",
+    "45",
+    "53"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "27",
+    "title": "Violence against women",
+    "recommendation": "The State party should: (a) Promptly adopt legislation to effectively criminalize and combat sexual offences and domestic violence; (b) Provide relevant actors in the police, public prosecution and judiciary with training on sexual and gender-based violence and on evidence-gathering for such cases; (c) Strengthen its efforts to raise the awareness of the wider public to the adverse impact of sexual and gender-based violence and encourage reporting, inter alia by systematically informing women and children of their rights and of the existing legal avenues through which they can receive protection; (d) Ensure that all cases of sexual and gender-based violence are thoroughly investigated, that perpetrators are prosecuted and, if convicted, are punished with appropriate sanctions, and that victims receive full reparation; (e) Ensure that victims have access to effective remedies and means of protection, including to an adequate number of psychological and educational centres, and that other support services, such as accommodation or shelters, are available in all parts of the country. * Adopted by the Committee at its 130th session (12 October–6 November 2020)",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the enactment of the Sexual Offences and Domestic Violence Act (No. 15) in 2018. It requests further information on (i) the coverage of the crime of “unlawful stalking” (part II.10) and the exception of “acceptable courting”; (ii) the reason for limiting the crime of abduction only to children, excluding adult women; (iii) whether marital rape is considered an unlawful act in the legislation; and (iv) the definition of “domestic violence” (part XII) and whether it complies with the Covenant. The Committee welcomes the State party’s efforts to conduct training sessions. It requests, however, more information on the demonstrated impact of these sessions and additional planned initiatives to train police officers, judicial officers, medical services personnel and social welfare officers. The Committee welcomes the continuous awareness-raising campaigns on gender-based violence. It requires information on (i) the live phone-in programme on TV and how confidentiality is ensured to victims of gender-based violence; (ii) the accessibility and impact of such a campaign; and (iii) statistics from the past three years on the number of complaints received related to sexual and gender-based violence"
+     },
+     {
+      "limb": "(d) and (e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee requires information on the dates of the establishment of the unit for sexual offences, cases of domestic violence and child protection in the Royal Police Service and the specialized unit on protection and in charge of sexual offences and cases of domestic and gender-based violence in the office of the Director of Public Prosecutions. The Committee also requires statistical information on the number of investigations, prosecutions and convictions of cases of sexual and gender-based violence, the sanctions imposed and the reparations granted to victims. The Committee requires information on the measures taken by the State after the Committee adopted its concluding observations to ensure that all victims have access to effective remedies and means of protection. In this regard, the Committee requires updated information on plans to establish one-stop centres in the four regions of the country and the measures taken to ensure that women victims of violence are provided with support services, including with accommodation and shelters in all parts of the country"
+     }
+    ]
+   },
+   {
+    "para": "45",
+    "title": "Freedom of expression, assembly and association",
+    "recommendation": "The State party should prevent and redress attacks on human rights defenders and other social activists and promptly adopt legislation to ensure that any restriction on the exercise of freedom of expression, assembly and association complies with the strict requirements in the Covenant. The State party should take all measures necessary to protect the rights to freedom of expression, association and peaceful assembly and ensure that police officials, judges and prosecutors receive adequate training regarding such protection",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the adoption of the Public Order Act No. 12 (2017) and the Code of Practice on Gatherings Notice No. 201 (2017). It requests, however, information on the application of such legislation and that the State comment on information received according to which additional requirements and restrictions not included in the Act are also applied in the case of gatherings. It also requests information on measures taken to prevent and redress attacks on human rights defenders and other social activists. The Committee also requests information on the adoption of the Swaziland Broadcasting Bill 2016, currently under review, and updated information on the issuing of broadcasting licences. In this regard, it requires information on the planned fees that will be imposed for the application and registration of radios, particularly of community radio stations, and whether they are compatible with the Covenant. The Committee notes the launch of a second mobile network operator, expanding the media space, although it still requires information on the rules imposed on the ownership and control of radio and television stations, and whether they comply with the Covenant"
+     }
+    ]
+   },
+   {
+    "para": "53",
+    "title": "Participation in public affairs, and corruption",
+    "recommendation": "The State party should bring its constitutional framework into compliance with the Covenant, including with article 25, inter alia by: (a) Fostering a culture of political pluralism, ensuring freedom of genuine and pluralistic political debate, and allowing the registration of opposition political parties, including to contest elections, field candidates and participate in the formation of government; (b) Undertaking a constitutional reform process with the objective of devolving power to democratically elected branches of government, and guaranteeing the right of every citizen to take part in the conduct of public affairs and have access to public service on general terms of equality; (c) Guaranteeing free and fair elections; (d) Ensuring the independence and effectiveness of the bodies in charge of elections and anti-corruption",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party, but requests more information on measures taken, since the adoption by the Committee of its concluding observations, to ensure a culture of political pluralism, to ensure a genuine and pluralistic political debate, and to allow the registration of opposition political parties, including to contest elections, field candidates and participate in the formation of the Government. The Committee takes note of the information provided. It reiterates its recommendation with respect to the need to undertake a constitutional reform process with the objective of devolving power to democratically elected branches of government, and guaranteeing the right of every citizen to take part in the conduct of public affairs and have access to public service on general terms of equality. While taking note of the information provided by the State party, the Committee requests information on the measures taken since the adoption of its concluding observations to guarantee free and fair elections. The Committee takes note of the information provided by the State party, particularly on the current lack of financial independence of bodies in charge of elections and anticorruption measures. It requests information on the measures taken since the adoption of its concluding observations to ensure the operational and financial independence of the said bodies. The Committee reiterates its recommendation. Recommended action: A letter should be sent to the State party informing it of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 28 July 2021. 6"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.5
+}

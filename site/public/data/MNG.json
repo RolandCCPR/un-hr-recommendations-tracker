@@ -1,0 +1,101 @@
+{
+ "a3": "MNG",
+ "name": "Mongolia",
+ "num": 496,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MNG/CO/6",
+   "co_session": null,
+   "co_date": "24 July 2017",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/129/2/Add.1",
+   "assessment_session": 129,
+   "assessment_date": "29 June–24 July 2020",
+   "year": 2020,
+   "followup_paras": [
+    "12",
+    "18",
+    "22"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.6
+  },
+  "paragraphs": [
+   {
+    "para": "12",
+    "title": "Discrimination on the grounds of sexual orientation and gender identity",
+    "recommendation": "The State party should intensify its efforts to combat stereotypes and prejudices against lesbian, gay, bisexual, transgender and intersex persons, and ensure that acts of discrimination and violence directed against them are investigated, that perpetrators are prosecuted, and if convicted, punished with appropriate penalties, and that victims are provided with full reparation. The State party should also promote and guarantee freedom of expression, association and peaceful assembly for lesbian, gay, bisexual, transgender and intersex persons, and should abstain from any unjustified interference with the exercise of these rights and ensure that any restrictions imposed comply with the strict requirements of articles 19, 21 and 22 of the Covenant and are not applied in a discriminatory manner. The State party should consider legal recognition and protection of same-sex couples",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the State party’s efforts to train law enforcement and medical professionals on the rights of lesbian, gay, bisexual and transgender persons. It also welcomes the State party’s creation of a crime information database, but requires information on when it was established, what its impact has been and how the State party ensures that the victims are protected and that complaints of discrimination are properly entered in the database. The Committee reiterates its request for information on additional measures taken to combat stereotypes and discrimination against lesbian, gay, bisexual, transgender and intersex individuals in the broader population"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information on the following: (i) measures taken to promote and guarantee freedom of expression, association and peaceful assembly for lesbian, gay, bisexual, transgender and intersex persons; (ii) whether investigations and prosecutions for complaints of discrimination against lesbian, gay, bisexual, transgender and intersex persons are conducted in practice; and (c) the legal status of same-sex couples. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "18",
+    "title": "Violence against women and children, including domestic violence",
+    "recommendation": "The State party should increase its efforts to prevent and eradicate domestic violence against women, including through implementation of the revised law on domestic violence and by ensuring that all allegations of domestic violence are reported and are promptly, thoroughly and effectively investigated. It should also ensure that the perpetrators are prosecuted and, if convicted, punished with commensurate sanctions and that the victims have access to effective remedies, full reparation and means of protection. The State party should provide training for State officials, in particular law enforcement officials, judges and prosecutors, to ensure that they are able to respond promptly and effectively to cases of domestic violence. It should ensure effective implementation of prohibition of corporal punishment of children in all settings, including through public education and awareness-raising programmes",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the significant awareness-raising and training measures taken by the State party with the aim of preventing domestic violence. However, the Committee requires information on the results of those efforts, such as their impact on the rate of complaints of domestic violence lodged or any other relevant parameters. The Committee welcomes the State party’s efforts to provide services to victims of domestic violence through the creation of new one-stop service centres, and requires information on whether complaints of domestic violence are investigated and prosecuted. The Committee requires information on the following: (i) the percentage of domestic violence allegations that have been promptly and effectively investigated; (ii) the percentage of investigations that lead to prosecution, and subsequent conviction rates; and (iii) the status of implementation of the recommendations made by the Subcommittee on Crime Prevention Coordination on establishing new shelters and one-stop service centres. The Committee welcomes the creation of the Subcommittee on Combating and Preventing Domestic Violence and Violence against Children and the Legal Committee on the Rights of the Child. The Committee requires the following: (i) information on measures taken by the Subcommittee to ensure the implementation of the prohibition of corporal punishment in all settings; and (ii) specific information on the training and prevention campaigns being conducted in partnership with NGOs, and their impact or results"
+     }
+    ]
+   },
+   {
+    "para": "22",
+    "title": "Right to life and prohibition of torture and other cruel, inhuman or degrading treatment or punishment",
+    "recommendation": "The State party should amend its legislation to include a definition of torture that fully complies with international standards, and penalties commensurate with the gravity of the crime. The State party should ensure that all reported allegations and complaints about acts of torture and ill-treatment are promptly and thoroughly investigated, that alleged perpetrators are prosecuted and, if convicted, punished with appropriate sanctions, and that victims have access to redress, including full reparation. It should also provide law enforcement officials with adequate training on detection and investigation of torture, integrating the Manual on the Effective Investigation and Documentation of Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Istanbul Protocol). The State party should ensure independent functioning of all its mechanisms for investigating allegations of torture",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information regarding the legal definition of torture. It reiterates its recommendation that the State party amend its legislation to include a definition of torture that fully complies with international standards. The Committee also regrets the lack of information on whether allegations of torture and ill-treatment are investigated and prosecuted in practice. The Committee reiterates its request for information and its recommendation"
+     },
+     {
+      "limb": "(c) and (d)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the State party’s efforts to train law enforcement officials and medical professionals on human rights and torture prevention. It notes that some of these measures, including the human rights curriculum of the University of Law Enforcement, were taken before the adoption of the concluding observations. The Committee requires information on the following: (i) the impact of the training on police behaviour; (ii) whether, in addition to torture prevention training, officers are trained in detecting and investigating torture; and (iii) if so, the extent to which this investigative training incorporates the Istanbul Protocol. The Committee welcomes the independent oversight by the Anti-Corruption Authority of offences committed by police officers. The Committee requires information on the following: (i) the structure of the Authority and its relationship to the Prosecutor General’s Office; (ii) whether the Authority has investigated any allegations of torture or ill-treatment and, if so, the outcomes; and (iii) whether members of the Authority receive training on torture prevention and investigation. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 28 July 2022. 5"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.6
+}

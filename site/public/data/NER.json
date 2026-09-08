@@ -1,0 +1,95 @@
+{
+ "a3": "NER",
+ "name": "Niger",
+ "num": 562,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/NER/CO/2",
+   "co_session": null,
+   "co_date": "22 March 2019",
+   "fco_symbol": "CCPR/C/NER/FCO/2",
+   "assessment_symbol": "CCPR/C/138/2/Add.2",
+   "assessment_session": 138,
+   "assessment_date": "26 June–26 July 2023",
+   "year": 2023,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
+   "grade_dist": {
+    "A": 3,
+    "B": 2,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 4.33
+  },
+  "paragraphs": [
+   {
+    "para": "11",
+    "title": "Fight against corruption",
+    "recommendation": "The State party should: (a) step up its efforts to combat corruption and to ensure that it does not go unpunished; (b) ensure that all cases of corruption are independently and impartially investigated and, where applicable, that appropriate judicial penalties are imposed on perpetrators; and (c) take the necessary steps to ensure transparent management of contracts with international mining companies and of the revenues derived from such contracts",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(c)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the measures taken to ensure transparent management of contracts with international mining companies and the fact that the rejoined the Extractive Industries Transparency Initiative in February 2020"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "(a) and (b) (a) The Committee welcomes the steps taken to combat corruption under the framework of the National Anti-Corruption Strategy, including outreach activities and the recovery of illicitly obtained funds. It requests further information on the operationalization of the tollfree helpline and any plans to include parliamentarians within the scope of the obligation to declare assets pursuant to Order No. 2020-02 adopted in June 2020. (b) The Committee welcomes the reported increase in referrals of alleged corruption cases to the judicial authorities, including a major case implicating the Ministry of Defence. Nevertheless, it requests further information, including statistical data, on investigations, prosecutions and convictions, particularly with regard to high-level corruption"
+     }
+    ]
+   },
+   {
+    "para": "33",
+    "title": "Conditions of detention",
+    "recommendation": "The State party should take the necessary measures to: (a) continue its efforts to improve living conditions and the treatment of prisoners, in accordance with the United Nations Standard Minimum Rules for the Treatment of Prisoners; (b) address the problem of prison overcrowding in the Niamey civil prison, in particular by transferring prisoners to institutions that are not overcrowded and continuing efforts to favour alternatives to deprivation of liberty; (c) renovate all existing detention centres; and (d) continue to guarantee the right of the National Human Rights Commission to have unrestricted access to all places of deprivation of liberty",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(d)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the adoption of Act No. 2020-02 of 6 May 2020 extending the mandate of the National Human Rights Commission to perform the role of national mechanism for the prevention of torture, including making unannounced visits to places of detention. It requests information on the budgetary allocation provided to the Commission in order to perform this function effectively"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "(a), (b) and (c) (a) The Committee welcomes the adoption of the new prison policy and the reported increase in daily food rations for inmates. Nevertheless, it regrets that funds have reportedly yet to be allocated to support the increase. The Committee requests additional information on the increase in funding for food, bedding and medical expenses, and on the separation of pretrial detainees from convicted prisoners. (b) The Committee welcomes the reported transfer of prisoners from Niamey civil prison to other detention facilities. Nevertheless, it regrets the lack of specific information provided by the State party in this regard. It also welcomes the adoption of decree No. 2019599/PRN/MJ and requests information on the effective recourse to community service and other alternatives to custodial sentences. Furthermore, the Committee welcomes steps reportedly taken to improve access to judicial proceedings, and requests additional information in this regard. (c) The Committee welcomes the reported wide-ranging programme of prison construction and renovation. It requests updated information in this regard, including information on the facilities not covered by the existing programme"
+     }
+    ]
+   },
+   {
+    "para": "43",
+    "title": "Freedoms of expression and assembly and protection of journalists and human rights defenders",
+    "recommendation": "In the light of the Committee’s general comment No. 34 (2011) on the freedoms of opinion and expression, the State party should: (a) ensure that any restrictions on press and media activities are fully compatible with the provisions of article 19 (3) of the Covenant; (b) ensure that agents of the State avoid any unnecessary or disproportionate interference with the freedom of expression of the media, protect journalists from any form of ill-treatment, and investigate, prosecute and sentence the perpetrators of such acts; (c) take all necessary measures for the protection of human rights defenders from threats and intimidation and investigate, prosecute and sentence the perpetrators of such acts; (d) expedite the adoption of the bill on the protection of human rights defenders; (e) lift any unnecessary restrictions on freedom of assembly and demonstration; (f) carry out prompt, impartial and effective investigations of all cases involving the excessive use of force for the dispersal of demonstrations and bring the perpetrators to justice; and (g) clarify and, where appropriate, revise the regulatory and legislative framework for authorization of demonstrations and the role and remit of the High Council for Communications to ensure that the provisions of article 19 of the Covenant are respected",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(d)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the State party’s adoption in June 2022 of a law on the protection of human rights defenders, which was drafted in consultation with civil society"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "(a), (b), (c), (e), (f) and (g) (a) The Committee regrets that certain press and media activities, notably investigative journalism, reportedly continue to be restricted. It reiterates its recommendation. (b) The Committee regrets the apparent absence of steps taken to protect the press and the media from interference, and the reported arrests and prosecutions of investigative journalists, notably under the 2019 cybercrime law. It also regrets the absence of information from the State party on measures taken to protect journalists, including through the investigation of alleged intimidation and ill-treatment. It reiterates its recommendations. (c) The Committee regrets the absence of information on measures taken to protect human rights defenders. It also regrets the fact that human rights defenders and activists have reportedly been subjected to arbitrary arrest for expressing views considered critical of the Government and for participating in peaceful protests. It reiterates its recommendations. (e) The Committee regrets that the State party continues to implement an authorization regime for assemblies, which is not line with the Committee’s general comment No. 37 (2020) on the right of peaceful assembly. It reiterates its recommendation. (f) The Committee regrets the absence of information on the investigation of cases involving the excessive use of force to disperse demonstrators. It reiterates its recommendation. (g) While welcoming the indication that the legislative and regulatory framework relating to the right of peaceful assembly will soon be revised to bring it more into line with the Covenant, the Committee regrets the lack of measures taken to date, and the lack of specific information on the role and remit of the High Council for Communications. It reiterates its recommendation"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 4.33
+}

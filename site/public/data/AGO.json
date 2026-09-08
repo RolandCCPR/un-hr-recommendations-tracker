@@ -1,0 +1,108 @@
+{
+ "a3": "AGO",
+ "name": "Angola",
+ "num": 24,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/AGO/CO/2",
+   "co_session": null,
+   "co_date": "22 March 2019",
+   "fco_symbol": "CCPR/C/AGO/FCO/2",
+   "assessment_symbol": "CCPR/C/136/2/Add.2",
+   "assessment_session": 136,
+   "assessment_date": "10 October–4 November 2022",
+   "year": 2022,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
+   "grade_dist": {
+    "A": 1,
+    "B": 2,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.67
+  },
+  "paragraphs": [
+   {
+    "para": "22",
+    "title": "Voluntary termination of pregnancy and maternal mortality",
+    "recommendation": "The State party should review its laws so as to ensure that they do not regulate pregnancy or abortion in a manner that runs contrary to its duty to ensure that women and girls do not have to undertake unsafe abortions and should remove any existing barriers that compel women to resort to clandestine abortions that may endanger their lives and health. It should, in particular: (a) Ensure that criminal sanctions are not applied against women undergoing abortion or against medical service providers who assist them in doing so; (b) Ensure effective access to quality prenatal and post-abortion health care for women and girls throughout the territory of the State party; (c) Ensure access for all persons, especially young persons, to quality and evidence-based information and education about sexual and reproductive health and to a wide range of affordable contraceptive methods",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the information provided, the Committee regrets that the State party maintains criminal sanctions for abortion for circumstances outside of those covered under article 156 of the Criminal Code. It reiterates its recommendation"
+     },
+     {
+      "limb": "(b) and (c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information on the expansion of health facilities and infrastructure, the direct allocation of funds earmarked for primary health care to municipalities, and the reduction of maternal and child mortality. It requests further information on: (a) measures taken to improve access to quality antenatal and abortionrelated health care; (b) the implementation and impact of the programmes, such as the comprehensive package of maternal and child health care, aimed at reducing maternal and child mortality, along with updated statistical data in this respect; and (c) the implementation and impact of the project funded by the World Bank to strengthen the national health system. The Committee welcomes the information on the adoption of the strategy for comprehensive action for adolescent and child health. It requests further information on: (a) when the strategy was adopted and the activities and actions that have been carried out; (b) the existing strategic plan to raise awareness and provide information on sexual and reproductive health for all persons, especially young persons, and the concrete measures and actions taken; and (c) updated statistical data on the rate of pregnancy among girls under 18 years of age"
+     }
+    ]
+   },
+   {
+    "para": "26",
+    "title": "Excessive use of force and conduct of law enforcement officers",
+    "recommendation": "The State party should: (a) Ensure that the principles of necessity and proportionality in the use of force are adequately reflected in legislation and policies and complied with in practice, in line with the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials; (b) Intensify the provision of training on international standards on the use of force to law enforcement personnel and raise awareness of those standards among judges, prosecutors and lawyers; (c) Ensure that all instances of excessive use of force by security forces are promptly, impartially and effectively investigated, that those responsible are brought to justice and punished with appropriate penalties and that victims are provided with effective remedies",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the adoption of the Framework Act on the Organization and Functioning of the Police, establishing the principles governing police conduct. It requests further information on the measures taken to ensure the framework’s effective application of the established principles. While welcoming the information that a bill is being drafted which will set out the rules governing the use of firearms and restraint measures by police forces, the Committee requests further information on progress in the development of the bill, including on the expected timeline for its completion and adoption"
+     },
+     {
+      "limb": "(b)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the information on the provision of training for security forces and police officers on the use of force and on the respect of human rights, including during the state of emergency/disaster. It requests further information on measures taken to ensure the sustainability of training activities and further outreach"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the information on the regulations and procedures put in place whenever an officer’s conduct constitutes an offence committed in the line of duty or undermines social harmony, the Committee regrets the lack of any information on steps taken to ensure that victims are provided with effective remedies or specific information on investigations and their results throughout the entire reporting period. It reiterates its recommendation and requests further information on the total number of complaints of excessive use of force received during the reporting period, the number of investigations conducted and the results of those investigations, including any prosecutions of perpetrators and any reparations provided to victims"
+     }
+    ]
+   },
+   {
+    "para": "46",
+    "title": "Freedom of assembly",
+    "recommendation": "The State party should: (a) Ensure that all restrictions on peaceful demonstrations that are not strictly necessary and proportional within the meaning of article 21 of the Covenant are lifted; (b) Investigate all allegations of the use of excessive force, intimidation and arbitrary detention against peaceful protesters, and ensure that perpetrators are duly prosecuted and convicted, and that victims are adequately compensated",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information provided on demonstrations in 2018 and 2019, the Committee regrets the lack of specific information on measures taken after the adoption of the concluding observations. It reiterates its recommendation and requests further information on: (a) measures taken to ensure that all restrictions on peaceful demonstrations that are not strictly necessary and proportional within the meaning of article 21 of the Covenant are lifted; and (b) the number of complaints received of excessive use of force, intimidation and arbitrary detention of peaceful protesters, the number of investigations conducted and their results, and any prosecutions of perpetrators and reparation provided to victims, including adequate compensation"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": null,
+    "session": 118,
+    "co_symbol": "CCPR/C/AGO/CO/1",
+    "grades": "7 C · 10 BBCC · 23 B"
+   },
+   {
+    "year": null,
+    "session": 118,
+    "co_symbol": "CCPR/C/AGO/CO/1",
+    "grades": "7 E · 11 B · 17 B"
+   }
+  ]
+ },
+ "combined_score": 3.67
+}

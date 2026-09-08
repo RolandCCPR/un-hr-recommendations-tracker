@@ -1,0 +1,111 @@
+{
+ "a3": "MWI",
+ "name": "Malawi",
+ "num": 454,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MWI/CO/1",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/121/2",
+   "assessment_session": 121,
+   "assessment_date": "16 October–10 November 2017",
+   "year": 2017,
+   "followup_paras": [
+    "12",
+    "13",
+    "24",
+    "25"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 5,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.17
+  },
+  "paragraphs": [
+   {
+    "para": "12",
+    "title": "Extrajudicial killings",
+    "recommendation": "The State party should prosecute all alleged perpetrators of extrajudicial killings, complete expeditiously any process that has already been initiated, punish those who are convicted, and protect, rehabilitate and compensate the victims. Malawi",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided, but requires additional information on: (a) the outcome of court proceedings against the four police officers charged with homicide-related offences, including any convictions secured and the specific punishment imposed; (b) the prosecution status of the remaining cases referred to the Director of Public Prosecutions; (c) progress made by the Attorney General’s office in ensuring that the victims’ families are provided with compensation and rehabilitation, including, if applicable, the amount of compensation paid and the rehabilitation services offered. The Committee also requires information on investigations, prosecutions and convictions regarding cases of extrajudicial killings other than those committed during the demonstrations in July 2011"
+     }
+    ]
+   },
+   {
+    "para": "13",
+    "title": "Prohibition of torture",
+    "recommendation": "The State party should: (a) Establish expeditiously the independent Police Complaints Commission and allocate adequate human and financial resources to it; (b) Establish a central system to keep track of all complaints and make them publicly accessible; (c) Investigate all cases of torture, prosecute the alleged perpetrators and compensate the victims; (d) Ensure that the Police Act complies with the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials, adopted by the Eighth United Nations Congress on the Prevention of Crime and the Treatment of Offenders, and strengthen its efforts to train police officers in human rights",
+    "header_grades": [
+     "C",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the considerable delay in establishing the Independent Police Complaints Commission (IPCC), and requires information on the progress made in this respect on the composition of the commission and the authority it would report to; and on measures taken to ensure its independence from the police and to provide it with adequate human and financial resources to enable it to operate effectively. Pending the establishment of the IPCC, the Committee requires clarification on how the investigations into allegations of torture and ill-treatment by the Professional Standards Unit within the police meet the requirements of independence and impartiality. The Committee regrets that no information was provided on whether a central system to keep track of all complaints of torture and ill-treatment has been established and on whether such information is publicly accessible and/or provided upon request only. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee appreciates the information on the provisions of the Police Act regulating the use of firearms, but requires clarification as to how such use, for the purposes of preventing a person charged with or convicted of felony pursuant to section 44 of the Police Act from fleeing and protecting property considered valuable under section 105 (4) of the Police Act where there is no threat to life, complies with the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials, which limit the lawful use of firearms to circumstances of extreme necessity in order to respond to an imminent threat of death or serious injury or to prevent a particularly serious crime that involves a grave threat to life"
+     }
+    ]
+   },
+   {
+    "para": "24",
+    "title": "Sexual abuse of children",
+    "recommendation": "The State party should: (a) Amend the Penal Code so as to criminalize all forms of sexual abuse of children regardless of the sex of the child; (b) Ensure that all perpetrators are brought to justice and the cases are not unduly withdrawn, and rehabilitate and compensate the victims; (c) Ensure, in law and practice, that the “corroboration rule”, according to which the testimony of a witness is required, is not applied in such a way as to produce impunity when adjudicating sexual violence cases",
+    "header_grades": [
+     "C",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party did not provide any information regarding steps taken to criminalize all forms of sexual abuse of children, regardless of the sex of the child, and to ensure that the “corroboration rule” requiring a witness testimony is not applied in such a way as to result in impunity when adjudicating cases of sexual violence. The Committee reiterates its recommendations"
+     },
+     {
+      "limb": "(b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided, but requires more specific information on the measures taken since the adoption of its concluding observations to bring all perpetrators of all forms of sexual abuse of children to justice. It also requires information on compensation and concrete rehabilitation services offered to victims, in practice. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "25",
+    "title": "Forced and child marriages",
+    "recommendation": "The State party should: (a) Expedite the adoption of the Marriage, Divorce and Family Relations Bill and ensure that it explicitly criminalizes forced and child marriages and sets the minimum age of marriage in accordance with international standards; (b) Provide training to relevant stakeholders and conduct awarenessraising campaigns aiming to prevent forced and child marriages; (c) Prosecute alleged perpetrators, punish those convicted and compensate the victims",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.17
+}

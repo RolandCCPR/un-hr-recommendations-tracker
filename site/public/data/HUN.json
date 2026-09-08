@@ -1,0 +1,101 @@
+{
+ "a3": "HUN",
+ "name": "Hungary",
+ "num": 348,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/HUN/CO/6",
+   "co_session": 118,
+   "co_date": null,
+   "fco_symbol": "CCPR/C/HUN/FCO/6",
+   "assessment_symbol": "CCPR/C/133/3/Add.2",
+   "assessment_session": 133,
+   "assessment_date": "11 October–5 November 2021",
+   "year": 2021,
+   "followup_paras": [
+    "46",
+    "48",
+    "56"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "46",
+    "title": "Holding migrants in transit areas and immigration detention",
+    "recommendation": "The State party should bring its legislation and practices relating to the treatment of migrants and asylum seekers into compliance with the Covenant, taking into account, inter alia, the Committee’s general comment No. 35 (2014) on liberty and security of person. It should also: (a) Refrain from automatically removing all asylum applicants to the transit areas, thereby restricting their liberty, and conduct individual assessments of the need to transfer them, on a case-by-case basis; (b) Significantly reduce the period of initial mandatory immigration detention, ensure that any detention beyond that initial period is justified as reasonable, necessary and proportionate in the light of the individual’s circumstances and provide that it is subject to periodic judicial review; (c) Expand the use of alternatives to detention for asylum seekers; (d) Legally limit the overall duration of immigration detention; (e) Provide for a meaningful right to appeal against detention and other restrictions on movement; (f) Ensure that children and unaccompanied minors are not detained, except as a measure of last resort and for the shortest appropriate period of time, taking into account their best interests, as a primary consideration, with regard to the duration and conditions of detention and their special need for care; * Adopted by the Committee at its 133rd session (11 October–5 November 2021). (g) Improve the conditions in the transit areas and ensure that migrants are held in appropriate, sanitary, non-punitive facilities and that immigration detention does not take place in prisons",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c), (d), (e) and (g)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided on the closure of transit areas within the State party. Nevertheless, it is concerned at the absence of information about the effective implementation of the legal changes described. It requests specific information on the steps that have been taken to implement the reform, including clarification of whether the provisions allowing individuals to submit a declaration of intent remain in place and how many individuals have been allowed entry into the State party’s territory each year since the introduction of those provisions. The Committee is also concerned at the lack of information about any broader efforts to limit immigration detention in law and in practice, in line with its recommendation. It requests that the State party provide further information in this regard"
+     },
+     {
+      "limb": "(f)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information provided by the State party about efforts made to ensure that children and unaccompanied minors are not detained, except as a measure of last resort and for the shortest appropriate period of time, taking into account their best interests. It requests further information about the specific steps taken within the reporting period to step up safeguards against detaining children and unaccompanied minors"
+     }
+    ]
+   },
+   {
+    "para": "48",
+    "title": "Non-refoulement and excessive use of force",
+    "recommendation": "The State party should ensure that the non-refoulement principle is secured in law and strictly adhered to in practice, and that all asylum seekers, regardless of their mode of arrival into Hungary, have access to fair and efficient refugee status determination procedures and effective protection against non-refoulement. In particular, it should: (a) Repeal the pushback law adopted in June 2016 and the amendments thereto, and legally ensure that the removal of an individual must always be consistent with the State party’s non-refoulement obligations; (b) Consider revising Decree No. 191/2015 and developing procedural safeguards against refoulement, including the possibility of the review of asylum decisions by an independent judicial body that can provide effective remedies; (c) Refrain from the collective expulsion of aliens and conduct an objective, individualized assessment of the level of protection available in “safe third countries”; (d) Ensure that force or physical restraint is not applied against migrants, except under strict conditions of necessity and proportionality, that all allegations of the use of force against them are promptly investigated, that perpetrators are prosecuted and punished with appropriate sanctions and that victims are offered reparation",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party on the instruments within the national legal framework, including the Fundamental Law of Hungary, providing for protection for refugees and asylum seekers from countries that do not meet the criteria to be deemed safe. Nevertheless, it regrets the lack of information on the status of the pushback law adopted in June 2016 and any steps taken by the State party to repeal this legislation. The Committee reiterates its recommendation and requests information on the status of this legislation. While taking note of the information provided by the State party on the procedures in place to prevent refoulement, the Committee is concerned at the lack of information about any concrete measures that have been taken during the reporting period to revise Decree No. 191/2015 and to develop procedural safeguards against refoulement. The Committee takes note of the information provided by the State party indicating that thirdcountry nationals can be expelled only when their application for asylum is refused by a final and executable decision of the Directorate-General for Aliens Policing. Nevertheless, it regrets the absence of information on any specific measures taken to end the practice of collective expulsions of aliens. The Committee takes note of the information provided by the State party on the legal provisions in place to regulate the use of force by law enforcement officials. It welcomes the fact that allegations of ill-treatment have been forwarded to the prosecutor’s office. However, it remains concerned about the lack of information regarding investigations into these allegations and about the prosecutions secured for ill-treatment of migrants, the sanctions applied to the perpetrators and the remedies provided to the victims. It reiterates its recommendation in this regard and requests information on the number of complaints received during the reporting period and their outcomes"
+     }
+    ]
+   },
+   {
+    "para": "56",
+    "title": "“Stop-Soros” package",
+    "recommendation": "The State party should reject the draft laws known as the “Stop-Soros” package introduced before the parliament on 13 February 2018 and ensure that all legislation relating to NGOs is fully consistent with its international obligations under the Covenant, reflects the important role of NGOs in a democratic society and is designed to facilitate, not undermine, their operations",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party on the withdrawal of the draft laws and cooperation with civil society organizations. Nevertheless, it regrets the lack of detail about when and under what circumstances draft laws T/19776, T/19775 and T/19774 were withdrawn. The Committee requests specific information on when the laws were withdrawn and on the overall legislative framework relating to nongovernmental organizations, particularly those working in support of the rights of refugees, asylum seekers and migrants, including any reform enacted during the reporting period"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2010,
+    "session": 112,
+    "co_symbol": "CCPR/C/HUN/CO/5",
+    "grades": "6 B · 15 BD · 18 BD"
+   }
+  ]
+ },
+ "combined_score": 3.5
+}

@@ -1,0 +1,136 @@
+{
+ "a3": "NPL",
+ "name": "Nepal",
+ "num": 524,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/NPL/CO/2",
+   "co_session": null,
+   "co_date": "26 March 2014",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/115/2",
+   "assessment_session": 115,
+   "assessment_date": "19 October-6 November 2015",
+   "year": 2015,
+   "followup_paras": [
+    "5",
+    "7",
+    "10"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 10,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 6,
+    "D": 1,
+    "E": 0
+   },
+   "score": 3.2
+  },
+  "paragraphs": [
+   {
+    "para": "5",
+    "title": "Accountability for torture and enforced disappearance",
+    "recommendation": "The State party should: (a) Ensure that all gross violations of international human rights law, including torture and enforced disappearances, are explicitly prohibited as criminal offences under domestic law; (b) End all forms of political interference in the criminal justice system and undertake independent and thorough investigations into alleged conflict-related cases of human rights violations, and hold the perpetrators accountable without any further delay. The Committee stresses that transitional justice mechanisms cannot serve to dispense with the criminal prosecution of serious human rights violations; (c) Create, as a matter of priority and without further delay, a transitional justice mechanism in accordance with the Supreme Court writ of mandamus of 2 January 2014 and ensure its effective and independent functioning in accordance with international law and standards, including by prohibiting amnesties for gross violations of international human rights law and serious violations of international humanitarian law; (d) Ensure that all victims are provided with an effective remedy, including appropriate compensation, restitution and rehabilitation, taking into account the Basic Principles and Guidelines on the Right to a Remedy and Reparation for Victims of Gross Violations of International Human Rights Law and Serious Violations of International Humanitarian Law (General Assembly resolution 60/147); (e) Adopt guidelines for vetting to prevent those accused of violations of the Covenant from holding public office and being promoted",
+    "header_grades": [
+     "B",
+     "C",
+     "B",
+     "C",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the legislative measures taken to ensure that all gross violations of international human rights law, including torture and enforced disappearances, are explicitly prohibited under domestic law. The State party should submit additional information on (i) the definition of gross human rights violations included in the bills and whether the drafts are in full compliance with international human rights standards, including the definition of torture; (ii) the sanctions provided for such violations, including criminal sanctions; (iii) whether the drafts provide a statute of limitations for such violations; and (iv) the progress and implementation of legislative efforts. (b)"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The State party has not provided information on actions taken to end political interference in the criminal justice system or to ensure criminal prosecutions for gross human rights violations. Information is required on (i) the measures taken, since March 2014, to end all forms of political interference in the criminal justice system; and (ii) the investigations conducted, since March 2014, into cases of human rights violations. The State party should also clarify the extent to which the procedures mentioned by the State party for investigating and prosecuting the 855 officials have been used since March 2014. The Committee reiterates its recommendation. (c)"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee requires information on whether the Commission on Investigation of Disappeared Persons and the Truth and Reconciliation Commission are already functioning and are provided with adequate financial and human resources to perform their functions. The State party should also provide further information on the application of the Supreme Court rulings prohibiting amnesties for gross violations of international human rights law and serious violations of international humanitarian law. (d)"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The State party repeats the information provided in its periodic report and its replies to the list of issues. Information is required on (i) measures taken, since March 2014, to ensure that all victims are provided with an effective remedy, including appropriate compensation, restitution and rehabilitation; (ii) the number of victims provided with an effective remedy since March 2014, including information on monetary compensation, restitution and rehabilitation; and (iii) the categories of victims entitled to access their rights to reparations under the Interim Relief Programme. (e)"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "No new vetting mechanisms have been introduced by the State party. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "7",
+    "title": "National human rights commission",
+    "recommendation": "The State party should amend the National Human Rights Act 2068 (2012) to bring it in line with the Paris Principles (General Assembly resolution 48/134, annex) and the Supreme Court decision of 6 March 2013 so as to ensure its independent and effective functioning. It should also amend procedures governing the appointment of Commissioners to ensure a fair, inclusive and transparent selection process, and ensure that the recommendations issued by the NHRC are effectively implemented",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the election of the Chair and commissioners of the National Human Rights Commission in October 2014, and requests information on the procedures by which they were selected and on measures taken to amend the National Human Rights Act 2068 (2012)"
+     }
+    ]
+   },
+   {
+    "para": "10",
+    "title": "Excessive use of force",
+    "recommendation": "The State party should take practical steps to prevent the excessive use of force by law enforcement officials by ensuring that they comply with the Code of Conduct for Law Enforcement Officials (General Assembly resolution 34/169) and the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials (1990). It should take appropriate measures to eradicate torture and ill-treatment, including by adopting legislation defining and prohibiting torture with sanctions and remedies commensurate with the gravity of the crime, in accordance with international standards. It should also ensure that law enforcement personnel receive training on the prevention and investigation of torture and ill-treatment by integrating the Manual on the Effective Investigation and Documentation of Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (Istanbul Protocol). The State party should ensure that allegations of unlawful killings, torture and ill-treatment are effectively investigated, and that alleged perpetrators are persecuted and, if convicted, punished with appropriate sanctions, and that the victims and their families are provided with effective remedies",
+    "header_grades": [
+     "C",
+     "B",
+     "C",
+     "D"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "Concerning steps taken to prevent the excessive use of force by law enforcement officials, the Committee notes the information provided by the State party but regrets that this does not clearly specify the measures taken since March 2014 to implement the Committee’s recommendation. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "Concerning measures taken to adopt legislation defining and prohibiting torture, the State party should provide information on whether the bill criminalizing all forms of torture and inhuman and degrading treatment, submitted to Parliament, is fully compliant with international human rights standards, including with the definition of torture. The State party should also provide information on the progress and implementation of the draft law"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "Concerning the training on prevention and investigation of torture and ill-treatment, information is required on the training sessions held or scheduled, and their timing and length; the integration of the Istanbul Protocol into all training programmes; and the number of law enforcement officials trained and the impact of such training"
+     },
+     {
+      "limb": "",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "The Committee regrets that the State party has provided no further information on the effective investigation of alleged unlawful killings, torture and ill-treatment or on the provision of effective remedies. The Committee reiterates its recommendation"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.2
+}

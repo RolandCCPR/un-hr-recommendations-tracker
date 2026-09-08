@@ -1,0 +1,136 @@
+{
+ "a3": "RUS",
+ "name": "Russian Federation",
+ "num": 643,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/RUS/CO/7",
+   "co_session": null,
+   "co_date": "31 March 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/119/2",
+   "assessment_session": 118,
+   "assessment_date": "17 October-4 November 2016",
+   "year": 2016,
+   "followup_paras": [
+    "7",
+    "19",
+    "22"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 10,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 9,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.1
+  },
+  "paragraphs": [
+   {
+    "para": "7",
+    "title": "Accountability for alleged human rights violations committed in the North Caucasus federal area",
+    "recommendation": "The State party should: (a) Ensure that all human rights violations committed during security and counter-terrorism operations in the North Caucasus federal area are thoroughly, effectively, independently and impartially investigated, that perpetrators are prosecuted and sanctioned in a manner commensurate with the gravity of the acts committed, and that victims or their families are provided with effective remedies, including equal and effective access to justice and reparations; (b) Immediately end the practice of collective punishment of relatives and suspected supporters of alleged terrorists, and provide effective remedies to victims for violations of their rights, including for damage or destruction of property and forced expulsion",
+    "header_grades": [
+     "C",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided by the State party, but requires further and specific information on measures taken since the concluding observations were adopted, including the number of investigations initiated, prosecutions conducted, convictions secured and the punishments imposed for serious human rights violations committed in the North Caucasus federal area, including unlawful and extrajudicial killings, abductions, torture and ill-treatment, secret detention and enforced disappearance and on reparations granted to victims of their family, including equal and effective access to justice since the concluding observations were adopted. The Committee reiterates its recommendation. (b)"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party continues to deny that collective punishment of relatives and suspected supporters of alleged terrorists have taken place in the past, and that it provided no information on the remedies granted to victims of such violations, including for damage or destruction of property and forced expulsions from Chechnya. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "19",
+    "title": "Freedom of expression",
+    "recommendation": "The State party should consider decriminalizing defamation and, in any case, it should countenance the application of criminal law only in the most serious of cases, bearing in mind that imprisonment is never an appropriate penalty for defamation. It should repeal or revise the other laws mentioned above[4] with a view to bringing them into conformity with its obligations under the Covenant, taking into account the Committee’s general comment No. 34 (2011) on freedoms of opinion and expression. In particular, it should clarify the vague, broad and open-ended definition of key terms in these laws and ensure that they are not used as tools to curtail freedom of expression beyond the narrow restrictions permitted in article 19 of the Covenant",
+    "header_grades": [
+     "B",
+     "C",
+     "C",
+     "C",
+     "C",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "Committee notes the information provided and welcomes the absence of any custodial sentences for defamation between 2013 and mid-2015, but regrets that the State party does not appear to have considered decriminalizing defamation. Updated information is required on the number of prosecutions and convictions under article 128.1 of the Criminal Code since the concluding observations were issued, including imprisonment as a sanction. The Committee reiterates its recommendation. (b)"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided by the State party but regrets that no measures appear to have been taken to implement its recommendation. It requires information on steps taken since the adoption of the concluding observations to bring the definition of treason into conformity with article 19 of the Covenant. The Committee reiterates its recommendation. (c)"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that no measures appear to have been taken to repeal blasphemy laws. It requires information on the number of prosecutions and convictions under article 148 of the Criminal Code and clarification on whether the State party plans to repeal blasphemy laws, taking into account its general comment No. 34 (para. 48) concerning the incompatibility of blasphemy laws with the Covenant, except in the specific circumstances envisaged in article 20 (2) of the Covenant. The Committee reiterates its recommendation. (d)"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that no information has been provided on Federal Law No. 398-FZ authorizing prosecutors to issue emergency orders, without a court decision, to block any website. The Committee reiterates its recommendation. (e)"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee appreciates the information provided on the prohibitions introduced by Federal Act No. 574-FZ of 4 November 2014 and the incorporation of article 354.1 (rehabilitation of Nazism) in the Criminal Code, but regrets the lack of information on the compatibility with article 19 of the Covenant of the provisions of article 354.1 (1) of the Criminal Code that criminalize, inter alia, the dissemination of deliberately false statements concerning the actions of the Union of Soviet Socialist Republics during the Second World War. The Committee therefore requires information on, inter alia, the necessity and proportionality of those restrictions in the light of article 19 (3) of the Covenant, on prosecutions and convictions for violations of those provisions and on sanctions imposed on perpetrators since the adoption of the concluding observations. (f)"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the absence of information on the law regulating the activities of blogs, signed by the President on 5 May 2014. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "22",
+    "title": "Freedom of association",
+    "recommendation": "The State party should repeal or revise the legislation requiring non-commercial organizations that receive foreign funding to register as “foreign agents” with a view to bringing it into line with the State party’s obligations under the Covenant, and take into account the opinion of the European Commission for Democracy through Law in that regard. It should, at the very least: (a) drop the term “foreign agent” from the law; (b) clarify the broad definition of “political activities”; (c) remove the power granted under the law of registering non-commercial organizations without their consent; and (d) revisit the procedural requirements and sanctions applicable under the law to ensure their necessity and proportionality",
+    "header_grades": [
+     "C",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee appreciates the information regarding applications for removal of non-commercial organizations from the foreign agents register and notes that initial steps have been taken to define “political activity” in the Act on Non-Commercial Organizations by way of a draft federal act. However, the Committee remains concerned that, as described, the draft does not clarify or narrow the concept of political activity in a manner that would ensure consistency with the Covenant. It requires specific information on the definition of “political activity” contained in the draft under consideration, the possible forms that political activity may take and how those satisfy the requirements of article 19 (3), and on whether the draft federal act has been submitted for discussion and adoption and on the progress of its adoption. Furthermore, information is required on other measures taken to bring the Act on Non-Commercial Organizations into conformity with the Covenant, including clarifications on whether the term “foreign agent” and the power of registering non-commercial organizations as “foreign agents” without their consent or a court decision will be removed from the law and whether the procedural requirements and sanctions applicable under the law will be revisited to ensure their necessity and proportionality. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that, despite the concerns expressed about its adverse human rights implications, the draft law banning undesirable foreign companies, organizations or groups was signed into law (Federal Act No. 129-FZ) and entered into force. The Committee requires information on the compatibility of the Act with the requirements of article 19 (3) of the Covenant. Recommended action: A letter should be sent reflecting the evaluation of the Committee"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.1
+}

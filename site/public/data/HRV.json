@@ -1,0 +1,75 @@
+{
+ "a3": "HRV",
+ "name": "Croatia",
+ "num": 191,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/HRV/CO/2",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/118/2",
+   "assessment_session": 118,
+   "assessment_date": "17 October-4 November 2016",
+   "year": 2016,
+   "followup_paras": [],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.75
+  },
+  "paragraphs": [
+   {
+    "para": "13",
+    "title": "Return of refugees and displaced persons",
+    "recommendation": "The Committee reiterates its previous recommendations (see CCPR/C/HRV/CO/2, para. 6) and recommends that the State party expedite efforts towards the resettlement and return of refugees, returnees and internally displaced persons",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the updated information on the current number of returnees in Croatia. However, it requests further information on concrete measures taken to facilitate the resettlement and return of refugees, returnees and internally displaced persons"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee appreciates the efforts of the State party to expedite the provision of adequate housing for former tenancy holders and welcomes the updated information provided by the State party regarding reconstruction projects. The Committee requests information on the number of applicants who have received housing care since the adoption of the concluding observations, including an update on the six cases to be terminated in 2016. The State party should also provide updated information on the closure of organized facilities and on the completion of construction projects"
+     }
+    ]
+   },
+   {
+    "para": "23",
+    "title": "Freedom of expression and the press",
+    "recommendation": "The State party should guarantee freedom of expression and freedom of the press, as enshrined in article 19 of the Covenant and elaborated on in the Committee’s general comment No. 34 (2011) on the freedoms of opinion and expression. It should also consider decriminalizing defamation and should restrict the application of criminal law to the most serious cases, bearing in mind that imprisonment is never an appropriate punishment in such cases. Furthermore, the State party should investigate incidents of attacks on journalists and the media, and bring those responsible to justice",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided by the State party and welcomes the clarification that both the 2011 Criminal Code and the 2015 Act on the Amendments to the Criminal Code only envisage fines as the criminal sanction for criminal offenses against honour and reputation. The Committee requests information on whether the State party has considered decriminalizing defamation. The Committee also requests information on the interpretation of the term “public interest”, in the light of the 2015 Act on Amendments to the Criminal Code, particularly when it relates to information published in the media and by journalists"
+     },
+     {
+      "limb": "(b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee requests information on measures taken since the adoption of the Committee’s concluding observations on 31 March 2015 to investigate incidents of attacks on journalists and the media and to bring those responsible to justice, including specific examples of cases where perpetrators were brought to justice and the penalties imposed. Recommended action: A letter should be sent reflecting the analysis of the Committee. Next periodic report: 2 April 2020 Cyprus Concluding observations:"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.75
+}

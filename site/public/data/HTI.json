@@ -1,0 +1,104 @@
+{
+ "a3": "HTI",
+ "name": "Haiti",
+ "num": 332,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/HTI/CO/1",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/118/2",
+   "assessment_session": 118,
+   "assessment_date": "17 October-4 November 2016",
+   "year": 2016,
+   "followup_paras": [
+    "7",
+    "10",
+    "19",
+    "20"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "7",
+    "title": "Impunity and the Duvalier case",
+    "recommendation": "In order to effectively combat the impunity that prevents advances in the rule of law in Haiti, the State party should pursue its investigations in the Duvalier case and bring to justice all those responsible for serious violations committed during that presidency and give victims fair and equitable reparation. The State should implement the recommendations of the National Commission on Truth and Justice in respect of the serious violations committed between 1991 and 1994. The Committee recalls the State party’s obligation to bring criminal proceedings for any serious violation of human rights",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided by the State party and the nongovernmental organization, according to which no investigations have been initiated since the death of Jean-Claude Duvalier. The Committee requests further and specific information on investigations initiated and efforts to bring to justice all those responsible for serious violations committed during the Duvalier presidency and to give victims fair and equitable reparation, and the progress thereof since the concluding observations were adopted. The Committee also requests information on the ongoing reform of the legal system, including the timeline for adoption and the content of any reforms intended to combat impunity and to ensure that criminal proceedings are effectively pursued for any serious violation of human rights. The Committee further requests information on measures taken to implement the recommendations of the National Commission on Truth and Justice in respect of the serious violations committed between 1991 and 1994. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "10",
+    "title": "Firearm deaths caused by law enforcement",
+    "recommendation": "The State party should, as a matter of urgency, look into these cases of firearm deaths caused by the forces of law and order and ensure that they are investigated in a prompt and effective manner, prosecute those thought to be responsible and, if they are found guilty, sentence them to penalties in proportion to the seriousness of the acts and grant appropriate compensation to the victims and their families. The State party should guarantee that the General Inspectorate of the National Police is able to carry out these investigations independently and to routinely maintain statistics on homicides committed by the forces of law and order and on the unlawful use of firearms, covering investigations carried out, prosecutions brought, penalties prescribed and reparation awarded. The Committee encourages the State party to continue its efforts to provide the forces of law and order with human rights training in accordance with its obligations under the Covenant and in line with the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials, in order to reduce the incidence of homicide and serious injury caused by firearms",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided but requests specific information on measures taken since the adoption of the Committee’s concluding observations on 27 October 2014, including: (a) updated statistics on the number of complaints received against the members of law enforcement and security forces and any resulting investigations, prosecutions, convictions and compensation to victims; and (b) training conducted by the General Inspectorate of the police, including information on the content of the training, the number of persons trained and whether the training addresses obligations under the Covenant and is in line with the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials. The Committee also requests information on measures taken to ensure that the General Inspectorate of the National Police is able to carry out investigations into police misconduct independently. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "19",
+    "title": "Human rights defenders and journalists",
+    "recommendation": "The State party should take the necessary steps to protect human rights defenders and journalists so as to enable them to carry out their activities with complete freedom and no restrictions. The State party should, as a matter of priority, investigate all attacks on the life and dignity of these persons and bring the perpetrators to justice",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided by the State party and nongovernmental organizations, and requests further and specific information regarding the measures taken after the adoption of the Committee’s concluding observations on 27 October 2014 to protect human rights defenders and journalists. The Committee also notes the State party’s information that no complaint has been recorded against the forces of law between November 2014 and 2015. However, it further notes that complaints lodged by human rights defenders remain unaddressed, as indicated by the non-governmental organization. The Committee therefore requests information on all measures taken since the concluding observations were adopted to investigate all attacks on the life and dignity of human rights defenders and journalists, including the assassination of the Dorsainvil couple in February 2014, and to bring the perpetrators to justice. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "20",
+    "title": "Legislative and municipal elections",
+    "recommendation": "The State party should, as a matter of urgency, take the necessary steps to organize the legislative and municipal elections due to have been held in 2011, in order to ensure that citizens have effective access to their rights under article 25 of the Covenant",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes that municipal elections and the first round of legislative elections have been held and that other steps have been taken, but that presidential and legislative elections planned for October and December 2015 have not yet been held. The Committee requests further and updated information regarding the presidential elections, the second round of legislative elections and the rerun of the first round of legislative elections, and regarding the specific reasons that prevented the first round of the legislative elections to be conducted in some areas. The Committee also requests information on measures that were taken to address reports of violence and electoral irregularities in the recent elections, and what measures will be implemented by the State party in order to prevent electoral irregularities and violence in future elections. The Committee further requests information on any plans to establish a constitutionally mandated permanent electoral council"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.5
+}

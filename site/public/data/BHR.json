@@ -1,0 +1,94 @@
+{
+ "a3": "BHR",
+ "name": "Bahrain",
+ "num": 48,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/BHR/CO/1",
+   "co_session": 123,
+   "co_date": "19 July 2018",
+   "fco_symbol": "CCPR/C/BHR/FCO/1",
+   "assessment_symbol": "CCPR/C/135/2/Add.1",
+   "assessment_session": 135,
+   "assessment_date": "27 June–27 July 2022",
+   "year": 2022,
+   "followup_paras": [
+    "14",
+    "32",
+    "54"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 3,
+    "D": 0,
+    "E": 1
+   },
+   "score": 2.5
+  },
+  "paragraphs": [
+   {
+    "para": "14",
+    "title": "Military courts",
+    "recommendation": "",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information on the 2017 amendment to the Constitution and the safeguards available in military court proceedings. Nevertheless, it regrets the lack of information on any measures taken after the adoption of its concluding observations to review the 2017 amendment in order to ensure that military courts are prevented from exercising jurisdiction over civilians. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "32",
+    "title": "Death penalty",
+    "recommendation": "",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information on the safeguards in death penalty cases and the State party’s intention to consider abolishing the death penalty if other States do so. Nevertheless, it regrets the lack of information on any specific measures taken to reinstate the moratorium on the death penalty and to ensure that it is imposed only for the most serious crimes and is not imposed by military courts. The Committee reiterates its recommendation and requests: (a) information on investigations into cases of the use of torture to extract confessions and violations of procedural safeguards in death penalty cases, and their outcomes; and (b) statistics on death sentences and executions during the reporting period, disaggregated by age, sex, nationality and type of offence"
+     }
+    ]
+   },
+   {
+    "para": "54",
+    "title": "Freedom of expression",
+    "recommendation": "",
+    "header_grades": [
+     "E",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee regrets that the State party considers national legislation, laws and redress mechanisms to be sufficient to prevent the violation of freedom of expression. It reiterates its recommendation"
+     },
+     {
+      "limb": "(b), (c), (d) and (e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information on measures taken to decriminalize defamation and apply criminal law only in the most serious cases, and to release anyone held solely for the peaceful exercise of his or her rights. It reiterates its recommendations and requests information on plans to release three human rights defenders: Abdulhadi al-Khawaja, Abduljalil al-Singace and Naji Fateel. While welcoming the information on the prohibition of the imprisonment of journalists under the amended press, printing and publishing law, the Committee regrets the lack of information on other measures taken to review and amend the provisions of the Criminal Code, Decree Law No. 47 and regulations on digital rights. It reiterates its recommendations and requests information on: (a) the restriction on freedom of expression on the Internet, including through the 2021 amendments to the press, printing and publishing law and the 2019 declaration made by the Ministry of the Interior concerning the use of social media; and (b) increased targeting of the online activities of journalists and human rights defenders, including through the use of surveillance spyware. The Committee regrets the absence of information on measures taken to protect journalists, activists and human rights defenders, investigate any violations against them and bring perpetrators to justice. It reiterates its recommendation and requests information on reports of reprisals against human rights organizations that have submitted reports to the United Nations"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 2.5
+}

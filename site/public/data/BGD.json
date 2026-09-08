@@ -1,0 +1,94 @@
+{
+ "a3": "BGD",
+ "name": "Bangladesh",
+ "num": 50,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/BGD/CO/1",
+   "co_session": null,
+   "co_date": "22 March 2017",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/132/2/Add.1",
+   "assessment_session": 132,
+   "assessment_date": "28 June–23 July 2021",
+   "year": 2021,
+   "followup_paras": [
+    "14",
+    "20",
+    "22"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.25
+  },
+  "paragraphs": [
+   {
+    "para": "14",
+    "title": "Early marriage and harmful traditional practices",
+    "recommendation": "The State party should take immediate measures to sharply reduce early marriage and prevent dowry practices, including through the implementation of legislation preventing early marriage and dowry practices, by carrying out campaigns to publicize the legislation outlawing such practices and by informing girls, their parents and community leaders of the harmful effects of early marriage. The State party should amend the child marriage restraint bill to maintain the legal minimum age of marriage for girls at 18 years, in accordance with international norms, without any exceptions",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the State party’s introduction of a national action plan to reduce and ultimately eradicate early marriage, including through awareness-raising activities. It requests information on the progress achieved pursuant to the goals of the national action plan and on the measures the State party has taken to ensure the plan’s effective implementation. It also requests specific information on the State party’s efforts to raise awareness of the harmful effects of early marriage, including the content and scope of all awareness-raising activities, details of when they took place, the avenues or methods used, the audience reached and the substantive impact they have had. The Committee notes the State party’s adoption of the Dowry Prohibition Act, 2018 and the Child Marriage Restraint Act, 2017, aiming to prevent dowry practices and early marriage, respectively. It requests additional information on the implementation of these acts, including the number of times they have been invoked during the reporting period and details of any prosecutions, convictions and penalties imposed. The Committee regrets the absence of specific information on campaigns to publicize the legislation outlawing dowry practices and early marriage. It reiterates its recommendation and requests additional information on measures to publicize that legislation, through the national action plan or otherwise"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the Child Marriage Restraint Act, 2017 includes an exception that allows for the marriage of girls under 18 years, and reiterates its recommendation. It requests information on the minimum age of the child for such an exception to be applied, usage of such an exception, including the number of times it has been used to authorize the marriage of girls under 18 years"
+     }
+    ]
+   },
+   {
+    "para": "20",
+    "title": "Extrajudicial killings and enforced disappearances",
+    "recommendation": "The State party should: (a) Take immediate measures to protect the right to life of all persons; (b) Revise its legislation to limit the use of force by law enforcement officials, the military and special forces, incorporating international standards, including the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials, and ensure accountability for violations; (c) Effectively criminalize enforced disappearance; (d) Investigate all cases of arbitrary killings, enforced disappearances and excessive use of force, prosecute and punish convicted perpetrators with appropriate sanctions and provide full reparation to the victims. In cases of disappearances, the State party should establish the truth about the fate and whereabouts of victims and ensure that victims of enforced disappearance and their relatives are informed about the outcome of investigations; (e) Provide in its next periodic report information on: (i) The number of investigations conducted; (ii) Convictions secured; (iii) Disaggregated information on penalties that have been imposed on perpetrators",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information regarding the protection of the right to life provided under the State party’s existing legal framework, including the recently enacted sector-specific laws. Nevertheless, the Committee regrets that the State party has not provided any information on measures taken during the reporting period to protect the right to life of all persons in the context of extrajudicial killings and enforced disappearances. Therefore, the Committee reiterates its recommendation. The Committee also takes note of the information on the State party’s existing legislation on the use of force, but regrets that no measures have been taken since the adoption of the Committee’s concluding observations to revise its legislation to limit the use of force by law enforcement officials, military and special forces, in accordance with the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials. It also regrets the lack of measures taken to ensure accountability for violations. In this regard, the Committee draws the State party’s attention to its general comments No. 36 (2018) on the right to life, particularly paragraphs 10 to 17 and 58, and No. 37 (2020) on the right of peaceful assembly, particularly paragraphs 96 and 98. It requests further information on cases in which the existing legislation on the use of force has been invoked within the reporting period and data on the number of complaints, investigations, prosecutions and convictions there have been in cases of use of force by the police during the reporting period, as well as details of the sanctions imposed and the reparations granted to the victims. The Committee takes note of the information regarding the criminalization of kidnapping offences. Nevertheless, it regrets that the State party has not provided any information on steps taken to effectively criminalize enforced disappearance. The Committee takes note of the information provided on the outcome of the Narayanganj murder case, but draws the State party’s attention to the fact that the judgment in that case predates the issuance of the concluding observations. It reiterates its recommendation and requests information on measures taken after the adoption of the Committee’s concluding observations. No evaluation applicable: (e) The Committee notes that the information is to be provided in the State party’s next periodic report"
+     }
+    ]
+   },
+   {
+    "para": "22",
+    "title": "Torture and ill-treatment",
+    "recommendation": "The State party should put an end to the practice of torture and ill-treatment. It should enforce the Torture and Custodial Death (Prevention) Act, 2013, and ensure that no immunity provisions in other laws supersede the protections in this act. The State party should establish an independent complaint mechanism with the authority to investigate all reported allegations of, and complaints about, torture and ill-treatment. It should further ensure that alleged perpetrators of those crimes are prosecuted and that the victims are provided with full reparation",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party has not provided information on any steps taken during the reporting period to implement its recommendations and end the practice of torture and ill-treatment. While noting the information provided by the State party regarding the Torture and Custodial Death (Prevention) Act, 2013, the Committee requests additional information on the enforcement of the act, including the number of investigations, prosecutions and convictions that have taken place under it during the reporting period, as well as information on any reparations provided to victims. In addition, while noting the information about the functions and authority of the National Human Rights Commission, the Committee requests additional information on its role as an independent complaint mechanism, including whether it is empowered to directly investigate allegations of human rights violations committed by law enforcement agents. The Committee requests details of the number of complaints the Commission received during the reporting period, how many investigations it conducted and the results of those investigations, including any prosecutions of perpetrators and reparations provided to victims"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.25
+}

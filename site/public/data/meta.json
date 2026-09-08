@@ -1,19 +1,21 @@
 {
  "generated": "2026-09-08",
- "assessed_countries": [
-  "DNK",
-  "NAM",
-  "PRY",
-  "USA"
+ "n_assessed": 114,
+ "n_hrc": 114,
+ "n_upr": 4,
+ "hrc_year_range": [
+  2015,
+  2026
  ],
+ "hrc_caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
  "mechanisms": {
   "upr": {
    "name": "Universal Periodic Review",
-   "what": "A peer review of every UN member State's whole human rights record, every ~4.5 years, by the other States. This site tracks how each country implemented the recommendations it received in the 3rd cycle, judged against the UN and civil-society reports prepared for its 4th-cycle review."
+   "what": "A peer review of every UN member State's whole human rights record, every ~4.5 years, by the other States. This site assesses how four countries implemented the recommendations they received in the 3rd cycle, judged against the UN and civil-society reports prepared for their 4th-cycle review."
   },
   "hrc": {
    "name": "Human Rights Committee follow-up",
-   "what": "The ICCPR treaty body selects ~3 priority recommendations from each country's Concluding Observations. About three years later the State reports back, NGOs comment, and the Committee's Special Rapporteur grades each one A–E. These are the Committee's own gradings."
+   "what": "The ICCPR treaty body selects two to four priority recommendations from each country's Concluding Observations. About three years later the State reports back, NGOs may comment, and the Committee's Special Rapporteur grades each one A–E. Every grade on the map is the Committee's own, taken verbatim from the Rapporteur's follow-up report; each country shows its most recent evaluation."
   }
  },
  "scale": [
@@ -48,5 +50,5 @@
    "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation"
   }
  ],
- "methodology": "Recommendations are grouped by their OHCHR theme and graded on the Human Rights Committee's A–E scale (CCPR/C/108/2). A concrete, on-point measure adopted in the review period scores B; a completed measure meeting the core ask scores A; only pre-existing framework, stalled bills or no action scores C; a new contrary measure or explicit rejection scores E; no information scores D. Each grade is worth points (E=1, D=2, C=3, B=4, A=5) and a country's score for a mechanism is the average of those points across all its graded items, between 1 and 5. The UPR grading is a first-pass assessment for expert review; the Human Rights Committee gradings are the Committee's own."
+ "methodology": "Each A–E grade is worth points (E=1, D=2, C=3, B=4, A=5); a country's score for a mechanism is the average of those points across its graded items, between 1 and 5, and the map shades red (1) to green (5). The “All (combined)” view averages a country's UPR and Human Rights Committee scores where both exist. The Human Rights Committee gradings are the Committee's own, taken verbatim from the Special Rapporteur's follow-up reports; topic titles for evaluations before 2019 are added by us for navigation because the documents of that period did not include them. The UPR gradings (four countries) are a first-pass assessment for expert review, built with AI from the UN compilation and stakeholder reports: a concrete on-point measure adopted in the review period scores B, a completed measure meeting the core ask scores A, only pre-existing framework or no action scores C, a new contrary measure or explicit rejection scores E, and no information scores D."
 }

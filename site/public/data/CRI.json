@@ -1,0 +1,94 @@
+{
+ "a3": "CRI",
+ "name": "Costa Rica",
+ "num": 188,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/CRI/CO/6",
+   "co_session": null,
+   "co_date": "21 April 2016",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/128/3/Add.4",
+   "assessment_session": 128,
+   "assessment_date": null,
+   "year": 2020,
+   "followup_paras": [
+    "10",
+    "18",
+    "42"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "10",
+    "title": "Non-discrimination",
+    "recommendation": "The State party should step up its efforts to dispel stereotypes of and eliminate discrimination against indigenous peoples, persons of African descent, migrants, asylum seekers and refugees, and persons with disabilities by carrying out awarenessraising campaigns to promote tolerance and respect for diversity, among other actions. It should expedite the adoption of an act on the prevention and punishment of all forms of discrimination and should ensure that it contains a general prohibition of discrimination on all the grounds enumerated in the Covenant and includes provisions allowing for reparation through effective and appropriate legal remedies in cases of discrimination, racism or xenophobia",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided by the State party, in particular the information regarding the awareness-raising campaigns conducted in respect of persons of African descent, migrants and refugees, and persons with disabilities and the adoption of Act No. 9358 (August 2016), by which became the first country in the Americas to ratify the Inter-American Convention against Racism, Racial Discrimination and Related Forms of Intolerance. The Committee requests information on (a) File No. 19288, “Prevention, elimination and punishment of racism and all forms of discrimination”, and File No. 19299, “Investigation of the human rights situation of persons of African descent”, which are currently before the legislature; (b) on the measures taken by the State party to expedite the adoption of a law on the prevention and punishment of all forms of discrimination that contains a general prohibition of discrimination on all the grounds enumerated in the Covenant and includes provisions allowing for reparation through effective and appropriate legal remedies in cases of discrimination, racism or xenophobia; and (c) on the measures taken to implement the National Integration Plan and the impact and results of those measures"
+     }
+    ]
+   },
+   {
+    "para": "18",
+    "title": "Abortion",
+    "recommendation": "The State party should: (a) Amend its legislation to introduce additional grounds for voluntary termination of pregnancy, such as when the pregnancy is the result of rape or incest or in cases of fatal fetal impairment, in order to ensure that legal obstacles do not lead women to resort to clandestine abortion, which endangers their lives and health; (b) Adopt without delay a protocol that ensures access to abortion when there is a risk to the mother’s life or health; (c) Ensure that sexual and reproductive health services are accessible to all women and adolescent girls; (d) Continue its efforts in favour of educational programmes at the formal level (in schools) and at the informal level (through the press and other communication media) on the importance of using contraceptives and on sexual and reproductive health rights and ensure their implementation; (e) Ensure that cases of violence against women in health facilities are thoroughly investigated and that perpetrators are brought to justice and punished appropriately",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c), (d) and (e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided by the State party and regrets the absence of any legislative initiatives to amend the State party’s laws on abortion with a view to including additional grounds for the voluntary termination of pregnancy. The Committee requests additional information on the technical standard being developed to regulate the scope of article 121 of the Criminal Code. The Committee also requests information on the measures taken to ensure that cases of violence against women in health facilities are thoroughly investigated and that perpetrators are brought to justice and punished, and on reparation granted to victims. The Committee reiterates its recommendations and requests additional information in this regard"
+     }
+    ]
+   },
+   {
+    "para": "42",
+    "title": "Rights of members of indigenous peoples",
+    "recommendation": "The State party should: (a) Expedite the adoption of the draft legislation on the autonomous development of indigenous peoples; (b) Ensure that indigenous peoples are effectively consulted in order to secure prior, informed and free consent before any measure is adopted or implemented that could have a substantial impact on their way of life and culture, in particular in relation to projects that could have an impact on their lands, territories or other resources, such as projects to explore for or exploit natural resources; (c) Guarantee in practice the right of indigenous peoples to the lands and territories that they have traditionally possessed or occupied, including through such legal recognition and protection as may be necessary; (d) Make the necessary legal means available so that indigenous peoples may recover inalienable lands previously granted to them under national law and provide appropriate protection, including effective remedies, to indigenous peoples who have been the victim of attacks",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the adoption of Decree No. 40932 of 2018 on the establishment of the General Mechanism for Consultation with Indigenous Peoples. However, it requests the State party to clarify whether this mechanism is binding on all State institutions and on private enterprises. It also requests information on the withdrawal of the bill on the autonomous development of indigenous peoples (File No. 14352) and on the existence of similar bills. The Committee notes that the Ministry of Justice and Peace has been authorized to carry out consultations. The Committee requests additional information on the measures taken with regard to requests for consultation submitted and/or consultations carried out pursuant to Decree No. 40932 of 2018"
+     },
+     {
+      "limb": "(c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided by the State party regarding the National Plan for the Recovery of Indigenous Territories. However, it requests information on the time frame for the implementation of the Plan and on the measures taken to guarantee in practice the right of indigenous peoples to the lands and territories that they have traditionally possessed or occupied, including through such legal recognition and protection as may be necessary. The Committee also requests the State party’s comments on reports that illegal occupations by non-indigenous persons continue to occur. The Committee reiterates its recommendation regarding the need to make the necessary legal means available so that indigenous peoples may recover inalienable lands previously granted to them under national law and to provide appropriate protection, including effective remedies, to indigenous peoples who have been the victim of attacks. In addition, the Committee requests comments from the State party on reports of attacks on indigenous persons during the land recovery process"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.5
+}

@@ -1,0 +1,119 @@
+{
+ "a3": "MDA",
+ "name": "Moldova, Republic of",
+ "num": 498,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MDA/CO/3",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/131/2/Add.4",
+   "assessment_session": 131,
+   "assessment_date": "1–26 March 2021",
+   "year": 2021,
+   "followup_paras": [
+    "10",
+    "24",
+    "28"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 1,
+    "B": 3,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 4.0
+  },
+  "paragraphs": [
+   {
+    "para": "10",
+    "title": "National human rights framework",
+    "recommendation": "The State party should: (a) Adopt promptly a new national human rights action plan on the basis of consultations with all relevant stakeholders; (b) Allocate sufficient human and financial resources to ensure the effective implementation of the former and new plans; (c) Ensure that the implementation of the former and new plans is reviewed and evaluated regularly",
+    "header_grades": [
+     "A",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the State party’s adoption of the new National Human Rights Action Plan, in consultation with stakeholders, and requests additional information about the specific contents of the Plan"
+     },
+     {
+      "limb": "(b) and (c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the requirement in the relevant draft act for the national human rights council to report annually to Parliament on the implementation of the National Human Rights Action Plan. The Committee requests more specific information on: (i) the human and financial resources that have been made available to ensure the effective implementation of the Plan; (ii) the contents and legislative status of the draft act establishing a national monitoring mechanism; (iii) how Parliament monitors and evaluates the effective implementation of the Plan; and (iv) whether any other oversight mechanisms are in place. The Committee requests any available monitoring and evaluation data on the implementation of the Plan that is relevant to the reporting period"
+     }
+    ]
+   },
+   {
+    "para": "24",
+    "title": "Abuse and ill-treatment in residential institutions and psychiatric hospitals",
+    "recommendation": "The State party should take urgent action to: (a) Revise its laws and practices on forced detention on the grounds of mental or intellectual disability, with a view to ensuring that detention is applied, if at all, as a measure of last resort and for the shortest appropriate period of time, and that the existence of a disability shall never in itself justify a deprivation of liberty; (b) Promote psychiatric care aimed at preserving the dignity of patients, both adults and minors, and ensure that non-consensual use of psychiatric treatment is generally prohibited and applied, if at all, in exceptional cases as a measure of last resort where absolutely necessary for the benefit of the person concerned, provided that he or she is unable to give consent, for the shortest possible time and without any long-term impact; (c) Protect persons with disabilities from further abuse and ill-treatment, including by adopting a comprehensive, effective and independent monitoring system in all residential institutions and psychiatric hospitals; (d) Conduct prompt, impartial and thorough investigations into all allegations of abuse and ill-treatment by persons with disabilities, hold the perpetrators to account and provide effective remedies to victims; (e) Ensure that women with disabilities are able to enjoy their right to sexual and reproductive health, including by repealing legislation that allows for the nonconsensual termination of pregnancy",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the changes that have been made to the legal framework on forced detention on the grounds of mental or intellectual disability. Nevertheless, it requests further information about the specific details of the draft amendments to the Criminal Procedure Code, including the provisions that outline direct social danger and risk of serious injury to the person’s health as grounds for forced detention among those with mental or intellectual disabilities and whether such provisions allow for such situations as a measure of last resort only. It also requests information on how the State party ensures that forced detention on the grounds of mental or intellectual disability is for the shortest possible time, given that the draft amendments allow for such situations to continue for up to 12 months"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the formation of a working group to propose amendments to the Criminal Procedure Code and legal revisions, as discussed above. Nevertheless, it requests further information on the level of effectiveness of the implementation of the relevant legal provisions and on any broader steps being taken to promote psychiatric care that is based upon human dignity. The Committee also requests information on how the State party ensures that there are no long-term impacts of forced detention on the grounds of mental or intellectual disability"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information on an independent monitoring system for residential institutions and psychiatric hospitals, and reiterates its recommendation. While noting the existence of video surveillance, the Committee requests information on additional measures taken to develop a more comprehensive and independent monitoring system"
+     },
+     {
+      "limb": "(d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the efforts to install mechanisms for individuals in residential institutions and psychiatric hospitals to make complaints, the Committee regrets the lack of information on investigations made into allegations of abuse and ill-treatment of persons with disabilities. It reiterates its recommendations and requests information on all allegations of abuse and ill-treatment of persons with disabilities within the reporting period, including the number of complaints, investigations and prosecutions, and the penalties awarded for such crimes and the reparations made to victims"
+     },
+     {
+      "limb": "(e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party has not repealed the legislation allowing for non-consensual termination of pregnancy, and reiterates its recommendation. It requests further information on: (i) the measures included for women with disabilities in the National Programme on Sexual and Reproductive Health and Rights; (ii) the current status of the draft health code and what measures it includes to address the specific needs of women with disabilities; and (iii) the geographical coverage and substantive impact of the youth-friendly health centres and the “All Equal, All Healthy” project"
+     }
+    ]
+   },
+   {
+    "para": "28",
+    "title": "Conditions of detention",
+    "recommendation": "The State party should take concrete steps to improve conditions in prisons and detention facilities in line with the Covenant and the United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules). In that regard, the State party should consider not only the construction of new prison facilities, but also the wider application of alternative non-custodial sentences, such as electronic monitoring, parole and community service",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the various steps taken by the State party to improve conditions in prisons and detention facilities. It requests further information on: (i) the substantial impact of current capital investment projects on levels of overcrowding during the reporting period; (ii) whether measures taken to address inter-prisoner violence have proved effective; (iii) whether the resources dedicated to the health of detainees are adequate to meet all needs and whether the resources mentioned have increased within the reporting period; and (iv) whether the measures taken to improve detention facilities have included an improvement in hygiene facilities. The Committee welcomes the notable steps taken to ensure wider application of alternative non-custodial sentences. It requires further information on the specific measures that have been implemented to increase the capacity of the probation services. It also requests additional information on the substantive impact that measures to increase non-custodial alternatives to detention, including increased electronic monitoring, community service work and suspended sentencing, have had on rates of detention and recidivism. Moreover, it requests information on the specific provisions within Law No. 163/2017 that have revised the legal framework on the application of criminal penalties. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2024 (country review in 2025, in accordance with the predictable review cycle. See www.ohchr.org/EN/HRBodies/CCPR/Pages/PredictableReview Cycle.aspx). 5"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 4.0
+}

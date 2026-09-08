@@ -1,0 +1,101 @@
+{
+ "a3": "ESP",
+ "name": "Spain",
+ "num": 724,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/ESP/CO/6",
+   "co_session": null,
+   "co_date": "20 July 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/122/2",
+   "assessment_session": 122,
+   "assessment_date": "12 March–6 April 2018",
+   "year": 2018,
+   "followup_paras": [
+    "14",
+    "21",
+    "23"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 2,
+    "D": 0,
+    "E": 1
+   },
+   "score": 3.17
+  },
+  "paragraphs": [
+   {
+    "para": "14",
+    "title": "Ill-treatment and excessive use of force by the police",
+    "recommendation": "The State party should: (a) Redouble its efforts to prevent and eliminate torture and ill-treatment by such means as providing more human rights training for law enforcement officials in the light of the relevant international standards; (b) Establish independent complaint bodies to address claims of illtreatment by the police; (c) Ensure that all complaints of torture and ill-treatment are investigated promptly, thoroughly and independently and that the perpetrators of such acts are brought to justice; (d) Ensure that victims receive appropriate reparation, including health and rehabilitation services; 5 Annexes available at http://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ESP/ INT_CCPR_FCO_ESP_25250_S.pdf and http://tbinternet.ohchr.org/Treaties/CCPR/ Shared%20Documents/ESP/INT_CCPR_FCO_ESP_25251_S.pdf. 6 See http://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ESP/ INT_CCPR_NGS_ESP_27522_S.pdf. 7 See http://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ESP/ INT_CCPR_NGS_ESP_27764_S.pdf. (e) Ensure that forensic examinations of presumed cases of torture and illtreatment committed by State officials are impartial, comprehensive and conducted in accordance with the Istanbul Protocol; (f) Prohibit the granting of pardons under its legal system to persons found guilty of the crime of torture; (g) Ensure the recording of interrogations of all persons deprived of liberty in police premises and other places of detention",
+    "header_grades": [
+     "B",
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (g)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee takes note of the information that the number of complaints of ill-treatment by law enforcement officials is declining, but requires relevant statistics. It also notes the adoption of Instructions Nos. 11/2015 and 12/2015, but observes that neither instruction refers specifically to the prohibition or prevention of torture. The Committee requires additional information on the scope of application (ratione personae) of Instruction No. 12/2015, including clarification as to whether (a) it applies to police forces of autonomous communities (comunidades autónomas) and to local (municipal) police, and to all places of deprivation of liberty such as prisons, juvenile centres and psychiatric establishments; and (b) its provisions concerning training extend to non-State security forces. The Committee appreciates the information provided on human rights training, but requires additional information on the periodicity of training, the number of beneficiaries, and the availability of training to police forces other than the National Police and the Civil Guard. The Committee welcomes the equipping of two thirds of police stations with video surveillance, but requires additional information on the progress made in equipping all police premises and other places of detention, including those under the supervision of police forces of autonomous communities and local police, with video surveillance also covering transit areas; on the use of video recordings of interrogations, in practice; and on rules regarding access to video records"
+     },
+     {
+      "limb": "(b) and (f)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information regarding the Security Personnel and Services Inspectorate of the State Secretariat for Security, the Committee regrets that no measures appear to have been taken since the adoption of the concluding observations to establish independent complaint bodies to address claims of ill-treatment by police. The Committee reiterates its recommendation. The Committee regrets that the State party provided no information on measures taken to prohibit the granting of pardons to persons found guilty of torture. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(c), (d) and (e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided on the roles of the Security Personnel and Services Inspectorate, the Public Prosecution Service and investigating judges, regarding investigations of complaints of torture or ill-treatment. However, it requires further and specific information on the exact function of the Inspectorate and on prompt, thorough and independent investigations into all complaints of torture or ill-treatment and punishment of perpetrators (please provide statistics on the number of investigations, prosecutions and convictions, on specific punishments imposed and on reparations provided to victims). The Committee appreciates the information regarding Act No. 4/2015 on Rules Relating to Victims of Crime, but requires clarification on the Act’s compliance with the requirements of article 2 of the Covenant, including the guarantee of non-repetition, compensation and rehabilitation of victims. It also requires information on the adequacy of compensation for victims and the number of victims of torture or ill-treatment who benefited from the victim assistance offices’ services and received reparation pursuant to Act No. 4/2015. The Committee notes the integration of the ORFILA software into the work of institutes of forensic medicine, but requires additional information on specific measures taken to ensure the independence and impartiality of forensic examinations in practice and on the impact of ORFILA in that regard"
+     }
+    ]
+   },
+   {
+    "para": "21",
+    "title": "Past human rights violations",
+    "recommendation": "The Committee reiterates its recommendation that the Amnesty Act should be repealed or amended to bring it fully into line with the provisions of the Covenant. The State party should actively encourage investigations into all past human rights violations. The State party should also ensure that, as a result of these investigations, the perpetrators are identified, prosecuted and punished in a manner commensurate with the gravity of the crimes committed and that redress is provided to the victims. The State party should review its legislation on the search for, exhumation and identification of disappeared persons and in this respect urges it to implement the recommendations of the Committee on Enforced Disappearances contained in its recent concluding observations (CED/C/ESP/CO/1, para. 32). The State party should also establish a legal framework at national level for its archives and allow the opening of archives on the basis of clear, public criteria, in accordance with the rights enshrined in the Covenant",
+    "header_grades": [
+     "E",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee regrets that the State party does not intend to repeal the 1977 Amnesty Act and that no measures have been taken to implement its recommendations regarding: (a) the investigation, prosecution and punishment of perpetrators and redress for victims of past human rights violations, in particular for victims of international crimes; and (b) the review of the legislation on the search for, exhumation and identification of disappeared persons and the provision of adequate resources for that purpose (see CED/C/ESP/CO/1, para. 32). The Committee reiterates its recommendations"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the digitization of the Valle de los Caídos archives and the efforts of the Ministry of Justice to raise awareness about the Historical Memory Act, the Committee regrets that its recommendation on adopting a national legal framework on archives and on ensuring access to all archives based on clear, public criteria remains unimplemented. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "23",
+    "title": "Unaccompanied minors",
+    "recommendation": "The State party should develop a standard protocol for determining the age of unaccompanied children and ensure that age-determination procedures are based on safe and scientific methods, take the children’s feelings into account and avoid all risks of violating their physical integrity. In addition, the State party should ensure that the principle of the best interests of the child is given due consideration in all decisions concerning unaccompanied children",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.17
+}

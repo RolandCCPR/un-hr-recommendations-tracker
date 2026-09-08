@@ -1,0 +1,87 @@
+{
+ "a3": "COD",
+ "name": "Congo, Democratic Republic of the",
+ "num": 180,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/COD/CO/4",
+   "co_session": 121,
+   "co_date": "6 November 2017",
+   "fco_symbol": "CCPR/C/COD/FCO/4",
+   "assessment_symbol": "CCPR/C/141/2/Add.2",
+   "assessment_session": 141,
+   "assessment_date": "1–23 July 2024",
+   "year": 2024,
+   "followup_paras": [
+    "20",
+    "28",
+    "48"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 0,
+    "D": 0,
+    "E": 0
+   },
+   "score": 4.0
+  },
+  "paragraphs": [
+   {
+    "para": "20",
+    "title": "Sexual violence",
+    "recommendation": "The State party should take all necessary measures to ensure that: (a) all cases of sexual violence are investigated and the perpetrators are prosecuted and, if found guilty, punished; (b) victims receive physical and psychological support, including through the reparations fund for victims of sexual violence, which should be put into operation as soon as possible; and (c) steps are taken to facilitate victims’ access to legal services",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While welcoming the State party’s efforts to combat sexual violence and ensure that victims have access to physical and psychological support and legal services, including through the adoption of various legislative measures, the Committee regrets the lack of specific information on the steps taken during the reporting period to ensure that all cases of sexual violence are investigated and the perpetrators are prosecuted and, if found guilty, punished. It requests additional information, including statistical data, on the number of investigations carried out and prosecutions and convictions handed down. The Committee also requests additional information on: (a) the impact of the creation of the National Reparations Fund for Victims of Conflict-Related Sexual Violence and Other Crimes against the Peace and Security of Mankind, including statistical data on the number of victims who have received reparation through the Fund; and (b) whether any relevant training was delivered to judges, prosecutors and law enforcement to support the investigation, prosecution and conviction of cases of sexual violence"
+     }
+    ]
+   },
+   {
+    "para": "28",
+    "title": "Situation in Kasai",
+    "recommendation": "The State party should: (a) conduct a prompt, transparent and independent investigation to establish the facts and circumstances in which these alleged human rights violations and abuses were perpetrated by agents of the State and members of armed groups in the Province of Kasai; (b) undertake to dismantle and disarm the militias and pro-Government armed groups suspected of having committed the violations; (c) ensure that the members of the defence and security forces deployed in the region are properly trained and equipped to protect the population and have not been involved in serious human rights violations; and (d) cooperate fully with all United Nations entities, in particular the United Nations Joint Human Rights Office and the team of international experts mandated by Human Rights Council resolution 35/33 of 23 June 2017, which is responsible, inter alia, for determining the facts and circumstances of the alleged violations of human rights and international humanitarian law in the Kasai region",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the efforts of the State party to investigate and seek justice for the alleged human rights violations and abuses perpetrated by agents of the State and members of armed groups in the Province of Kasai, to restore peace in the region and to cooperate with United Nations entities. Nevertheless, the Committee regrets the lack of concrete information on the training, during the reporting period, of the defence and security forces deployed in the region. It requests additional information in this regard. It also requests further information, including statistical data, on the investigations, prosecutions and convictions of those responsible for allegedly committing human rights violations and abuses in the Province of Kasai"
+     }
+    ]
+   },
+   {
+    "para": "48",
+    "title": "Participation in public affairs and elections",
+    "recommendation": "The State party should: (a) cooperate with all stakeholders in agreeing on an electoral calendar for the holding of free, peaceful and fair elections as soon as possible; (b) respect the constitutional right of every citizen to participate in public affairs; and (c) put an end to the intimidation of opponents and candidates in the presidential election and to violations of their Covenant rights, by taking the necessary measures to ensure their effective protection",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While noting with satisfaction the State party’s efforts to cooperate with all stakeholders in agreeing on an electoral calendar to hold presidential, legislative and provincial elections in December 2018, which led to a peaceful transition of power, the Committee is concerned at reports of electoral violence during the registration and identification processes during the 2023 elections and at allegations of sabotage and fraud in those processes. It reiterates its recommendations and requests further information on the measures taken to ensure the holding of free, peaceful and fair elections and the effective protection of all electoral candidates"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 4.0
+}

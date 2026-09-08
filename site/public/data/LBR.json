@@ -1,0 +1,94 @@
+{
+ "a3": "LBR",
+ "name": "Liberia",
+ "num": 430,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/LBR/CO/1",
+   "co_session": 123,
+   "co_date": "23 July 2018",
+   "fco_symbol": "CCPR/C/LBR/FCO/1",
+   "assessment_symbol": "CCPR/C/141/2/Add.3",
+   "assessment_session": 141,
+   "assessment_date": "1–23 July 2024",
+   "year": 2024,
+   "followup_paras": [
+    "11",
+    "37",
+    "47"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.75
+  },
+  "paragraphs": [
+   {
+    "para": "11",
+    "title": "Impunity and past human rights violations",
+    "recommendation": "The State party should, as a matter of priority, establish a process of accountability for past gross human rights violations and war crimes that conforms to international standards, including concerning independence and expertise of the judiciary; victims’ access to justice, due process and fair trial guarantees; and witness protection. The State party should, in particular: (a) Ensure that all alleged perpetrators of gross human rights violations and war crimes are impartially prosecuted and, if found guilty, convicted and punished in accordance with the gravity of the acts committed, regardless of their status or any domestic legislation on immunities, and remove any persons who are proven to have been involved in gross human rights violations and war crimes from official positions; (b) Take all necessary measures to implement the recommendations of the Truth and Reconciliation Commission and consider establishing a well-resourced body, comprising government representatives, the National Independent Commission on Human Rights and civil society organizations, to monitor the implementation of those recommendations; (c) Develop and implement a comprehensive reparations scheme for all victims of gross human rights violations and war crimes; * Adopted by the Committee at its 141st session (1–23 July 2024). 290824 (d) Redouble its efforts aimed at fostering reconciliation and sustaining peace, with the participation of victims and their families as well as civil society organizations active in seeking justice for past crimes",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "(a) (c) and (d) While welcoming the State party’s efforts to cooperate with foreign Governments for the prosecution of its citizens accused of war crimes in other jurisdictions and the submission of a bill to the legislature for the establishment of a war crimes court, the Committee regrets that the State party has yet to prosecute any individuals involved in war crimes. It also regrets the information indicating that no steps have been taken to develop and implement a comprehensive reparations scheme for all victims of gross human rights violations and war crimes. Furthermore, while welcoming the construction of memorials and the holding of six district-level reconciliation dialogues throughout Lofa County, the Committee is concerned at reports revealing the lack of a comprehensive and inclusive process to memorialize the victims of the conflict. The Committee reiterates its recommendations and requests additional information"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information that the State party has taken steps to implement the recommendations of the Truth and Reconciliation Commission, particularly with regard to the holding of annual district Palava Hut hearings. It requests more specific information on the progress made in the implementation of all of the Commission’s recommendations, including the recommendation to create an extraordinary criminal court to prosecute those responsible for committing serious crimes"
+     }
+    ]
+   },
+   {
+    "para": "37",
+    "title": "Administration of justice and fair trial",
+    "recommendation": "The State party should pursue its efforts to reform the justice system and ensure that all court proceedings are conducted in full observance of the due process guarantees set forth in article 14 of the Covenant. In particular, it should: (a) Effectively address the court backlog, including by strengthening financial resources allocated to the judiciary and increasing the availability of trained judges, prosecutors and public defenders and by reducing registration fees for lawyers; (b) Take measures to curb incidents of corruption within the judiciary and ensure that disciplinary procedures against unethical judges and magistrates are duly applied; (c) Expedite the process of revising the provisions of the Constitution that adversely affect the independence of the judiciary and ensure that the appointment, promotion and removal of judges are compatible with the independence of the judiciary and free from executive interference; (d) Create an adequately resourced legal aid system and ensure that free legal aid is provided in a timely manner in all cases where the interests of justice so require; (e) Ensure the right to a fair trial without undue delay; (f) Provide for free interpretation for all defendants who do not understand or speak the language used in court",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes with satisfaction the steps taken by the State party to reform the justice system and ensure that all court proceedings are conducted in full observance of the due process guarantees set forth in article 14 of the Covenant. In particular, the Committee welcomes the efforts made to reduce the court case backlog by approximately 80 per cent; the establishment of a judicial ethics committee in 2019; the establishment of legal aid clinics; and the training of magistrates and public defenders. Nevertheless, the Committee regrets the lack of information provided on measures taken during the reporting period: (a) to revise the provisions of the Constitution that adversely affect the independence of the judiciary and to ensure that the appointment, promotion and removal of judges are compatible with the independence of the judiciary and are free from executive interference; and (b) to provide free legal aid and free interpretation for defendants who do not understand or speak the language used in court. The Committee reiterates its recommendations and requests information in this regard"
+     }
+    ]
+   },
+   {
+    "para": "47",
+    "title": "Customary land",
+    "recommendation": "The State party should accelerate the adoption of the Land Rights Bill and ensure that it provides for equal land and property rights for women and men, and eliminate barriers restricting women’s access to and use, ownership and control of land, including in concession areas. In particular, it should guarantee, in law and in practice, that genuine consultations are conducted with members of local communities occupying customary lands, including women, prior to concluding concession agreements with a view to obtaining the free, prior and informed consent of local communities, and that such communities can benefit from development projects carried out on their lands and are provided adequate compensation. Moreover, the State party should ensure that private companies carrying out development projects implement corporate social responsibility policies supported by effective monitoring and accountability mechanisms",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the adoption in October 2018 of the Land Rights Act and the provisions therein, particularly guaranteeing the free, prior and informed consent of customary landowners during the transfer of land and recognizing the right of women to own land in both formal and customary settings. Nevertheless, it regrets the lack of information on the implementation and impact of the Land Rights Act since its adoption. The Committee requests additional information on whether genuine consultations have been conducted with members of local communities occupying customary lands. It also requests further information on the requirements to ensure that private companies carrying out development projects implement corporate social responsibility policies supported by effective monitoring and accountability mechanisms and that communities can benefit from development projects carried out on their lands and are provided with adequate compensation"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.75
+}

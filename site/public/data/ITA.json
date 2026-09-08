@@ -1,0 +1,94 @@
+{
+ "a3": "ITA",
+ "name": "Italy",
+ "num": 380,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/ITA/CO/6",
+   "co_session": null,
+   "co_date": "23 March 2017",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/129/2/Add.4",
+   "assessment_session": 129,
+   "assessment_date": "29 June–24 July 2020",
+   "year": 2020,
+   "followup_paras": [
+    "7",
+    "25",
+    "27"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.25
+  },
+  "paragraphs": [
+   {
+    "para": "7",
+    "title": "National human rights institution",
+    "recommendation": "The State party should expeditiously establish a national human rights institution in compliance with the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles)",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that no information was provided on specific measures taken to establish a national human rights institution in compliance with the Paris Principles. The Committee reiterates its request for information and its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "25",
+    "title": "Migrants, asylum seekers and refugees",
+    "recommendation": "The State party should: (a) Implement Law No. 67/2014 with a view to abrogating the crime of irregular entry and stay; * Adopted by the Committee at its 129th session (29 June–24 July 2020).  (b) Refrain from carrying out the collective expulsion of migrants, ensure that all expulsion orders are based on an individual assessment of each migrant’s situation, taking into account the person’s special protection needs, ensure that bilateral and multilateral agreements are applied in such a way as to guarantee full respect of Covenant rights and strict compliance with the principle of nonrefoulement, and suspend any agreement that does not include effective human rights protections; (c) Ensure that immigration detention is only applied for the shortest period possible and as a measure of last resort, after it has been determined, on a case-bycase basis, to be strictly necessary, proportionate, lawful and non-arbitrary; (d) Strengthen its efforts to increase the number of available places in reception centres and take all measures necessary to improve, without delay, the conditions therein; (e) Fully implement the standard operating procedures at hotspots and provide in all first-level reception centres information and legal aid, where necessary, in relation to the pre-identification and identification procedures and the asylum procedure",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c), (d) and (e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided by the State party but regrets that the measures were taken before the adoption of the concluding observations. The Committee therefore requests information on measures taken since the adoption of the concluding observations to do the following: (i) implement Law No. 67/2014 with a view to abrogating the crime of irregular entry and stay; (ii) refrain from carrying out collective expulsion of migrants and ensure that the requirement under the Unified Text for case-by-case assessments prior to expulsion is honoured in practice; (iii) ensure non-refoulement of expelled migrants; (iv) ensure that immigration detention is only applied for the shortest period possible and as a measure of last resort, after it has been determined, on a case-by-case basis, to be strictly necessary, proportionate, lawful and nonarbitrary; (v) increase the number of available places in reception centres and improve the conditions therein; and (vi) ensure that the standard operating procedures are applied in practice"
+     }
+    ]
+   },
+   {
+    "para": "27",
+    "title": "Unaccompanied minors",
+    "recommendation": "The State party should: (a) Ensure that the age assessment procedure is based on safe and scientifically sound methods, taking into account the children’s mental well-being; (b) Review the guardian assignment procedure to ensure that each unaccompanied minor is provided with a legal guardian in a timely manner; (c) Ensure adequate conditions for unaccompanied minors in reception facilities, including their segregation from adults; (d) Take the measures necessary to prevent the disappearance of children and to find the whereabouts of those already missing",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (d)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the new provision that, in case of doubt with regard to age, a child is to be presumed to be a minor for the purposes of the law. The Committee also welcomes the interdepartmental agreement on an age assessment procedure. The Committee requires information on the following: (i) the content of the procedure; (ii) the status of its pending approval by the State-Regions Conference; and (iii) the status of the project currently under consideration by the European Commission. The Committee welcomes the measures taken to review the guardian assignment procedure, including the recruitment of “voluntary guardians” and the transfer of competence to juvenile courts. The Committee requires information on the following: (i) efforts made by the National Ombudsman for Children and Adolescents to effectively train and oversee volunteer guardians; (ii) the specific measures taken to recruit private citizens as volunteer guardians; and (iii) the impact that the transfer of competence to juvenile courts has had on the average waiting time for unaccompanied minors to receive guardians. The Committee welcomes the measures taken by the State party to promote the project on early recovery interventions and to establish the national information system on unaccompanied foreign minors. The Committee requires information on the following: (i) measures taken to use the system to facilitate searches for missing unaccompanied minors; and (ii) the rates of disappearance of unaccompanied minors both before and after the implementation of the project on early recovery interventions"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of specific information on the conditions for unaccompanied minors in reception facilities. The Committee reiterates its request for information, particularly about the segregation of unaccompanied minors from adults in reception facilities, and reiterates its recommendation. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 29 March 2022. 4"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.25
+}

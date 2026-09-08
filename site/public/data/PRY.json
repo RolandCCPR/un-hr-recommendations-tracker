@@ -1,7 +1,7 @@
 {
  "a3": "PRY",
  "name": "Paraguay",
- "num": "600",
+ "num": 600,
  "upr": {
   "meta": {
    "mechanism": "upr",
@@ -2286,10 +2286,16 @@
   "meta": {
    "mechanism": "hrc",
    "co_symbol": "CCPR/C/PRY/CO/4",
-   "session": "126th session (2019)",
+   "co_session": null,
+   "co_date": "22 July 2019",
+   "fco_symbol": "CCPR/C/PRY/FCO/4",
    "assessment_symbol": "CCPR/C/140/2/Add.2",
-   "assessment_date": "adopted 140th session, March 2024",
-   "round": "Single follow-up round; procedure discontinued with outstanding points folded into the next periodic report.",
+   "assessment_session": 140,
+   "assessment_date": "4–28 March 2024",
+   "year": 2024,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
    "n": 4,
    "grade_dist": {
     "A": 0,
@@ -2303,48 +2309,59 @@
   "paragraphs": [
    {
     "para": "13",
-    "title": "Human rights violations during the dictatorship (1954–1989) and the transition",
-    "recommendation": "Duly investigate all cases of serious violations during the dictatorship and the transition period and bring those responsible to justice; ensure prompt, fair and full reparation for all victims and families irrespective of when the claim was filed; and accelerate the search for missing persons and identification of remains, with the necessary resources.",
+    "title": "Human rights violations during the period of the dictatorship",
+    "recommendation": "The State party should: (a) Ensure that all cases of serious human rights violations that occurred during the dictatorship (1954–1989) and the transition period, which lasted until 2003, are duly investigated and that those responsible are brought to justice without delay and, where appropriate, punished; (b) Ensure prompt, fair and effective access to compensation and full reparation for all victims and their families, irrespective of when the claim was filed; (c) Accelerate the search for missing persons and the identification of remains found during the investigation of cases of enforced disappearance and ensure that the human, technical and financial resources necessary for this purpose are provided",
+    "header_grades": [],
     "limbs": [
      {
-      "limb": "whole paragraph",
+      "limb": "",
       "grade": "B",
       "meaning": "Information/action partially satisfactory",
-      "eval": "While welcoming the information on cases No. 3154/89 and No. 53/2017 and the search and compensation efforts, the Committee regrets that many requests for compensation have been refused and requests updated figures and information on the pending compensation bill."
+      "eval": "While welcoming the information provided on cases No. 3154/89 and No. 53/2017, the Committee requests further information on the outcome of the cases that are currently pending in court and on the number of appeals presented in court and their corresponding results. While noting the State party’s efforts to search for missing persons and identify remains, as well as to ensure compensation for victims and their families, the Committee regrets to learn that many requests for compensation have been refused. The Committee reiterates its recommendations and requests updated information on the number of: (a) persons who received compensation; (b) requests that were refused, including the reasons for the refusal; and (c) appeals presented in court and their corresponding results. The Committee also requests additional information on the proposed bill to improve the compensation mechanisms for victims and their families, including its current status"
      }
     ]
    },
    {
     "para": "29",
     "title": "Pretrial detention and fundamental safeguards",
-    "recommendation": "Continue reforms to significantly reduce the use of pretrial detention and ensure non-custodial alternatives (bail, electronic monitoring), with pretrial detention exceptional, reasonable and as short as possible, including for adolescents; and ensure all detainees are informed of the reasons and their rights, have access to a lawyer and can contact family from the very outset of detention.",
+    "recommendation": "The State party should: (a) Continue its reforms to significantly reduce the use of pretrial detention and ensure that non-custodial alternatives, such as bail or electronic bracelets, are given due consideration and that pretrial detention is exceptional, reasonable and necessary in all circumstances and as short as possible, including in the case of adolescents in conflict with the law; (b) Ensure that all persons deprived of their liberty are informed of the reason for their detention and their rights, that they have proper access to a lawyer and that they can contact a family member or person of trust from the very beginning of their detention",
+    "header_grades": [],
     "limbs": [
      {
-      "limb": "(a) reduce pretrial detention; non-custodial alternatives",
+      "limb": "(a)",
       "grade": "B",
       "meaning": "Information/action partially satisfactory",
-      "eval": "The Committee welcomes the enactment of Act No. 6350/19 and Supreme Court Resolution No. 1511, the committee on alternative measures and the juvenile restorative-justice work, but regrets the lack of data on impact and on the use of alternatives."
+      "eval": "While welcoming the State party’s efforts to reduce the use of pretrial detention and ensure that non-custodial alternatives are given due consideration, including through the enactment of Act No. 6350/19 and the issuance of Resolution No. 1511 by the Supreme Court of Justice, the Committee regrets the lack of information on the impact and results of the State party’s efforts to significantly decrease the use of pretrial detention. Furthermore, while noting with satisfaction the cooperation agreement for the creation of a committee on alternative measures to deprivation of liberty, the working meeting convened to advance the implementation of the Act on regulating and implementing the use of electronic or monitoring devices and the inter-institutional round table on juvenile restorative justice, the Committee regrets the lack of statistical data on the use of alternatives to pretrial detention. The Committee reiterates its recommendations in this regard and requests additional information on: (a) the status of the bill establishing a special procedure for the lifting of pretrial detention; and (b) the status and impact of the project designed to strengthen the restorative approach in adolescent criminal responsibility processes. It also requests statistical data on the number of persons in pretrial detention and the use of non-custodial alternatives during the reporting period"
      },
      {
-      "limb": "(b) safeguards from the outset of detention",
+      "limb": "(b)",
       "grade": "B",
       "meaning": "Information/action partially satisfactory",
-      "eval": "While noting the free legal aid provided nationwide and the ongoing training of public defenders and police, the Committee regrets the lack of information on specific steps taken during the reporting period."
+      "eval": "While noting the information provided regarding the provision of free legal aid throughout the country and the ongoing human rights training received by public defenders and police staff, the Committee regrets the lack of information on specific steps taken during the reporting period. The Committee reiterates its recommendation and requests further details on the number of: (a) persons who received free legal aid during the reporting period; (b) professionals who received training on human rights and standards of due process during the reporting period; and (c) complaints about police procedures received during the reporting period and their corresponding results, including the number of complaints that were referred to the Public Prosecution Service"
      }
     ]
    },
    {
     "para": "35",
     "title": "Independence of the judiciary",
-    "recommendation": "Strengthen efforts to combat corruption within the judiciary, including awareness-raising among judges, prosecutors and police; eradicate all forms of interference in the judiciary by other branches and investigate, prosecute and punish interference and corruption; and review the laws and operations of the institutions responsible for administering justice and appointing judges and prosecutors to guarantee independence, impartiality, autonomy and transparency.",
+    "recommendation": "The State party should: (a) Strengthen its efforts to combat corruption within the judiciary, including by raising awareness among judges, prosecutors and police officers of the most effective ways to fight corruption; (b) Eradicate all forms of interference in the judiciary by other branches of government; ensure prompt, thorough, independent and impartial investigations into all allegations of interference and corruption; and prosecute and punish the persons responsible; (c) Review the laws and operations of the institutions responsible for administering justice, appointing judges and prosecutors and ensuring judicial ethics in order to ensure that, in law and in practice, the system in place guarantees the independence and impartiality of the judiciary and the autonomy of the Office of the Prosecutor, as well as transparency and public scrutiny",
+    "header_grades": [],
     "limbs": [
      {
-      "limb": "whole paragraph",
+      "limb": "",
       "grade": "B",
       "meaning": "Information/action partially satisfactory",
-      "eval": "While welcoming the measures to fight corruption and promote transparency in the judiciary, the Committee requests information on their impact and regrets the lack of specific information on measures to eradicate interference by other branches of government."
+      "eval": "While welcoming the various measures taken to fight against corruption and promote transparency and accountability in the judiciary, the Committee requests additional information on the impact of the measures taken to reduce corruption. It regrets the lack of specific information on measures taken to eradicate all forms of interference in the judiciary by other branches of government and the fact that no specific information was provided on investigations into all allegations of interference and corruption during the reporting period. The Committee requests statistical data on such investigations and their results, including whether there have been any prosecutions and convictions, and reiterates its recommendation in this regard"
      }
     ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2013,
+    "session": 115,
+    "co_symbol": "CCPR/C/PRY/CO/3",
+    "grades": "8 CCB · 14 C · 23 C"
    }
   ]
  },

@@ -1,0 +1,94 @@
+{
+ "a3": "LAO",
+ "name": "Lao People's Democratic Republic",
+ "num": 418,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/LAO/CO/1",
+   "co_session": 123,
+   "co_date": "23 July 2018",
+   "fco_symbol": "CCPR/C/LAO/FCO/1",
+   "assessment_symbol": "CCPR/C/141/2/Add.4",
+   "assessment_session": 141,
+   "assessment_date": "1–23 July 2024",
+   "year": 2024,
+   "followup_paras": [
+    "20",
+    "38",
+    "40"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 2,
+    "D": 0,
+    "E": 1
+   },
+   "score": 2.75
+  },
+  "paragraphs": [
+   {
+    "para": "20",
+    "title": "Enforced disappearances",
+    "recommendation": "The State party should: (a) Effectively criminalize enforced disappearance, in accordance with international standards, and ensure that such criminal provisions are enforced in practice; (b) Step up efforts to conduct a thorough, credible, impartial and transparent investigation into the enforced disappearance of Sombath Somphone and into all other cases of alleged enforced disappearances, including of [Kha Yang, Wuthipong Kachathamakul, Bouavanh Chanhmanivon and Keochay, Kingkeo Phongsely, Somchit, Soubinh, Souane, Sinpasong, Khamsone, Nou, Somkhit, and Sourigna, Somphone Khantisouk and a number of members of the Hmong community], in order to clarify their fates and whereabouts and identify those responsible; (c) Ensure that victims and their families are regularly informed of the progress and results of investigations and receive the official administrative documents required by international standards; and that they are provided with full reparation, including rehabilitation, adequate compensation and guarantees of non-repetition; * Adopted by the Committee at its 141st session (1–23 July 2024). 290824 (d) Ensure that perpetrators are prosecuted and, if convicted, punished with penalties that are commensurate with the gravity of the crime; (e) Provide appropriate specialized training on the effective investigation and handling of enforced disappearances to security forces, and judicial and other law enforcement officials, including on the provisions of relevant international standards; (f) Act upon its commitment to ratify the International Convention for the Protection of All Persons from Enforced Disappearance, which the State party accepted in the context of the universal periodic review of the Human Rights Council, in 2010 and 2015",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c), (d) and (f)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information provided, the Committee regrets: (a) that no measures have been taken to effectively criminalize enforced disappearance in accordance with international standards; (b) the alleged lack of thorough, impartial and transparent investigations into cases of enforced disappearance, including that of Sombath Somphone, and that impunity for such crimes has persisted; and (c) the slow progress towards ratifying the International Convention for the Protection of All Persons from Enforced Disappearance. The Committee also regrets the lack of information on specific steps taken during the reporting period to ensure that victims and their families are regularly informed of the progress and results of investigations and that they are provided with full reparation. The Committee requests information in this regard, including statistical data, and reiterates its recommendations"
+     },
+     {
+      "limb": "(e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information provided regarding the systematic training and education of judges, public prosecutors and law enforcement officers with the aim of strengthening their investigative capacities and understanding their responsibilities in criminal proceedings. The Committee requests further information regarding the specific content and impact of the training, including statistical data on the number of professionals trained during the reporting period and the frequency with which professionals are required to participate in continuing education and training programmes"
+     }
+    ]
+   },
+   {
+    "para": "38",
+    "title": "Participation in public affairs and the right to vote",
+    "recommendation": "The State party should take all measures necessary to give full effect to the right of citizens to genuinely take part in the conduct of public affairs, to vote and to be elected, in accordance with article 25 of the Covenant. It should also ensure that electoral legislation does not discriminate against persons with intellectual or psychosocial disabilities by denying them the right to vote on a basis that is disproportionate or that has no reasonable or objective relation to their ability to vote, and revise legislation denying all convicted prisoners the right to vote",
+    "header_grades": [
+     "E"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "While noting the information provided, the Committee regrets the lack of information on steps taken during the reporting period to give full effect to the right of citizens to genuinely take part in the conduct of public affairs, to vote and to be elected. The Committee also regrets that reports indicate the continued restriction of a multi-party system and that all candidates must be approved by the Lao People’s Revolutionary Party or a State-sponsored mass organization, as well as the de facto exclusion of ethnic minorities, particularly the Hmong, in politics and public life. Moreover, it regrets the alleged further suppression of civil and political space and the lack of measures taken to revise legislation denying all convicted prisoners the right to vote and to ensure that legislation does not discriminate against persons with intellectual or psychosocial disabilities by denying them the right to vote. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "40",
+    "title": "Rights of persons belonging to minorities",
+    "recommendation": "The State party should: (a) Take all steps necessary to ensure that meaningful consultations are held with communities with a view to obtaining their free, prior and informed consent for development projects with an impact on their livelihood, lifestyle and culture; (b) Ensure that communities participate in any process concerning their relocation, that such relocation is carried out in accordance with relevant international standards, in particular the principle of non-discrimination, the rights to be informed and consulted, to an effective remedy and to the provision of adequate relocation sites that take due account of their traditional lifestyle and, where applicable, their right to ancestral land; and provide adequate compensation when relocation is not possible; (c) Cease the persecution of members of the Hmong ethnic minority, including their arbitrary arrest, detention and enforced disappearance, and effectively investigate such acts, bring perpetrators to justice, and provide full reparation to victims or their families; and take robust measures to ensure effective access for members of the Hmong community to adequate food and health care, without discrimination",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While welcoming the legislative measures taken to ensure consultations are held with communities with regard to development projects that could affect their livelihoods, lifestyles and cultures and to provide compensation and resettlement management in development projects, the Committee is concerned at reports indicating an alleged increase in forced and illegal land grabbing by the authorities under the “Turning Land into Capital” policy, resulting in the mass displacement of rural communities. The Committee is also concerned about information indicating the continued persecution and discrimination of members of the Hmong ethnic minority. It reiterates its recommendations"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 2.75
+}

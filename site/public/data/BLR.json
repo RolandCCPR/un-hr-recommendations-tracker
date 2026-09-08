@@ -1,0 +1,94 @@
+{
+ "a3": "BLR",
+ "name": "Belarus",
+ "num": 112,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/BLR/CO/5",
+   "co_session": 124,
+   "co_date": "25 October 2018",
+   "fco_symbol": "CCPR/C/BLR/FCO/5",
+   "assessment_symbol": "CCPR/C/137/2/Add.1",
+   "assessment_session": 137,
+   "assessment_date": "27 February–24 March 2023",
+   "year": 2023,
+   "followup_paras": [
+    "12",
+    "28",
+    "53"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 1,
+    "D": 0,
+    "E": 3
+   },
+   "score": 1.5
+  },
+  "paragraphs": [
+   {
+    "para": "12",
+    "title": "Views under the Optional Protocol and interim measures of protection",
+    "recommendation": "",
+    "header_grades": [
+     "E"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee takes note of the information on the national legislation providing for a mechanism to appeal against judicial decisions. Nevertheless, it regrets that the State party reportedly continues to refuse to fully cooperate in good faith in the consideration and examination of communications under the Optional Protocol, especially by failing to comply with the Committee’s requests for interim measures and to implement the Views adopted by the Committee. It deeply regrets the recent decision of the State party to denounce the Optional Protocol and urges the State party to reconsider. The Committee reiterates its recommendation and requests specific information on action taken to comply with its requests for interim measures of protection and to implement all the Views it has adopted"
+     }
+    ]
+   },
+   {
+    "para": "28",
+    "title": "Death penalty",
+    "recommendation": "",
+    "header_grades": [
+     "E",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (b)",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "While taking note of the information regarding the preparation of a bill on an appeals procedure to review first-instance judgments and decisions of the Supreme Court, the Committee regrets the reported amendment of legislation in 2022 resulting in the extended application of capital punishment. It also particularly regrets that the death penalty is reportedly being imposed in violation of the Covenant and that executions are being carried out despite the fact that the victims have complaints pending before the Committee, as in the case of Victor Pavlov. The Committee reiterates its recommendations. While taking note of the information shared with it, the Committee regrets the lack of relevant information provided by the State party regarding action taken to amend article 175 of the Penalties Enforcement Code with a view to bringing it into line with the State party’s obligations under article 7 of the Covenant. The Committee particularly regrets the reportedly persistent and allegedly deliberate practice of not notifying individuals on death row and their relatives about the time of execution, not returning the bodies of the executed individuals to their relatives and not disclosing the burial site. It reiterates its recommendation"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the information provided by the State party, the Committee regrets the lack of information on action taken to comply promptly and fully with the Views adopted by the Committee in the cases of Vasily Yuzepchuk, Pavel Selyun, Oleg Grishkovtsov, Andrei Burdyko, Vladislav Kovalev, Andrei Zhuk and Aleksandr Grunov. It reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "53",
+    "title": "Freedom of peaceful assembly",
+    "recommendation": "",
+    "header_grades": [
+     "E"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "While taking note of the information provided in relation to the legislation in force, the Committee regrets the lack of action taken by the State party to revise its laws, regulations and practices, including the Mass Events Act, with a view to guaranteeing the full enjoyment of the right to freedom of assembly. It also regrets that legislative actions have been taken which further restrict assemblies and gatherings. Furthermore, the Committee remains concerned by the lack of information on investigation into cases of excessive use of force by law enforcement officials. It deeply regrets the reportedly disproportionate use of force during mass protests in 2020 and 2021, which resulted in the death of at least four persons, and the numerous alleged counts of arbitrary detention and the reported systematic practice of torture and ill-treatment of individuals suspected of participating in protests across the country. The Committee reiterates its recommendation and requests statistical information on investigations into cases of excessive use of force by law enforcement officers, including their results, and on the number of arbitrary arrests and detentions of peaceful protestors during the reporting period"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 1.5
+}

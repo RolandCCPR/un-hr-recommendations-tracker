@@ -21,8 +21,10 @@
       Two UN mechanisms produce concrete recommendations to States and later judge
       how far each was carried out: the <strong>Universal Periodic Review</strong>
       (peer review of every country) and the <strong>Human Rights Committee</strong>
-      (the ICCPR treaty body). This site consolidates both, on the Committee's own
-      <strong>A–E</strong> scale, for the countries assessed so far.
+      (the ICCPR treaty body). This site maps the <strong>Human Rights Committee's
+      own follow-up gradings</strong> for every country it has assessed since 2013,
+      on its <strong>A–E</strong> scale, alongside a deeper UPR implementation
+      assessment for four countries.
     </p>
 
     <div class="controls">
@@ -50,8 +52,21 @@
       <p class="note" id="map-cap">Shading: combined score — the average of a country's UPR and Human Rights Committee scores (1–5). Click an assessed country for its full record.</p>
     </div>
 
-    <h2>Assessed countries</h2>
-    <div class="cards" id="cards"></div>
+    <h2>Assessed countries <span class="note">(<span id="country-count">–</span>)</span></h2>
+    <p class="note">Click a column heading to sort; click a row for the full record.
+      Scores are the average grade, 1–5. UPR is assessed for four countries only.</p>
+    <div class="tablewrap">
+      <table id="country-table">
+        <thead><tr>
+          <th data-k="name" aria-sort="none">Country</th>
+          <th data-k="upr" aria-sort="none">UPR</th>
+          <th data-k="hrc" aria-sort="none">HR&nbsp;Cttee</th>
+          <th data-k="combined" aria-sort="descending">Combined</th>
+          <th data-k="year" aria-sort="none">HRC&nbsp;year</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
 
     <h2>The two mechanisms</h2>
     <div id="mech-explain"></div>

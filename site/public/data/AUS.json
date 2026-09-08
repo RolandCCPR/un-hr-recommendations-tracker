@@ -1,0 +1,101 @@
+{
+ "a3": "AUS",
+ "name": "Australia",
+ "num": 36,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/AUS/CO/6",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/134/3/Add.1",
+   "assessment_session": 134,
+   "assessment_date": "28 February–25 March 2022",
+   "year": 2022,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 7,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 3,
+    "D": 0,
+    "E": 1
+   },
+   "score": 3.14
+  },
+  "paragraphs": [
+   {
+    "para": "34",
+    "title": "Non-refoulement",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the State party’s commitment to international protection and to upholding the principle of non-refoulement. Nevertheless, it regrets that section 197 (c) of the Migration Act has not been repealed. It reiterates its recommendation. The Committee notes the information on Operation Sovereign Borders, but regrets the lack of specific information on measures taken during the reporting period to review the State party’s policy and practices during interceptions at sea. The Committee reiterates its recommendation and requests information on any concrete measures taken within the reporting period to review relevant policies and practices. The Committee notes the information on the Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act and its role within the State party’s protection reform agenda. It regrets that the Act has not been repealed and reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "36",
+    "title": "Offshore immigration processing facilities and Christmas Island",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee notes the information on the support the State party provides to Nauru and Papua New Guinea. It regrets that the State party remains committed to regional processing, which indicates that there are no plans to implement its recommendation. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information on the arrangements governing regional processing centres and notes the lack of specific information about measures taken within the reporting period to implement its recommendation to take measures to protect the rights of refugees and asylum seekers affected by the closure of processing centres, including on Manus Island. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information on the transition of the Christmas Island detention centre to a contingency setting in October 2018 and welcomes the indication that, although it was reopened in 2019, the State party may consider returning it to that setting if its operational capacity is no longer required. The Committee reiterates its recommendation that the State party should consider closing down the Christmas Island detention centre"
+     }
+    ]
+   },
+   {
+    "para": "38",
+    "title": "Mandatory immigration detention",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a), (c), (d) and (e) (ii)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information on the management of immigration detention and the means by which the lawfulness and appropriateness of detention arrangements are monitored. It also notes the information on the availability of judicial review of ongoing detention, on measures taken to avoid prolonged immigration detention and on mechanisms to oversee immigration detention and provide access to review of decisions related to adverse security assessments. Nevertheless, the Committee is concerned at the lack of information on measures taken to reduce the period of initial mandatory detention and to strengthen institutional safeguards to ensure that all immigration detention is reasonable, necessary and proportionate, specific information on steps taken to introduce a time limit for the overall duration of immigration detention, and information on measures taken to strengthen procedures that ensure meaningful appeals against the material findings of adverse security assessments and any resulting detention. The Committee notes the information on the health care available to those in immigration detention and on the considerations and obligations applied with regard to the use of force and restraint. Nevertheless, it notes the lack of specific information on measures taken to address issues relating to the conditions faced by individuals in immigration detention. It is also concerned by the lack of precise information about steps taken to provide access to remedies for victims of excessive use of force. The Committee reiterates its recommendations"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information on the efforts to make alternatives to detention available, including bridging visas and the determination of residency by the Minister for Immigration, Citizenship, Migration Services and Multicultural Affairs. Nevertheless, it requests additional information on the steps taken to expand the use of alternatives to detention, including statistics for each year within the reporting period on the number and proportion of cases in which alternatives to detention have been used"
+     },
+     {
+      "limb": "(e) (i)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information on the measures taken to ensure that children and unaccompanied minors are detained only as a matter of last resort and for the shortest appropriate period, taking into account their best interests. It commends the State party on the reported reduction in the number of children and unaccompanied minors in immigration detention. It requests that the State party provide up-to-date information on the number of children and unaccompanied minors who are subject to immigration detention and community detention for each year within the reporting period. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2026 (country review in 2027, in accordance with the predictable review cycle). 6"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.14
+}

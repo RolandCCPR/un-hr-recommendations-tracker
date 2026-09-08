@@ -1,0 +1,96 @@
+{
+ "a3": "GEO",
+ "name": "Georgia",
+ "num": 268,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/GEO/CO/4",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/119/2",
+   "assessment_session": 118,
+   "assessment_date": "17 October-4 November 2016",
+   "year": 2016,
+   "followup_paras": [
+    "13",
+    "14"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 1,
+    "B": 2,
+    "C": 0,
+    "D": 0,
+    "E": 0
+   },
+   "score": 4.33
+  },
+  "paragraphs": [
+   {
+    "para": "13",
+    "title": "Administrative detention",
+    "recommendation": "The State party should, as a matter of urgency, reform its system of administrative detention in order to ensure its full compliance with articles 9 and 14 of the Covenant. Follow-up question (see ) [B1]: The Committee welcomes the amendments adopted by Parliament in August 2014, which set the maximum period of administrative custody for all violations entailing administrative detention at 15 days and provided for various procedural protections. In the light of general comment No. 35 (2014) on liberty and security of person (article 9 of the International Covenant on Civil and Political Rights), the State party should provide additional information on: (a) measures in place to guarantee the use of alternatives to administrative detention; and (b) standards and procedures in place for imposing and reviewing administrative detention, including information on the authority taking these decisions. [B2]: The Committee requires information on the rationale behind the initiative to place administrative offences under the Criminal Code as minor criminal violations or crimes. In particular, additional information is required on the types of offences that are suggested to be placed under the Criminal Code and the compatibility with articles 9 and 14 of the Covenant. The Committee also requests further information on whether and to what extent administrative detainees are being held in temporary detention facilities managed by the Ministry of Internal Affairs, and on the steps taken to reduce this practice",
+    "header_grades": [
+     "B",
+     "A"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the alternative measures to administrative detention, but requires information on measures in place to guarantee their implementation in practice, including relevant statistics on their use since the adoption of the amendments in August 2014. (b)"
+     },
+     {
+      "limb": "",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee considers the State party’s response largely satisfactory"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the absence of information on the rationale behind the initiative to place administrative offences under the Criminal Code as minor criminal violations or crimes. The Committee reiterates its request for information"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information regarding the holding of administrative detainees in temporary detention isolators under the Ministry of Internal Affairs and monitoring of such facilities, and requires clarification on whether such facilities are suitable for long-term detention; whether administrative detainees serve their full term of imprisonment in such facilities and whether they are segregated from other categories of persons deprived of their liberty"
+     }
+    ]
+   },
+   {
+    "para": "14",
+    "title": "Jury trials",
+    "recommendation": "The State party should, as a matter of urgency, follow up on its intention to reform the current jury trial system with a view to ensuring its compatibility with the fair trial guarantees enshrined in article 14 of the Covenant. Follow-up question (see ) [B2]: The Committee notes the draft law developed by the Ministry of Justice to reform the jury trial system. The State party should submit additional information on: (a) whether the draft is in full compliance with article 14 of the Covenant; and (b) the progress and implementation of the draft",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the draft law developed by the Ministry of Justice to reform the jury trial system. The State party should submit additional information on: (a) whether the draft is in full compliance with article 14 of the Covenant; and (b) the progress and implementation of the draft. Summary of State party’s reply (a) The State party reiterates (see"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2014,
+    "session": 115,
+    "co_symbol": "CCPR/C/GEO/CO/4",
+    "grades": "13 BB · 14 B"
+   }
+  ]
+ },
+ "combined_score": 4.33
+}

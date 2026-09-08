@@ -1,0 +1,132 @@
+{
+ "a3": "IRQ",
+ "name": "Iraq",
+ "num": 368,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/IRQ/CO/5",
+   "co_session": null,
+   "co_date": "4 November 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/122/2",
+   "assessment_session": 122,
+   "assessment_date": "12 March–6 April 2018",
+   "year": 2018,
+   "followup_paras": [
+    "20",
+    "26",
+    "28",
+    "30"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 8,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 5,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.38
+  },
+  "paragraphs": [
+   {
+    "para": "20",
+    "title": "Allegations of human rights violations in the context of the ongoing armed conflict",
+    "recommendation": "The State party should make more vigorous efforts to ensure that: (a) All serious human rights violations are independently, promptly and thoroughly investigated, that perpetrators are brought to justice and adequately sanctioned as soon as feasible, and that victims receive full reparation; (b) Its forces, groups under its control and forces collaborating with it do not perpetrate human rights violations, and that they take all necessary precautionary measures to avoid civilian casualties; (c) All persons under its jurisdiction, in particular those who are most vulnerable owing to their ethnicity or religion, are afforded the necessary protection from violent attacks and gross human rights violations; (d) Victims, particularly women and girls released from ISIL, receive adequate support, and that children who have been used in or recruited into armed conflict receive adequate assistance for their physical and psychological recovery and reintegration. 10 See http://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/IRQ/ INT_CCPR_NGS_IRQ_29127_E.pdf",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided, but regrets the lack of concrete information on prompt, independent, impartial and thorough investigations into serious human rights violations, prosecution and punishment of perpetrators, and full reparation provided to victims. The Committee requires such information, as well as information on: (a) the progress made by the designated special judicial body in documenting and investigating terrorist attacks against Yazidis and in prosecuting and punishing perpetrators; and (b) effective measures to protect civilians in combat zones, and steps taken with regard to allegations of indiscriminate and disproportionate bombing, mass arrests, incommunicado detention, torture and enforced disappearance, including in the course of the Fallujah operations and the offensive against ISIL in Mosul. The Committee reiterates its recommendations"
+     },
+     {
+      "limb": "(c) and (d)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided by the State party, but requires more specific information on the effective protection of ethnic and religious communities against violent attacks and gross human rights violations, including on any measures taken to investigate the allegations of executions of Sunni civilians fleeing Fallujah, and of detention and torture of residents because of alleged support for ISIL. It also requires information on: (a) the progress made in providing aid and shelter to displaced persons by the committee mandated to do so; and (b) any rehabilitation programmes aimed at the physical and psychological recovery of children who have been used in or recruited into armed conflict"
+     }
+    ]
+   },
+   {
+    "para": "26",
+    "title": "Violence against women",
+    "recommendation": "The State party should redouble its efforts to prevent and combat all forms of violence against women and, in particular, should: (a) Facilitate the reporting of cases of violence against women and ensure that all such cases are promptly and thoroughly investigated, that perpetrators are brought to justice and that victims have access to full reparation and means of protection, including access to State- and NGO-run shelters or centres throughout the State party’s territory; (b) Swiftly amend its legislation to guarantee adequate protection of women against violence, including by repealing the Criminal Code provisions establishing “honourable motives” as a mitigating circumstance for murder and allowing for the exoneration of rapists who marry their victims, and by ensuring that all forms of violence against women, such as domestic violence and marital rape, are criminalized with appropriate penalties in all its territory. In this respect, the State party should speed up the adoption of the draft law on domestic violence at the national level and ensure that the final text is fully compliant with the Covenant; (c) Increase its awareness-raising activities on the unacceptability and negative effects of violence against women and on the resources and protections available to victims, initiate programmes for perpetrators of domestic violence to change their violent behaviour, and reinforce its training activities for State officials so that they can respond effectively to all forms of violence against women",
+    "header_grades": [
+     "C",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a) and (b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes that the directorate for the protection of families and children from domestic violence was established before the adoption of its concluding observations. It regrets that no information was provided on facilitating the reporting of cases of violence against women, on investigations and prosecutions of perpetrators, and on access for victims to reparation and protection, including State- and NGO-run shelters, since the adoption of its concluding observations. The Committee regrets that no measures appear to have been taken to repeal the Criminal Code provisions establishing “honourable motives” as a mitigating circumstance for murder and allowing for the exoneration of rapists who marry their victims, and to criminalize domestic violence and marital rape. Although a bill on domestic violence is pending before the Council of Representatives, the Committee notes that the legislative process was initiated before the adoption of its concluding observations and regrets the delay in adopting a law on the matter. It requires additional information on the content of the bill pending before the Council of Representatives, the progress in regard to its adoption, and its compliance with the Covenant"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the general information regarding training workshops for State officials, the Committee regrets the lack of information on awareness-raising activities throughout society on the unacceptability of violence against women and on protection measures available to victims, and on any behaviour-change programmes for perpetrators of domestic violence. It requires such information, as well as specific information on: (a) the extent, frequency and content of training for working-level State officials dealing with violence against women; and (b) any measures to change traditional perceptions and attitudes toward women"
+     }
+    ]
+   },
+   {
+    "para": "28",
+    "title": "Death penalty",
+    "recommendation": "The State party should give due consideration to abolishing the death penalty and acceding to the Second Optional Protocol to the Covenant, aiming at the abolition of the death penalty. If the death penalty is maintained, the State party should take all measures necessary, including legislative action, to ensure that: (a) the death penalty is provided only for the most serious crimes; (b) it is never mandatory; and (c) pardon or commutation of the sentence is available in all cases, regardless of the crime committed. The State party should also ensure that, if imposed at all, the death penalty is never imposed in violation of the Covenant, including in violation of fair trial procedures",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party has not reported giving consideration to abolishing the death penalty and acceding to the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty. The Committee also regrets that no legislative action has been taken to ensure that: (a) the death penalty is imposed only for the most serious crimes, that is, crimes of extreme gravity involving intentional killing; (b) the death penalty is never mandatory; and (c) pardon or commutation is available in all cases. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "30",
+    "title": "Prohibition of torture and ill-treatment",
+    "recommendation": "The State party should: (a) Adopt the legislative measures necessary to ensure that the Criminal Code includes a definition of torture that is fully in line with article 7 of the Covenant and other internationally established norms, preferably by codifying it as an independent crime which stipulates sanctions that are commensurate with the gravity of the act; (b) Take more vigorous steps to prevent torture and ill-treatment and to ensure that all such cases are promptly, independently and thoroughly investigated, that perpetrators are brought to justice and that victims receive full reparation; (c) Ensure that confessions obtained in violation of article 7 of the Covenant are not accepted by courts under any circumstances, that allegations made by defendants that a statement was made under torture or ill-treatment are promptly and adequately investigated, and that the burden of proving that the confession was made voluntarily falls on the prosecution; (d) Ensure that all cases of death in custody are promptly, independently and thoroughly investigated and, if it is determined that they were the result of torture, ill-treatment or wilful negligence, that the perpetrators are brought to justice",
+    "header_grades": [
+     "B",
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes that a bill that will include a definition of torture consistent with the Convention against Torture and the International Convention for the Protection of All Persons from Enforced Disappearance is being drafted. The Committee requires information on any relevant developments concerning the bill, the progress in regard to its adoption, and its compliance with article 7 of the Covenant and other internationally established norms, including with regard to the definition of torture and sanctions commensurate with the gravity of the crime. The Committee also requires clarification as to whether persons convicted of torture are excluded from the amnesty under the General Amnesty Act of 25 August 2016"
+     },
+     {
+      "limb": "(b) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that no information was provided on prevention of torture and ill-treatment, nor on prompt, independent, impartial and thorough investigations into such acts, including deaths in custody as a result of torture and ill-treatment, nor on prosecution and punishment of perpetrators and the provision of full reparation to victims. The Committee reiterates its recommendations"
+     },
+     {
+      "limb": "(c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided by the State party, but requires additional information on how the prohibition of coerced confessions is enforced by judges in practice, including statistics on allegations of confessions extracted under torture or illtreatment made by defendants, investigations into such allegations, and any retrial for those convicted on the basis of forced confession (as provided for under the General Amnesty Act of 25 August 2016). Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report: 6 November 2018 20"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.38
+}

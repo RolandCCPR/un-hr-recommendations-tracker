@@ -1,0 +1,55 @@
+{
+ "a3": "CYP",
+ "name": "Cyprus",
+ "num": 196,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/CYP/CO/4",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/118/2",
+   "assessment_session": 118,
+   "assessment_date": "17 October-4 November 2016",
+   "year": 2016,
+   "followup_paras": [],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 2,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.0
+  },
+  "paragraphs": [
+   {
+    "para": "23",
+    "title": "Rights of Turkish Cypriots and minorities",
+    "recommendation": "The State party should continue its efforts to eradicate the economic, linguistic and cultural barriers facing Turkish Cypriots and other minorities. In that regard, it should intensify its efforts to integrate Turkish Cypriots into the civil service and the judiciary, including through the introduction of temporary special measures, and consider easing the language requirements for entering the civil service. It should also consider establishing a Turkish school in Limassol",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the measures taken by the State party, but expresses regret at the lack of information regarding the adoption of temporary special measures. It requests information on measures taken to address the language requirements for entering the civil service since the adoption of the concluding observations, and whether this has resulted in an increase in participation of Turkish Cypriots in the civil service, as well as additional information on the reasons for the sharp drop in Turkish Cypriot pupils attending the Agios Antonios primary school"
+     },
+     {
+      "limb": "(b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party, but requests information on measures taken to establish a Turkish school in Limassol since the adoption of the concluding observations, and on whether additional surveys have been conducted since 2005. The Committee reiterates its recommendations. Recommended action: A letter should be sent reflecting the analysis of the Committee. Next periodic report: 2 April 2020 24"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.0
+}

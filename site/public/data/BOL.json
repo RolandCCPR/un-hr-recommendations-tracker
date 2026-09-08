@@ -1,0 +1,55 @@
+{
+ "a3": "BOL",
+ "name": "Bolivia, Plurinational State of",
+ "num": 68,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/BOL/CO/3",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/117/2",
+   "assessment_session": 117,
+   "assessment_date": null,
+   "year": 2016,
+   "followup_paras": [
+    "12",
+    "13",
+    "14"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 9,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 5,
+    "D": 1,
+    "E": 0
+   },
+   "score": 3.22
+  },
+  "paragraphs": [
+   {
+    "para": "14",
+    "title": "Racial violence in Pando and Sucre (2008)",
+    "recommendation": "The State party should speed up the proceedings relating to the incidents of racial violence that occurred in Pando and in Sucre in 2008 in order to put an end to the prevailing situation of impunity. The State party should also award full redress to all the victims, including appropriate medical and psychosocial treatment for the injury suffered. Follow-up question: [B2]: The Committee welcomes the information provided by the State party on the Pando and Sucre cases and requires updated information on those proceedings. It also requires information on the measures taken to award full redress to all the victims, including on the relevance of the project implemented by the Ministry of Health and Sports under the National Mental Health Plan 2009-2015",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": [
+   {
+    "year": 2013,
+    "session": 114,
+    "co_symbol": "CCPR/C/BOL/CO/3",
+    "grades": "12 CDCC · 13 CDDB · 14 B"
+   }
+  ]
+ },
+ "combined_score": 3.22
+}

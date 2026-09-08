@@ -1,0 +1,77 @@
+{
+ "a3": "NGA",
+ "name": "Nigeria",
+ "num": 566,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/NGA/CO/2",
+   "co_session": null,
+   "co_date": "19 July 2019",
+   "fco_symbol": "CCPR/C/NGA/FCO/2",
+   "assessment_symbol": "CCPR/C/139/2/Add.4",
+   "assessment_session": 139,
+   "assessment_date": "9 October–3 November 2023",
+   "year": 2023,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.33
+  },
+  "paragraphs": [
+   {
+    "para": "23",
+    "title": "Maternal mortality, reproductive rights and termination of pregnancy",
+    "recommendation": "The State party should: (a) strengthen its efforts to ensure unimpeded access to sexual and reproductive health services, including effective access to quality prenatal and post-abortion health care for women and girls in all circumstances and on a confidential basis; (b) review its legislation to ensure safe, legal and effective access to abortion where the life and health of the pregnant woman or girl is at risk and where carrying a pregnancy to term would cause the pregnant woman or girl substantial pain or suffering, most notably when the pregnancy is the result of rape or incest or where it is not viable; (c) ensure that women and girls who have abortions, as well as the health-care practitioners assisting them, are not subject to criminal sanctions; and (d) ensure access to quality and evidence-based information and education about sexual and reproductive health, and appropriate and affordable contraceptive methods for women, men and adolescents nationwide",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the efforts made to reduce maternal, perinatal and child mortality and to scale up the provision of quality family planning services throughout the State party. Nevertheless, it regrets the lack of information provided on steps taken to: (a) review national legislation to ensure safe, legal and effective access to abortion where the life and health of the pregnant woman or girl is at risk and where carrying a pregnancy to term would cause the pregnant woman or girl substantial pain or suffering, most notably when the pregnancy is the result of rape or incest or where it is not viable; and (b) to ensure that women and girls who have abortions, as well as the health-care practitioners assisting them, are not subject to criminal sanctions. The Committee requests additional information on the impact of the measures taken to reduce maternal, perinatal and child mortality, as well as information on any steps taken to review its legislation on access to abortion, ensuring that criminal sanctions are not applied to women and girls who have abortions or to the health-care practitioners who assist them"
+     }
+    ]
+   },
+   {
+    "para": "29",
+    "title": "Intercommunal and inter-ethnic violence",
+    "recommendation": "The State party should strengthen its efforts to: (a) ensure safety and security in the region, including through providing safe shelters, especially for women and children; and (b) ensure that all attacks and acts of inter-ethnic violence and allegations of excessive use of force by governmental actors are investigated, those responsible are brought to justice and victims granted full reparations",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the information provided on the deployment and efforts of the Agro Rangers and on the draft national policy on the protection of civilians and civilian harm mitigation, the Committee is concerned by reports of a significant increase in communal violence committed by herders and Islamist groups against civilians and of continued impunity for such acts. Furthermore, it regrets the lack of information on investigations into cases of excessive use of force by governmental actors, their results and any reparation granted to victims. The Committee reiterates its recommendation and requests further information on the draft national policy, whether it has been enacted, on its implementation and the impacts it may have had in terms of reducing violence and ensuring safety and security in the region"
+     }
+    ]
+   },
+   {
+    "para": "31",
+    "title": "Conflict with Boko Haram and civilian protection",
+    "recommendation": "The State party should conduct prompt, impartial and effective investigations into allegations of human rights abuses committed in the context of the conflict with Boko Haram, both by non-State and State actors, in order to identify, prosecute and punish those responsible, and ensure that victims have access to effective remedies and full reparation. It should take steps to increase the transparency of the investigations, including publishing their findings. The State party should take measures to ensure the safety and security of the population affected by the conflict and to prevent violations of their human rights by any party to the conflict",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While welcoming the information regarding the steps taken to ensure the safety and security of the population affected by the conflict, including through the Countering Violent Extremism Programme, the Committee is concerned by reports that little impact has been seen on the ground and by the allegations that violence, including abductions by criminal gangs, is increasing. It requests further information on the impacts of the activities implemented under the Countering Violent Extremism Programme. The Committee regrets the lack of information provided on the investigations into allegations of human rights abuses committed in the context of the conflict with Boko Haram, both by non-State and State actors, and reiterates its recommendations"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.33
+}

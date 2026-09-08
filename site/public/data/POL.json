@@ -1,0 +1,87 @@
+{
+ "a3": "POL",
+ "name": "Poland",
+ "num": 616,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/POL/CO/7",
+   "co_session": null,
+   "co_date": "31 October 2016",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/128/3/Add.3",
+   "assessment_session": 128,
+   "assessment_date": "2–27 March 2020",
+   "year": 2020,
+   "followup_paras": [
+    "8",
+    "24",
+    "32"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.0
+  },
+  "paragraphs": [
+   {
+    "para": "8",
+    "title": "Constitutional and legal framework within which the Covenant is implemented",
+    "recommendation": "The State party should ensure respect for and protection of the integrity and independence of the Constitutional Tribunal and its judges, and ensure the implementation of all its judgments. The Committee urges the State party to officially publish all the judgments of the Tribunal immediately, to refrain from introducing measures that obstruct its effective functioning, and to ensure a transparent and impartial process for the appointment of its members and security of tenure that meets all the requirements of legality under domestic and international law",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information provided by the State on the measures taken since the adoption of the concluding observations to ensure respect for and protection of the integrity and independence of the Constitutional Tribunal and to publish all of its judgments. The Committee requires additional information on the content of the law of 13 December 2016. It reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "24",
+    "title": "Voluntary termination of pregnancy",
+    "recommendation": "The State party should: (a) Ensure that its legislation does not prompt women to resort to clandestine abortions that put their lives and health at risk. It should conduct research into and provide statistics on the use of illegal abortion. It should ensure women’s effective access to safe legal abortion throughout the entire country and ensure that women are not obliged, as a consequence of conscientious objection or prolonged review of complaints about refusals to perform abortions, to resort to clandestine abortion that puts their lives and health at risk. It should do so by, inter alia: (i) as a matter of priority, establishing and regulating standardized guidelines in public health for the provision of legal abortion services throughout the country; (ii) enhancing the effectiveness of the referral mechanism to ensure access to legal abortion in cases of conscientious objection by medical practitioners; (iii) facilitating access to prenatal genetic testing in order to determine in accordance with the Act of 7 January 1993 whether a fetus suffers from a severe and irreversible fetal impairment or incurable illness that threatens the life of the fetus; (iv) ensuring timely review of appeals against a refusal for an abortion, including further reducing substantially the Physician’s Commission decision deadline; and (v) ensuring that mechanisms for obtaining prosecutor certifications and regulations of individual hospitals do not obstruct access to legal abortion; (b) Refrain from adopting any legislative reform that would amount to a retrogression of already restrictive legislation on women’s access to safe legal abortion; (c) Increase education and awareness-raising programmes on sexual and reproductive health rights and facilitate effective access to contraceptives",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State has reiterated information provided in its seventh periodic report and that no information is provided on the measures taken since the adoption of the concluding observations. The Committee reiterates its recommendations. The Committee regrets the lack of information provided on the measures taken to refrain from adopting retrogressive legislative reform, and requires information on the draft law submitted on 30 November 2017 to amend the Act of 7 January 1993. The Committee reiterates its recommendations. The Committee regrets the absence of information provided on the measures taken since the adoption of the concluding observations to increase education and awarenessraising programmes on sexual and reproductive health rights and facilitate effective access to contraception. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "32",
+    "title": "Rights of aliens",
+    "recommendation": "The State party should: (a) Refrain from detaining asylum seekers and migrants and implement alternatives, including before deportation, and in cases where individuals are detained, ensure that the detention is reasonable, necessary and proportionate in the light of the circumstances and reassessed as it extends in time; (b) Ensure that children are not deprived of liberty except as a measure of last resort and for the shortest appropriate period of time, taking into account their best interests; (c) Ensure that access to asylum is not obstructed on grounds of religious discrimination or other grounds prohibited by the Covenant, and establish a system of proper screening that ensures that asylum seekers are not returned to a country where there are substantial grounds for believing that there is a real risk of irreparable harm, such as that set out in articles 6 and 7 of the Covenant",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "Although the Committee notes the increase in the use of alternative measures in 2016, it requires additional information, such as the actual number of detained asylum seekers and migrants and the alternative measures used in the past four years. The Committee also requires additional information on measures taken since the adoption of the concluding observations to ensure that detention is reasonable, necessary and proportionate. The Committee reiterates its recommendations. The Committee notes the information provided on children deprived of liberty, but regrets that no information has been provided on measures taken since the adoption of the concluding observations to ensure that children are not deprived of liberty. The Committee reiterates its recommendations. The Committee regrets the lack of information on measures taken after the concluding observations to ensure that access to asylum is not obstructed on discriminatory grounds and to respect the principle of non-refoulement. The Committee reiterates its recommendations. Recommended action: A letter should be sent to inform the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. 4"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.0
+}

@@ -1,0 +1,89 @@
+{
+ "a3": "SLV",
+ "name": "El Salvador",
+ "num": 222,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/SLV/CO/7",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": "CCPR/C/SLV/FCO/7",
+   "assessment_symbol": "CCPR/C/135/2/Add.2",
+   "assessment_session": 135,
+   "assessment_date": "27 June–27 July 2022",
+   "year": 2022,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 3,
+    "D": 0,
+    "E": 1
+   },
+   "score": 2.8
+  },
+  "paragraphs": [
+   {
+    "para": "16",
+    "title": "Voluntary termination of pregnancy and reproductive rights",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the absence of legislative measures taken to guarantee safe, legal and effective access to voluntary termination of pregnancy. While noting the release of some women imprisoned for abortion-related offences, it remains concerned at the continued criminalization, prosecution and imprisonment in this regard and the lack of information on specific measures taken to ensure their rights to legal counsel and due process and to respect patient confidentiality. The Committee reiterates its recommendation and requests statistics on the number of women who have been criminally prosecuted and detained for abortionrelated offences, including Berta Arana, during the reporting period and information on any plans to release them. While noting the safeguards against forced sterilization of persons with disabilities and the provision of training for health personnel, the Committee regrets the absence of information on specific measures taken since the adoption of its concluding observations to ensure the full and informed consent of persons with disabilities and to provide health personnel with training on the harmful effects and consequences of forced sterilization. It reiterates its recommendation"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information on the reduced maternal mortality rate and national strategies to improve access to sexual and reproductive health services throughout the country, including counselling and pre-conception care. It requests information on the impact of these strategies"
+     }
+    ]
+   },
+   {
+    "para": "18",
+    "title": "Right to life and security of person",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information on the special unit’s regular budget, technical assistance and training received from OHCHR and access to information, the Committee remains concerned at reports that the unit has insufficient resources to process its caseload and that its access to military files is being hindered. The Committee reiterates its recommendation and requests information on: (a) the progress of criminal investigations and prosecutions of war crimes and crimes against humanity committed during the armed conflict; and (b) the alleged intimidation of commissioners of the Institute for Access to Public Information. The Committee notes the information on the work of the two National Commissions and the number of cases resolved, as well as the development of a register of disappeared persons. Nevertheless, it regrets the limited progress made since the adoption of its concluding observations and the lack of information on the resources allocated to these bodies and of steps taken to ratify the International Convention for the Protection of All Persons from Enforced Disappearance. It reiterates its recommendation and requests further information on: (a) the budgets allocated to the two National Commissions during the reporting period; and (b) the implementation of the government programme for reparations for victims of serious human rights violations committed during the internal armed conflict"
+     },
+     {
+      "limb": "(b)",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "While noting the implementation of precautionary measures, the Committee regrets information about measures taken contrary to its recommendations, such as the dismissal of the Attorney General and judges of the Constitutional Chamber and the amendments made to the Judicial Service Act and the Organic Act on the Attorney General’s Office allowing for the removal of judges. It reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "22",
+    "title": "Extrajudicial executions, enforced disappearances and torture",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the implementation of the Territorial Control Plan and information on the framework on the use of force, the Committee regrets the lack of information on measures taken to strengthen the role of the National Civil Police and enable it to assume the law and order functions exercised by the Armed Forces. It reiterates its recommendation and requests further information on: (a) the budgets allocated to members of the military forces in comparison to the National Civil Police for the reporting period, as well as any impact the Territorial Control Plan has had on the budgets; (b) whether the Territorial Control Plan applies to both military forces and the National Civil Police ; and (c) cases of abuse of security functions during the reporting period, investigations conducted and their outcomes. The Committee notes the information on the specialized prosecution units investigating cases of extrajudicial execution. Nevertheless, it regrets the absence of any detailed information on these and other cases of arbitrary detention and enforced disappearance. It strongly reiterates its recommendation and requests statistics on complaints of extrajudicial execution, enforced disappearance and arbitrary detention, particularly complaints received after the imposition of the state of emergency on 27 March 2022, including information on investigations conducted and their outcomes, especially reparation provided to the victims. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2027 (country review in 2028, in accordance with the predictable review cycle). 5"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 2.8
+}

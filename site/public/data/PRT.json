@@ -1,0 +1,96 @@
+{
+ "a3": "PRT",
+ "name": "Portugal",
+ "num": 620,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/PRT/CO/5",
+   "co_session": null,
+   "co_date": "27 March 2020",
+   "fco_symbol": "CCPR/C/PRT/FCO/5",
+   "assessment_symbol": "CCPR/C/138/2/Add.3",
+   "assessment_session": 138,
+   "assessment_date": "26 June–26 July 2023",
+   "year": 2023,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 2,
+    "B": 2,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 4.2
+  },
+  "paragraphs": [
+   {
+    "para": "33",
+    "title": "Trafficking in persons",
+    "recommendation": "The State party should: (a) Ensure that cases of trafficking in persons are thoroughly investigated, that those responsible are prosecuted and, if found guilty, are sentenced appropriately, and that victims are provided with full reparation and appropriate protection and assistance; (b) Provide adequate training to judges, prosecutors, law enforcement officials, immigration officers and staff working in all reception facilities, including on procedures for identifying victims of trafficking in persons; (c) Ensure that victims of trafficking in persons have access to asylum procedures in which their potential needs can be determined",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the Prosecutor General’s issuance of Directive No. 1/2021 establishing operational instructions for prosecutors in order to, inter alia, improve interagency coordination during investigations, focus particular attention on trafficking cases involving child victims, and incorporate measures to prevent re-victimization. It also notes the steady increase of residence permits issued to victims of trafficking in persons. Nevertheless, the Committee regrets the decrease in 2020 in cases of confirmed victims and requests information on the total number of investigations that have been launched into suspected crimes of trafficking in persons and the results of the investigations, including the number of prosecutions and corresponding sanctions, and information on the full reparation provided to victims"
+     },
+     {
+      "limb": "(b)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the development of the protocol establishing procedures for the prevention, identification and protection of child victims of trafficking in persons and the information on the training programmes delivered by the Observatory on Trafficking in Human Beings. It takes note of the information on the specific training on trafficking in persons provided to Public Security Police officers, the training offered to professionals from the Immigration and Borders Services and in consular posts, as well as the workshops and elearning platforms made available to judges and prosecutors. The Committee requests specific information on the modules on trafficking in persons that are included in the mandatory training of judges and prosecutors, and additional data on the number of judges and prosecutors who have participated in workshops and e-learning platforms related to trafficking in persons"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of information on steps taken to ensure victims of trafficking in persons have access to asylum procedures in which their potential needs can be determined. It therefore reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "37",
+    "title": "Unaccompanied minors",
+    "recommendation": "The State party should ensure that children and unaccompanied minors are not detained, except as a measure of last resort and for the shortest appropriate period of time, taking into account their best interests as a primary consideration with regard to the duration and conditions of detention and their special need for care. It should ensure that the physical conditions in all immigration detention and reception centres are in conformity with international standards. It should also ensure that guarantees are in place to protect child asylum-seekers, in particular unaccompanied children, ensuring that they have access to adequate education, health, social and psychological services, and legal aid, and that they are provided with a legal representative and/or guardian without delay",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information on the measures in place to ensure unaccompanied minors are not detained. It also welcomes the establishment of a single system for persons seeking and benefiting from international protection and standard operating procedures to ensure an integrated and comprehensive approach that secures protection for children. The Committee requests information on steps taken during the reporting period to ensure that physical conditions in all immigration and reception centres are in conformity with international standards, including whether any mechanisms are in place to ensure adequate and independent monitoring of those centres"
+     }
+    ]
+   },
+   {
+    "para": "41",
+    "title": "Pretrial detention",
+    "recommendation": "Recalling its previous recommendations,1 the State party should take further steps to ensure that pretrial detention is used only as a measure of last resort and for the shortest possible time, in line with the provisions of the Covenant, and that it is reviewed on a regular basis. The State party should continue promoting non-custodial alternative measures and apply the measures in a systematic manner, and it should reduce the length of investigations and legal procedures to improve judicial efficiency",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the information on the hiring of new judges, prosecutors and inspectors, as well as the adoption and application of Act No. 9/2020 and the respective directives issued by the Prosecutor General mandating exceptional review of pretrial detention cases in the context of the COVID-19 pandemic. The Committee requests statistical 1"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2012,
+    "session": 114,
+    "co_symbol": "CCPR/C/PRT/CO/4",
+    "grades": "6 C · 21 CCC · 22 B"
+   }
+  ]
+ },
+ "combined_score": 4.2
+}

@@ -1,0 +1,83 @@
+{
+ "a3": "TUN",
+ "name": "Tunisia",
+ "num": 788,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/TUN/CO/6",
+   "co_session": null,
+   "co_date": "27 March 2020",
+   "fco_symbol": "CCPR/C/TUN/FCO/6",
+   "assessment_symbol": "CCPR/C/140/2/Add.3",
+   "assessment_session": 140,
+   "assessment_date": "4–28 March 2024",
+   "year": 2024,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 2,
+    "D": 0,
+    "E": 2
+   },
+   "score": 2.0
+  },
+  "paragraphs": [
+   {
+    "para": "8",
+    "title": "Constitutional Court",
+    "recommendation": "The State party should finalize the establishment of the Constitutional Court and make the necessary amendments to Organic Act No. 50 of 2015 in order to: (a) Ensure the diversity of the members of the Court, in particular through adequate representation of different political opinions, in order to guarantee its independence and impartiality, as well as its credibility in the eyes of the public; (b) Ensure that the members of the Court have the skills and knowledge necessary to enable them to exercise their functions effectively, individually and collectively, and better define the conditions for their removal; (c) Allow any individual to have access to the Court to raise issues concerning the constitutionality of laws in the event of a violation of his or her rights",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee remains concerned that the State party has yet to establish a Constitutional Court and that no timeline for its establishment has been set. The Committee notes with concern that article 125 of the new Constitution, adopted in 2022, weakens the independence of such a court by providing for the direct appointment of its members by presidential decree and reduces the diversity of its members. The Committee regrets the absence of information on measures taken to better define the conditions for removal of members of the Court or to allow any individual to have access to the Court to raise issues concerning the constitutionality of laws in the event of a violation of his or her rights. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "30",
+    "title": "State of emergency and counter-terrorism",
+    "recommendation": "The State party should: (a) Envisage ending the continuous extension of the state of emergency; (b) Accelerate the process of adopting a law that is in conformity with the provisions of article 4 of the Covenant and the Committee’s general comment No. 29 (2001) on derogations from the Covenant during states of emergency; (c) Ensure the rule of law and respect for non-derogable rights enshrined in the Covenant during states of emergency, in particular the right to due process of law; (d) Put an end to the misuse of house arrest, restrictions on freedom of movement and violations of the right to privacy",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a) and (b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party has not provided detailed information on the justification for the continuous extension of the state of emergency, in force since 2015, and reiterates its recommendation. The Committee regrets the absence of updated information on the adoption of a law that is in conformity with the provisions of article 4 of the Covenant and the Committee’s general comment No. 29 (2001) on derogations from the Covenant during states of emergency. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(c) and (d)",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "While taking note of the information provided on the availability and application of judicial review by the Administrative Court of decisions restricting freedom of movement under the S17 consultation procedure, the Committee is concerned at reports of arbitrary detention of political figures and dismissal of judges. The Committee reiterates its recommendation. The Committee is concerned at reports of the continued misuse of house arrest and regrets the absence of information from the State party in this regard and on violations of the right to privacy. It also notes that there continue to be cases of unwarranted restriction of freedom of movement under the S17 consultation procedure. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "48",
+    "title": "Freedom of peaceful assembly and excessive use of force by State agents",
+    "recommendation": "The State party should: (a) Ensure that legislative and regulatory provisions governing the use of force comply with the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials, that law enforcement officials apply non-violent measures before any use of force when conducting demonstration control operations and that law enforcement officials respect the principles of legality, necessity, proportionality and accountability; (b) Ensure that all allegations of excessive use of force and extrajudicial killings by State agents during demonstrations are investigated promptly, thoroughly and impartially, that those responsible are prosecuted and, if found guilty, are punished, and that the victims obtain redress",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the legislative and regulatory framework governing the use of force for the maintenance of law and order still does not fully conform to international standards, including with regard to the principles of legality, necessity, proportionality and accountability. The Committee reiterates its recommendation and requests further information on steps taken, including training and other measures, to ensure that law enforcement officials apply non-violent measures before using force to control or disperse demonstrations. The Committee regrets that the general nature of the information provided by the State party does not allow for a proper assessment of the implementation of the Committee’s recommendation. The Committee reiterates its recommendation and requests that the State party submit, in its next periodic report, detailed information on judicial and administrative complaints received, investigations undertaken and their outcomes, as well as information on redress provided to victims"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 2.0
+}

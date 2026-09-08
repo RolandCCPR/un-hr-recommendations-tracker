@@ -1,0 +1,93 @@
+{
+ "a3": "TUR",
+ "name": "Türkiye",
+ "num": 792,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/TUR/CO/1",
+   "co_session": null,
+   "co_date": "30 October 2012",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/112/2",
+   "assessment_session": 112,
+   "assessment_date": null,
+   "year": 2015,
+   "followup_paras": [
+    "10",
+    "13",
+    "23"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 3,
+    "D": 1,
+    "E": 1
+   },
+   "score": 2.4
+  },
+  "paragraphs": [
+   {
+    "para": "10",
+    "title": "Discrimination based on sexual orientation and gender identity",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The State party has not implemented the Committee’s recommendation. Additional information is required on: (a) Measures taken to state clearly and officially that the State does not tolerate any form of stigmatization of homosexuality, bisexuality or transsexuality or harassment of or discrimination or violence against persons because of their sexual orientation or gender identity; (b) The investigation and prosecution of potential discrimination or violence against lesbian, gay, bisexual, transgender and intersex persons in 2013 and 2014; (c) Awareness-raising activities conducted by the State party to promote tolerance and respect for diversity"
+     }
+    ]
+   },
+   {
+    "para": "13",
+    "title": "So-called honour killings",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "With regard to amendments to the Penal Code, the State party has repeated its original response and has not provided information on amendments to article 82 of the Penal Code. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "Information is required on the investigations and sanctions of “honour killings”. Please provide statistical data on the sentences imposed on perpetrators in the last three years, specifying if de facto reduction of sentences was applied"
+     },
+     {
+      "limb": "",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "No information was received on measures taken to disseminate information on the gravity of “honour killings”. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "23",
+    "title": "Freedom of expression and the press",
+    "recommendation": "",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The State party’s reply indicates that there are no plans to introduce a civilian alternative to compulsory military service. The Committee’s recommendation has not been implemented and the Committee reiterates its recommendation"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 2.4
+}

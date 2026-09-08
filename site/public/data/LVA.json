@@ -1,0 +1,108 @@
+{
+ "a3": "LVA",
+ "name": "Latvia",
+ "num": 428,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/LVA/CO/3",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/117/2",
+   "assessment_session": 117,
+   "assessment_date": null,
+   "year": 2016,
+   "followup_paras": [
+    "15",
+    "19",
+    "20"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 7,
+   "grade_dist": {
+    "A": 0,
+    "B": 6,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.86
+  },
+  "paragraphs": [
+   {
+    "para": "15",
+    "title": "Conditions of detention",
+    "recommendation": "The State party should: (a) Guarantee safeguards to inmates in accordance with article 10 of the Covenant; (b) Take additional steps to improve material conditions, including space, in police, remand and prison facilities; (c) Provide adequate numbers of supervisory staff to prevent violence among prisoners. Latvia",
+    "header_grades": [
+     "B",
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee takes note of information provided by the State party, including on Regulation No. 283, adopted in June 2015, aimed at reducing the use of restraints. However, it requests data on the frequency of cases in which restraints are used and the criteria applied. It also requests clarification regarding the measures taken since the adoption of its concluding observations, in March 2014, to guarantee safeguards to inmates, in accordance with article 10 of the Covenant"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided by the State party regarding renovation of police and youth detention facilities and prisons. It requests specific information on the measures taken, following the adoption of the concluding observations, to improve space and material facilities, including the nature of the renovations and the number of detention spaces affected"
+     },
+     {
+      "limb": "(c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the absence of information on measures taken to increase the number of supervisory staff and requests that such information be provided"
+     }
+    ]
+   },
+   {
+    "para": "19",
+    "title": "Racially motivated crime and hate speech",
+    "recommendation": "The State party should: (a) Strengthen its strategies to fight against racially motivated crimes and counter the use of racist discourse in politics and in the media; (b) Implement criminal law provisions aimed at combating racially motivated crimes, punish perpetrators with appropriate penalties and facilitate the reporting procedure for hate crimes; (c) Define incitement to violence on grounds of sexual orientation or gender identity as a criminal offence",
+    "header_grades": [
+     "B",
+     "B",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the legislative amendments and development of strategies to combat racially motivated crimes. It requests, however, information on the impact of those measures and on measures taken to counter the use of racist discourse in politics"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the information provided by the State party on the implementation of article 78 of the Criminal Law, but requests additional statistical data on the number of complaints of racially motivated crimes, prosecutions, sentences and reparations granted since the adoption of the concluding observations, as well as information about the motives of such crimes and the measures taken to facilitate reporting of such crimes"
+     },
+     {
+      "limb": "(c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While the Committee welcomes the amendment of article 150 of the Criminal Law, it regrets that the State party has not explicitly defined incitement to violence on grounds of sexual orientation or gender identity as a criminal offence. It requests information on the application of article 150 to crimes committed on the grounds of sexual orientation and gender identity, and reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "20",
+    "title": "Minority-language education",
+    "recommendation": "The State party should intensify measures to prevent the negative effects on minorities of the transition to Latvian as the language of instruction and, in particular, to remedy the lack of textbooks in some subjects and the poor quality of materials and training in the Latvian language for non-Latvian teachers. The State party should also take additional steps to support the teaching of minority languages and cultures in minority schools. Latvia",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.86
+}

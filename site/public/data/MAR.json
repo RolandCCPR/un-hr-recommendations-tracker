@@ -1,0 +1,94 @@
+{
+ "a3": "MAR",
+ "name": "Morocco",
+ "num": 504,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MAR/CO/6",
+   "co_session": null,
+   "co_date": "2 November 2016",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/127/2/Add.4",
+   "assessment_session": 127,
+   "assessment_date": "14 October–8 November 2019",
+   "year": 2019,
+   "followup_paras": [
+    "18",
+    "24",
+    "42"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 1,
+    "B": 0,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "18",
+    "title": "Counter-terrorism",
+    "recommendation": "The State party should revise the provisions in its Criminal Code on terrorism and define terrorism-related offences on the basis of their objective but should also define the nature of such acts precisely and ensure that this legislation does not unjustifiably restrict the exercise of Covenant rights. The State party should also reduce the initial maximum allowable duration of police custody to 48 hours for terrorism-related as well as other offences and provide access to a lawyer from the time that a person is taken into custody",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee notes the information provided on the criminalization of specific acts, but regrets that no information was provided on the revision of existing counter-terrorism provisions and on the measures taken to prevent disproportionate restrictions of the rights enshrined in the Covenant. The Committee reiterates its recommendations. The Committee regrets that the State party reiterated the information provided in its sixth periodic report regarding the duration of police custody. The Committee reiterates its recommendations. The Committee regrets that the State party reiterated information provided in its replies to the list of issues regarding access to a lawyer. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "24",
+    "title": "Prohibition of torture and ill-treatment",
+    "recommendation": "The State party should: (a) adopt robust measures to eradicate torture and cruel, inhuman or degrading treatment, to investigate such acts and to prosecute and punish the perpetrators; (b) ensure that medical examinations are performed without delay whenever torture or ill-treatment is alleged to have occurred; (c) ensure that the prohibition on the extraction of confessions under duress is observed in practice and that evidence obtained under torture is not admitted in court; (d) offer effective remedies to victims and guarantee them reparation; and (e) expedite the process of adopting a law establishing a national preventive mechanism",
+    "header_grades": [
+     "C",
+     "A"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party reiterated information provided in its sixth periodic report and in its replies to the list of issues regarding the training and awareness-raising carried out by the Directorate-General of National Security. The Committee notes the information on the measures taken by the Royal Gendarmerie but requires information on when those measures were taken. The Committee regrets that no information was provided on the measures taken to ensure the investigation and prosecution of acts of torture. The Committee requires information on a timeline for the adoption of the draft revised Criminal Code, which includes a definition of torture. The Committee reiterates its recommendations. The Committee regrets that the State party reiterated information provided in its replies to the list of issues regarding the draft revised Code of Criminal Procedure and again, requires information on a timeline for its adoption. The Committee notes the adoption of the bill on the regulation of forensic medicine, but regrets the lack of information on the content of the bill. The Committee reiterates its recommendations. The Committee regrets that the State party reiterated information provided in its sixth periodic report and in its replies to the list of issues regarding the prohibition of the extraction of confessions under duress and the inadmissibility of such evidence in court. The Committee reiterates its recommendations. The Committee regrets that no information was provided on remedies and reparation for acts of torture or ill-treatment. The Committee reiterates its recommendations"
+     },
+     {
+      "limb": "(e)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the adoption of the law on the national mechanism for the prevention of torture"
+     }
+    ]
+   },
+   {
+    "para": "42",
+    "title": "Freedom of association and the activities of human rights defenders",
+    "recommendation": "The State party should, as a matter of urgency, take all necessary steps to put an end to violations of the right to freedom of association and any practices that place restrictions on that right which go beyond the strictly defined limitations set forth in article 22 (2) of the Covenant. It should ensure that it does not exert any undue influence over human rights defenders and that they are free to work without fear of reprisals or unjustified restrictions on their activities",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party reiterated information provided in its sixth periodic report regarding the dissolution of associations and the declaratory regime for associations. The Committee notes the information on the elaboration of the code on associations, and requires information on the content and the timeline for its adoption. It reiterates its recommendations. The Committee notes the information provided by the State party, but regrets the lack of information provided on measures taken since the adoption of the concluding observations to ensure that the State party does not exert any undue influence over human rights defenders and that they are free to work without fear of reprisals or unjustified restrictions on their activities. The Committee reiterates its recommendations. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. 4"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.5
+}

@@ -1,0 +1,94 @@
+{
+ "a3": "SVN",
+ "name": "Slovenia",
+ "num": 705,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/SVN/CO/3",
+   "co_session": null,
+   "co_date": "24 March 2016",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/128/3/Add.2",
+   "assessment_session": 128,
+   "assessment_date": "2–27 March 2020",
+   "year": 2020,
+   "followup_paras": [
+    "8",
+    "16",
+    "20"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 1,
+    "B": 0,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "8",
+    "title": "Racism and xenophobia, including hate speech",
+    "recommendation": "The State party should strengthen its efforts to prevent and eradicate all forms of racism and xenophobia, including by: (a) Establishing an independent and effective body to respond to cases of discrimination and reforming the Advocate of the Principle of Equality to this end; (b) Adopting a clear strategy on the prevention and elimination of discrimination, in consultation with civil society representatives; (c) Ensuring that there is an easily accessible system of transparent and effective legal remedies for victims of discrimination and improving the reporting of and legal responses to cases of racial discrimination, including the prosecution of those involved in serious cases of hate speech amounting to incitement to hostility or violence; (d) Condemning racial discrimination and conducting campaigns aimed at promoting respect for human rights and tolerance for diversity and at raising awareness of the fact that hate speech is prohibited under law. * Adopted by the Committee at its 128th session (2–27 March 2020). 1 See https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=INT %2fCCPR%2fNGS%2fSVN%2f40941&Lang=en. ",
+    "header_grades": [
+     "A",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the adoption of the Protection against Discrimination Act and the establishment of the Advocate of the Principle of Equality"
+     },
+     {
+      "limb": "(b), (c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that no information was provided about whether a strategy on the prevention and elimination of discrimination had been adopted. The Committee reiterates its recommendations. It regrets that no information was provided on the measures taken since the adoption of the concluding observations to ensure that there is an easily accessible system of legal remedies or to improve the reporting of and legal responses to cases of racial discrimination. The Committee reiterates its recommendations. The Committee notes the amendment of the Media Act, but regrets the lack of information provided on the measures taken since the adoption of the concluding observations. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "16",
+    "title": "Asylum seekers, migrants and refugees",
+    "recommendation": "The State party should: (a) Ensure that any response to the influx of asylum seekers and migrants is in line with its obligations under the Covenant, and regularly review the necessity and proportionality of the measures adopted; (b) Take effective steps to allow persons in need of international protection access to the relevant procedures for international protection, and ensure that any measures taken by the State party, including in relation to bilateral and regional agreements, do not discriminate on the basis of country of origin, arrival or transit; (c) Ensure that the procedure for international protection allows for an individual assessment based on the circumstances of each case by trained professionals with legal expertise; (d) Ensure that legal representation of adequate quality is systematically made accessible throughout the entire procedure for requesting international protection; (e) Ensure full respect of the principle of non-refoulement; (f) Consider steps to facilitate the process of family reunification for beneficiaries of international protection",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c), (d), (e) and (f)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets to observe that no information has been provided on measures taken to ensure that any response to the migration situation is in compliance with the Covenant. The Committee reiterates its recommendations. The Committee regrets the lack of information provided on steps taken since the adoption of the concluding observations to allow access to relevant procedures for international protection and to ensure that any measures taken do not discriminate on the basis of country of origin, arrival or transit. It requires information on the details received regarding the practice of collective expulsions. The Committee reiterates its recommendations. The Committee regrets the lack of information provided on the measures taken since the adoption of the concluding observations to ensure that the procedure for international protection is carried out by trained professionals and allows for individual assessments. The Committee reiterates its recommendations. The Committee regrets to observe that the State has reiterated the information that it provided in its replies to the list of issues on legal representation throughout the procedure for requesting international protection. The Committee reiterates its recommendations. The Committee regrets the lack of information provided on the measures taken since the adoption of the concluding observations to ensure full respect of the principle of nonrefoulement. It requires information on the details received about the “informal returns” of foreign nationals who are caught entering irregularly, under the bilateral readmission agreement between and Croatia, with no procedural safeguards against refoulement. The Committee reiterates its recommendations. The Committee regrets the lack of information provided on the measures taken since the adoption of the concluding observations to facilitate the process of family reunification for beneficiaries of international protection. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "20",
+    "title": "Persons in vulnerable situations in the migration flow",
+    "recommendation": "The State party should establish a uniform and formal mechanism to identify persons in vulnerable situations in the migration flow, including unaccompanied minors and victims of sexual and gender-based violence and trafficking, as well as a common referral mechanism to ensure their protection and rehabilitation. It should also ensure that law enforcement officials and other relevant professionals are fully trained in the appropriate standards and procedures to effectively identify and assist victims. It should further ensure that victims of trafficking are provided adequate assistance regardless of whether they cooperate with law enforcement authorities in investigations and criminal proceedings",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the Government’s decision to provide suitable accommodation for unaccompanied minors, but notes the information received that families with children and some unaccompanied minors are detained in the Postojna Centre for Foreigners, which is a closed facility. It regrets the lack of information provided on the measures taken since the adoption of the concluding observations to establish a mechanism to identify vulnerable persons and a referral mechanism to ensure their protection and rehabilitation. It further regrets to observe that information has not been provided on measures taken to ensure the training of law enforcement officials and to provide adequate assistance to victims of trafficking. The Committee reiterates its recommendations. Recommended action: A letter should be sent to inform the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. 5"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.5
+}

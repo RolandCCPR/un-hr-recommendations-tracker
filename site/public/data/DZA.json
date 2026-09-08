@@ -1,0 +1,101 @@
+{
+ "a3": "DZA",
+ "name": "Algeria",
+ "num": 12,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/DZA/CO/4",
+   "co_session": 123,
+   "co_date": "20 July 2018",
+   "fco_symbol": "CCPR/C/DZA/FCO/4",
+   "assessment_symbol": "CCPR/C/136/2/Add.1",
+   "assessment_session": 136,
+   "assessment_date": "10 October–4 November 2022",
+   "year": 2022,
+   "followup_paras": [
+    "30",
+    "38",
+    "46"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 5,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 2,
+    "D": 2,
+    "E": 1
+   },
+   "score": 2.2
+  },
+  "paragraphs": [
+   {
+    "para": "30",
+    "title": "Enforced disappearance",
+    "recommendation": "The State party should take all necessary action to (a) ensure that disappeared persons and their families have access to an effective remedy, including for those families who have declared – for purposes of being able to receive compensation – that their disappeared family member was dead; (b) ensure that thorough and independent investigations are launched into all allegations of enforced disappearance; (c) guarantee access to the truth for families of victims, such as by arranging for the exhumation of unmarked graves and mass graves and by having remains identified through scientific means, such as DNA testing; (d) guarantee the right to comprehensive reparation for all victims; (e) put in place guarantees to prevent enforced disappearance from reoccurring; and (f) implement the relevant Views adopted by the Committee under the Optional Protocol, provide any information that may be useful in resolving the cases pending before the Working Group on Enforced or Involuntary Disappearances and organize as promptly as possible the country visit referred to in the invitation extended in December 2013 by the State party to the Working Group. The State party should also take all necessary action to ratify the International Convention for the Protection of All Persons from Enforced Disappearance, which it signed in 2007. * Adopted by the Committee at its 136th session (10 October–4 November 2022). 051222",
+    "header_grades": [
+     "E"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "While taking note of the information provided, the Committee notes that the State party has repeated information and replies it had already submitted prior to the Committee’s adoption of its concluding observations, and which thus formed the basis of its specific and detailed recommendation. It therefore finds that the information reflects the State party’s rejection of its recommendation. The Committee strongly reiterates its recommendation and requests further information on allegations of intimidation of and threats against relatives of the disappeared and on activists advocating for the rights of the disappeared and their relatives"
+     }
+    ]
+   },
+   {
+    "para": "38",
+    "title": "Refugees, asylum-seekers and migrants",
+    "recommendation": "The State party should take the necessary steps to promptly adopt asylum legislation that is consistent with the Covenant and international standards and provides protection to asylum-seekers and refugees, in particular with regard to procedures for entering the country, requesting asylum and lodging appeals. It should also (a) refrain from conducting mass arrests of migrants and asylum-seekers; (b) refrain from subjecting migrants and asylum-seekers to arbitrary detention and ensure that they have access to counsel and to information about their rights; (c) refrain from conducting, under any circumstances whatsoever, collective expulsions of migrants and asylum-seekers, a fortiori in inhumane and degrading conditions; and (d) arrange for training programmes on the Covenant, international asylum and refugee standards and human rights standards to be organized for immigration and border control officials. 1 CCPR/C/DZA/4. 2 CCPR/C/DZA/Q/4/Add.1. 3 See CCPR/C/SR.3494 and CCPR/C/SR.3495",
+    "header_grades": [
+     "C",
+     "D"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the information on the drafting of asylum legislation, the Committee regrets the lack of progress since the adoption of the concluding observations. While taking note of the information provided, the Committee regrets the lack of specific information on measures taken to refrain from conducting mass arrests of migrants and asylum-seekers. It reiterates its recommendation and requests further information on steps taken to address the increased number of arrests of migrants and the reported racial profiling by the police. While taking note of the information on the safeguards stipulated in Act No. 08-11 and the State party’s cooperation with IOM, the Committee regrets the lack of specific information on the measures taken since the adoption of the concluding observations to refrain from subjecting migrants and asylum-seekers to arbitrary detention and to ensure their access to counsel, and about their rights. It reiterates its recommendation and requests further information on the number of detained migrants, including asylum-seekers, the duration of such detention and steps taken to reduce both the number and the duration. The Committee regrets the lack of specific information on steps taken since the adoption of the concluding observations to refrain from conducting collective expulsions of migrants. It reiterates its recommendation and requests further detailed information on appeals procedures and migrants’ access to lawyers and interpreters in cases of collective expulsions"
+     },
+     {
+      "limb": "(d)",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "The Committee regrets the absence of information on the training available for immigration and border control officials and reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "46",
+    "title": "Right to peaceful assembly",
+    "recommendation": "The State party should: (a) Amend Act No. 91-19 of 2 December 1991 to remove all restrictions on peaceful demonstrations that are not absolutely necessary or proportionate in terms of the provisions of article 21 of the Covenant, and institute a simplified advance authorization arrangement for public demonstrations; (b) Repeal the unpublished decree of 18 June 2001; (c) Guarantee that demonstrators and meeting organizers are not prosecuted for exercising their right of assembly; (d) Take effective measures to ensure that law enforcement personnel do not use excessive force during crowd dispersal operations",
+    "header_grades": [
+     "C",
+     "D"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While taking note of the information on the 2020 Constitution and the ongoing legislative process of amending relevant domestic legislation, the Committee regrets that Act No. 91-19 has not yet been amended. It reiterates its recommendation and requests further information on reports of: (a) the continued requirement for prior authorization under Act No. 91-19; and (b) undue obstruction by the police of peaceful assemblies, including the Hirak movement. While taking note of the information provided, the Committee regrets the lack of specific information on steps taken to ensure that demonstrators and meeting organizers are not prosecuted for exercising their right of assembly. It reiterates its recommendation and requests further information on: (a) alleged arrests and prosecution of Hirak protestors, human rights defenders and journalists covering the movement, as well as meeting organizers, including members of Youth Action Rally, Rally for Culture and Democracy and Democratic and Social Movement; and (b) the compatibility with the Covenant of Ordinance No. 21-08. While taking note of the information provided, the Committee regrets the lack of specific information on measures taken to prohibit the use by the police of excessive force in dispersing crowds. It reiterates its recommendation and requests further information on the aforementioned allegations of beatings and the use of bullets and tear gas against demonstrators, human rights defenders and journalists in the context of peaceful assemblies, and on any investigations conducted into these cases"
+     },
+     {
+      "limb": "(b)",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "The Committee regrets the lack of information on the unpublished decree of 18 June 2001 and reiterates its recommendation"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 2.2
+}

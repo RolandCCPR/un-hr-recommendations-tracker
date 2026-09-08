@@ -1,0 +1,115 @@
+{
+ "a3": "LIE",
+ "name": "Liechtenstein",
+ "num": 438,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/LIE/CO/2",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/132/2/Add.2",
+   "assessment_session": 132,
+   "assessment_date": "28 June–23 July 2021",
+   "year": 2021,
+   "followup_paras": [
+    "12",
+    "22",
+    "30"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 7,
+   "grade_dist": {
+    "A": 1,
+    "B": 3,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.71
+  },
+  "paragraphs": [
+   {
+    "para": "12",
+    "title": "Anti-discrimination legislation",
+    "recommendation": "The State party should take all the measures necessary to ensure that its legal framework: (a) comprehensively prohibits all discrimination, including multiple discrimination; and (b) provides for effective remedies in cases of violation. The State party should also provide for training of judges, prosecutors and lawyers in relation to articles 33 (5) and 283 of the Criminal Code and raise awareness of these provisions with the public",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information regarding protection from discrimination provided under the State party’s existing legal framework. Nevertheless, the Committee regrets that the State party has not taken specific measures to ensure that its legal framework comprehensively prohibits all discrimination, including multiple discrimination, and * Adopted by the Committee at its 132nd session (28 June–23 July 2021). provides for effective remedies in cases of violation. The Committee reiterates its recommendations"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee also takes note of the State party’s efforts to train law enforcement officers, prosecutors and judges on the revised version of article 283 of the Criminal Code. The Committee requests specific details of this training session, including whether it covered article 33 (5) of the Criminal Code, the number and nature of all awareness-raising and training activities, when they took place, the number of participants and their substantive impact. It also requests information on any measures taken to raise the public’s awareness of articles 33 (5) and 283 of the Criminal Code"
+     }
+    ]
+   },
+   {
+    "para": "22",
+    "title": "Sexual and reproductive rights",
+    "recommendation": "The State party should: (a) Amend its legislation on abortion with a view to providing for additional exceptions to the legal ban on abortion, including cases of fatal fetal impairment, in order to ensure that the life and health of women are adequately protected; (b) Ensure access to clear information on options for voluntary pregnancy termination",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party does not intend to take any action with regard to its recommendation to amend its legislation on abortion with a view to providing for additional exceptions to the legal ban on abortion, including cases of fatal fetal impairment. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes that the State party has reiterated information provided in its second periodic report 1 regarding access to clear information on options for voluntary termination of pregnancy and regrets the lack of more specific information on measures taken since the adoption of the concluding observations. The Committee also takes note that the number of people using the competence centre’s services is consistently increasing and that in 2017, it provided advice to 113 persons in the State party. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "30",
+    "title": "Prohibition of torture",
+    "recommendation": "The State party should: (a) Begin the consultation and decision-making processes for revision of the Criminal Code; (b) Enact a prohibition on torture that is compliant with article 7 of the Covenant and with internationally recognized standards, including the removal of any statute of limitations on the prosecution of such crimes; 1 CCPR/C/LIE/2. (c) Ensure that there exists an independent mechanism within the normal legal system, but separate from the police, to investigate all allegations of torture and ill-treatment; (d) Ensure that the law adequately provides for the prosecution and conviction of perpetrators and accomplices of such acts before ordinary criminal courts, in accordance with the gravity of the acts, as well as for remedies for victims and their families, including rehabilitation and compensation",
+    "header_grades": [
+     "A",
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "eval": "The Committee welcomes the fact that the State party has held a public consultation on the revision of the Criminal Code and plans to propose legislation based on the consultation. It requests updated information on that process"
+     },
+     {
+      "limb": "(b)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee also welcomes the fact that the State party plans to enact a prohibition on torture that is compliant with article 7 of the Covenant. The Committee requests updated information on progress made on the revision to the Criminal Code, including if and when the definition of torture was revised, the exact text of that revision and how the new definition complies with article 7 of the Covenant. The Committee regrets the lack of information about the removal of any statute of limitations on the prosecution of crimes involving torture and reiterates its recommendation in this regard"
+     },
+     {
+      "limb": "(c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party does not intend to ensure the existence of an independent mechanism to investigate allegations of torture and ill-treatment and reiterates its recommendation. The Committee takes note of the State party’s existing legal provisions regarding acts of torture and remedies for victims of torture and their families. The Committee requires information on measures taken since the adoption of its concluding observations to comply with its recommendations and requests that the State party demonstrate the adequacy of the existing legal provisions. It requests data on the number of investigations, prosecutions and convictions there have been in cases of torture within the reporting period, as well as details of the sanctions imposed. The Committee also requests more specific details on the remedies provided to victims and their families during the reporting period, including the number of cases covered by the Victims’ Assistance Act and the precise nature and scope of the remedies provided in each case"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.71
+}

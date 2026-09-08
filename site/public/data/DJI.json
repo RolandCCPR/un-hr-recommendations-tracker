@@ -1,0 +1,68 @@
+{
+ "a3": "DJI",
+ "name": "Djibouti",
+ "num": 262,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/DJI/CO/1",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/116/2",
+   "assessment_session": 116,
+   "assessment_date": "7-31 March 2016",
+   "year": 2016,
+   "followup_paras": [],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 2,
+    "D": 1,
+    "E": 0
+   },
+   "score": 2.67
+  },
+  "paragraphs": [
+   {
+    "para": "12",
+    "title": "Freedom of expression, association and assembly",
+    "recommendation": "The State party should: (a) Take appropriate measures to guarantee in law and in practice, and to create an environment conducive to, the exercise of the rights to freedom of expression, peaceful association and assembly; (b) Revise its legislation to ensure that any restriction on press and media activities is in strict compliance with article 19, paragraph 3, of the Covenant. In particular, it should review the registration requirements for newspapers and abolish prison terms for defamation and similar media offences. It should expedite the functioning of the National Communication Commission and take all abovementioned measures in line with article 19, paragraph 3, as further explained in the Committee’s general comment No. 34 (2011) on freedoms of opinion and expression; (c) Release, rehabilitate and provide adequate judicial redress and compensation for journalists imprisoned in contravention of article 19 of the Covenant; (d) Give space to civil society organizations to promote their activities, and prosecute those who threaten, harass or intimidate such organizations and human rights defenders and journalists. Follow-up question [D1]: The State party has provided no new information, has not responded to most of the Committee’s recommendations and has not taken measures to implement the recommendations. The Committee reiterates its recommendations",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "(a)",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "The State party has not provided new information as regards the recommendations contained in paragraph 12 (a) of the concluding observations. The Committee reiterates those recommendations"
+     },
+     {
+      "limb": "(b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The State party takes note of the reform initiatives described by the State party, but requires clarification on whether such reforms will ensure compliance with the Committee’s recommendations contained in paragraph 12 (b) of the concluding observations"
+     },
+     {
+      "limb": "(c) and (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The State party has not provided new information as regards the recommendations contained in paragraph 12 (c) and (d) of the concluding observations. The Committee reiterates those recommendations. Djibouti"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2013,
+    "session": 114,
+    "co_symbol": "CCPR/C/DJI/CO/1",
+    "grades": "10 D · 11 CDB · 12 D"
+   }
+  ]
+ },
+ "combined_score": 2.67
+}

@@ -1,0 +1,101 @@
+{
+ "a3": "SRB",
+ "name": "Serbia",
+ "num": 688,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/SRB/CO/3",
+   "co_session": null,
+   "co_date": "23 March 2017",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/130/2/Add.4",
+   "assessment_session": 130,
+   "assessment_date": "12 October–6 November 2020",
+   "year": 2020,
+   "followup_paras": [
+    "15",
+    "33",
+    "39"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 3,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.25
+  },
+  "paragraphs": [
+   {
+    "para": "15",
+    "title": "Roma exclusion",
+    "recommendation": "The State party should increase its efforts: (a) To promote non-discriminatory access to opportunities and services in all fields for members of the Roma community; (b) To facilitate and enable registration of children born to parents without identification documents and allow internally displaced Roma who live in informal settlements to register their place of residence and to acquire identification documents, including by reviewing the law on permanent and temporary residence; (c) To work with internally displaced Roma communities to develop durable solutions that are suitable to them, including their local integration into Serbian society; (d) To take all steps necessary to implement the strategy for the social inclusion of Roma",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided on education, social welfare, housing, employment and health care. It requests information on (i) the forthcoming amendments to the anti-discrimination law in and its impact on the Roma community; (ii) the amendments to the Law on Financial Support to Families with Children, particularly articles 22 (8) and 25 (1), and its impact on the Roma community; (iii) the draft amendments to the Law on Social Protection and its impact on the Roma community; (iv) the impact of the scholarships awarded by the Roma Education Fund and the number of scholarships awarded in 2018/19 and 2019/20; (v) the measures taken in the framework of the Inclusive Preschool Education project and its impact; (vi) the impact of the projects established by the Ministry of Finance and the Commissariat for Refugees and Migration; and (vii) the results of the analysis of the institutional framework of the work of health-care mediators initiated in cooperation with UNICEF. The Committee also takes note of the information provided by the State party, but requires information on measures taken, since the adoption by the Committee of its concluding observations, to comply with the Committee’s recommendation. It requests information on (i) the “Baby, welcome to the world” project and its impact; (ii) the number of registrations by the Ministry of the Interior, since the adoption by the Committee of its concluding observations, of Roma citizens and of persons living in informal settlements; and (iii) the use of the accelerated procedure provided for by the Law on Citizenship of to introduce parents and children into official records. The Committee further takes note of the information provided by the State party, but requires information on measures taken, since the adoption by the Committee of its concluding observations, to comply with the Committee’s recommendation. It requests information on (i) how the financial support of the European Union provided in 2016 was used to improve the situation of the Roma; (ii) the programmes financed by UNHCR funds and those of other donors to provide houses for refugees and internally displaced persons; and (iii) the funding of RSD 300 million envisaged for 2018 to improve the living conditions of internally displaced persons"
+     },
+     {
+      "limb": "(d)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the adoption of the action plan for the implementation of the Strategy for the Social Inclusion of Roma for the period 2017–2018. It requests updated information on its implementation and impact"
+     }
+    ]
+   },
+   {
+    "para": "33",
+    "title": "Refugees and asylum seekers",
+    "recommendation": "The State party should strictly respect its national and international obligations by: (a) Ensuring that access to formal procedures for asylum applications is available at all border points, notably in international airports and transit zones, and that all persons engaging directly with refugees or migrants are appropriately trained; (b) Ensuring that all asylum applications are assessed promptly on an individual basis with full respect for the principle of non-refoulement and that decisions of denial can be challenged through suspensive proceedings; (c) Refraining from collective expulsion of aliens and ensuring an objective assessment of the level of protection when expelling aliens to “safe third countries”; (d) Ensuring adequate conditions both inside and outside reception centres for all refugees and asylum seekers; and (e) Ensuring that appropriate protocols are in place for identifying the age of unaccompanied minors and ensuring that they receive appropriate guardianship and treatment that takes into account the principle of the best interests of the child",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c), (d) and (e)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party, but regrets the lack of information on measures taken, since the adoption by the Committee of its concluding observations, to comply with the Committee’s recommendations. The Committee reiterates its recommendation. The Committee regrets the lack of information on measures taken, since the adoption by the Committee of its recommendation, to ensure that all asylum applications are assessed promptly on an individual basis with full respect for the principle of non-refoulement and that decisions to deny asylum can be challenged through suspensive proceedings. It reiterates its recommendation. The Committee regrets the lack of information on measures taken, since the adoption by the Committee of its recommendation, to refrain from the collective expulsion of aliens and to ensure an objective assessment of the level of protection when expelling aliens to “safe third countries”. It reiterates its recommendation. The Committee takes note of the information provided by the State party, but regrets the lack of specific information on measures taken since the adoption by the Committee of its concluding observations. It requests information on the measures taken with the support of the European Commission and information on when they were taken. It reiterates its recommendation. The Committee regrets the lack of information on measures taken to ensure that appropriate protocols are in place to establish the age of unaccompanied minors, and that minors receive appropriate guardianship and treatment that takes into account the principle of the best interests of the child. It reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "39",
+    "title": "Freedom of expression",
+    "recommendation": "The State party should: (a) Take immediate steps to provide effective protection to media workers from all forms of intimidation and ensure that all cases are duly investigated and perpetrators of those acts of intimidation prosecuted and appropriately sanctioned; (b) Refrain from prosecuting journalists, human rights defenders and other members of civil society as a means of deterring or discouraging them from freely expressing their opinions; (c) Take steps to ensure the transparency of media ownership and that private media outlets are free and independent, in conformity with the Committee’s general comment No. 34 (2011) on the freedoms of opinion and expression; and (d) Review the application of the Public Assembly Act of 26 January 2016 so as to ensure its compatibility with the Covenant",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b), (c), (d)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party, but regrets the lack of specific information on measures taken since the adoption by the Committee of its concluding observations to implement the Committee’s recommendation. The Committee requests information on (a) the number of investigations conducted, prosecutions concluded and sanctions issued since the adoption by the Committee of its concluding observations; (b) the reason for the small number of sanctions imposed in 2016 and 2017; (c) the agreement on cooperation and measures to strengthen safety of journalists, signed in December 2016, and its impact; and (d) the result of the analysis, conducted upon request by the Ministry of Justice in 2017, of relevant provisions of the Criminal Code to better protect journalists. The Committee also takes note of the information provided, but regrets the lack of information on measures taken, since the adoption by the Committee of its recommendation, to refrain from prosecuting journalists, human rights defenders and other members of civil society as a means of deterring or discouraging them from freely expressing their opinions. The Committee further takes note of the information provided by the State party, but regrets the lack of information on measures taken, since the adoption by the Committee of its concluding observations, to ensure the transparency of media ownership and that private media outlets are free and independent. The Committee requests information on the results of the survey conducted in 2017 by the Ministry of Culture and Information on the implementation of the Law on Public Information and the Media and measure taken thereon. The Committee regrets the lack of detailed information on measures taken to review the application of the Public Assembly Act of 26 January 2016 so as to ensure its compatibility with the Covenant. It reiterates its recommendation. Recommended action: A letter should be sent to the State party informing it of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 29 March 2021. 7"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2011,
+    "session": 113,
+    "co_symbol": "CCPR/C/SRB/CO/2",
+    "grades": "12 B · 17 B · 22 B"
+   }
+  ]
+ },
+ "combined_score": 3.25
+}

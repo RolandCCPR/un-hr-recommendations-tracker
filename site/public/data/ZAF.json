@@ -1,0 +1,94 @@
+{
+ "a3": "ZAF",
+ "name": "South Africa",
+ "num": 710,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/ZAF/CO/1",
+   "co_session": null,
+   "co_date": "23 March 2016",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/125/2/Add.2",
+   "assessment_session": 125,
+   "assessment_date": "4–29 March 2019",
+   "year": 2019,
+   "followup_paras": [
+    "13",
+    "15",
+    "31"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 3,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.75
+  },
+  "paragraphs": [
+   {
+    "para": "13",
+    "title": "Truth and Reconciliation Commission",
+    "recommendation": "The State party should increase its efforts to implement the recommendations of the Truth and Reconciliation Commission, investigate cases of serious human rights violations documented by the Commission, including those involving enforced disappearance, prosecute and punish perpetrators, and provide adequate reparation to all victims",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee appreciates the information provided but requires additional information on measures taken since the adoption of the concluding observations to fully implement the recommendations of the Truth and Reconciliation Commission, including: (a) updated information on the number of identified victims who received reparation; (b) progress made in investigating the documented serious human rights violations and in prosecuting and punishing perpetrators, including information on: (i) the number and status of investigations conducted by the Missing Persons Task Team and by the Priority Crimes Litigation Unit; (ii) the outcome of the trial that was ongoing in March 2016; (iii) the response to the National Prosecuting Authority recommendation to reopen the two inquests mentioned above; and (iv) efforts to address the investigation challenges faced by the Priority Crimes Litigation Unit and to mitigate their adverse impact on securing justice for victims"
+     }
+    ]
+   },
+   {
+    "para": "15",
+    "title": "Racism and xenophobia",
+    "recommendation": "The State party should redouble its efforts to prevent and eradicate all manifestations of racism and xenophobia, protect all communities in against racist and xenophobic attacks, and improve policing responses to violence against non-nationals. Effective investigations into alleged racist and xenophobic attacks and other hate crimes should be conducted systematically, perpetrators should be prosecuted and, if convicted, punished with appropriate sanctions, and victims should be provided with adequate remedies. The State party should also pass appropriate legislation explicitly prohibiting hate crimes and hate speech as soon as possible",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the work on a bill on prevention and combating hate crime and hate speech that would create the offences of hate crime and hate speech and would, inter alia, provide for harsher sentences, and welcomes the holding of public consultations on the draft legislation. It requires information on the status and content of the latest version of the bill, the timeline for adoption, and whether the bill complies fully with the Covenant"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information on the number of cases registered with the Equality Court and the limited information on cases for which it has handed down decisions, the Committee regrets the paucity of specific information on measures aimed at preventing and eradicating all manifestations of racism and xenophobia taken following the adoption of the concluding observations and on investigations into alleged racist and xenophobic attacks and other hate crimes, the prosecution and conviction of perpetrators, and remedies for victims. The Committee reiterates its recommendations in that respect"
+     }
+    ]
+   },
+   {
+    "para": "31",
+    "title": "Prison conditions",
+    "recommendation": "The State party should continue to strengthen its efforts to improve conditions of detention by taking practical measures to, inter alia: (a) Reduce overcrowding, particularly by promoting alternatives to detention, the loosening of bail requirements, revising arrest quotas as indicators of police performance, and by ensuring that bail determinations are made promptly and that persons on remand are not kept in custody for an unreasonable period of time; (b) Increase efforts to guarantee the right of detainees to be treated with humanity and dignity and ensure that conditions of detention in all of the country’s prisons, including those operated by private contractors, are compatible with the United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules); (c) Ensure that de facto solitary confinement measures, including segregation, are used only in the most exceptional circumstances and for strictly limited short periods of time",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the review, initiated in 2016, of the existing legislative and policy framework to identify possible gaps in relation to the Nelson Mandela Rules, and requires further information on the outcome or preliminary results of the review and on any ensuing follow-up measures taken. It takes note of the information on measures taken to reduce overcrowding and improve conditions of detention and welcomes the abolishment of arrest quotas by police, but requires additional information on: (a) the implementation of the bail protocol in practice, whether bail requirements have been loosened and whether bail determinations are made promptly, and relevant data on the use of alternatives to pretrial detention and non-custodial sentences; (b) whether the target to reduce the prison population at Pollsmoor Remand Detention Facility by 150 per cent has been achieved; and (c) progress made in implementing the facilities plan since the adoption of the concluding observations, and further measures taken to improve conditions of detention in all remand facilities and prisons and their impact. The Committee also requires clarification as to whether the use of solitary confinement has been reviewed and, if so, requires information on the outcome and on how the review contributed to ensuring that solitary confinement, including de facto solitary confinement measures such as segregation, is used only in the most exceptional circumstances and for strictly limited short periods of time. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be addressed in the State party’s next periodic report"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.75
+}

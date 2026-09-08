@@ -1,0 +1,49 @@
+{
+ "a3": "SMR",
+ "name": "San Marino",
+ "num": 674,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/SMR/CO/2",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/131/2/Add.3",
+   "assessment_session": 131,
+   "assessment_date": "1–26 March 2021",
+   "year": 2021,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 1,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 1,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.0
+  },
+  "paragraphs": [
+   {
+    "para": "9",
+    "title": "Anti-discrimination legislation",
+    "recommendation": "The State party should take the measures necessary to strengthen its legal framework against discrimination, in particular by enacting comprehensive anti-discrimination legislation covering all grounds for discrimination, including gender identity. In addition, it should make vigorous efforts to raise awareness among the general public and train judges and lawyers on the existing criminal provisions against discrimination",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information regarding the protection against discrimination provided under the State party’s legal framework, but regrets that measures have not been taken to enact specific legislation and reiterates its recommendation in this regard. It requests further information on existing legal provisions, including: (a) cases in which article 4 of the Constitution has been invoked within the reporting period; and (b) legal standards that include anti-discrimination provisions. It also requests data on the number of investigations, prosecutions and convictions there have been in cases of discrimination in the reporting period, and details of the sanctions imposed and the reparations granted to victims. The Committee also takes note of the information on efforts to raise public awareness of, and train specialist stakeholders on, the existing criminal provisions against discrimination. The Committee requests more specific information on the initiatives the State party has engaged in, including the number and nature of all awareness-raising and training activities, when they took place, the number of participants, and their substantive impact. The Committee, while taking note of the information on the awareness of judges and lawyers of the existing criminal provisions against discrimination, regrets the lack of specific training measures that were taken within the reporting period. It requests information on any plans to provide training for judges and lawyers on existing criminal provisions against discrimination"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.0
+}

@@ -1,7 +1,7 @@
 {
  "a3": "NAM",
  "name": "Namibia",
- "num": "516",
+ "num": 516,
  "upr": {
   "meta": {
    "mechanism": "upr",
@@ -2892,121 +2892,102 @@
   "meta": {
    "mechanism": "hrc",
    "co_symbol": "CCPR/C/NAM/CO/2",
-   "session": "116th session (March 2016)",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
    "assessment_symbol": "CCPR/C/126/2/Add.4",
-   "assessment_date": "adopted 126th session, July 2019",
-   "round": "Single follow-up round; no civil-society submission was received. Procedure discontinued.",
-   "n": 13,
+   "assessment_session": 126,
+   "assessment_date": "1–26 July 2019",
+   "year": 2019,
+   "followup_paras": [
+    "10",
+    "22",
+    "24"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
    "grade_dist": {
     "A": 0,
-    "B": 3,
-    "C": 10,
+    "B": 2,
+    "C": 4,
     "D": 0,
     "E": 0
    },
-   "score": 3.23
+   "score": 3.33
   },
   "paragraphs": [
    {
     "para": "10",
     "title": "Non-discrimination",
-    "recommendation": "Repeal race-discriminatory laws and adopt intestate-succession legislation; adopt legislation prohibiting discrimination based on sexual orientation (including in the Labour Act) and hate-crime legislation; abolish the common-law crime of sodomy and include same-sex relationships in the Combating of Domestic Violence Act; and combat discrimination against persons with disabilities and persons who are HIV-positive.",
+    "recommendation": "The State party should conduct extensive education and awareness-raising campaigns involving and targeting traditional leaders and the general public, both children and adults, to eliminate all forms of discrimination. It should: (a) Repeal all laws that discriminate on the basis of race and finalize and adopt legislation on intestate succession so as to apply the same rules to all persons without discrimination; (b) Adopt legislation explicitly prohibiting discrimination based on sexual orientation, including in the Labour Act (Act No. 11 of 2007), and adopt hate crime legislation punishing homophobic and transphobic violence and vigorously enforce it; (c) Abolish the common law crime of sodomy and include same-sex relationships in the Combating of Domestic Violence Act (Act No. 4 of 2003) so as to protect same-sex partners; (d) Intensify efforts to combat discrimination against persons with disabilities and against persons who are HIV-positive, and ensure their full integration into all spheres of public life",
+    "header_grades": [
+     "C",
+     "C"
+    ],
     "limbs": [
      {
-      "limb": "(a) repeal race-discriminatory laws; intestate succession",
+      "limb": "(a), (b) and (d)",
       "grade": "C",
       "meaning": "Information/action not satisfactory",
-      "eval": "The Committee regrets that the State party denies the existence of discriminatory laws and requires the names and current status of the intestate succession bills submitted to the Minister of Justice."
+      "eval": "The Committee regrets that the State party denies the existence of discriminatory laws and that no information was provided on efforts to repeal discriminatory racial laws in areas other than intestate succession. It would appreciate information on efforts in other areas. In addition, the Committee requires further information on the specifics of the bills on intestate succession submitted to the Minister of Justice, including their names and current status. The Committee regrets that the State party denies the existence of discrimination against lesbian, gay, bisexual and transgender persons. It notes the information provided on the Constitution and the National Human Rights Action Plan, but regrets that no information was provided on specific legislation adopted to prohibit discrimination based on sexual orientation, including in the Labour Act, and that no information was furnished on the adoption of hate crime legislation to address homophobic and transphobic violence. The Committee notes that the two acts mentioned in the reply were adopted before the concluding observations were adopted and do not focus on discrimination based on sexual orientation. The Committee reiterates its recommendation. The Committee appreciates the information on the goal in the National Human Rights Action Plan of combating discrimination against persons with disabilities. However, it requires more detail on specific measures taken, including on education, awarenessraising efforts and legal and regulatory reforms. The Committee would also appreciate information on efforts to combat discrimination against HIV-positive persons. The Committee reiterates its recommendations"
      },
      {
-      "limb": "(b) prohibit discrimination based on sexual orientation; hate-crime law",
+      "limb": "(c)",
       "grade": "C",
       "meaning": "Information/action not satisfactory",
-      "eval": "The Committee regrets the denial of discrimination against LGBT persons and that no specific legislation or hate-crime law was adopted; the two Acts cited pre-date the concluding observations."
-     },
-     {
-      "limb": "(c) abolish the sodomy offence; same-sex partners in the DV Act",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "The Committee regrets that no information was provided on abolishing the crime of sodomy or including same-sex relationships in the Combating of Domestic Violence Act."
-     },
-     {
-      "limb": "(d) discrimination against persons with disabilities and HIV-positive persons",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "The Committee appreciates the National Human Rights Action Plan goal but requires detail on specific measures, including on HIV-positive persons."
+      "eval": "The Committee regrets that no information was provided on abolishing the crime of sodomy or including same-sex relationships in the Combating of Domestic Violence Act. The Committee reiterates its recommendation"
      }
     ]
    },
    {
     "para": "22",
     "title": "Prohibition of torture and ill-treatment",
-    "recommendation": "Adopt legislation on the prevention and combating of torture and provide training; ensure perpetrators are prosecuted before ordinary courts and victims compensated; ensure an independent investigation mechanism; and ensure sex workers can report crimes without risk of prosecution for their occupation.",
+    "recommendation": "The Committee encourages the State party to adopt legislation on prevention and combating of torture, and provide training to all relevant professionals, including police and prison guards on its provisions. It should furthermore: (a) Ensure that perpetrators of torture and ill-treatment are identified, prosecuted and tried before ordinary courts, and, if found guilty, punished and victims adequately compensated; (b) Ensure that all cases of torture and ill-treatment are properly investigated by an independent mechanism; (c) Ensure that sex workers can report crimes without risking being prosecuted for their occupation and that they can participate in opt-out schemes",
+    "header_grades": [
+     "B",
+     "C"
+    ],
     "limbs": [
      {
-      "limb": "(a) prosecute before ordinary courts; compensate victims",
+      "limb": "(a) and (b)",
       "grade": "B",
       "meaning": "Information/action partially satisfactory",
-      "eval": "The Committee welcomes that a bill criminalizing torture will be brought before parliament and requires its name, content, conformity with the Covenant and a timeline, plus information on specific prosecutions and compensation."
+      "eval": "The Committee welcomes the fact that a bill will be brought before the parliament criminalizing torture, but requires additional information, including the name and content of the bill and its conformity with the Covenant, as well as a timeline for adoption. The Committee appreciates the information provided on the Internal Investigation Directorate of the police force and the oversight mechanism of the Ombudsman. The Committee requires clarification as on whether these bodies operate independently and how the State party ensures cases of torture and ill-treatment are investigated properly by these mechanisms. In addition, the Committee requires information on measures taken to ensure that perpetrators of torture and ill-treatment are identified, prosecuted and tried before ordinary courts. It also requires information on specific cases of perpetrators who have been found guilty and victims who have been adequately compensated since the adoption of the concluding observations"
      },
      {
-      "limb": "(b) independent investigation mechanism",
-      "grade": "B",
-      "meaning": "Information/action partially satisfactory",
-      "eval": "The Committee appreciates the information on the police Internal Investigation Directorate and the Ombudsman but requires clarification on whether these bodies operate independently."
-     },
-     {
-      "limb": "(c) sex workers can report crimes without prosecution",
+      "limb": "(c)",
       "grade": "C",
       "meaning": "Information/action not satisfactory",
-      "eval": "The Committee regrets that no information was provided on measures to ensure that sex workers can report crimes without risking prosecution."
+      "eval": "The Committee regrets that no information was provided on measures taken to ensure that sex workers can report crimes without risking prosecution for their occupation and on their ability to participate in opt-out schemes. The Committee reiterates its recommendation"
      }
     ]
    },
    {
     "para": "24",
-    "title": "Violence, including sexual violence, against women",
-    "recommendation": "Awareness and public-education programmes involving traditional leaders; prompt, impartial investigation of “passion killings”; dismantle barriers to prosecuting domestic violence and increase 24-hour availability of protection orders; operationalise and expand shelters; protect victims from stigmatisation and reprisals and adopt witness-protection legislation; and train police, prosecutors and judges and adopt pending legislation allowing sexual-violence prosecutions to continue where a complaint is withdrawn.",
+    "title": "Torture, violence, including sexual violence against women, and the right to life",
+    "recommendation": "The State party should: (a) Adopt and implement awareness-raising policies and public education programmes involving and targeted at traditional leaders and the public at large, to make such violence socially unacceptable, as well as train traditional leaders on the elimination of gender-based violence; (b) Systematically undertake prompt, impartial and effective investigations to identify the perpetrators of so-called “passion killings”, to prosecute them and, if they are found guilty, to punish them; (c) Dismantle all legal and practical barriers to prosecuting and punishing perpetrators of domestic violence and to implementing the Combating of Domestic Violence Act (Act No. 4 of 2003) including by increasing the availability of magistrates and other authorities to issue protection orders and ensure access to justice on a 24hour daily basis; (d) Fully operationalize and expand shelter facilities for domestic violence victims across the State and ensure that all victims of violence have effective recourse to shelter while the protection order is processed, as well as access to psychosocial counselling and compensation; (e) Protect victims of violence, including of rape and sexual harassment, from stigmatization as well as from reprisals, and adopt legislation on witness protection; (f) Ensure that police, prosecutors and judges are adequately trained in addressing issues of gender-based violence, that victims of rape and other such violence receive appropriate support, counselling and compensation, and are protected from stigmatization and reprisals. The State party should also adopt pending legislation that would allow sexual violence prosecutions to proceed if the victim withdraws the complaint, to ensure that perpetrators are prosecuted and punished",
+    "header_grades": [
+     "C",
+     "B"
+    ],
     "limbs": [
      {
-      "limb": "(a) awareness and education with traditional leaders",
+      "limb": "(a), (b), (c), (d) and (f)",
       "grade": "C",
       "meaning": "Information/action not satisfactory",
-      "eval": "The campaigns mentioned were conducted before the adoption of the concluding observations; the Committee reiterates its recommendations and requests updated information."
+      "eval": "While noting the education and awareness-raising campaigns that were conducted with traditional leaders, the Committee notes that the campaigns mentioned were conducted before the adoption of the concluding observations. The Committee reiterates its recommendations and requests updated information on efforts taken since the adoption of the concluding observations. The Committee regrets that no information was provided on any investigations conducted to identify, prosecute and punish perpetrators of “passion killings”. The Committee appreciates the efforts made to increase the availability of magistrates in order to issue protection orders and ensure access to justice. The Committee notes, however, that the number of magistrates cited and training provided for magistrates refer to the period prior to the adoption of the concluding observations and that no information on subsequent measures taken is provided. The Committee reiterates its recommendations and requests updated information on efforts taken since the adoption of the concluding observations. The Committee regrets the lack of information on measures taken to operationalize and expand shelter facilities for domestic violence victims and to ensure that they have effective recourse to shelter. The Committee reiterates its recommendations. The Committee notes the information provided on training for police officers on gender-based violence. The Committee regrets that no information was received on similar training for prosecutors and that the information received with regard to magistrates deals only with measures taken prior to the adoption of the concluding observations. The Committee requires information on: (a) how victims of rape and other such violence receive appropriate support, counselling and compensation, and how they are protected from stigmatization and reprisals; and (b) any draft legislation currently pending adoption that would allow sexual violence prosecutions to proceed if the victim withdraws the complaint, to ensure that perpetrators are prosecuted and punished"
      },
      {
-      "limb": "(b) investigate “passion killings”",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "The Committee regrets the lack of information on any investigations to identify, prosecute and punish perpetrators of “passion killings”."
-     },
-     {
-      "limb": "(c) dismantle barriers; 24-hour protection orders",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "The number of magistrates cited and the training provided refer to the period prior to the concluding observations; the Committee reiterates its recommendations."
-     },
-     {
-      "limb": "(d) operationalise and expand shelters",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "The Committee regrets the lack of information on measures to operationalise and expand shelter facilities and ensure effective recourse to shelter."
-     },
-     {
-      "limb": "(e) protect from stigmatisation/reprisals; witness-protection law",
+      "limb": "(e)",
       "grade": "B",
       "meaning": "Information/action partially satisfactory",
-      "eval": "The Committee welcomes the legislative measures enacted to protect witnesses (Witness Protection Act No. 11 of 2017) and seeks clarification on how they operate in practice."
-     },
-     {
-      "limb": "(f) train officials; adopt pending sexual-violence legislation",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "The Committee notes training for police but regrets the absence of similar training for prosecutors and of information on the pending legislation on withdrawn complaints."
+      "eval": "The Committee welcomes the legislative measures enacted to protect witnesses. The Committee seeks clarification on how these laws operate in practice. The Committee also requests further information on how victims of violence are protected from stigma and reprisals. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be addressed in the State party’s next periodic report. Next periodic report: 31 March 2020. 5"
      }
     ]
    }
-  ]
+  ],
+  "history": []
  },
- "combined_score": 3.42
+ "combined_score": 3.46
 }

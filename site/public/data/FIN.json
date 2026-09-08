@@ -1,0 +1,119 @@
+{
+ "a3": "FIN",
+ "name": "Finland",
+ "num": 246,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/FIN/CO/7",
+   "co_session": 131,
+   "co_date": "23 March 2021",
+   "fco_symbol": "CCPR/C/FIN/FCO/7",
+   "assessment_symbol": "CCPR/C/140/2/Add.1",
+   "assessment_session": 140,
+   "assessment_date": "4–28 March 2024",
+   "year": 2024,
+   "followup_paras": [
+    "15",
+    "19",
+    "43"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "15",
+    "title": "Hate speech and hate crimes",
+    "recommendation": "The State party should redouble its efforts to combat discrimination, hate speech and incitement to discrimination or violence on the grounds of, inter alia, race, ethnicity, religion, or sexual orientation and gender identity, in accordance with articles 19 and 20 of the Covenant and the Committee’s general comment No. 34 (2011) on the freedoms of opinion and expression. It should inter alia: (a) Improve relevant data collection and take effective measures to prevent both online and offline hate speech, firmly and publicly condemn such speech and intensify efforts aimed at addressing online hate speech; (b) Strengthen its awareness-raising efforts aimed at promoting respect for human rights and tolerance for diversity, revisiting and eradicating stereotypical prejudices based on race, ethnicity, religion, or sexual orientation and gender identity; (c) Encourage the reporting of hate crimes, and ensure that hate crimes are thoroughly investigated, perpetrators prosecuted and punished, and victims provided with effective remedies; * Adopted by the Committee at its 140th session (4–28 March 2024). 160424 (d) Provide adequate training to central and local authorities, law enforcement officials, judges and prosecutors on addressing hate speech and hate crimes, and to media workers on promoting acceptance of diversity",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While welcoming the State party’s efforts to combat discrimination, hate speech and hate crimes, including the statutory amendments and the statement on equality, the Committee regrets that the Government’s statement of August 2023 reportedly does not include proposals concerning hate speech. It also regrets the lack of information on the efforts made to encourage the reporting of hate crimes and the fact that underreporting of hate crimes reportedly persists. It requests statistical data on the number of complaints filed, the investigations initiated and their results, including the number of prosecutions and convictions. Furthermore, the Committee is concerned that the incidence of hate crime has seemingly increased over the past two years and that shortcomings in the identification and processing of hate motives in the criminal procedure system reportedly persist. The Committee reiterates its recommendations and requests additional information on measures taken to improve the identification and investigation of hate crimes"
+     }
+    ]
+   },
+   {
+    "para": "19",
+    "title": "Violence against women",
+    "recommendation": "The State party should: (a) Encourage the reporting of cases of violence against women, and ensure the safety of women who come forward, including through enhancing the accessibility and effectiveness of restraining orders, and should also consider eliminating the fees for unsuccessful applications of restraining orders; (b) Ensure that cases of violence against women are thoroughly investigated, and that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions; (c) Provide victims, in particular those living in remote rural areas, with access to effective remedies and means of protection and assistance, including to accommodation or shelters in all parts of the country and to other support services; (d) Speed up the legislative reforms to effectively prevent and combat all forms of violence against women, including by amending the definition of rape to include lack of consent as a core feature, explicitly criminalizing forced marriage and reviewing the legislation on restraining orders; (e) Continue its efforts to provide law enforcement officials, prosecutors, judges and lawyers with appropriate training to effectively deal with cases of violence against women",
+    "header_grades": [
+     "B",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (c), (d) and (e)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "While welcoming the State party’s efforts to enhance the accessibility and effectiveness of restraining orders, the Committee regrets the lack of specific information on measures taken to encourage the reporting of cases of violence against women. It reiterates its recommendation and requests further information in this regard, including statistical data on the number of reports filed during the reporting period and the number of applications submitted for restraining orders and their results. While welcoming the increase in the number of shelters for victims of violence and their families, the Committee regrets that the number of family places in such shelters remains insufficient. It is also concerned at reports that the funding and regional distribution of shelters is inadequate and that there is still a lack of culturally appropriate Sami-language shelters. The Committee reiterates its recommendation in this regard. While welcoming the new legislation on sexual offences and the amended definition of rape, as well as the establishment of a working group to consider penal provisions on forced marriage, the Committee regrets that cases involving abuse of authority are reportedly still categorized as sexual abuse rather than rape. It is also concerned that forced marriage is still not a separate criminal offence and that current legislation remains inadequate to address all forms of forced marriage. The Committee reiterates its recommendation in this regard. While noting with satisfaction the steps taken by the State party to continue its efforts to provide training on dealing with cases of violence against women, the Committee is concerned at reports of low participation in such training. The Committee reiterates its recommendation in this regard and requests further information on the number of training courses provided during the reporting period and their impact, including data on the number of professionals who participated and whether such courses are mandatory"
+     },
+     {
+      "limb": "(b)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information provided, the Committee regrets the lack of information on the specific steps taken during the reporting period to ensure that cases of violence against women are thoroughly investigated and that perpetrators are prosecuted and convicted. Furthermore, it is concerned at reports indicating: (a) the slow progress of investigations into cases of violence against women; (b) the low conviction rate in these cases; and (c) that persons involved in cases of recurrent violence are often directed to mediation. The Committee reiterates its recommendations and requests further information, including statistical data, on steps taken during the reporting period to ensure that cases of violence against women are promptly and thoroughly investigated, that perpetrators are prosecuted and, if convicted, punished with appropriate sanctions. It also requests additional information on the procedures in place to ensure that cases of recurrent violence are investigated promptly and appropriately"
+     }
+    ]
+   },
+   {
+    "para": "43",
+    "title": "Rights of the Sami Indigenous People",
+    "recommendation": "The State party should: (a) Speed up the process of revising the Sami Parliament Act, in particular its sections 3, on the definition of Sami, and 9, on the principle of free, prior and informed consent, with a view to respecting the Sami people’s right of self-determination, in accordance with article 25, read alone and in conjunction with article 27, as interpreted in the light of article 1 of the Covenant, and of implementing the Committee’s Views adopted in November 2018;1 (b) Review existing legislation, policies and practices regulating activities that may have an impact on the rights and interests of the Sami people, including development projects and extractive industries operations, with a view to ensuring, in practice, meaningful consultation with the Sami people to obtain their free, prior and informed consent; (c) Consider ratifying the Indigenous and Tribal Peoples Convention, 1989 (No. 169) of the International Labour Organization; (d) Step up its efforts to provide government and local officials, police officers, prosecutors and judges with appropriate training on the need to respect the rights of the Sami as an Indigenous People",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While welcoming the draft law to amend the Sami Parliament Act, submitted to Parliament in December 2023, the Committee regrets the continued delays and is concerned that the draft law has reportedly been diluted. It requests further information in this regard. The Committee is concerned that the amendments made to the Mining Act reportedly do not require the Sami people’s free, prior and informed consent before granting permission for mining activities on Sami homeland territory. Furthermore, while acknowledging the information provided on the training delivered on the rights of the Sami people, the Committee regrets that hate speech and harassment of the Sami people reportedly persist. The Committee reiterates its recommendations in this regard"
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "year": 2013,
+    "session": 120,
+    "co_symbol": "CCPR/C/FIN/CO/6",
+    "grades": "10 BC · 11 CC · 16 BB"
+   },
+   {
+    "year": 2013,
+    "session": 120,
+    "co_symbol": "CCPR/C/FIN/CO/6",
+    "grades": "10 BC · 11 CC · 16 BB"
+   },
+   {
+    "year": 2013,
+    "session": 115,
+    "co_symbol": "CCPR/C/FIN/CO/6",
+    "grades": "10 BC · 11 CA · 16 CBA"
+   },
+   {
+    "year": 2013,
+    "session": 113,
+    "co_symbol": "CCPR/C/FIN/CO/6",
+    "grades": "10 BC · 11 CC · 16 BB"
+   }
+  ]
+ },
+ "combined_score": 3.5
+}

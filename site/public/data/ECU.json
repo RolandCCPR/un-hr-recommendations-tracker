@@ -1,0 +1,63 @@
+{
+ "a3": "ECU",
+ "name": "Ecuador",
+ "num": 218,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/ECU/CO/5",
+   "co_session": null,
+   "co_date": null,
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/126/2/Add.2",
+   "assessment_session": 126,
+   "assessment_date": "1–26 July 2019",
+   "year": 2019,
+   "followup_paras": [],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 2,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 0,
+    "D": 0,
+    "E": 0
+   },
+   "score": 4.0
+  },
+  "paragraphs": [
+   {
+    "para": "24",
+    "title": "Conditions of detention and violence in prison",
+    "recommendation": "The State party should take due note of the previous concluding observations (CCPR/C/ECU/CO/5, para. 17) and increase its efforts to continue improving conditions of detention and eliminating overcrowding, in particular by ensuring the effective implementation of regulations relating to alternatives to the deprivation of liberty. It further recommends that the State party redouble its efforts to prevent and put a stop to violence in places of deprivation of liberty and continue ensuring that all incidents of violence between inmates, particularly incidents that have resulted in deaths, are investigated and that those responsible are punished commensurately with the seriousness of their actions",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee takes note of the information provided by the State party, but requires additional information on: (a) the rate of overcrowding in detention centres over the last three years and the specific measures that have been implemented since the adoption of the concluding observations to eliminate overcrowding in detention facilities; (b) the training provided to prison staff to improve conditions for persons deprived of their liberty and to reduce levels of violence; (c) the new prison management model, including the date on which it was implemented and details of how it operates in practice; and (d) investigations into allegations of violence in places of detention, the prosecutions brought and the penalties imposed"
+     }
+    ]
+   },
+   {
+    "para": "28",
+    "title": "Freedoms of expression and peaceful assembly",
+    "recommendation": "The State party should adopt appropriate measures to ensure that all persons under its jurisdiction can exercise in practice their right to freedom of peaceful assembly; redouble its efforts to prevent and eliminate all forms of the excessive use of force by law enforcement officials and members of the security forces; and take appropriate action to ensure that all allegations of the excessive use of force are investigated thoroughly, independently and impartially and that the alleged perpetrators are brought to justice and, if found guilty, punished commensurately with the seriousness of their actions",
+    "header_grades": [],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the information provided by the State party. However, it regrets that no additional information has been provided on the steps taken since the adoption of the concluding observations in 2016, in particular with regard to: (a) investigations into complaints of excessive use of force and efforts to bring the alleged perpetrators to justice and to impose appropriate punishments; and (b) the training activities conducted in the past three years to prevent and eliminate all forms of excessive use of force by law enforcement officials in the context of peaceful assemblies. The State party should also clarify whether decrees Nos. 17 and 739 are in line with the Covenant"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 4.0
+}

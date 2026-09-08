@@ -107,7 +107,26 @@ p.note { color: var(--muted); font-size: 0.9rem; }
 .tooltip .tg { display: flex; gap: 3px; margin-top: 5px; }
 .tooltip .tg span { font-size: 0.72rem; padding: 1px 4px; border-radius: 3px; color: #111; font-weight: 600; }
 
-/* country cards */
+/* country table */
+.tablewrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; }
+#country-table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+#country-table th, #country-table td { padding: 7px 12px; text-align: right; white-space: nowrap; }
+#country-table th:first-child, #country-table td:first-child { text-align: left; }
+#country-table thead th {
+  position: sticky; top: 0; background: var(--panel); color: var(--muted);
+  font-weight: 600; cursor: pointer; user-select: none; border-bottom: 1px solid var(--line);
+}
+#country-table thead th[aria-sort="ascending"]::after { content: " ▲"; font-size: 0.7em; }
+#country-table thead th[aria-sort="descending"]::after { content: " ▼"; font-size: 0.7em; }
+#country-table tbody tr { cursor: pointer; border-bottom: 1px solid var(--line); }
+#country-table tbody tr:last-child { border-bottom: 0; }
+#country-table tbody tr:hover { background: var(--panel); }
+#country-table td.cty { font-weight: 500; }
+#country-table td.yr { color: var(--muted); }
+#country-table .num { font-variant-numeric: tabular-nums; font-weight: 600; }
+#country-table .num.none { color: #b8bec7; font-weight: 400; }
+
+/* country cards (legacy) */
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 14px; margin: 14px 0 8px; }
 .card {
   border: 1px solid var(--line);
@@ -195,7 +214,9 @@ details.theme .body { padding: 4px 16px 14px; border-top: 1px solid var(--line);
 
 /* HRC paragraph cards */
 .hrc-para { border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; margin: 12px 0; background: #fff; }
-.hrc-para h3 { margin: 0 0 4px; }
+.hrc-para h3 { margin: 0 0 4px; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.hrc-para h3 .hg { margin-left: auto; display: inline-flex; gap: 3px; }
+.mech-summary .box .big span { font-size: 1rem; color: var(--muted); }
 .hrc-para .rec { font-size: 0.9rem; color: #333; margin: 6px 0 10px; }
 .hrc-limb { padding: 8px 0; border-top: 1px dashed var(--line); }
 .hrc-limb .lh { display: flex; align-items: baseline; gap: 9px; }

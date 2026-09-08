@@ -1,7 +1,7 @@
 {
  "a3": "USA",
  "name": "United States of America",
- "num": "840",
+ "num": 840,
  "upr": {
   "meta": {
    "mechanism": "upr",
@@ -3198,128 +3198,144 @@
   "meta": {
    "mechanism": "hrc",
    "co_symbol": "CCPR/C/USA/CO/4",
-   "session": "110th session (March 2014)",
-   "assessment_symbol": "CCPR/C/114/2",
-   "assessment_date": "adopted July 2015",
-   "round": "First follow-up round. The Committee assessed the United States across further rounds (114th, 116th, 120th sessions); the grades below are the first-round evaluation.",
-   "n": 13,
+   "co_session": null,
+   "co_date": "26 March 2014",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/117/2",
+   "assessment_session": 117,
+   "assessment_date": null,
+   "year": 2016,
+   "followup_paras": [
+    "5",
+    "10",
+    "21",
+    "22"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 14,
    "grade_dist": {
     "A": 0,
-    "B": 4,
-    "C": 8,
-    "D": 1,
+    "B": 6,
+    "C": 4,
+    "D": 4,
     "E": 0
    },
-   "score": 3.23
+   "score": 3.14
   },
   "paragraphs": [
    {
     "para": "5",
     "title": "Accountability for unlawful killing, torture and enforced disappearance",
-    "recommendation": "Ensure that all cases of unlawful killing, torture or other ill-treatment, unlawful detention or enforced disappearance are effectively, independently and impartially investigated, perpetrators (including persons in positions of command) prosecuted and sanctioned, and victims provided with effective remedies; establish the responsibility of those who provided legal pretexts for manifestly illegal behaviour; incorporate the doctrine of “command responsibility”; and declassify and publish the Senate Select Committee on Intelligence report on the CIA secret detention programme.",
+    "recommendation": "The State party should ensure that all cases of unlawful killing, torture or other ill-treatment, unlawful detention or enforced disappearance are effectively, independently and impartially investigated, that perpetrators, including, in particular, persons in positions of command, are prosecuted and sanctioned, and that victims are provided with effective remedies. The responsibility of those who provided legal pretexts for manifestly illegal behaviour should also be established. The State party should also consider the full incorporation of the doctrine of “command responsibility” in its criminal law and declassify and make public the report of the Senate Special Committee on Intelligence into the CIA secret detention programme. Follow-up question: [B2](a): While noting, with appreciation, the information provided by the State party on the recent prosecutions of law enforcement officers, as well as the convictions of four Blackwater USA contractors for their crimes in Iraq, the Committee requires information on investigations, prosecutions or convictions of government personnel in positions of command for crimes committed during international operations or as part of the detention and interrogation programmes. It is also concerned at reports that current and former Guantanamo detainees have been deprived of the ability to seek judicial remedy for torture and other human rights violations incurred while in custody. It reiterates its recommendations. [C1](b): The Committee requires information on measures taken to establish the responsibility of those who provided legal pretexts for manifestly illegal behaviour. It reiterates its recommendations. [C1](c): The Committee regrets that no action has been taken by the State party to incorporate into its criminal law the doctrine of command responsibility for crimes under international law. It reiterates its recommendations. [B1](d): The Committee welcomes the declassification and release of over 500 pages of the Senate Select Intelligence Committee report on the CIA secret detention programme, but is concerned about reports that over 6,000 pages remain classified. It is also concerned about reports that the Department of Justice does not plan to reopen investigations, despite having access to the full report",
+    "header_grades": [
+     "B",
+     "D",
+     "D",
+     "C"
+    ],
     "limbs": [
      {
-      "limb": "(a) investigations, prosecutions and remedies",
+      "limb": "(a)",
       "grade": "B",
       "meaning": "Information/action partially satisfactory",
-      "eval": "While noting, with appreciation, the recent prosecutions of law-enforcement officials and the conviction of four Blackwater USA contractors, the Committee requires information on investigations, prosecutions or convictions of Government personnel in positions of command."
+      "eval": "The Committee notes the information provided on unlawful killings, unreasonable force and mistreatment of detainees. It regrets, however, that no further information was provided on investigations, prosecutions or convictions of government personnel in positions of command for crimes committed during international operations or as part of the State party’s detention and interrogation programmes. It also regrets that further information was not provided on reports that current and former Guantanamo detainees have been deprived of the ability to seek judicial remedy for torture and other human rights violations incurred while in custody"
      },
      {
-      "limb": "(b) responsibility for legal pretexts",
+      "limb": "(b)",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "The Committee regrets that no further information was provided on measures taken to establish responsibility for those who provided legal pretexts for manifestly illegal behaviour. It reiterates its recommendations"
+     },
+     {
+      "limb": "(c)",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "eval": "The Committee regrets that no information has been provided on action taken to incorporate the doctrine of command responsibility for crimes under international law into the State party’s criminal law. It reiterates its recommendations"
+     },
+     {
+      "limb": "(d)",
       "grade": "C",
       "meaning": "Information/action not satisfactory",
-      "eval": "The Committee requires information on measures taken to establish the responsibility of those who provided legal pretexts for manifestly illegal behaviour. It reiterates its recommendations."
-     },
-     {
-      "limb": "(c) doctrine of command responsibility",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "The Committee regrets that no action has been taken to incorporate into its criminal law the doctrine of command responsibility for crimes under international law."
-     },
-     {
-      "limb": "(d) declassify the SSCI CIA report",
-      "grade": "B",
-      "meaning": "Information/action partially satisfactory",
-      "eval": "The Committee welcomes the declassification and release of over 500 pages of the report but is concerned that over 6,000 pages remain classified and that the Department of Justice does not plan to reopen investigations."
+      "eval": "The State party provided no additional information on the Senate Select Intelligence Committee report on the CIA secret detention programme or on the Department of Justice’s plans to reopen investigations"
      }
     ]
    },
    {
     "para": "10",
-    "title": "Right to life — gun violence and “Stand Your Ground” laws",
-    "recommendation": "Effectively curb gun violence, including legislation requiring background checks for all private firearm transfers and strict enforcement of the Lautenberg Amendment; and review the Stand Your Ground laws to remove far-reaching immunity and ensure necessity and proportionality in the use of deadly force.",
+    "title": "Gun violence and Stand Your Ground laws",
+    "recommendation": "The State Party should take all necessary measures to abide by its obligation to effectively protect the right to life. In particular, it should: (a) Continue its efforts to effectively curb gun violence, including through the continued pursuit of legislation requiring background checks for all private firearm transfers, in order to prevent possession of arms by persons recognized as prohibited individuals under federal law, and ensure strict enforcement of the Domestic Violence Offender Gun Ban of 1996 (the Lautenberg Amendment); and (b) Review the Stand Your Ground laws to remove far-reaching immunity and ensure strict adherence to the principles of necessity and proportionality when using deadly force in self-defence. Follow-up question: [C1](a): While welcoming the Supreme Court decision upholding a federal law barring domestic violence offenders from possessing firearms, the Committee requests information on new measures taken since the examination of the State party’s report. It reiterates its recommendations. [C1](b): With regard to the stand-your-ground laws, while the Committee recognizes the State party’s federal system, the Committee requests information on measures taken to implement the recommendation. It is particularly concerned about reports that the immunity provided by stand-your-ground laws has, in some areas, expanded. It reiterates its recommendations",
+    "header_grades": [
+     "C",
+     "C"
+    ],
     "limbs": [
      {
-      "limb": "(a) curb gun violence; background checks",
+      "limb": "(a)",
       "grade": "C",
       "meaning": "Information/action not satisfactory",
-      "eval": "While welcoming the Supreme Court decision upholding the federal domestic-violence firearms ban, the Committee requests information on new measures taken since the review and repeats its recommendations."
+      "eval": "The Committee welcomes the State party’s statement that it supports legislation to reduce the incidence of gun violence, but regrets that no measures appear to have been taken since its examination of the State party’s follow-up report dated March 2015. It reiterates its recommendation"
      },
      {
-      "limb": "(b) review Stand Your Ground laws",
+      "limb": "(b)",
       "grade": "C",
       "meaning": "Information/action not satisfactory",
-      "eval": "The Committee requests information on measures taken to implement the recommendation and is concerned that the immunity provided by stand-your-ground laws has, in some areas, expanded."
+      "eval": "The Committee regrets that the State party has not yet completed the review of the stand-your-ground laws that was initiated in 2013. It requests information on the progress of the Commission on Civil Rights’ review and reiterates its recommendation. of America"
      }
     ]
    },
    {
     "para": "21",
-    "title": "Guantánamo Bay — transfer, trial or release, and closure",
-    "recommendation": "Expedite the transfer of detainees designated for transfer and the periodic-review process; ensure trial or immediate release and closure of the Guantánamo Bay facility; end administrative detention without charge or trial; and deal with criminal cases through the ordinary criminal justice system rather than military commissions.",
+    "title": "Guantanamo Bay",
+    "recommendation": "The State party should expedite the transfer of detainees designated for transfer, including to Yemen, as well as the periodic review of Guantánamo detainees and ensure that they either stand trial or are immediately released and that the Guantánamo Bay facility is closed. The State party should end the system of administrative detention without charge or trial and ensure that any criminal cases against detainees held in Guantánamo and in military facilities in Afghanistan are dealt with through the criminal justice system rather than by military commissions, and that those detainees are afforded the fair trial guarantees enshrined in article 14 of the Covenant. Follow-up question: [B2](a): The Committee welcomes the steps taken by the State party to expedite the review and transfer of detainees remaining at Guantanamo Bay, but is concerned about reports that, at the current rate, review hearings will not be completed for all detainees until 2020. Updated information, including statistical data, is required on the transfer and review of Guantanamo detainees and the detention status of individuals who remain in custody there. [C2](b): The Committee notes that individuals continue to be held in administrative detention in Guantanamo Bay without charge or trial, in many cases for over a decade, and regrets the State party’s plans to continue prosecution of Guantanamo detainees by military commission, which is contrary to its recommendations. It reiterates its recommendations",
+    "header_grades": [
+     "B",
+     "C",
+     "B"
+    ],
     "limbs": [
      {
-      "limb": "(a) expedite transfers and review",
+      "limb": "(a)",
       "grade": "B",
       "meaning": "Information/action partially satisfactory",
-      "eval": "The Committee welcomes steps taken to expedite the review and transfer of detainees but is concerned that, at the current rate, review hearings would not be completed for all detainees until 2020. Updated statistical data is required."
+      "eval": "The Committee welcomes the updated information provided by the State party on the review and transfer of detainees remaining at Guantanamo Bay, but remains concerned at the pace of these reviews. Accordingly, it requires information on the measures taken to expedite hearings and transfers of detainees. It reiterates its recommendation"
      },
      {
-      "limb": "(b) end administrative detention; no military commissions",
+      "limb": "(b)",
       "grade": "C",
       "meaning": "Information/action not satisfactory",
-      "eval": "The Committee regrets that persons continue to be held without charge or trial, in many cases for over a decade, and regrets the plans to continue prosecution by military commission, which is contrary to its recommendations."
+      "eval": "The Committee acknowledges the information provided regarding the possibility for detainees to challenge the legality of their detention. However, it notes that the issue of persons being held in administrative detention without charge or trial remains. It regrets that the State party has not provided information with regard to the continued prosecution of Guantánamo detainees by military commission. It reiterates its recommendation"
+     },
+     {
+      "limb": "(c)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the measures taken to advance the closure of the Guantánamo Bay facility, including by the appointment of a new State Department Special Envoy for Guantánamo Closure. It requires updated information on the progress of this initiative. of America"
      }
     ]
    },
    {
     "para": "22",
-    "title": "Surveillance and the right to privacy (article 17)",
-    "recommendation": "Bring surveillance activities within and outside the United States into conformity with article 17 (legality, proportionality, necessity, regardless of nationality or location); ensure interference is authorised by publicly accessible, precise law with effective safeguards; reform oversight to include judicial involvement; refrain from mandatory third-party data retention; and ensure effective remedies for abuse.",
-    "limbs": [
-     {
-      "limb": "(a)–(b) conformity with article 17; law-based safeguards",
-      "grade": "B",
-      "meaning": "Information/action partially satisfactory",
-      "eval": "While the Committee welcomes the administrative measures taken, it requires information on legislative measures to ensure the safeguards are provided for by law, and is concerned the administrative measures do not adequately protect article 17 rights."
-     },
-     {
-      "limb": "(c) reform oversight; judicial involvement",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "No measures appear to have been taken since March 2014 to provide for judicial involvement in the authorization and monitoring of surveillance or to establish strong and independent oversight."
-     },
-     {
-      "limb": "(d) no mandatory third-party data retention",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "The Committee requires information on measures taken to stop the practice of mandatory retention of data by third parties."
-     },
-     {
-      "limb": "(e) effective remedies for abuse",
-      "grade": "D",
-      "meaning": "No cooperation with the Committee",
-      "eval": "No information was provided by the State party on access to remedies for persons affected in cases of abuse."
-     },
-     {
-      "limb": "extraterritorial surveillance",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "The Committee notes that the State party has not responded with regard to surveillance acts outside the United States and asks for more information."
-     }
-    ]
+    "title": "Surveillance and the right to privacy",
+    "recommendation": "The State party should: (a) Take all necessary measures to ensure that its surveillance activities, both within and outside the United States, conform to its obligations under the Covenant, including article 17; in particular, measures should be taken to ensure that any interference with the right to privacy complies with the principles of legality, proportionality and necessity, regardless of the nationality or location of the individuals whose communications are under direct surveillance; (b) Ensure that any interference with the right to privacy, family, home or correspondence is authorized by laws that: (i) are publicly accessible; (ii) contain provisions that ensure that collection of, access to and use of communications data are tailored to specific legitimate aims; (iii) are sufficiently precise and specify in detail the precise circumstances in which any such interference may be permitted, the procedures for authorization, the categories of persons who may be placed under surveillance, the limit on the duration of surveillance; procedures for the use and storage of data collected; and (iv) provide for effective safeguards against abuse; (c) Reform the current oversight system of surveillance activities to ensure its effectiveness, including by providing for judicial involvement in the authorization or monitoring of surveillance measures, and considering the establishment of strong and independent oversight mandates with a view to preventing abuses; (d) Refrain from imposing mandatory retention of data by third parties; (e) of abuse. Ensure that affected persons have access to effective remedies in cases Follow-up question: [B2](a)(b): While the Committee welcomes the administrative measures taken by the State party to bring its surveillance activities into line with article 17, it requires information on legislative measures taken to ensure that these safeguards are provided for by law. It is also concerned about reports that the administrative measures taken do not adequately protect rights guaranteed under article 17, which requires that interference with the right to privacy comply with the principles of legality, proportionality and necessity. [C1](c): No measures appear to have been taken since March 2014 to provide for judicial involvement in the authorization and monitoring of surveillance measures or to establish strong and independent oversight mandates. The Committee repeats its recommendations. [C1](d): The Committee requires information on measures taken to stop the practice of mandatory retention of data by third parties. [D1](e): No information was provided on access to remedies for persons affected, in cases of abuse. [C2](f): The Committee notes that the State party has not responded to its request for information with regard to surveillance acts outside the and requests more information on this matter. Summary of State’s party reply: (a)(b)(c) The USA Freedom Act was enacted in June 2015, modifying the State party’s surveillance authorities and other national security authorities and increasing transparency. The Act requires that opinions of the Foreign Intelligence Surveillance Act (FISA) or the Foreign Intelligence Surveillance Court of Review (FISC) involving significant or novel interpretations of the law be declassified or, where that is not possible, that summaries be declassified. The Act increases the Government’s public reporting obligations and requires the Inspectors General of the Department of Justice and the Intelligence Community to audit the effectiveness and use of FISA authority to obtain the production of tangible things, including an examination of minimization procedures. (e) The State party reiterated information provided in CCPR/C/USA/4. An aggrieved person may file a motion to suppress evidence on the grounds that the information was unlawfully acquired or the surveillance was not made in conformity with an order of authorization",
+    "header_grades": [
+     "B",
+     "B",
+     "D",
+     "B",
+     "D"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": [
+   {
+    "year": 2014,
+    "session": 114,
+    "co_symbol": "CCPR/C/USA/CO/4",
+    "grades": "5 BCCB · 10 CC · 21 BC · 22 BCCDC"
    }
   ]
  },
- "combined_score": 2.77
+ "combined_score": 2.73
 }

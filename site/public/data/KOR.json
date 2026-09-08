@@ -1,0 +1,80 @@
+{
+ "a3": "KOR",
+ "name": "Korea, Republic of",
+ "num": 410,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/KOR/CO/4",
+   "co_session": null,
+   "co_date": "3 November 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/124/2",
+   "assessment_session": 124,
+   "assessment_date": "8 October–2 November 2018",
+   "year": 2018,
+   "followup_paras": [
+    "15",
+    "45",
+    "53"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 0,
+    "C": 2,
+    "D": 0,
+    "E": 1
+   },
+   "score": 2.33
+  },
+  "paragraphs": [
+   {
+    "para": "15",
+    "title": "Discrimination on the grounds of sexual orientation and gender identity",
+    "recommendation": "The State party should clearly and officially state that it does not tolerate any form of social stigmatization of, or discrimination against, persons based on their 4 https://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno= INT%2fCCPR%2fNGS%2fKOR%2f27078&Lang=en. sexual orientation or gender identity, including the propagation of so-called “conversion therapies”, hate speech and violence. It should strengthen the legal framework to protect lesbian, gay, bisexual, transgender and intersex individuals accordingly, repeal article 92-6 of the Military Criminal Act, avoid the use of Stateowned buildings by private organizations for so-called “conversion therapies”, develop sex education programmes that provide students with comprehensive, accurate and age-appropriate information regarding sexuality and diverse gender identities, and facilitate access to the legal recognition of gender reassignment. It should also develop and carry out public campaigns and provide training for public officials to promote awareness and respect for diversity in respect of sexual orientation and gender identity",
+    "header_grades": [
+     "E"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee regrets the State party’s position that it has no plans to repeal article 92-6 of the Military Criminal Act and that the Constitutional Court on 28 July 2016 found that article constitutional, despite its discriminatory nature against homosexual servicemen. The Committee regrets that, contrary to the Committee’s recommendation, the State party decided to exclude diverse forms of sexual orientation and gender identity from sex education until the end of secondary school, on the grounds of reflecting social and culturally agreed values. The Committee also regrets the State party’s position that it will review the guidelines on gender reassignment in case of a change in the socially accepted notions of a person’s gender. The Committee further regrets that no measures have been taken to implement its recommendations regarding: (a) clearly and officially stating that it does not tolerate any discrimination, hate speech, violence against lesbian, gay, bisexual, transgender and intersex persons or propagation of “conversion therapies”; (b) strengthening the legal framework to protect lesbian, gay, bisexual, transgender and intersex persons; and (c) conducting campaigns and training to promote tolerance and awareness of lesbian, gay, bisexual, transgender and intersex persons. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "45",
+    "title": "Conscientious objection",
+    "recommendation": "The State party should: (a) Immediately release all conscientious objectors condemned to a prison sentence for exercising their right to be exempted from military service; (b) Ensure that conscientious objectors’ criminal records are expunged, that they are provided with adequate compensation and that their personal information is not publicly disclosed; (c) Ensure the legal recognition of conscientious objection to military service, and provide conscientious objectors with the possibility of performing an alternative service of civilian nature",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "(a), (b) and (c)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets that the State party has not implemented its recommendation to immediately release all imprisoned conscientious objectors and that, since the individual communication, more conscientious objectors have been condemned to prison sentences. The Committee reiterates its recommendation. The Committee notes the information provided by the State party, but regrets that no measures have been taken after the adoption of the Committee’s concluding observations. In particular, the State party has not implemented the Committee’s recommendation to expunge the conscientious objectors’ criminal records and provide them with adequate compensation. The Committee reiterates its recommendation. The Committee takes note of the pending constitutional appeal regarding the introduction of alternative service, but regrets that no measures have been taken to legally recognize conscientious objection to military service and alternative service. It requires information on the progress or outcome of the pending constitutional appeal. The Committee reiterates its recommendation"
+     }
+    ]
+   },
+   {
+    "para": "53",
+    "title": "Peaceful assembly",
+    "recommendation": "The State party should ensure that all persons enjoy the right to peaceful assembly, and that limitations on that right are in strict compliance with article 21 of the Covenant. It should review its regulations on the use of force and ensure that they are in compliance with the Covenant, and train its police officials accordingly",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": []
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 2.33
+}

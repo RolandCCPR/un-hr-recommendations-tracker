@@ -1,7 +1,7 @@
 {
  "a3": "DNK",
  "name": "Denmark",
- "num": "208",
+ "num": 208,
  "upr": {
   "meta": {
    "mechanism": "upr",
@@ -2769,85 +2769,77 @@
   "meta": {
    "mechanism": "hrc",
    "co_symbol": "CCPR/C/DNK/CO/6",
-   "session": "117th session (2016)",
+   "co_session": null,
+   "co_date": "7 July 2016",
+   "fco_symbol": null,
    "assessment_symbol": "CCPR/C/125/2/Add.4",
-   "assessment_date": "adopted 125th session, March 2019",
-   "round": "Single follow-up round; procedure discontinued with outstanding points folded into the list of issues for the seventh report.",
-   "n": 7,
+   "assessment_session": 125,
+   "assessment_date": "4–29 March 2019",
+   "year": 2019,
+   "followup_paras": [
+    "20",
+    "24",
+    "32"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
    "grade_dist": {
     "A": 1,
-    "B": 3,
+    "B": 2,
     "C": 2,
     "D": 0,
     "E": 1
    },
-   "score": 3.43
+   "score": 3.33
   },
   "paragraphs": [
    {
     "para": "20",
     "title": "Domestic violence",
-    "recommendation": "Continue efforts to combat domestic violence effectively — effective reporting, investigations, prosecutions and sanctions; uniform enforcement of guidelines across all police districts; continued training of all professionals involved.",
+    "recommendation": "The State party should continue its efforts to combat domestic violence effectively, in particular violence against women, by ensuring effective reporting on acts of domestic violence, investigations, prosecutions and sanctions of perpetrators. The State party should ensure that guidelines on the application of its legislation are enforced by all police districts in a uniform manner. It should continue to provide training to all professionals involved in preventing and combating domestic violence",
+    "header_grades": [
+     "A"
+    ],
     "limbs": [
      {
-      "limb": "whole paragraph",
+      "limb": "",
       "grade": "A",
       "meaning": "Information/action largely satisfactory",
-      "eval": "The Committee welcomes the legislative and policy measures taken in Denmark, Greenland and the Faroe Islands — including the national unit to combat violence in family and intimate relations (operational 1 October 2017), the extension of the restraining-order Act to Greenland, and the Faroese Criminal Code amendments — and requires further information on their practical impact."
+      "eval": "The Committee welcomes the various legislative and policy measures taken to prevent and combat domestic violence in Denmark, Greenland and the Faroe Islands, including the update to the guidelines on interrelational violent crimes (1 July 2016), the operationalization of the national unit to combat violence in family and intimate relations (1 October 2017), the extension of the Danish Act on Restraining, Exclusion and Expulsion Orders to Greenland (1 April 2017), and the new legislation and Criminal Code amendments passed in the Faroe Islands (March 2017) that, inter alia, provide for clear rules regarding restraining orders, extend the statute of limitations for certain sexual offences and expand the definition of rape. The Committee requires further information on: (a) the practical impact of these measures, including of the national action plan (2014–2017) and the strategy and action plan against violence (2014–2017) of Greenland, on preventing domestic violence and facilitating the reporting of domestic violence, and on ensuring investigations, prosecutions and the sanctioning of perpetrators in Denmark, Greenland and the Faroe Islands (please provide relevant statistics since 2016); (b) the content of the latest update to the guidelines on interrelational violent crimes and any measures to ensure consistent application in practice; and (c) the incidence of cases of psychological violence against current or former intimate partners in the courts and the outcomes. The Committee appreciates the information on training in the prevention, detection and handling of violence and that the certification training on evidence-based risk assessment tools continues to be offered by the national centre for crime prevention. It requires additional information regarding: (a) any comprehensive and mandatory training offered to police officials (as opposed to police students) and professionals, other than prosecutors, involved in preventing and combating domestic violence; and (b) the number of professionals who obtained certification on evidence-based risk assessment tools since 2016 and the results of the training"
      }
     ]
    },
    {
     "para": "24",
     "title": "Solitary confinement",
-    "recommendation": "Bring law and practice on solitary confinement into line with the Nelson Mandela Rules by abolishing solitary confinement of minors and reducing the total permissible length for remand detainees; regularly evaluate its effects and develop alternatives.",
+    "recommendation": "The State party should bring its legislation and practice on solitary confinement into line with international standards as reflected in the United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules), by abolishing solitary confinement of minors and reducing the total length of permissible solitary confinement for remand detainees even if it is used as a measure of last resort. The State party should regularly evaluate the effects of solitary confinement in order to continue to reduce it and to develop alternative measures where necessary",
+    "header_grades": [
+     "C"
+    ],
     "limbs": [
      {
-      "limb": "whole paragraph",
+      "limb": "",
       "grade": "C",
       "meaning": "Information/action not satisfactory",
-      "eval": "While taking note of the extensive information and monitoring efforts, the Committee regrets that the State party neither abolished solitary confinement for minors nor reduced the total permissible length for remand detainees. It reiterates its recommendations."
+      "eval": "While taking note of the extensive information provided on solitary confinement and efforts to monitor and reduce its use, especially for prolonged periods of time, the Committee regrets that the State party neither abolished solitary confinement for minors nor reduced the total length of permissible solitary confinement for remand detainees even if it is used as a measure of last resort. It requires information on any amendments to the law adopted following the issuance of the recommendations regarding placement in a disciplinary cell made by the working group under the prison and probation service in January 2017. The Committee reiterates its recommendations"
      }
     ]
    },
    {
     "para": "32",
-    "title": "Rights of migrants, refugees and asylum seekers",
-    "recommendation": "Ensure returns and expulsions afford guarantees of non-refoulement; ensure detention is reasonable, necessary and proportionate with alternatives used in practice; consider reducing the length of detention and improve conditions at Vridsløselille; repeal the November 2015 Aliens Act amendment on judicial review; and repeal the amendment on confiscation of asylum seekers' assets.",
-    "limbs": [
-     {
-      "limb": "(a) non-refoulement guarantees",
-      "grade": "B",
-      "meaning": "Information/action partially satisfactory",
-      "eval": "The Committee takes note of the information on the asylum procedure and respect for non-refoulement and requires additional information, including on identification of torture victims among asylum seekers."
-     },
-     {
-      "limb": "(b) detention necessary and proportionate; alternatives",
-      "grade": "B",
-      "meaning": "Information/action partially satisfactory",
-      "eval": "The Committee welcomes that detention is always to be necessary and proportionate following an individual examination, but notes the limited information on alternatives to detention in practice."
-     },
-     {
-      "limb": "(c) reduce length; Vridsløselille conditions",
-      "grade": "B",
-      "meaning": "Information/action partially satisfactory",
-      "eval": "The maximum period of detention remains unchanged and the Committee requires information on consideration given to reducing it; it appreciates that conditions at Vridsløselille have improved since autumn 2016."
-     },
-     {
-      "limb": "(d) repeal the November 2015 judicial-review amendment (§37k)",
-      "grade": "C",
-      "meaning": "Information/action not satisfactory",
-      "eval": "The Committee regrets that paragraph 37 (k) of the Aliens Act has not been repealed and reiterates its recommendation."
-     },
-     {
-      "limb": "(e) repeal the asset-confiscation amendment",
-      "grade": "E",
-      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
-      "eval": "The Committee regrets that the State party did not implement the recommendation to repeal the amendment relating to the confiscation of asylum seekers' assets."
-     }
-    ]
+    "title": "Rights of aliens, including migrants, refugees and asylum seekers",
+    "recommendation": "The State party should, while taking measures to control immigration, ensure their full compliance with the rights of migrants, including asylum seekers, as protected under the Covenant. In particular, the State party should: (a) Ensure that its policies and practices related to the return and expulsion of migrants and asylum seekers afford sufficient guarantees of respect for the principle of non-refoulement under the Covenant; (b) Ensure that the detention of migrants and asylum seekers is reasonable, necessary and proportionate in the light of the circumstances, in accordance with the Committee’s general comment No. 35 (2014) on liberty and security of person, and that alternatives to detention are found in practice; (c) Consider reducing the length of detention for migrants and asylum seekers who are awaiting deportation and improve the detention conditions of such persons, in particular at the detention facility of Vridsløselille; (d) Repeal the amendment introduced to the Aliens Act in November 2015 in order to ensure that, in all cases, detained migrants have full access to fundamental legal safeguards, in particular to judicial review of the legality of their detention; (e) Repeal the amendment to the Aliens Act relating to the confiscation of asylum seekers’ assets",
+    "header_grades": [
+     "B",
+     "B",
+     "C",
+     "E"
+    ],
+    "limbs": []
    }
-  ]
+  ],
+  "history": []
  },
- "combined_score": 3.52
+ "combined_score": 3.47
 }

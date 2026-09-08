@@ -1,0 +1,118 @@
+{
+ "a3": "IDN",
+ "name": "Indonesia",
+ "num": 360,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/IDN/CO/1",
+   "co_session": null,
+   "co_date": "24 July 2013",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/113/2",
+   "assessment_session": 113,
+   "assessment_date": "16 March–2 April 2015",
+   "year": 2015,
+   "followup_paras": [
+    "8",
+    "10",
+    "12",
+    "25"
+   ],
+   "titles_editorial": true,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 6,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 3,
+    "D": 0,
+    "E": 1
+   },
+   "score": 3.0
+  },
+  "paragraphs": [
+   {
+    "para": "8",
+    "title": "Accountability for enforced disappearances (1997-1998)",
+    "recommendation": "The State party should, as a matter of urgency, address the impasse between Komnas HAM and the Attorney General. It should expedite the establishment of a court to investigate cases of enforced disappearance committed between 1997 and 1998 as recommended by Komnas HAM and the Indonesian Parliament. Furthermore, the State party should effectively prosecute cases involving past human rights violations, such as the murder of prominent human rights defender Munir Said Thalib on 7 September 2004, and provide adequate redress to victims or members of their families. NGO information: Few steps have been taken to reinvestigate the murder of Munir Said Thalib and ensure that all perpetrators have been brought to justice. The October 2013 decision of the Supreme Court to reduce the sentence of Pollycarpus from 20 to 14 years, in contrast to its earlier decision, in January 2008, increasing the 14-year sentence handed down by the Central Jakarta District Court to 20 years, has sparked allegations of an unfair trial, as it was a final review that overruled a final review",
+    "header_grades": [
+     "B",
+     "C",
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "Regarding the impasse between Komnas HAM and the Attorney General, the Committee requests updated information on the meetings convened to resolve disagreements regarding the evidentiary threshold required to initiate investigations"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While the Committee welcomes the revision of Law No. 27 of 2004 on the Truth and Reconciliation Commission, no information was provided on measures taken to establish a court to investigate cases of enforced disappearance committed between 1997 and 1998. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee welcomes the enactment of Law No. 31 of 2014 on the Amendment of Law No. 13 of 2006, which provides for medical assistance and psychosocial and psychological rehabilitation assistance for victims of human rights violations. The Committee requests further information on the implementation of Law No. 31, as well information on measures taken to prosecute cases of past human rights violations, including the murder of prominent human rights defender Munir Said Thalib on 7 September 2004"
+     }
+    ]
+   },
+   {
+    "para": "10",
+    "title": "Death penalty",
+    "recommendation": "The State party should reinstate the de facto moratorium on the death penalty and should consider abolishing the death penalty by ratifying the Second Optional Protocol to the Covenant. Furthermore, it should ensure that, if the death penalty is maintained, it is only for the most serious crimes. In this regard, the Committee recommends that the State party review its legislation to ensure that crimes involving narcotics are not amenable to the death penalty. In this context, the State party should consider commuting all sentences of death imposed on persons convicted for drug crimes",
+    "header_grades": [
+     "E"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "eval": "The Committee notes with concern the recent executions of prisoners convicted for drug-related crimes and regrets that the State party has not reviewed its legislation to ensure that crimes involving narcotics are not amenable to the death penalty"
+     }
+    ]
+   },
+   {
+    "para": "12",
+    "title": "Female genital mutilation",
+    "recommendation": "The State party should repeal Ministry of Health Regulation No. 1636 of 2010, which authorizes the performance of FGM by medical practitioners (medicalization of FGM). In this connection, the State party should enact a law that prohibits any form of FGM and ensure that it provides adequate penalties that reflect the gravity of this offence. Furthermore, the State party should make efforts to prevent and eradicate harmful traditional practices, including FGM, by strengthening its awareness-raising and education programmes. In this regard, the national-level team established to develop a common perception on the issue of FGM should ensure that communities where the practice is widespread are targeted in order to bring a change in mindset",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee welcomes the revocation of Ministry of Health Regulation No. 1636 of 2010, and the issuance of Ministry of Health Regulation No. 6 of 2014 which prohibits the practice of FGM. Further information is required regarding trainings, educational programmes, and other measures taken to prevent and eradicate harmful traditional practices and develop a common perception on the issue of FGM"
+     }
+    ]
+   },
+   {
+    "para": "25",
+    "title": "Blasphemy law",
+    "recommendation": "Notwithstanding the decision of the Constitutional Court upholding Law No. 1 of 1965 on defamation of religion, the Committee is of the view that the said law is inconsistent with the provisions of the Covenant and that it should be repealed forthwith. The Committee reiterates its position as stated in paragraph 48 of general comment No. 34, that: “Prohibitions of displays of lack of respect for a religion or other belief system, including blasphemy laws, are incompatible with the Covenant, except in the specific circumstances envisaged in article 20, paragraph 2, of the Covenant. Thus, for instance, it would be impermissible for any such laws to discriminate in favour of or against one or certain religions or belief systems, or their adherents over another, or religious believers over non-believers. Nor would it be permissible for such prohibitions to be used to prevent or punish criticism of religious leaders or commentary on religious doctrine and tenets of faith.” Furthermore, the Committee recommends that the State party provide adequate protection against violence perpetrated against members of religious minorities",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee reiterates its recommendation and requests further information on the status and implementation of the bill on the protection of religious communities. Recommended action: A letter should be sent reflecting the analysis of the Committee. Next periodic report: 26 July 2017 109th session (October and November 2013) Mauritania Concluding observations:"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.0
+}

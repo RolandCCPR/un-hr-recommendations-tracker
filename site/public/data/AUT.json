@@ -1,0 +1,87 @@
+{
+ "a3": "AUT",
+ "name": "Austria",
+ "num": 40,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/AUT/CO/5",
+   "co_session": null,
+   "co_date": "3 November 2015",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/125/2/Add.1",
+   "assessment_session": 125,
+   "assessment_date": "4–29 March 2019",
+   "year": 2019,
+   "followup_paras": [
+    "20",
+    "22",
+    "30"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 3,
+   "grade_dist": {
+    "A": 0,
+    "B": 1,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.33
+  },
+  "paragraphs": [
+   {
+    "para": "20",
+    "title": "Racial profiling and police misconduct",
+    "recommendation": "The State party should ensure that its legislation clearly prohibits racial profiling by the police and prevent investigation, arbitrary detention, searches and interrogation on the basis of physical appearance, colour or ethnic or national origin. It should continue to provide all law enforcement personnel with racial sensitivity training in order to curb racial profiling and police misbehaviour towards ethnic minorities. Law enforcement personnel who commit offences against persons belonging to ethnic minorities should be held accountable. The Austrian Ombudsman Board should take steps to raise awareness about its new competence to receive complaints and consider making use of its ex officio powers to open investigations into allegations of racial discrimination and racially motivated misconduct by the police",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee regrets the lack of specific information on: (a) measures taken after the adoption of the concluding observations to clearly prohibit, in law, racial profiling by the police, to continue providing racial sensitivity training for law enforcement, and to hold law enforcement personnel accountable for offences against persons belonging to ethnic minorities; and (b) the implementation of the recommendations addressed to the Austrian Ombudsman Board. The Committee reiterates its recommendations"
+     }
+    ]
+   },
+   {
+    "para": "22",
+    "title": "Ill-treatment of persons deprived of their liberty",
+    "recommendation": "The State party should undertake an independent investigation into the reasons underlying the discrepancy between the low number of criminal convictions for illtreatment in police custody and the relatively high number of allegations. It should also ensure prompt, thorough and impartial investigations and documentation, in accordance with the Manual on the Effective Investigation and Documentation of Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Istanbul Protocol), into all allegations of torture and ill-treatment. Perpetrators prosecuted and convicted should be subjected to sanctions commensurate with the gravity of their acts, and victims provided with effective remedies. The State party should collect and make public information on the number and nature of reported incidents of torture and illtreatment of detainees, disaggregated by age, gender and ethnic origin of victims, and on the convictions and types of sentences or sanctions imposed on perpetrators of such acts",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee notes the measures taken by the State party, but requires additional information on: (a) The findings of (i) the evaluation of the investigative approach in relation to allegations of ill-treatment and the external study on investigative proceedings concluded by the public prosecutor’s offices of Vienna and Salzburg between 2012 and 2015 and (ii) the evaluation of the outcomes of investigations, trials and disciplinary measures for 2015 and 2016; and any follow-up to the study and evaluations and the impact of any measures taken as a result to ensure prompt, thorough and impartial investigations and documentation of all allegations of torture and ill-treatment and sanctions commensurate with the gravity of such acts for those convicted, and to address effectively the discrepancy between reported allegations of ill-treatment and the number of ensuing criminal convictions; (b) The content of the amendments to the decree of 23 April 2010 and how they address the shortcomings identified in respect of preventing and resolving ill-treatment allegations. Clarification is required as to whether statistics are also collected and made public regarding reported allegations of torture and ill-treatment in police custody, disaggregated by the age, gender and ethnic origin of victims, and convictions and sentences/sanctions imposed on perpetrators"
+     }
+    ]
+   },
+   {
+    "para": "30",
+    "title": "Detention of asylum seekers and refugees",
+    "recommendation": "The State party should pursue its efforts to ensure that detention pending deportation is applied only after due consideration of less invasive means, with special regard being given to the needs of particularly vulnerable persons, and that individuals detained for immigration-related reasons are held in facilities specifically designed for that purpose. The State party should review its detention policy with regard to children over the age of 14 years to ensure that children are not deprived of their liberty except as a measure of last resort and for the shortest appropriate period of time",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee takes note of the information provided on detention pending deportation, the accommodation of individuals, including of unaccompanied minors, and the statistics on the detention of minors. While welcoming the application of measures that are more lenient than pre-deportation detention in the majority of cases concerning children above the age of 14, the Committee regrets the lack of information on the length of detention, and that a review of detention policy with regard to children over the age of 14 years does not appear to have been carried out. The Committee reiterates its recommendations. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be addressed in the State party’s next periodic report. Next periodic report: 6 November 2021. 3"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.33
+}

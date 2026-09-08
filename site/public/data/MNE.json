@@ -1,0 +1,94 @@
+{
+ "a3": "MNE",
+ "name": "Montenegro",
+ "num": 499,
+ "upr": null,
+ "hrc": {
+  "meta": {
+   "mechanism": "hrc",
+   "co_symbol": "CCPR/C/MNE/CO/1",
+   "co_session": null,
+   "co_date": "28 October 2014",
+   "fco_symbol": null,
+   "assessment_symbol": "CCPR/C/124/2",
+   "assessment_session": 124,
+   "assessment_date": "8 October–2 November 2018",
+   "year": 2018,
+   "followup_paras": [
+    "7",
+    "9",
+    "18"
+   ],
+   "titles_editorial": false,
+   "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
+   "n": 4,
+   "grade_dist": {
+    "A": 0,
+    "B": 2,
+    "C": 2,
+    "D": 0,
+    "E": 0
+   },
+   "score": 3.5
+  },
+  "paragraphs": [
+   {
+    "para": "7",
+    "title": "National human rights institutions",
+    "recommendation": "The State party should enhance the capacity of the national human rights institution to implement a broad human rights mandate, and provide it with adequate resources, in line with the Paris Principles",
+    "header_grades": [
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee appreciates the information provided by the State party on the increase in staff numbers at the Ombudsman’s office, their designation to thematic fields, its efforts to provide training and education projects, as well as the information received concerning its budget. While the Committee welcomes the accreditation of B status to the Ombudsman, it requires further information on: (a) the measures it envisages to bring the Ombudsman’s office completely into line with principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles) with the aim of achieving A status; (b) the frequency of training sessions attended by staff; and (c) the impact that the two-year project has had so far"
+     }
+    ]
+   },
+   {
+    "para": "9",
+    "title": "Accountability for past human rights violations",
+    "recommendation": "The Committee recalls that the State party has an obligation to fully investigate all cases of alleged violations of articles 6 and 7 of the Covenant, and that article 15 permits the State party to employ retroactive criminal statutes to bring those responsible for such violations to trial when the acts were criminal according to the general principles of law recognized by the community of nations at the time when they were committed. The State party should take immediate and effective steps to investigate all unresolved cases of missing persons and bring the perpetrators to justice. It should ensure that the relatives of disappeared persons have access to information about the fate of the victims",
+    "header_grades": [
+     "C",
+     "B"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "While noting the information provided in relation to the Bukovica case, the Committee requires additional information on the revised judgment and clarification of whether there is any plan to reopen the case to bring those responsible for the violations to trial. The Committee regrets that the State party has not provided any information with regard to the measures taken to ensure that the relatives of disappeared persons have access to information about their fate. The Committee reiterates its recommendation"
+     },
+     {
+      "limb": "",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "eval": "The Committee takes note of the information provided on the Strategy for War Crimes, the establishment of the Special State Prosecutor’s Office, which is responsible for investigating and prosecuting war crimes, as well as the information on pending cases or investigations. The Committee requires further information: on (a) the exact steps taken and the progress made by the Strategy for War Crimes in fighting impunity for such crimes; (b) the dates and sentences rendered in the four final judgments mentioned in its report; and (c) the progress made in the eight cases on war crimes and seven cases for crimes allegedly committed on the territory of or neighbouring States"
+     }
+    ]
+   },
+   {
+    "para": "18",
+    "title": "Rights of minorities, birth registration, refugees, internally displaced persons and early marriage",
+    "recommendation": "The State party should pursue its efforts to facilitate access by displaced persons and refugees to the procedure for obtaining permanent residence status and to ensure equal access to social and economic opportunities in the State party. It should also adopt and implement a sustainable strategy, in consultation with Roma, Ashkali and Egyptians living in camps, to improve their living conditions and access to basic services. The State party is reminded that any relocation must be carried out in a non-discriminatory manner and must comply with international human rights standards, including the rights of individuals concerned to be fully informed and consulted, to an effective remedy, and the provision of adequate alternative housing",
+    "header_grades": [
+     "C"
+    ],
+    "limbs": [
+     {
+      "limb": "",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "eval": "The Committee appreciates the information provided on the steps taken to facilitate the procedure to resolve the legal status of refugees and internally displaced persons from the former Yugoslav republics, the specific number of persons granted citizenship and the requests resolved and pending, as well as the completed and ongoing projects to provide housing for refugees and internally displaced persons. However, it notes with concern that no information was provided on consultations with Roma, Ashkali and Egyptians living in camps for a sustainable strategy and that all persons who failed to exercise their right to submit a request for permanent or temporary residence of up to three years from 1 January 2015 are now considered to be residing illegally in Montenegro. The State party provided no information on the guarantees or the procedures in place to ensure that relocations were carried out in a non-discriminatory manner in compliance with international human rights standards, including the rights to be fully informed and consulted, to an effective remedy and to adequate alternative housing, as recommended by the Committee. The Committee requires information on: (a) the measures taken to ensure that those who have obtained an identity card for foreigners will enjoy the full range of rights without discrimination with regard to their permanent but foreign status; (b) the measures taken to facilitate access by displaced persons and refugees to the procedure for obtaining permanent residence status, including in cases in which they did not apply during the threeyear period specified by the State party and are now considered to be illegally residing in Montenegro; (c) the measures taken to improve the living standards of the most vulnerable refugees as well as those of Roma, Ashkali and Egyptians living in camps by engaging in consultations with them; (d) any guarantees or procedures in place to ensure the compliance of relocations with international human rights standards; and (e) how the National Housing Programme for ensures a non-discriminatory determination of a refugee’s vulnerability when determining their access to adequate housing"
+     }
+    ]
+   }
+  ],
+  "history": []
+ },
+ "combined_score": 3.5
+}
