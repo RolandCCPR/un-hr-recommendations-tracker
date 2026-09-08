@@ -56,6 +56,9 @@ export async function drawMap({ mountSel, tooltipSel, countries, worldUrl, numA3
 
   function mechRows(rec) {
     let s = "";
+    if (rec.combined != null) {
+      s += `<div style="margin-top:6px"><b>Combined</b> — ${rec.combined.toFixed(2)} / 5</div>`;
+    }
     for (const [k, label] of [["upr", "UPR"], ["hrc", "HR Committee"]]) {
       const m = rec[k];
       if (!m || m.score == null) continue;
@@ -67,6 +70,12 @@ export async function drawMap({ mountSel, tooltipSel, countries, worldUrl, numA3
     return s;
   }
 
+  function scoreFor(rec, mechanism) {
+    if (mechanism === "all") return rec.combined;
+    const m = rec[mechanism];
+    return m ? m.score : null;
+  }
+
   function paint(mechanism) {
     paths
       .classed("assessed", (d) => {
@@ -76,11 +85,10 @@ export async function drawMap({ mountSel, tooltipSel, countries, worldUrl, numA3
       .attr("fill", (d) => {
         const rec = byA3.get(numA3[String(d.id)]);
         if (!rec || !rec.assessed) return "#e6e6e6";
-        const m = rec[mechanism];
-        return scoreColor(m ? m.score : null);
+        return scoreColor(scoreFor(rec, mechanism));
       });
   }
 
-  paint("upr");
+  paint("all");
   return { paint };
 }

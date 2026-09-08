@@ -201,11 +201,16 @@ def main():
                        "num": next(k for k, v in num_a3.items() if v == a3),
                        "upr": {"meta": um, "themes": ut},
                        "hrc": {"meta": hm, "paragraphs": hp}}
+        us, hs = um["score"], hm["score"]
+        combined = (round((us + hs) / 2, 2) if us is not None and hs is not None
+                    else (us if us is not None else hs))
+        details[a3]["combined_score"] = combined
         summaries[a3] = {
-            "upr": {"score": um["score"], "grade_dist": um["grade_dist"],
+            "upr": {"score": us, "grade_dist": um["grade_dist"],
                     "n": um["n"], "label": um["cycle"]},
-            "hrc": {"score": hm["score"], "grade_dist": hm["grade_dist"],
+            "hrc": {"score": hs, "grade_dist": hm["grade_dist"],
                     "n": hm["n"], "label": hm["session"]},
+            "combined": combined,
         }
         (DATA / f"{a3}.json").write_text(
             json.dumps(details[a3], ensure_ascii=False, indent=1), encoding="utf-8")
@@ -219,6 +224,7 @@ def main():
             "region": row["region"], "assessed": bool(s),
             "upr": s["upr"] if s else None,
             "hrc": s["hrc"] if s else None,
+            "combined": s["combined"] if s else None,
         })
     (DATA / "countries.json").write_text(
         json.dumps(countries, ensure_ascii=False), encoding="utf-8")
@@ -282,8 +288,9 @@ def main():
     for a3 in sorted(SLUG_A3.values()):
         u = summaries[a3]["upr"]
         hh = summaries[a3]["hrc"]
-        print(f"  {a3}: UPR score {u['score']:>4}/5 (n={u['n']:>3})   "
-              f"HRC score {hh['score']:>4}/5 (n={hh['n']:>2})")
+        print(f"  {a3}: UPR {u['score']:>4}/5 (n={u['n']:>3})   "
+              f"HRC {hh['score']:>4}/5 (n={hh['n']:>2})   "
+              f"combined {summaries[a3]['combined']:>4}/5")
     print(f"data written to {DATA.relative_to(ROOT)}")
 
 

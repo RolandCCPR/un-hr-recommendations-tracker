@@ -28,7 +28,9 @@ const $ = (s) => document.querySelector(s);
       $("#map-cap").textContent =
         b.dataset.mech === "upr"
           ? "Shading: UPR 3rd-cycle implementation score (average grade, 1–5)."
-          : "Shading: Human Rights Committee follow-up score (average grade, 1–5).";
+          : b.dataset.mech === "hrc"
+          ? "Shading: Human Rights Committee follow-up score (average grade, 1–5)."
+          : "Shading: combined score — the average of a country's UPR and Human Rights Committee scores (1–5).";
     });
   });
 
