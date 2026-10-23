@@ -136,14 +136,16 @@ function hrcSection(hrc) {
       <div class="big" style="color:var(--muted)">—</div>
       <div>No UPR implementation assessment for this country yet.</div></div>`);
   }
-  const hm = data.hrc.meta;
-  boxes.push(`<div class="box">
+  if (data.hrc) {
+    const hm = data.hrc.meta;
+    boxes.push(`<div class="box">
     <div class="lbl">Human Rights Committee${hm.year ? " · " + hm.year : ""}</div>
     <div class="big" style="color:${scoreColor(hm.score)}">${hm.score.toFixed(2)}<span> / 5</span></div>
     <div>${hm.n} Concluding Observation${hm.n === 1 ? "" : "s"} · ${esc(hm.co_symbol)}</div>
     ${distBar(hm.grade_dist)}</div>`);
+  }
   $("#summary").innerHTML = boxes.join("");
 
   $("#content").innerHTML =
-    (data.upr ? uprSection(data.upr) : "") + hrcSection(data.hrc);
+    (data.upr ? uprSection(data.upr) : "") + (data.hrc ? hrcSection(data.hrc) : "");
 })();
