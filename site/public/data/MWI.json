@@ -22,15 +22,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 6,
+   "n": 4,
+   "n_grades": 6,
    "grade_dist": {
-    "A": 0,
-    "B": 1,
-    "C": 5,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 1.0,
+    "C": 3.0,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.17
+   "score": 3.25
   },
   "paragraphs": [
    {
@@ -47,7 +48,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee notes the information provided, but requires additional information on: (a) the outcome of court proceedings against the four police officers charged with homicide-related offences, including any convictions secured and the specific punishment imposed; (b) the prosecution status of the remaining cases referred to the Director of Public Prosecutions; (c) progress made by the Attorney General’s office in ensuring that the victims’ families are provided with compensation and rehabilitation, including, if applicable, the amount of compensation paid and the rehabilitation services offered. The Committee also requires information on investigations, prosecutions and convictions regarding cases of extrajudicial killings other than those committed during the demonstrations in July 2011"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "13",
@@ -70,7 +72,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee appreciates the information on the provisions of the Police Act regulating the use of firearms, but requires clarification as to how such use, for the purposes of preventing a person charged with or convicted of felony pursuant to section 44 of the Police Act from fleeing and protecting property considered valuable under section 105 (4) of the Police Act where there is no threat to life, complies with the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials, which limit the lawful use of firearms to circumstances of extreme necessity in order to respond to an imminent threat of death or serious injury or to prevent a particularly serious crime that involves a grave threat to life"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "24",
@@ -93,7 +96,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee notes the information provided, but requires more specific information on the measures taken since the adoption of its concluding observations to bring all perpetrators of all forms of sexual abuse of children to justice. It also requires information on compensation and concrete rehabilitation services offered to victims, in practice. The Committee reiterates its recommendations"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "25",
@@ -102,10 +106,11 @@
     "header_grades": [
      "C"
     ],
-    "limbs": []
+    "limbs": [],
+    "score": 3.0
    }
   ],
   "history": []
  },
- "combined_score": 3.17
+ "combined_score": 3.25
 }

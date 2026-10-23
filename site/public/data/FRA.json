@@ -21,13 +21,14 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 3,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 0,
-    "B": 5,
-    "C": 0,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 3.0,
+    "C": 0.0,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 4.0
   },
@@ -46,7 +47,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee notes the national debate surrounding the continued use of postsentence preventive detention, in particular the report issued in December 2015 by the commission established to review the law on criminal sanctions. It requests further information on the follow-up by the Ministry of Justice to the opinions of various national institutions recommending the abolition of post-sentence preventive detention, in particular in cases where post-sentence preventive detention is imposed in the absence of a connection to any ruling or initial sentence"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "12",
@@ -76,7 +78,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "In connection with the monitoring of surveillance activities, the Committee requests further information on: (a) the measures taken to ensure that the general public is aware of the existence of the National Commission for the Control of Intelligence Techniques and that the Commission has sufficient resources to carry out its duties; (b) the potential for authorities other than the Prime Minister to request opinions from the Commission; (c) the total number of opinions received by the Commission and the number of unfavourable opinions issued; and (d) the duty to inform individuals that they have been placed under surveillance, and access, in practice, to effective remedies in the event of abuse. France"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "16",
@@ -92,7 +95,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee acknowledges with appreciation the State party’s willingness to cooperate with the United Nations and the Central African Republic and the information provided on the investigations undertaken. It nevertheless requests information on: (a) the expected time frame for the conclusion of the investigations and the provisional measures imposed in the interim on those individuals suspected of involvement; (b) the status of the investigations and any sentences, punishments and disciplinary measures imposed on those found responsible; and (c) the measures of redress that have been made available to the victims"
      }
-    ]
+    ],
+    "score": 4.0
    }
   ],
   "history": []

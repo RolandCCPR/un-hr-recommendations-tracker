@@ -17,15 +17,16 @@
    "followup_paras": [],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 7,
+   "n": 3,
+   "n_grades": 7,
    "grade_dist": {
-    "A": 0,
-    "B": 3,
-    "C": 3,
-    "D": 0,
-    "E": 1
+    "A": 0.0,
+    "B": 1.0,
+    "C": 1.67,
+    "D": 0.0,
+    "E": 0.33
    },
-   "score": 3.14
+   "score": 3.11
   },
   "paragraphs": [
    {
@@ -40,7 +41,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee notes the State party’s commitment to international protection and to upholding the principle of non-refoulement. Nevertheless, it regrets that section 197 (c) of the Migration Act has not been repealed. It reiterates its recommendation. The Committee notes the information on Operation Sovereign Borders, but regrets the lack of specific information on measures taken during the reporting period to review the State party’s policy and practices during interceptions at sea. The Committee reiterates its recommendation and requests information on any concrete measures taken within the reporting period to review relevant policies and practices. The Committee notes the information on the Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act and its role within the State party’s protection reform agenda. It regrets that the Act has not been repealed and reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "36",
@@ -66,7 +68,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "(c) The Committee notes the information on the transition of the Christmas Island detention centre to a contingency setting in October 2018 and welcomes the indication that, although it was reopened in 2019, the State party may consider returning it to that setting if its operational capacity is no longer required. The Committee reiterates its recommendation that the State party should consider closing down the Christmas Island detention centre"
      }
-    ]
+    ],
+    "score": 2.67
    },
    {
     "para": "38",
@@ -92,10 +95,11 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "(i) The Committee notes the information on the measures taken to ensure that children and unaccompanied minors are detained only as a matter of last resort and for the shortest appropriate period, taking into account their best interests. It commends the State party on the reported reduction in the number of children and unaccompanied minors in immigration detention. It requests that the State party provide up-to-date information on the number of children and unaccompanied minors who are subject to immigration detention and community detention for each year within the reporting period. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2026 (country review in 2027, in accordance with the predictable review cycle). 6"
      }
-    ]
+    ],
+    "score": 3.67
    }
   ],
   "history": []
  },
- "combined_score": 3.14
+ "combined_score": 3.11
 }

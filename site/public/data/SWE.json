@@ -20,15 +20,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 3,
+   "n": 2,
+   "n_grades": 3,
    "grade_dist": {
-    "A": 1,
-    "B": 1,
-    "C": 1,
-    "D": 0,
-    "E": 0
+    "A": 1.0,
+    "B": 0.5,
+    "C": 0.5,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 4.0
+   "score": 4.25
   },
   "paragraphs": [
    {
@@ -45,7 +46,8 @@
       "meaning": "Information/action largely satisfactory",
       "eval": "The Committee appreciates the significant actions taken by the State party to prevent and combat racism, xenophobia and other forms of intolerance, particularly through awareness-raising, research and training activities provided for under the national plan adopted on 24 November 2016; it requires information on the impact of these measures, including clarification substantiated by relevant data as to whether implementation translated into a decrease in manifestations of racism and intolerance identified as concerns by the Committee, as well as on the remaining gaps and challenges. The Committee welcomes the new measures taken by the State party to strengthen its response to hate crimes, including the establishment of a national contact point and specific hate crime units in the three metropolitan police regions, allocation of resources for criminal investigations and assistance to victims, and the update (December 2016) to the Prosecution Authority’s general procedure for the investigation of hate crimes. It requires further information on whether and how such measures contributed to improved practices of identification, investigation and prosecution of racism, xenophobia and other forms of intolerance and to better support for victims, including relevant data on the number of incidents reported since 2016, investigations, prosecutions and convictions secured, and on remedies provided to victims of such violations"
      }
-    ]
+    ],
+    "score": 5.0
    },
    {
     "para": "33",
@@ -68,10 +70,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee takes note of the information regarding detention of migrants and asylum seekers and the application of supervision as an alternative whenever possible. However, it requires (a) further information on whether detention is used as a measure of last resort, is applied for the shortest appropriate period, and is justifiable as reasonable, necessary and proportionate in the light of the circumstances; (b) further information on the time limit on immigration detention; and (c) up-to-date data on the implementation of alternatives to detention in practice. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The requests for additional information will be included, as appropriate, in the list of issues prior to submission of the eighth periodic report of Sweden. Next periodic report: 31 March 2023. 4"
      }
-    ]
+    ],
+    "score": 3.5
    }
   ],
   "history": []
  },
- "combined_score": 4.0
+ "combined_score": 4.25
 }

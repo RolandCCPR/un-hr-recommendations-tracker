@@ -22,15 +22,16 @@
    ],
    "titles_editorial": true,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 6,
+   "n": 4,
+   "n_grades": 6,
    "grade_dist": {
-    "A": 0,
-    "B": 3,
-    "C": 0,
-    "D": 2,
-    "E": 1
+    "A": 0.0,
+    "B": 2.33,
+    "C": 0.0,
+    "D": 0.67,
+    "E": 1.0
    },
-   "score": 2.83
+   "score": 2.92
   },
   "paragraphs": [
    {
@@ -47,7 +48,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "While the Committee welcomes the initial legislative measures taken by the State party to develop an independent national human rights institution, the adoption is yet to be finalized. The Committee reiterates its recommendations and requests further information from the State party regarding the status and implementation of the bill"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "10",
@@ -63,7 +65,8 @@
       "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
       "eval": "The Committee notes Council of Ministers Decision No. 137 of 2012, which is interpreted by the State party as an affirmation of the existing laws. The Committee regrets that the decision and the refusal to change the law to ensure equality between men and women, as requested by the Committee, results in a situation that is contrary to the Committee’s recommendations and conflicts with the State party’s obligations under the Covenant. The Committee reiterates its recommendations"
      }
-    ]
+    ],
+    "score": 1.0
    },
    {
     "para": "15",
@@ -79,7 +82,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "While initial legislative measures have been taken by the State party to establish a commission of inquiry to investigate human rights abuses committed in 2011 and to implement requests for the release of certain currently detained persons, the Committee notes that the presidential decrees remain to be implemented in practice. Furthermore, no substantive information has been provided on measures to ensure that: (a) Along with allegations of crimes relating to the 2011 unrest, those related to the unrest in the south, the conflict in the north and the fight against Al-Qaida’s presence in the territory of the State party will be investigated; (b) Investigations launched will be transparent and independent; (c) Criminal proceedings against alleged perpetrators, particularly members of the law enforcement and security forces, will be initiated, and those convicted will be sentenced appropriately; (d) Victims will be afforded reparation and adequate compensation. Additional information on the implementation and impact of the State party’s legislative measures, as well as information regarding items (a)–(d) outlined above, is required"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "21",
@@ -109,10 +113,11 @@
       "meaning": "No cooperation with the Committee",
       "eval": "Concerning immigrants unlawfully held in detention centres, the Committee regrets that no information was provided on measures taken to ensure that asylum seekers and refugees are not held in penal conditions"
      }
-    ]
+    ],
+    "score": 2.67
    }
   ],
   "history": []
  },
- "combined_score": 2.83
+ "combined_score": 2.92
 }

@@ -17,15 +17,16 @@
    "followup_paras": [],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 3,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 0,
-    "B": 2,
-    "C": 3,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 1.0,
+    "C": 2.0,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.4
+   "score": 3.33
   },
   "paragraphs": [
    {
@@ -46,7 +47,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the information on the measures taken to prevent violence against women, including awareness-raising activities, measures to encourage use of a hotline to report violence and the launch in 2019 of a national strategy to combat violence against women. It requests additional information about these measures, including how they ensure that victims are able to report cases without fear of humiliation and any data on their efficacy. The Committee welcomes the information on the various training activities on how to detect and deal properly with cases of violence against women. It requests additional information about these activities, including the number of courses held for stakeholders within each relevant sector, the dates of the training courses and the number of attendees, as well as any available data on their efficacy"
      }
-    ]
+    ],
+    "score": 3.5
    },
    {
     "para": "38",
@@ -66,7 +68,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "(e) The Committee welcomes the information that the curfews introduced in municipalities hosting large numbers of refugees were lifted after a short period and requests additional information about the specific measures taken to ensure that curfews remain an exceptional measure and that those that were imposed were lawful and strictly justified under the Covenant"
      }
-    ]
+    ],
+    "score": 3.5
    },
    {
     "para": "40",
@@ -80,10 +83,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee notes the information on legal reforms relevant to the protection of domestic workers, including Act No. 164 and Decree No. 168/1 of 2015. However, that information was already available to the Committee at the time of the adoption of the recommendation. The Committee also notes the steps taken to ensure that domestic workers are aware of their rights and can access available remedies, and to reform recruitment practices with a view to protecting domestic workers against abuse. Nevertheless, the Committee is concerned at the absence of information about concrete measures taken to implement its recommendation to strengthen existing protections for migrant domestic workers. It reiterates its recommendation and requests information on measures taken to implement all parts of its recommendation, including the development and material scope of the unified employment contract. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2028 (country review in 2029 in accordance with the predictable review cycle). 5"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []
  },
- "combined_score": 3.4
+ "combined_score": 3.33
 }

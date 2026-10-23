@@ -22,12 +22,13 @@
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
    "n": 3,
+   "n_grades": 3,
    "grade_dist": {
-    "A": 0,
-    "B": 0,
-    "C": 3,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.0,
+    "C": 3.0,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 3.0
   },
@@ -46,7 +47,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets that the State party has taken no specific measures to implement the Committee’s recommendation. In this regard, it requests information on the content of the revised National War Crimes Prosecution Strategy, including information on whether it complies with the Covenant and on measures taken to expedite its adoption. The Committee also requests information on specific measures taken to provide adequate support, including psychological support, and protection to victims and witnesses of crimes against humanity and other international crimes, particularly those relating to sexual violence; and on specific measures taken to make fully operational the law on the provision of free legal aid adopted in 2016, including by providing sufficient financial and human resources for its implementation. The Committee further requires information on the application by civil courts of a statute of limitations, and on the imposition of high court fees and the resulting impact on victims seeking redress"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "20",
@@ -62,7 +64,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the lack of information provided on the implementation of the Committee’s recommendation. The Committee reiterates its recommendation. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 29 March 2022. 4"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []

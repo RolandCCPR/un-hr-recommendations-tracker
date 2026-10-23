@@ -17,15 +17,16 @@
    "followup_paras": [],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 0,
-    "B": 1,
-    "C": 3,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.5,
+    "C": 2.5,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.25
+   "score": 3.17
   },
   "paragraphs": [
    {
@@ -40,7 +41,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the lack of information on measures taken since the adoption of the concluding observations, reiterates its recommendation and requests information on the alleged threats, intimidation and attempts on the lives of judges and prosecutors and on the legal proceeding aiming to eliminate the judicial immunity of four magistrates: Gloria Porras, Bonerge Mejía, Francisco de Mata Vela and Neftaly Aldana. The Committee regrets the lack of information provided by the State party on measures taken since the adoption of the concluding observations to ensure that the selection and appointment of magistrates, judges and prosecutors, as well as of the Attorney General and the Comptroller General, are based entirely on the use of objective, transparent criteria for the assessment of candidates’ merits in terms of their qualifications, competence and integrity. The Committee reiterates its recommendation and requests information on: (a) the impact and application of the Judicial Service Act, particularly regarding the selection and appointment of magistrates, judges and prosecutors; (b) the alleged delays and undue interference in the elections of judges and magistrates; and (c) the role of representatives of academia in the nominations committees. While noting the information on the establishment of the Directorate for the Security of the Judiciary, the Committee regrets the lack of specific information on measures taken to develop a protocol for the protection of judicial officials and persons involved in judicial proceedings, to strengthen the witness protection programme and to uphold the independence of judicial officials in their deliberations, determinations and work. It reiterates its recommendation. The Committee notes the information on the four bills on the amendment to the Act on Preliminary Misconduct Proceedings that have been submitted to Congress. It reiterates its recommendation. The Committee regrets that the mandate of the International Commission against Impunity in has not been renewed. It notes the adoption of several measures, including the establishment of the Presidential Commission on Corruption. It requests information on the impact of the legislative and institutional measures taken to combat corruption, and on the alleged threats and intimidation against prosecutors of the Special Prosecutor’s Office against Impunity and the lack of available protection measures"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "37",
@@ -54,7 +56,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "While the Committee welcomes the efforts made to draft a public policy on human rights defenders, it regrets the delay in its adoption and requires information on whether the policy covers journalists and trade unionists. While noting the information on efforts to provide existing agencies with the necessary resources to improve analysis of attacks and ensure they are investigated, the Committee regrets the lack of information on the impact of these measures, including the protocol for the investigation of crimes committed against human rights defenders issued by the Public Prosecution Service and its implementation, and of statistics on the number of investigations, convictions of perpetrators and victims receiving full redress. It reiterates its recommendation. The Committee regrets the lack of detailed information on measures taken by the State party to ensure that due process guarantees are upheld in cases in which criminal charges are brought against human rights defenders. It reiterates its recommendation. The Committee regrets the lack of information from the State party on measures to ensure that any restriction on the right to freedom of opinion and expression and the right to freedom of assembly and association fully meets the strict requirements set out in articles 19 (3), 21 and 22 (2) of the Covenant. It reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "39",
@@ -74,7 +77,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the lack of information on measures taken since the adoption of the concluding observations to ensure that forced evictions that are not in line with international standards are not carried out; that the application of states of emergency strictly adheres to the conditions set out in article 4 of the Covenant; and that indigenous peoples are able to express themselves in their own languages and promote their cultures on commercial and community radio stations on an equitable basis. It reiterates its recommendations. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2028 (country review in 2029, in accordance with the predictable review cycle). 6"
      }
-    ]
+    ],
+    "score": 3.5
    }
   ],
   "history": [
@@ -86,5 +90,5 @@
    }
   ]
  },
- "combined_score": 3.25
+ "combined_score": 3.17
 }

@@ -211,7 +211,13 @@ the country-by-country comparison are recorded there.
 
 - Each grade is worth points: **E = 1, D = 2, C = 3, B = 4, A = 5**.
 - A country's **score for a mechanism** is the average of those points across its
-  graded items — a number between 1 and 5.
+  graded items — for the UPR each recommendation, for the Human Rights Committee
+  each Concluding Observation (see the next point) — a number between 1 and 5.
+- Each Concluding Observation counts once. When the Committee grades it in
+  several subparagraphs, each grade is worth an equal share: a Concluding
+  Observation graded [B] [C] [A] [B] scores (4 + 3 + 5 + 4) ÷ 4 = 4.0. A
+  country's score is the average of its Concluding Observation scores, and the
+  coloured bar shows the same shares.
 - The **"combined"** score (used for the default map view) is the average of a
   country's UPR and Human Rights Committee scores where both exist; for the other
   ~110 countries it is simply the Human Rights Committee score.

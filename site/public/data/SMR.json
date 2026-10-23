@@ -18,12 +18,13 @@
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
    "n": 1,
+   "n_grades": 1,
    "grade_dist": {
-    "A": 0,
-    "B": 0,
-    "C": 1,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.0,
+    "C": 1.0,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 3.0
   },
@@ -40,7 +41,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee takes note of the information regarding the protection against discrimination provided under the State party’s legal framework, but regrets that measures have not been taken to enact specific legislation and reiterates its recommendation in this regard. It requests further information on existing legal provisions, including: (a) cases in which article 4 of the Constitution has been invoked within the reporting period; and (b) legal standards that include anti-discrimination provisions. It also requests data on the number of investigations, prosecutions and convictions there have been in cases of discrimination in the reporting period, and details of the sanctions imposed and the reparations granted to victims. The Committee also takes note of the information on efforts to raise public awareness of, and train specialist stakeholders on, the existing criminal provisions against discrimination. The Committee requests more specific information on the initiatives the State party has engaged in, including the number and nature of all awareness-raising and training activities, when they took place, the number of participants, and their substantive impact. The Committee, while taking note of the information on the awareness of judges and lawyers of the existing criminal provisions against discrimination, regrets the lack of specific training measures that were taken within the reporting period. It requests information on any plans to provide training for judges and lawyers on existing criminal provisions against discrimination"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []

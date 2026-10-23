@@ -21,13 +21,14 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 0,
-    "B": 2,
-    "C": 2,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 1.5,
+    "C": 1.5,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 3.5
   },
@@ -46,7 +47,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee welcomes the information provided by the State party on enabling access to sexual and reproductive health information and services to all women, including girls under the age of 16. It requests clarification of whether the steps described were taken before or after the issuance of its concluding observations. It also requests additional information on the substantive impact of these programmes, and the overall availability of services across the State party during the reporting period. The Committee regrets the lack of information on legislative initiatives and measures taken by the State party to decriminalize the voluntary termination of pregnancy, including in cases of pregnancy resulting from rape, incest and fetal abnormality, and reiterates its recommendation in this regard. It requests precise information about any planned amendments to its abortion legislation. The Committee also regrets that no information has been provided in relation to monitoring and data collection on women’s access to health care. The Committee reiterates its recommendation and requests information about any measures taken to improve monitoring and data, and any available statistics on access to health care among women and girls"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "32",
@@ -69,7 +71,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the lack of information on the steps taken to improve sanitary conditions. It reiterates its recommendation and requests information about any relevant measures taken during the reporting period. The Committee also regrets that there has been no information from the State party on efforts to adopt legislation governing pretrial detention and to put in place a system to detain accused persons separately from convicted persons. The Committee reiterates its recommendation and requests data on the number of pretrial detainees held with convicted persons"
      }
-    ]
+    ],
+    "score": 3.5
    },
    {
     "para": "44",
@@ -85,7 +88,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the review of the Child Care and Protection Act and the likely proposal of amendments to eliminate the possibility of incarcerating children with behavioural problems, to increase support for families with children who experience exploitation, abuse and trauma, and to ensure the shortest possible period of detention of children in police stations. Nevertheless, it notes with concern that this legislation has not yet been implemented and requests additional information on the status of the amendments and the expected time frame for their enactment into law. The Committee notes the information provided by the State party regarding the efforts to improve the juvenile detention system, including access to quality support services for children in conflict with the law. It requests additional information on the availability of these programmes and their substantive impact. The Committee notes with concern the lack of information about the development of conflict resolution programmes and requests information about any measures taken in this regard within the reporting period. The Committee also notes information about measures to ensure coordination and oversight of the child protection sector, including the merging of institutions into the Child Protection and Family Services Agency, development of the Child Case Management System and efforts to improve police interaction with children in accordance with the Child Interaction Policy and Procedures. The Committee requests additional information about the time frame envisaged for the full implementation of these reforms and the substantive impact on the handling of child protection cases involving exploitation, abuse and trauma. The Committee requests information about any relevant measures taken to develop alternative arrangements to detention of children in conflict with the law. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2024 (country review in 2025, in accordance with the predictable reviewcycle.See www.ohchr.org/EN/HRBodies/CCPR/Pages/PredictableReviewCycle.aspx). 5"
      }
-    ]
+    ],
+    "score": 4.0
    }
   ],
   "history": []

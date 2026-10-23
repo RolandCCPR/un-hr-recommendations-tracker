@@ -21,15 +21,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 0,
-    "B": 1,
-    "C": 2,
-    "D": 0,
-    "E": 1
+    "A": 0.0,
+    "B": 0.5,
+    "C": 1.5,
+    "D": 0.0,
+    "E": 1.0
    },
-   "score": 2.75
+   "score": 2.5
   },
   "paragraphs": [
    {
@@ -53,7 +54,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "(e) The Committee welcomes the information provided regarding the systematic training and education of judges, public prosecutors and law enforcement officers with the aim of strengthening their investigative capacities and understanding their responsibilities in criminal proceedings. The Committee requests further information regarding the specific content and impact of the training, including statistical data on the number of professionals trained during the reporting period and the frequency with which professionals are required to participate in continuing education and training programmes"
      }
-    ]
+    ],
+    "score": 3.5
    },
    {
     "para": "38",
@@ -69,7 +71,8 @@
       "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
       "eval": "While noting the information provided, the Committee regrets the lack of information on steps taken during the reporting period to give full effect to the right of citizens to genuinely take part in the conduct of public affairs, to vote and to be elected. The Committee also regrets that reports indicate the continued restriction of a multi-party system and that all candidates must be approved by the Lao People’s Revolutionary Party or a State-sponsored mass organization, as well as the de facto exclusion of ethnic minorities, particularly the Hmong, in politics and public life. Moreover, it regrets the alleged further suppression of civil and political space and the lack of measures taken to revise legislation denying all convicted prisoners the right to vote and to ensure that legislation does not discriminate against persons with intellectual or psychosocial disabilities by denying them the right to vote. The Committee reiterates its recommendations"
      }
-    ]
+    ],
+    "score": 1.0
    },
    {
     "para": "40",
@@ -85,10 +88,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "While welcoming the legislative measures taken to ensure consultations are held with communities with regard to development projects that could affect their livelihoods, lifestyles and cultures and to provide compensation and resettlement management in development projects, the Committee is concerned at reports indicating an alleged increase in forced and illegal land grabbing by the authorities under the “Turning Land into Capital” policy, resulting in the mass displacement of rural communities. The Committee is also concerned about information indicating the continued persecution and discrimination of members of the Hmong ethnic minority. It reiterates its recommendations"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []
  },
- "combined_score": 2.75
+ "combined_score": 2.5
 }

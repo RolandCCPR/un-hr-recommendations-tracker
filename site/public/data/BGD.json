@@ -21,15 +21,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 0,
-    "B": 1,
-    "C": 3,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.5,
+    "C": 2.5,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.25
+   "score": 3.17
   },
   "paragraphs": [
    {
@@ -53,7 +54,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets that the Child Marriage Restraint Act, 2017 includes an exception that allows for the marriage of girls under 18 years, and reiterates its recommendation. It requests information on the minimum age of the child for such an exception to be applied, usage of such an exception, including the number of times it has been used to authorize the marriage of girls under 18 years"
      }
-    ]
+    ],
+    "score": 3.5
    },
    {
     "para": "20",
@@ -69,7 +71,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee takes note of the information regarding the protection of the right to life provided under the State party’s existing legal framework, including the recently enacted sector-specific laws. Nevertheless, the Committee regrets that the State party has not provided any information on measures taken during the reporting period to protect the right to life of all persons in the context of extrajudicial killings and enforced disappearances. Therefore, the Committee reiterates its recommendation. The Committee also takes note of the information on the State party’s existing legislation on the use of force, but regrets that no measures have been taken since the adoption of the Committee’s concluding observations to revise its legislation to limit the use of force by law enforcement officials, military and special forces, in accordance with the Basic Principles on the Use of Force and Firearms by Law Enforcement Officials. It also regrets the lack of measures taken to ensure accountability for violations. In this regard, the Committee draws the State party’s attention to its general comments No. 36 (2018) on the right to life, particularly paragraphs 10 to 17 and 58, and No. 37 (2020) on the right of peaceful assembly, particularly paragraphs 96 and 98. It requests further information on cases in which the existing legislation on the use of force has been invoked within the reporting period and data on the number of complaints, investigations, prosecutions and convictions there have been in cases of use of force by the police during the reporting period, as well as details of the sanctions imposed and the reparations granted to the victims. The Committee takes note of the information regarding the criminalization of kidnapping offences. Nevertheless, it regrets that the State party has not provided any information on steps taken to effectively criminalize enforced disappearance. The Committee takes note of the information provided on the outcome of the Narayanganj murder case, but draws the State party’s attention to the fact that the judgment in that case predates the issuance of the concluding observations. It reiterates its recommendation and requests information on measures taken after the adoption of the Committee’s concluding observations. No evaluation applicable: (e) The Committee notes that the information is to be provided in the State party’s next periodic report"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "22",
@@ -85,10 +88,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets that the State party has not provided information on any steps taken during the reporting period to implement its recommendations and end the practice of torture and ill-treatment. While noting the information provided by the State party regarding the Torture and Custodial Death (Prevention) Act, 2013, the Committee requests additional information on the enforcement of the act, including the number of investigations, prosecutions and convictions that have taken place under it during the reporting period, as well as information on any reparations provided to victims. In addition, while noting the information about the functions and authority of the National Human Rights Commission, the Committee requests additional information on its role as an independent complaint mechanism, including whether it is empowered to directly investigate allegations of human rights violations committed by law enforcement agents. The Committee requests details of the number of complaints the Commission received during the reporting period, how many investigations it conducted and the results of those investigations, including any prosecutions of perpetrators and reparations provided to victims"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []
  },
- "combined_score": 3.25
+ "combined_score": 3.17
 }

@@ -17,15 +17,16 @@
    "followup_paras": [],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 0,
-    "B": 1,
-    "C": 3,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.5,
+    "C": 2.5,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.25
+   "score": 3.17
   },
   "paragraphs": [
    {
@@ -40,7 +41,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the absence of information on measures taken to ensure the implementation of all pending Views adopted by the Committee, through appropriate and effective mechanisms. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "25",
@@ -54,7 +56,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee, while noting the figures provided on cases brought and prosecutions initiated, regrets the absence of information on measures taken to ensure that all allegations of torture and ill-treatment are investigated promptly, effectively, independently and impartially. The Committee also regrets the lack of detailed information on the sentences handed down to perpetrators, including the duration of custodial sentences. While noting the strengthening of legislative provisions relating to compensation for victims of torture and ill-treatment, the Committee also notes that only one victim appears to have been awarded compensation during the reporting period. The Committee regrets the absence of information on other forms of reparation provided to victims, including rehabilitation. The Committee requests that the State party provide detailed information on all of the above in its next report. While noting the figures provided, the Committee regrets the absence of information on measures taken to ensure that all persons deprived of liberty have access to an independent and effective complaints mechanism to investigate allegations of torture and ill-treatment, including measures taken to strengthen the independence and capacity of the ombudsman to respond to such complaints. The Committee reiterates its recommendation. The Committee notes that no cases have been brought in the reporting period under article 144, part 2, of the Criminal Code concerning reprisals relating to the submission of complaints to State authorities on alleged torture and ill-treatment. It also notes that no one convicted of a crime under this provision is serving a sentence in a penal establishment. The Committee reiterates its request for information on measures taken to ensure that acts of reprisal are effectively sanctioned and requests information on the number and type of complaints submitted under article 44, part 2, of the Criminal Code, on related prosecutions and convictions, and details of sentences handed down. The Committee regrets the absence of information on measures taken to ensure protection of complainants from reprisals and reiterates its recommendation in this regard. The Committee regrets the absence of information on measures taken to eliminate obstacles, including in national legislation and in practice, that can discourage the reporting of torture and other ill-treatment. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "29",
@@ -74,7 +77,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the absence of information on measures taken to ensure that persons arrested or detained on a criminal charge are brought promptly before a judge or other officer authorized by law to exercise judicial power, within 48 hours, in order to bring their detention under judicial control. The Committee reiterates its recommendation. The Committee notes the statistical information provided on judicial review of detention, including on illegal detention under article 234 of the Criminal Code. The Committee regrets the absence of information on whether the State party’s framework for judicial review of detention is in conformity with article 9 of the Covenant, including the standards set out in the Committee’s general comment No. 35 (2014) on liberty and security of person, indicating, inter alia, that a public prosecutor cannot be considered as an officer exercising judicial power under article 9 (3) of the Covenant. The Committee reiterates its recommendation. The Committee notes the statistics provided on custodial sentences handed down to juveniles during the reporting period. The Committee regrets the lack of information provided on measures in place to ensure that alternatives to the detention of juvenile offenders are used where appropriate, in line with international standards. The Committee requests additional information on the availability and use of alternatives to detention that are appropriate to the age of the child and that take into account the desirability of promoting the child’s reintegration into society"
      }
-    ]
+    ],
+    "score": 3.5
    }
   ],
   "history": [
@@ -92,5 +96,5 @@
    }
   ]
  },
- "combined_score": 3.25
+ "combined_score": 3.17
 }

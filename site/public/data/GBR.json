@@ -20,15 +20,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 8,
+   "n": 2,
+   "n_grades": 8,
    "grade_dist": {
-    "A": 0,
-    "B": 1,
-    "C": 7,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.2,
+    "C": 1.8,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.12
+   "score": 3.1
   },
   "paragraphs": [
    {
@@ -73,7 +74,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The State party has not considered conducting an official inquiry into the murder of Patrick Finucane. The Committee also notes that the decision not to hold a public inquiry is the subject of judicial review by the Supreme Court, and it requires information on the outcome of appeal proceedings and on any other measures taken to implement its recommendation. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.2
    },
    {
     "para": "9",
@@ -103,10 +105,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the State party’s assertion regarding the inability to identify Camp Nama with a particular location and the lack of specific information on measures taken to investigate the allegations in connection with Camp Nama thoroughly, independently and impartially. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []
  },
- "combined_score": 3.12
+ "combined_score": 3.1
 }

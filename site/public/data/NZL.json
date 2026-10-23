@@ -21,15 +21,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 2,
-    "B": 1,
-    "C": 1,
-    "D": 0,
-    "E": 0
+    "A": 1.5,
+    "B": 0.5,
+    "C": 1.0,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 4.25
+   "score": 4.17
   },
   "paragraphs": [
    {
@@ -46,7 +47,8 @@
       "meaning": "Information/action largely satisfactory",
       "eval": "The Committee welcomes the extensive information provided by the State party. It requests further information, including the results achieved, on: (i) the system that is currently being created to establish a workforce able to recognize risk and need with regard to domestic and gender-based violence; (ii) the Risk Assessment and Management Framework; (iii) the Workforce Capability Framework; (iv) the extension of the E Tū Whānau programme into hard-to-reach communities; (v) the $NZ 503 million Safer Communities package to substantially increase police staff and resources across the country; (vi) the Family and Whānau Violence Legislation Bill to reform the law in relation to family violence, including the timeline for adoption; and (vii) the initiatives taken by the Police. The Committee takes note of the information provided on the incorporation of a large number of recommendations from the 2014 universal periodic review into the National Plan of Action. It requests clarification of the measures that have been taken since the adoption of its concluding observations to combat domestic and gender-based violence, including sexual violence, and to incorporate programmes to combat domestic and genderbased violence into the National Plan of Action. The Committee welcomes the steps the State party has taken to redevelop the Crime and Safety Survey into the annual Crime and Victims Survey, including the identification of indicators to better monitor trends in prevalence, victim harm and perpetrator cost/harm. It also welcomes the improvements made to the statistics on recorded crime victims and offenders to make them more user-friendly for the public. The Committee requests that the State party include in its next periodic report data on cases of domestic and gender-based violence, including on investigations, prosecutions and convictions, and information on how these figures have been used to inform future policy initiatives and legislation. The Committee welcomes the launch in 2016 of the project on responding to victims and the integrated services for sensitive claims. It requests information on: (i) measures taken to provide legal assistance to the victims; (ii) the number of victims who have received support under that project and those services over the past three years; (iii) whether the project and services cover the entire territory; and (iv) whether the services are accessible free of charge to all women, particularly those in Maori and Pasifika families, as well as women and girls with disabilities. The Committee takes note of the information provided, but regrets the lack of information on specific measures taken with regard to cases of domestic violence that are submitted to family dispute resolution and how these cases have been monitored. It requests information on the number of cases of domestic violence considered under the family dispute resolution mechanism over the past three years and on whether the State party plans to take any special measures to ensure that the dispute settlement framework is implemented effectively, particularly for the protection of those experiencing domestic violence, especially women and children"
      }
-    ]
+    ],
+    "score": 5.0
    },
    {
     "para": "32",
@@ -63,10 +65,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets that the State party has no plans to review and revise the Marine and Coastal Area (Takutai Moana) Act 2011. It takes note of the explanation provided and requests further information on how the Act ensures respect not only of the interests, but also of the customary rights of Maori on their land and resources, and their cultural development. The Committee reiterates its recommendation. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report: 2026 (country review in 2027, in accordance with the predictable review cycle. See www.ohchr.org/EN/HRBodies/CCPR/Pages/PredictableReview Cycle.aspx). 5"
      }
-    ]
+    ],
+    "score": 4.5
    }
   ],
   "history": []
  },
- "combined_score": 4.25
+ "combined_score": 4.17
 }

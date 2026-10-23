@@ -21,15 +21,16 @@
    ],
    "titles_editorial": true,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 10,
+   "n": 3,
+   "n_grades": 10,
    "grade_dist": {
-    "A": 0,
-    "B": 3,
-    "C": 6,
-    "D": 1,
-    "E": 0
+    "A": 0.0,
+    "B": 0.65,
+    "C": 2.1,
+    "D": 0.25,
+    "E": 0.0
    },
-   "score": 3.2
+   "score": 3.13
   },
   "paragraphs": [
    {
@@ -74,7 +75,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "No new vetting mechanisms have been introduced by the State party. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.4
    },
    {
     "para": "7",
@@ -90,7 +92,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee notes the election of the Chair and commissioners of the National Human Rights Commission in October 2014, and requests information on the procedures by which they were selected and on measures taken to amend the National Human Rights Act 2068 (2012)"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "10",
@@ -127,10 +130,11 @@
       "meaning": "No cooperation with the Committee",
       "eval": "The Committee regrets that the State party has provided no further information on the effective investigation of alleged unlawful killings, torture and ill-treatment or on the provision of effective remedies. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []
  },
- "combined_score": 3.2
+ "combined_score": 3.13
 }

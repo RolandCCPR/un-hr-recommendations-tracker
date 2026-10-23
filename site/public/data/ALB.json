@@ -20,15 +20,16 @@
    ],
    "titles_editorial": true,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 2,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 0,
-    "B": 3,
-    "C": 1,
-    "D": 1,
-    "E": 0
+    "A": 0.0,
+    "B": 1.0,
+    "C": 0.5,
+    "D": 0.5,
+    "E": 0.0
    },
-   "score": 3.4
+   "score": 3.25
   },
   "paragraphs": [
    {
@@ -52,7 +53,8 @@
       "meaning": "No cooperation with the Committee",
       "eval": "The Committee regrets that the State party has not provided information on measures taken to compensate victims. Information is required on measures taken to compensate victims, including on the pension that it has been agreed will be granted to the victims’ families, who will qualify for it, its amount and duration, and whether the pensions have already been granted"
      }
-    ]
+    ],
+    "score": 2.5
    },
    {
     "para": "13",
@@ -63,10 +65,11 @@
      "B",
      "B"
     ],
-    "limbs": []
+    "limbs": [],
+    "score": 4.0
    }
   ],
   "history": []
  },
- "combined_score": 3.4
+ "combined_score": 3.25
 }

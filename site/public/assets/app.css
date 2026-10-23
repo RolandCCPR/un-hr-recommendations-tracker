@@ -271,3 +271,4 @@ ul.next-dates li { margin: 2px 0; }
 p.next-lead { margin: 0 0 2px; font-size: 0.95rem; }
 p.next-lead + ul.next-dates, .next-lead:last-of-type { margin-bottom: 6px; }
 ul.next-dates { color: var(--muted); font-size: 0.85rem; }
+.hrc-para h3 .co-score { font-size: 0.8rem; font-weight: 500; color: var(--muted); }

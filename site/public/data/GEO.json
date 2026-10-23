@@ -20,15 +20,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 3,
+   "n": 2,
+   "n_grades": 3,
    "grade_dist": {
-    "A": 1,
-    "B": 2,
-    "C": 0,
-    "D": 0,
-    "E": 0
+    "A": 0.5,
+    "B": 1.5,
+    "C": 0.0,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 4.33
+   "score": 4.25
   },
   "paragraphs": [
    {
@@ -64,7 +65,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee notes the information regarding the holding of administrative detainees in temporary detention isolators under the Ministry of Internal Affairs and monitoring of such facilities, and requires clarification on whether such facilities are suitable for long-term detention; whether administrative detainees serve their full term of imprisonment in such facilities and whether they are segregated from other categories of persons deprived of their liberty"
      }
-    ]
+    ],
+    "score": 4.5
    },
    {
     "para": "14",
@@ -80,7 +82,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee notes the draft law developed by the Ministry of Justice to reform the jury trial system. The State party should submit additional information on: (a) whether the draft is in full compliance with article 14 of the Covenant; and (b) the progress and implementation of the draft. Summary of State party’s reply (a) The State party reiterates (see"
      }
-    ]
+    ],
+    "score": 4.0
    }
   ],
   "history": [
@@ -92,5 +95,5 @@
    }
   ]
  },
- "combined_score": 4.33
+ "combined_score": 4.25
 }

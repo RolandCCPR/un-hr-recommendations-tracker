@@ -1,4 +1,4 @@
-import { loadJSON, esc, mdInline, chip, distBar, scoreColor } from "./app.js";
+import { loadJSON, esc, mdInline, chip, distBar, scoreColor, coScore } from "./app.js";
 
 const $ = (s) => document.querySelector(s);
 const a3 = new URLSearchParams(location.search).get("c");
@@ -76,7 +76,7 @@ function hrcSection(hrc) {
             .join("")
         : `<p class="ev note">The evaluation text for this Concluding Observation was not captured; the grade above is from the Committee's summary.</p>`;
       return `<div class="hrc-para">
-        <h3>Concluding Observation ${esc(p.para)}${p.title ? " — " + esc(p.title) : ""}${hg}</h3>
+        <h3>Concluding Observation ${esc(p.para)}${p.title ? " — " + esc(p.title) : ""}${p.score != null ? `<span class="co-score">score ${coScore(p.score)}</span>` : ""}${hg}</h3>
         ${p.recommendation ? `<div class="rec"><em>Recommendation:</em> ${esc(p.recommendation)}</div>` : ""}
         ${limbs}
       </div>`;
@@ -139,7 +139,7 @@ function hrcSection(hrc) {
   boxes.push(`<div class="box">
     <div class="lbl">Human Rights Committee${hm.year ? " · " + hm.year : ""}</div>
     <div class="big" style="color:${scoreColor(hm.score)}">${hm.score.toFixed(2)}<span> / 5</span></div>
-    <div>${hm.n} grades · ${esc(hm.co_symbol)}</div>
+    <div>${hm.n} Concluding Observation${hm.n === 1 ? "" : "s"} · ${esc(hm.co_symbol)}</div>
     ${distBar(hm.grade_dist)}</div>`);
   $("#summary").innerHTML = boxes.join("");
 

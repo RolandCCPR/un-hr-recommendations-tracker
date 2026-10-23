@@ -20,15 +20,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 2,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 0,
-    "B": 2,
-    "C": 2,
-    "D": 0,
-    "E": 1
+    "A": 0.0,
+    "B": 0.67,
+    "C": 0.83,
+    "D": 0.0,
+    "E": 0.5
    },
-   "score": 3.0
+   "score": 2.83
   },
   "paragraphs": [
    {
@@ -52,7 +53,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the lack of specific information on educational initiatives implemented after the adoption of the concluding observations on 28 October 2014 to raise awareness about sexual and reproductive health among women, men and adolescents, as well as about effective access to reproductive health services and contraception throughout the country. The Committee requires such information, and reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 2.0
    },
    {
     "para": "16",
@@ -63,10 +65,11 @@
      "B",
      "C"
     ],
-    "limbs": []
+    "limbs": [],
+    "score": 3.67
    }
   ],
   "history": []
  },
- "combined_score": 3.0
+ "combined_score": 2.83
 }

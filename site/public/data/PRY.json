@@ -2296,13 +2296,14 @@
    "followup_paras": [],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 0,
-    "B": 4,
-    "C": 0,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 3.0,
+    "C": 0.0,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 4.0
   },
@@ -2319,7 +2320,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "While welcoming the information provided on cases No. 3154/89 and No. 53/2017, the Committee requests further information on the outcome of the cases that are currently pending in court and on the number of appeals presented in court and their corresponding results. While noting the State party’s efforts to search for missing persons and identify remains, as well as to ensure compensation for victims and their families, the Committee regrets to learn that many requests for compensation have been refused. The Committee reiterates its recommendations and requests updated information on the number of: (a) persons who received compensation; (b) requests that were refused, including the reasons for the refusal; and (c) appeals presented in court and their corresponding results. The Committee also requests additional information on the proposed bill to improve the compensation mechanisms for victims and their families, including its current status"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "29",
@@ -2339,7 +2341,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "(b) While noting the information provided regarding the provision of free legal aid throughout the country and the ongoing human rights training received by public defenders and police staff, the Committee regrets the lack of information on specific steps taken during the reporting period. The Committee reiterates its recommendation and requests further details on the number of: (a) persons who received free legal aid during the reporting period; (b) professionals who received training on human rights and standards of due process during the reporting period; and (c) complaints about police procedures received during the reporting period and their corresponding results, including the number of complaints that were referred to the Public Prosecution Service"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "35",
@@ -2353,7 +2356,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "While welcoming the various measures taken to fight against corruption and promote transparency and accountability in the judiciary, the Committee requests additional information on the impact of the measures taken to reduce corruption. It regrets the lack of specific information on measures taken to eradicate all forms of interference in the judiciary by other branches of government and the fact that no specific information was provided on investigations into all allegations of interference and corruption during the reporting period. The Committee requests statistical data on such investigations and their results, including whether there have been any prosecutions and convictions, and reiterates its recommendation in this regard"
      }
-    ]
+    ],
+    "score": 4.0
    }
   ],
   "history": [

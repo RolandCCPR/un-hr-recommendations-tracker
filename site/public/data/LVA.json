@@ -21,15 +21,16 @@
    ],
    "titles_editorial": true,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 7,
+   "n": 3,
+   "n_grades": 7,
    "grade_dist": {
-    "A": 0,
-    "B": 6,
-    "C": 1,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 2.67,
+    "C": 0.33,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.86
+   "score": 3.89
   },
   "paragraphs": [
    {
@@ -60,7 +61,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the absence of information on measures taken to increase the number of supervisory staff and requests that such information be provided"
      }
-    ]
+    ],
+    "score": 3.67
    },
    {
     "para": "19",
@@ -90,7 +92,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "While the Committee welcomes the amendment of article 150 of the Criminal Law, it regrets that the State party has not explicitly defined incitement to violence on grounds of sexual orientation or gender identity as a criminal offence. It requests information on the application of article 150 to crimes committed on the grounds of sexual orientation and gender identity, and reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "20",
@@ -99,10 +102,11 @@
     "header_grades": [
      "B"
     ],
-    "limbs": []
+    "limbs": [],
+    "score": 4.0
    }
   ],
   "history": []
  },
- "combined_score": 3.86
+ "combined_score": 3.89
 }

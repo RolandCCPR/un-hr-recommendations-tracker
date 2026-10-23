@@ -21,13 +21,14 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 0,
-    "B": 2,
-    "C": 2,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 1.5,
+    "C": 1.5,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 3.5
   },
@@ -53,7 +54,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "(f) While noting the information provided, the Committee is concerned that data on minority women subjected to violence remain unavailable. It reiterates its recommendations"
      }
-    ]
+    ],
+    "score": 3.5
    },
    {
     "para": "41",
@@ -69,7 +71,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "While welcoming the information provided, the Committee regrets the lack of specific information on the current status of the Nairobi City County Evictions, Resettlement and Demolitions Control Bill, 2020, and when it is likely to be enacted. It requests further information in this regard. The Committee is also concerned at reports indicating that: (a) forced evictions continue to take place without sufficient notice; (b) no compensation or alternative location for resettlement was allegedly offered to the 40,000 people who were forcefully evicted in November 2021; and (c) no cases of violations committed during evictions have been brought to court. The Committee reiterates its recommendations and requests information on the status of the amendment of the National Land Commission Act, 2012. It also requests information on any funding allocated to communities to ensure fair and just compensation for the land lost due to the Government’s acquisition and for the resettlement of squatters, including statistical information on the number of communities and persons who have received compensation and who have been resettled"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "49",
@@ -85,7 +88,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the State party’s efforts ahead of and during the 2022 election period to prevent violence and ensure the effective and independent functioning of the Independent Electoral and Boundaries Commission and to ensure transparency in voting and in vote-counting procedures. While also welcoming the information that 12 police officers will face charges for crimes committed during the post-election protests in 2017, the Committee regrets the lack of information provided on efforts to provide remedies to all victims of violence in the context of the 2017 elections, including guarantees of non-repetition, and that victims have allegedly not received financial assistance, medical care or counselling. The Committee reiterates its recommendations in this regard"
      }
-    ]
+    ],
+    "score": 4.0
    }
   ],
   "history": [

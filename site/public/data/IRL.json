@@ -21,15 +21,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 11,
+   "n": 3,
+   "n_grades": 11,
    "grade_dist": {
-    "A": 1,
-    "B": 6,
-    "C": 4,
-    "D": 0,
-    "E": 0
+    "A": 0.25,
+    "B": 1.67,
+    "C": 1.08,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.73
+   "score": 3.72
   },
   "paragraphs": [
    {
@@ -60,7 +61,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the lump sum payments made to applicants under the redress scheme for victims of Magdalene laundries. It notes however that the practical arrangements for participants of the Magdalene laundries Restorative Justice Scheme living abroad appear not to have been put in place. The Committee therefore requires information on the progress made in that respect. The Committee notes that qualifying women must sign a waiver not to take proceedings against the State as a precondition for receiving benefits under the redress scheme, and requires clarification as to whether women who file a complaint pursuing a civil action against the institutions concerned or any individuals would not qualify for redress under the scheme. The Committee notes that the redress scheme covers primarily women admitted at, and expected to work in Magdalene institutions, but regrets the lack of specific information on the situation of victims who were not formally admitted to the Magdalene laundries but were nonetheless forced to work there, including with regard to access to the redress scheme. The Committee therefore reiterates its request in that regard and also requires clarification as to whether this category of victims is covered under the Residential Institutions Redress Scheme. The Committee welcomes the measures in place to assist, advise and support applicants to the redress scheme, including women with impaired mental capacity. The Committee reiterates its recommendation that the State party ensure that victims, including victims of mother and baby homes, receive the full range of restitution, rehabilitation and measures of satisfaction to which they are entitled, in accordance with the Committee’s recommendation"
      }
-    ]
+    ],
+    "score": 3.67
    },
    {
     "para": "11",
@@ -97,7 +99,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee notes the information provided on the satisfaction of the majority of women with the establishment of the Scheme, but once again regrets that there is no possibility for women to challenge the payment offered under the Scheme either by appeal or judicial review. It therefore reiterates its recommendation in that regard"
      }
-    ]
+    ],
+    "score": 3.75
    },
    {
     "para": "15",
@@ -134,7 +137,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee reiterates its request for information on measures in place to ensure the independent functioning of the complaints mechanisms and requires information on the recommendations made in the report of the Inspector of Prisons on the complaints policy submitted to the Minister for Justice and Equality and on the followup thereto"
      }
-    ]
+    ],
+    "score": 3.75
    }
   ],
   "history": [
@@ -146,5 +150,5 @@
    }
   ]
  },
- "combined_score": 3.73
+ "combined_score": 3.72
 }

@@ -17,15 +17,16 @@
    "followup_paras": [],
    "titles_editorial": true,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 8,
+   "n": 3,
+   "n_grades": 8,
    "grade_dist": {
-    "A": 0,
-    "B": 4,
-    "C": 3,
-    "D": 1,
-    "E": 0
+    "A": 0.0,
+    "B": 1.1,
+    "C": 1.7,
+    "D": 0.2,
+    "E": 0.0
    },
-   "score": 3.38
+   "score": 3.3
   },
   "paragraphs": [
    {
@@ -46,7 +47,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee takes note of the civil and legal educational programmes conducted in detention facilities and the training courses provided to police and prison staff, but requests information on the number and content of such courses and the number of persons trained since the adoption of the concluding observations. The Committee also notes the State party’s acknowledgment that access to legal assistance remains an issue, and requests information on measures taken since the adoption of the concluding observations to ensure that all detainees have access to counsel. The Committee requests information on the investigations carried out on arbitrary arrest or detention, the prosecutions and sanctions imposed on those found responsible since the adoption of the concluding observations, and the compensation awarded to victims. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.5
    },
    {
     "para": "14",
@@ -84,7 +86,8 @@
       "meaning": "No cooperation with the Committee",
       "eval": "The Committee regrets the absence of information on the separation of juveniles and adults and requests information in that regard. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.4
    },
    {
     "para": "15",
@@ -98,10 +101,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee acknowledges the information provided on measures aimed at reforming the judicial system, but requests information on which actions occurred after the adoption on 30 October 2013 of the Committee’s concluding observations ("
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []
  },
- "combined_score": 3.38
+ "combined_score": 3.3
 }

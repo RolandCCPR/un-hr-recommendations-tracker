@@ -22,12 +22,13 @@
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
    "n": 3,
+   "n_grades": 3,
    "grade_dist": {
-    "A": 0,
-    "B": 0,
-    "C": 3,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.0,
+    "C": 3.0,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 3.0
   },
@@ -46,7 +47,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee notes the existence of the register for complaints and of the order of the President of dated 10 February 2017, but regrets the lack of information on the measures taken to ensure that the cases are investigated by an independent and impartial body. The Committee notes the statistics on the number of cases in 2016, but regrets the lack of information on criminal sanctions in those cases and on the measures taken to ensure that victims are provided with effective remedies and full reparation. The Committee reiterates its recommendations. The Committee notes the joint training with the International Committee of the Red Cross, but regrets the lack of information on the reforms made since the adoption of the concluding observations to ensure regular monitoring and inspection of all places of deprivation of liberty, conducted by an independent and effective mechanism. The Committee reiterates its recommendations"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "29",
@@ -62,7 +64,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the lack of information on measures taken to implement its recommendation. The Committee reiterates its recommendation. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. 3"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []

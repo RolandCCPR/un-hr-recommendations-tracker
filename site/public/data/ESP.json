@@ -21,15 +21,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 6,
+   "n": 3,
+   "n_grades": 6,
    "grade_dist": {
-    "A": 0,
-    "B": 3,
-    "C": 2,
-    "D": 0,
-    "E": 1
+    "A": 0.0,
+    "B": 1.67,
+    "C": 0.83,
+    "D": 0.0,
+    "E": 0.5
    },
-   "score": 3.17
+   "score": 3.22
   },
   "paragraphs": [
    {
@@ -60,7 +61,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee notes the information provided on the roles of the Security Personnel and Services Inspectorate, the Public Prosecution Service and investigating judges, regarding investigations of complaints of torture or ill-treatment. However, it requires further and specific information on the exact function of the Inspectorate and on prompt, thorough and independent investigations into all complaints of torture or ill-treatment and punishment of perpetrators (please provide statistics on the number of investigations, prosecutions and convictions, on specific punishments imposed and on reparations provided to victims). The Committee appreciates the information regarding Act No. 4/2015 on Rules Relating to Victims of Crime, but requires clarification on the Act’s compliance with the requirements of article 2 of the Covenant, including the guarantee of non-repetition, compensation and rehabilitation of victims. It also requires information on the adequacy of compensation for victims and the number of victims of torture or ill-treatment who benefited from the victim assistance offices’ services and received reparation pursuant to Act No. 4/2015. The Committee notes the integration of the ORFILA software into the work of institutes of forensic medicine, but requires additional information on specific measures taken to ensure the independence and impartiality of forensic examinations in practice and on the impact of ORFILA in that regard"
      }
-    ]
+    ],
+    "score": 3.67
    },
    {
     "para": "21",
@@ -83,7 +85,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "While noting the digitization of the Valle de los Caídos archives and the efforts of the Ministry of Justice to raise awareness about the Historical Memory Act, the Committee regrets that its recommendation on adopting a national legal framework on archives and on ensuring access to all archives based on clear, public criteria remains unimplemented. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 2.0
    },
    {
     "para": "23",
@@ -92,10 +95,11 @@
     "header_grades": [
      "B"
     ],
-    "limbs": []
+    "limbs": [],
+    "score": 4.0
    }
   ],
   "history": []
  },
- "combined_score": 3.17
+ "combined_score": 3.22
 }

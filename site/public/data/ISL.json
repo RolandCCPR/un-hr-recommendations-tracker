@@ -17,13 +17,14 @@
    "followup_paras": [],
    "titles_editorial": true,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 2,
+   "n": 1,
+   "n_grades": 2,
    "grade_dist": {
-    "A": 0,
-    "B": 1,
-    "C": 1,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.5,
+    "C": 0.5,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 3.5
   },
@@ -46,14 +47,16 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets that the State party has not provide information on the findings of the Ministry of Finance Committee and of the Government audit of Icelandic companies. It reiterates its request. The Committee notes the information provided, including the statistical data on representation of women in different fields. It regrets, however, that the State party does not appear to have taken any measures since the adoption of the concluding observations to increase the number of women serving in decision-making positions, in particular as district court chairpersons, Supreme Court justices and university rectors. The Committee therefore reiterates its recommendation and requires updated information, including relevant statistics, on measures taken to increase the representation of women in those fields"
      }
-    ]
+    ],
+    "score": 3.5
    },
    {
     "para": "15",
     "title": "Solitary confinement in pretrial detention",
     "recommendation": "The State party should take urgent steps to ensure that all cases of sexual abuse of children are effectively and promptly investigated, and that perpetrators are brought to justice. It should take steps to establish government-coordinated measures aimed at prevention of sexual abuse of children. The State party should also ensure that education about child sexual abuse and prevention become a formal part of the curriculum in faculties training teachers and other professionals working with children, as well as for faculties training health professionals, lawyers and police officers. Follow-up question (see ) [C1] The Committee notes that the State party has not provided further information on measures taken to ensure that all cases of sexual abuse of children are effectively and promptly investigated and that perpetrators are brought to justice. The Committee requests additional information on: (a) Complaint mechanisms available; (b) The number of complaints received in the past three years; (c) The number of cases brought before courts in the past three years, convictions and acquittals. [B1] The Committee notes the training conducted for the police force on investigation and prosecution of sexual abuse of children, and welcomes the efforts made by the State party regarding education about child sexual abuse. Additional information is required on the State party’s plans to make education about child sexual abuse and prevention a formal and permanent part of the curriculum for professionals working with children, and on measures taken to ensure sufficient funding for those activities. Information is also required on the consultative group established to evaluate the situation of sexual abuse of children and how the recommendations of the group are being implemented, as well as on any other steps taken by the State party since July 2015 to establish governmentcoordinated measures aimed at preventing child sexual abuse",
     "header_grades": [],
-    "limbs": []
+    "limbs": [],
+    "score": null
    }
   ],
   "history": [

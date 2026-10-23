@@ -29,17 +29,25 @@ export function chip(grade) {
   return `<span class="chip ${grade}">${grade}</span>`;
 }
 
+// 1.5, 2 (whole numbers stay whole); grade shares can be fractions
+export const num1 = (n) => String(Math.round(n * 10) / 10);
+// a Concluding Observation's score: 4.0, 3.5, 3.67
+export function coScore(x) {
+  const r = Math.round(x * 100) / 100;
+  return Number.isInteger(r) ? r.toFixed(1) : String(r);
+}
+
 export function distBar(dist) {
   const total = GRADE_ORDER.reduce((a, g) => a + (dist[g] || 0), 0) || 1;
   const bar = GRADE_ORDER
     .map((g) => {
       const n = dist[g] || 0;
       if (!n) return "";
-      return `<i class="${g}" style="width:${(100 * n) / total}%" title="${g}: ${n}"></i>`;
+      return `<i class="${g}" style="width:${(100 * n) / total}%" title="${g}: ${num1(n)}"></i>`;
     })
     .join("");
   const legend = GRADE_ORDER.filter((g) => dist[g])
-    .map((g) => `<span><b style="background:${GRADE_COLOR[g]}"></b>${g}&nbsp;${dist[g]}</span>`)
+    .map((g) => `<span><b style="background:${GRADE_COLOR[g]}"></b>${g}&nbsp;${num1(dist[g])}</span>`)
     .join("");
   return `<div class="distbar">${bar}</div><div class="distlegend">${legend}</div>`;
 }

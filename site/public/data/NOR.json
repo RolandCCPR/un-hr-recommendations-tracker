@@ -17,15 +17,16 @@
    "followup_paras": [],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 3,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 1,
-    "B": 2,
-    "C": 2,
-    "D": 0,
-    "E": 0
+    "A": 0.33,
+    "B": 1.33,
+    "C": 1.33,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.8
+   "score": 3.67
   },
   "paragraphs": [
    {
@@ -40,7 +41,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the launch of the national Action Plan against Rape (2019–2022), the development of a sixth plan of action to combat domestic violence and the establishment of a committee to review homicide cases where the perpetrator is a current or former partner. It requests further information on: (i) consultations and cooperation with the Sami Parliament in the preparation of the sixth plan of action to combat domestic violence, and whether the plan has now been launched; and (ii) the recommendations made by the committee responsible for the review of cases in which the perpetrator is a current or former partner and information on their implementation. The Committee welcomes the information that the Ministry of Justice and Public Security might consider whether to revise the chapter on sexual offences in the Penal Code. It requests information on any measures taken to amend section 291 of the Penal Code to ensure that the lack of free consent is at the centre of the definition of rape. While welcoming the adoption of the Action Plan against Rape, the Committee requires information on examples of concrete action taken to inform women and girls of their rights and of the legal avenues through which they can access resources, services, protection and justice. The Committee reiterates its recommendation. The Committee welcomes the awareness-raising campaigns on the adverse impact of sexual and gender-based violence, the regular training of judges and members of public prosecution authorities, and the efforts of the police to combat domestic violence. Nevertheless, it requests information on: (i) the launch dates of the campaigns to raise awareness of the adverse impact of sexual and gender-based violence; (ii) the dates and number of training courses that have been conducted with judges, prosecutors and law enforcement officials on sexual and gender-based violence since the adoption of the Committee’s concluding observations; (iii) the number of investigations, prosecutions and convictions of all reported cases of sexual and gender-based violence during the reporting period; (iv) the methodical national quality review of cases of aggravated sexual assaults which was planned in 2020; and (v) the changes proposed in 2016 by the government-appointed committee on the criminal injuries compensation scheme. With regard to the section of the sixth plan of action to combat domestic violence concerning violence and abuse in Sami communities, the Committee requests information on: (i) the adoption of a research programme (2019–2024) on domestic violence; (ii) the concrete measures taken to address the causes of violence against women in the Sami community; and (iii) the measures taken to overcome the special challenges and barriers highlighted by the Norwegian Centre for Violence and Traumatic Stress Studies in its 2017 report"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "33",
@@ -54,7 +56,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "While taking note of the information provided, the Committee regrets that the State party has not amended the Immigration Act to ensure greater protection of asylum seekers from refoulement and chain refoulement or provided concrete information on measures taken after the adoption of the concluding observations. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "37",
@@ -80,7 +83,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets that the State party takes the position that there is no need to further enhance the legal framework on Sami reindeer rights and reiterates its recommendation. It requests information on measures taken to enhance the legal framework on Sami reindeer rights and particularly to ensure that Sami fishing rights are recognized by law. While noting that the State party continues to address the Sami Rights Committee’s proposal for rights surveying south of Finnmark, the Committee regrets the lack of information on measures taken since the adoption of the Committee’s concluding observations. The Committee also regrets the lack of information on measures taken to increase the recruitment and training of Sami language teachers and the availability of Sami language instruction for Sami children in kindergartens in all regions. The Committee reiterates its recommendation. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 2028 (country review in 2029, in accordance with the predictable review cycle). 5"
      }
-    ]
+    ],
+    "score": 4.0
    }
   ],
   "history": [
@@ -98,5 +102,5 @@
    }
   ]
  },
- "combined_score": 3.8
+ "combined_score": 3.67
 }

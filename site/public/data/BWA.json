@@ -22,12 +22,13 @@
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
    "n": 3,
+   "n_grades": 3,
    "grade_dist": {
-    "A": 0,
-    "B": 3,
-    "C": 0,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 3.0,
+    "C": 0.0,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 4.0
   },
@@ -46,7 +47,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the measures taken by the State Party to bring detention conditions into compliance with the Nelson Mandela Rules. It notes with appreciation the reported effect of the Offender Reintegration Strategy and the efforts to reduce overcrowding, including through the use of bail and other alternatives to pretrial detention. However, the Committee regrets that there is insufficient publicly available information on whether the Prisons Act has been amended and whether corporal punishment has been abolished in prisons. It remains concerned that, despite the measures taken, detention conditions continue to be poor and that prison populations still exceed prison holding capacity. The Committee is further concerned that lengthy pretrial detention persists, particularly as it remains mandatory for murder and treason, and that foreign nationals and persons declared unfit to stand trial continue to experience prolonged remand periods, with some reportedly held for more than 20 years. The Committee reiterates its previous recommendations and urges the State Party to ensure that all information regarding legislative amendments affecting the rights of persons deprived of liberty is made publicly accessible"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "26",
@@ -62,7 +64,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the State Party’s efforts to prevent and combat trafficking in persons, particularly the measures taken to implement the Anti-Human Trafficking Act. It notes with appreciation the awareness-raising campaigns conducted and the capacity-building workshops for law enforcement officers, as well as training provided for specific groups such as village leaders. However, the Committee remains concerned that, despite those advances, further efforts are required to strengthen investigations and ensure accountability, as convictions reportedly remain rare. Furthermore, while welcoming the adoption of the Employment and Labour Relations Bill in July 2025, the Committee regrets that data on child labour is reportedly not publicly available. It also regrets the lack of information on access to shelters and to adequate legal, medical and psychological services. The Committee reiterates its recommendations and urges the State Party to continue its efforts to prevent and combat trafficking in persons, including forced labour, including by reinforcing measures to thoroughly investigate all cases and ensure that perpetrators are held accountable"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "30",
@@ -78,7 +81,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the adoption of the Refugees (Recognition and Management) Act, 2024, and the reforms that it introduces to establish fair and effective asylum procedures and to ensure the issuance of identification documents to refugees. However, it notes with concern that the Act has not yet entered into force. The Committee reiterates its recommendation that the State Party take all measures necessary to ensure the prompt entry into force of the Act and to guarantee its full and effective implementation in practice. The Committee notes with satisfaction the State Party’s efforts to improve detention conditions at the Dukwi Refugee Settlement and to change the policy on children and families with children. However, the Committee regrets that, according to reports, most refugees and asylum-seekers continue to be detained. The Committee therefore reiterates its recommendation in this regard. The Committee notes the measures taken by the State Party to address statelessness and welcomes the information that Parliament has approved the review of three bills aimed at resolving issues related to statelessness. It also welcomes the initiation of a study to assess the scope and situation of statelessness in the State Party. While further welcoming the information that a due diligence review of the State Party’s readiness to accede to the Convention on the Reduction of Statelessness has been completed and is under consideration, the Committee regrets the absence of information on measures taken to consider the withdrawal of the State Party’s reservation to the Convention relating to the Status of Refugees. The Committee reiterates its previous recommendation in this regard and encourages the State Party to increase its efforts towards ratifying the Convention on the Reduction of Statelessness"
      }
-    ]
+    ],
+    "score": 4.0
    }
   ],
   "history": []

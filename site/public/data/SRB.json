@@ -21,15 +21,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 0,
-    "B": 1,
-    "C": 3,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.5,
+    "C": 2.5,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.25
+   "score": 3.17
   },
   "paragraphs": [
    {
@@ -53,7 +54,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "(d) The Committee welcomes the adoption of the action plan for the implementation of the Strategy for the Social Inclusion of Roma for the period 2017–2018. It requests updated information on its implementation and impact"
      }
-    ]
+    ],
+    "score": 3.5
    },
    {
     "para": "33",
@@ -69,7 +71,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee takes note of the information provided by the State party, but regrets the lack of information on measures taken, since the adoption by the Committee of its concluding observations, to comply with the Committee’s recommendations. The Committee reiterates its recommendation. The Committee regrets the lack of information on measures taken, since the adoption by the Committee of its recommendation, to ensure that all asylum applications are assessed promptly on an individual basis with full respect for the principle of non-refoulement and that decisions to deny asylum can be challenged through suspensive proceedings. It reiterates its recommendation. The Committee regrets the lack of information on measures taken, since the adoption by the Committee of its recommendation, to refrain from the collective expulsion of aliens and to ensure an objective assessment of the level of protection when expelling aliens to “safe third countries”. It reiterates its recommendation. The Committee takes note of the information provided by the State party, but regrets the lack of specific information on measures taken since the adoption by the Committee of its concluding observations. It requests information on the measures taken with the support of the European Commission and information on when they were taken. It reiterates its recommendation. The Committee regrets the lack of information on measures taken to ensure that appropriate protocols are in place to establish the age of unaccompanied minors, and that minors receive appropriate guardianship and treatment that takes into account the principle of the best interests of the child. It reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "39",
@@ -85,7 +88,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee takes note of the information provided by the State party, but regrets the lack of specific information on measures taken since the adoption by the Committee of its concluding observations to implement the Committee’s recommendation. The Committee requests information on (a) the number of investigations conducted, prosecutions concluded and sanctions issued since the adoption by the Committee of its concluding observations; (b) the reason for the small number of sanctions imposed in 2016 and 2017; (c) the agreement on cooperation and measures to strengthen safety of journalists, signed in December 2016, and its impact; and (d) the result of the analysis, conducted upon request by the Ministry of Justice in 2017, of relevant provisions of the Criminal Code to better protect journalists. The Committee also takes note of the information provided, but regrets the lack of information on measures taken, since the adoption by the Committee of its recommendation, to refrain from prosecuting journalists, human rights defenders and other members of civil society as a means of deterring or discouraging them from freely expressing their opinions. The Committee further takes note of the information provided by the State party, but regrets the lack of information on measures taken, since the adoption by the Committee of its concluding observations, to ensure the transparency of media ownership and that private media outlets are free and independent. The Committee requests information on the results of the survey conducted in 2017 by the Ministry of Culture and Information on the implementation of the Law on Public Information and the Media and measure taken thereon. The Committee regrets the lack of detailed information on measures taken to review the application of the Public Assembly Act of 26 January 2016 so as to ensure its compatibility with the Covenant. It reiterates its recommendation. Recommended action: A letter should be sent to the State party informing it of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 29 March 2021. 7"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": [
@@ -97,5 +101,5 @@
    }
   ]
  },
- "combined_score": 3.25
+ "combined_score": 3.17
 }

@@ -22,12 +22,13 @@
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
    "n": 3,
+   "n_grades": 3,
    "grade_dist": {
-    "A": 0,
-    "B": 0,
-    "C": 2,
-    "D": 0,
-    "E": 1
+    "A": 0.0,
+    "B": 0.0,
+    "C": 2.0,
+    "D": 0.0,
+    "E": 1.0
    },
    "score": 2.33
   },
@@ -46,7 +47,8 @@
       "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
       "eval": "The Committee regrets the State party’s position that it has no plans to repeal article 92-6 of the Military Criminal Act and that the Constitutional Court on 28 July 2016 found that article constitutional, despite its discriminatory nature against homosexual servicemen. The Committee regrets that, contrary to the Committee’s recommendation, the State party decided to exclude diverse forms of sexual orientation and gender identity from sex education until the end of secondary school, on the grounds of reflecting social and culturally agreed values. The Committee also regrets the State party’s position that it will review the guidelines on gender reassignment in case of a change in the socially accepted notions of a person’s gender. The Committee further regrets that no measures have been taken to implement its recommendations regarding: (a) clearly and officially stating that it does not tolerate any discrimination, hate speech, violence against lesbian, gay, bisexual, transgender and intersex persons or propagation of “conversion therapies”; (b) strengthening the legal framework to protect lesbian, gay, bisexual, transgender and intersex persons; and (c) conducting campaigns and training to promote tolerance and awareness of lesbian, gay, bisexual, transgender and intersex persons. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 1.0
    },
    {
     "para": "45",
@@ -62,7 +64,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets that the State party has not implemented its recommendation to immediately release all imprisoned conscientious objectors and that, since the individual communication, more conscientious objectors have been condemned to prison sentences. The Committee reiterates its recommendation. The Committee notes the information provided by the State party, but regrets that no measures have been taken after the adoption of the Committee’s concluding observations. In particular, the State party has not implemented the Committee’s recommendation to expunge the conscientious objectors’ criminal records and provide them with adequate compensation. The Committee reiterates its recommendation. The Committee takes note of the pending constitutional appeal regarding the introduction of alternative service, but regrets that no measures have been taken to legally recognize conscientious objection to military service and alternative service. It requires information on the progress or outcome of the pending constitutional appeal. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "53",
@@ -71,7 +74,8 @@
     "header_grades": [
      "C"
     ],
-    "limbs": []
+    "limbs": [],
+    "score": 3.0
    }
   ],
   "history": []

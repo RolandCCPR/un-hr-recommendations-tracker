@@ -17,13 +17,14 @@
    "followup_paras": [],
    "titles_editorial": true,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 3,
+   "n": 1,
+   "n_grades": 3,
    "grade_dist": {
-    "A": 0,
-    "B": 0,
-    "C": 2,
-    "D": 1,
-    "E": 0
+    "A": 0.0,
+    "B": 0.0,
+    "C": 0.67,
+    "D": 0.33,
+    "E": 0.0
    },
    "score": 2.67
   },
@@ -52,7 +53,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The State party has not provided new information as regards the recommendations contained in paragraph 12 (c) and (d) of the concluding observations. The Committee reiterates those recommendations. Djibouti"
      }
-    ]
+    ],
+    "score": 2.67
    }
   ],
   "history": [

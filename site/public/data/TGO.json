@@ -22,12 +22,13 @@
    "titles_editorial": true,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
    "n": 3,
+   "n_grades": 3,
    "grade_dist": {
-    "A": 0,
-    "B": 3,
-    "C": 0,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 3.0,
+    "C": 0.0,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 4.0
   },
@@ -46,7 +47,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee notes that no information was provided on the conduct of independent and impartial investigation and the prosecution of those responsible, as requested by the Committee. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "15",
@@ -68,7 +70,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "Additional information is required on the progress towards the adoption of the bills by the Government"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "16",
@@ -84,7 +87,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee requests further information on: (a) The specific reforms to the ANR which the State party has undertaken and the dates of such reforms; (b) The current status of the delivery of victims’ compensation; (c) Whether impartial and independent criminal investigations have begun on alleged cases of torture"
      }
-    ]
+    ],
+    "score": 4.0
    }
   ],
   "history": []

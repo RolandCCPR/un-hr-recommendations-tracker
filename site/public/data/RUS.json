@@ -21,15 +21,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 10,
+   "n": 3,
+   "n_grades": 10,
    "grade_dist": {
-    "A": 0,
-    "B": 1,
-    "C": 9,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.17,
+    "C": 2.83,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.1
+   "score": 3.06
   },
   "paragraphs": [
    {
@@ -53,7 +54,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets that the State party continues to deny that collective punishment of relatives and suspected supporters of alleged terrorists have taken place in the past, and that it provided no information on the remedies granted to victims of such violations, including for damage or destruction of property and forced expulsions from Chechnya. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "19",
@@ -104,7 +106,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the absence of information on the law regulating the activities of blogs, signed by the President on 5 May 2014. The Committee reiterates its recommendations"
      }
-    ]
+    ],
+    "score": 3.17
    },
    {
     "para": "22",
@@ -127,10 +130,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets that, despite the concerns expressed about its adverse human rights implications, the draft law banning undesirable foreign companies, organizations or groups was signed into law (Federal Act No. 129-FZ) and entered into force. The Committee requires information on the compatibility of the Act with the requirements of article 19 (3) of the Covenant. Recommended action: A letter should be sent reflecting the evaluation of the Committee"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []
  },
- "combined_score": 3.1
+ "combined_score": 3.06
 }

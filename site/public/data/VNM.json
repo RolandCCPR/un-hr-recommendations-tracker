@@ -21,13 +21,14 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 0,
-    "B": 0,
-    "C": 2,
-    "D": 0,
-    "E": 2
+    "A": 0.0,
+    "B": 0.0,
+    "C": 1.5,
+    "D": 0.0,
+    "E": 1.5
    },
    "score": 2.0
   },
@@ -53,7 +54,8 @@
       "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
       "eval": "While noting that the death penalty is not a mandatory sentence for any crimes, the Committee remains concerned about the reportedly systemic failure to respect due process guarantees in death penalty cases. It reiterates its recommendation and requests further information on the plan to study and introduce legislative amendments on giving advance notice of execution to death row inmates. The Committee also regrets the lack of specific information on measures taken to make commutation effectively available in all cases, particularly considering the reported increase in the number of death sentences and death row prisoners. It reiterates its recommendation and requests information on the number of commuted sentences during the reporting period. While taking note of the State party’s statement, the Committee received information alleging that official data on death sentences remain unavailable to the public. It therefore reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 2.0
    },
    {
     "para": "46",
@@ -69,7 +71,8 @@
       "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
       "eval": "While noting the State party’s information on legislative measures taken to implement the Committee’s recommendations, the Committee remains concerned about reports that, on the contrary, the adoption of Decrees 119/2020/ND-CP and 15/2020/ND-CP further restricts the right to freedom of expression. While noting information about the number of radio and television channels and of Internet users, the Committee regrets the lack of specific information on steps taken to promote pluralistic media free from State interference. It reiterates its recommendation and requests further information on measures taken to bring into line with the Covenant Decrees 119/2020/ND-CP and 15/2020/ND-CP and any amendment envisaged to Decree 72/2013/ND-CP"
      }
-    ]
+    ],
+    "score": 1.0
    },
    {
     "para": "52",
@@ -85,7 +88,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "While taking note of the information provided, including on the law being drafted on foreign non-governmental organizations, the Committee regrets the lack of specific information on measures taken to ensure the protection of human rights defenders and civil society actors. It reiterates its recommendation and requests further information on: (a) the cases involving four environmental rights defenders, Mai Phan Lợi, Bạch Hùng Dương, Đặng Đình Bách and Ngụy Thị Khanh, including on respect of fair trial guarantees in their proceedings; and (b) the compatibility with the Covenant, particularly article 22, of Decrees 80/2020/ND-CP and 56/2020/ND-CP and Prime Minister’s Decision 06/2020/QD-Ttg"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []

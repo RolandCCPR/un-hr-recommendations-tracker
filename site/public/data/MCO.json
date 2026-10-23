@@ -20,12 +20,13 @@
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
    "n": 1,
+   "n_grades": 1,
    "grade_dist": {
-    "A": 0,
-    "B": 0,
-    "C": 1,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.0,
+    "C": 1.0,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 3.0
   },
@@ -37,7 +38,8 @@
     "header_grades": [
      "C"
     ],
-    "limbs": []
+    "limbs": [],
+    "score": 3.0
    }
   ],
   "history": []

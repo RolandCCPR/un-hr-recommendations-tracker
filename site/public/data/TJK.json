@@ -17,15 +17,16 @@
    "followup_paras": [],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 3,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 0,
-    "B": 0,
-    "C": 3,
-    "D": 0,
-    "E": 2
+    "A": 0.0,
+    "B": 0.0,
+    "C": 2.0,
+    "D": 0.0,
+    "E": 1.0
    },
-   "score": 2.2
+   "score": 2.33
   },
   "paragraphs": [
    {
@@ -40,7 +41,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "While taking note of the information provided on the current legislative framework on data protection, the Committee regrets the lack of information on action taken to ensure that all legislation is in full conformity with the Covenant. It reiterates its recommendation and requests specific information on action taken to that end since the adoption of the concluding observations. The Committee takes note of the information regarding the designation in 2020 of the Communication Service of the Government of as the competent body for personal data protection and the requirement for a certificate of compliance to collect and process personal data. Nevertheless, it regrets that all information and communications continue to flow through the single communications switching centre controlled by the government Communication Service and that no action has been taken to ensure that surveillance and interception is conducted subject to judicial authorization and to effective and independent oversight. It reiterates its recommendation. The Committee takes note of the information concerning article 42 of the Code of Criminal Procedure and the compensation provided for material damage found to have been caused. Nevertheless, it regrets the lack of information on specific steps taken since the adoption of the concluding observations to ensure that the persons affected have proper access to effective remedies in cases of abuse. It reiterates its recommendations and requests statistical information on the number of cases of abuse and the remedies applied"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "48",
@@ -60,7 +62,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee takes note of the information that the media are subject to restrictions only for the purposes of maintaining public order or national security, protecting the rights and freedoms of others or preserving the honour, dignity and reputation of individuals. Nevertheless, it regrets the lack of information provided on steps taken by the State party to lift undue restrictions on the exercise of freedom of expression. It also regrets that, according to information received by the Committee, freedom of expression continues to be severely restricted, both online and offline, and reiterates its recommendation. While taking note of the information that, under article 30 of the Constitution, everyone is entitled to freedom of speech, freedom of the press and the right to use the media, the Committee regrets the lack of information on measures taken to ensure the independence of the broadcasting and licensing authority. It also regrets that, according to information received by the Committee, the authorities continue to put pressure on foreign media outlets by refusing, withdrawing or restricting journalists’ accreditations. It further regrets that, while under article 14 of the Television and Radio Broadcasting Act, both State and independent broadcasters are required to have a licence in order to broadcast, in practice, only private, non-State-owned media outlets are reportedly required to obtain one. It reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 2.0
    },
    {
     "para": "55",
@@ -80,7 +83,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "While taking note of the information received on the election laws in force and the State party’s statement that they are compatible with the Covenant, the Committee regrets the lack of information on the specific steps taken since the adoption of the concluding observations to revise the limitations on the right to stand for election. It also regrets that the restrictive requirements for participation in elections, including those related to residence, language and education, have reportedly not been revised. It reiterates its recommendation. While taking note of the information provided that some convicted persons are not deprived of the right to vote, the Committee regrets that no action has been taken to revise legislation that provides for a blanket denial of the right to vote for all convicted prisoners and any person declared incompetent by a court. It reiterates its recommendation. While taking note of the information regarding the activities and information-sharing of the Central Commission for Elections and Referendums relating to its work, the Committee regrets the absence of information provided by the State party on efforts made to ensure the full independence of the Commission. It also regrets that, according to information received by the Committee, the Commission has not achieved transparency, given that information on important decisions, disaggregated data on voter and candidate registration and data on the distribution of ballots and detailed voting results were not published. Furthermore, the Committee regrets that members of the Commission were reportedly nominated by the President and approved by the parliament without a debate, and that the nomination process lacked transparency, particularly in that the nomination criteria were not public. It reiterates its recommendation. While welcoming the information provided regarding the access to free public broadcasting for political parties and candidates and the corresponding airtime made available to the various political parties, the Committee is concerned that no evidence has reportedly been provided by relevant State bodies or independent observers that the electoral contestants made use of the airtime or print media space guaranteed under the election laws. It regrets that, according to information received by the Committee, in Dushanbe the posters of the President’s Peoples Democratic Party of visible to the public outnumbered the posters of other parties participating in the election. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 2.0
    }
   ],
   "history": [
@@ -92,5 +96,5 @@
    }
   ]
  },
- "combined_score": 2.2
+ "combined_score": 2.33
 }

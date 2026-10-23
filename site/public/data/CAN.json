@@ -17,15 +17,16 @@
    "followup_paras": [],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 2,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 0,
-    "B": 3,
-    "C": 2,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.75,
+    "C": 1.25,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.6
+   "score": 3.38
   },
   "paragraphs": [
    {
@@ -58,7 +59,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee notes that resources have been allocated in the federal budget to improve the socioeconomic condition of indigenous peoples, but requires additional information on a concrete plan for utilizing these resources. The Committee acknowledges the measures being taken to address issues in the child welfare system, housing, public health and to tackle human trafficking, but requests information about: (a) any measures being taken to address excessive use of force towards and abuse of indigenous women and girls in the context of large-scale development projects and associated labour camps; (b) measures taken to assess the impact of large-scale development projects on indigenous women and girls; and (c) measures taken to address the April 2016 Canadian Human Rights Tribunal decision ordering reform of the First Nations Child and Family Services Program and a halt to its discriminatory practices, particularly regarding the underfunding of onreserve child welfare"
      }
-    ]
+    ],
+    "score": 3.75
    },
    {
     "para": "12",
@@ -72,17 +74,19 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee welcomes the reactivation of the Interim Federal Health Program in 2016, but requires information on its coverage, particularly regarding irregular migrants. The Committee notes the lack of specific information on measures taken after the adoption of its concluding observations on detention of irregular migrants. It requires information on: (a) measures taken to establish a reasonable time limit for detention of irregular migrants and to ensure that detention is used only as a measure of last resort; (b) the policy that “designated foreign nationals” are subject to mandatory arrest and detention, and the number of individuals detained under this policy since the adoption of the Committee’s concluding observations; and (c) the access given to “designated foreign nationals” to the Refugee Appeals Division. The Committee also requests the State party’s response to allegations that there is no independent oversight mechanism for the Border Services Agency"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "16",
     "title": "Indigenous lands and titles",
     "recommendation": "The State party should consult indigenous people to (a) seek their free, prior and informed consent whenever legislation and actions impact on their lands and rights; and (b) resolve land and resources disputes with indigenous peoples and find ways and means to establish their titles over their lands with respect to their treaty rights",
     "header_grades": [],
-    "limbs": []
+    "limbs": [],
+    "score": null
    }
   ],
   "history": []
  },
- "combined_score": 3.6
+ "combined_score": 3.38
 }

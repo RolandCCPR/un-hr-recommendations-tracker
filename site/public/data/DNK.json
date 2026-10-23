@@ -2783,15 +2783,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 6,
+   "n": 3,
+   "n_grades": 6,
    "grade_dist": {
-    "A": 1,
-    "B": 2,
-    "C": 2,
-    "D": 0,
-    "E": 1
+    "A": 1.0,
+    "B": 0.5,
+    "C": 1.25,
+    "D": 0.0,
+    "E": 0.25
    },
-   "score": 3.33
+   "score": 3.67
   },
   "paragraphs": [
    {
@@ -2808,7 +2809,8 @@
       "meaning": "Information/action largely satisfactory",
       "eval": "The Committee welcomes the various legislative and policy measures taken to prevent and combat domestic violence in Denmark, Greenland and the Faroe Islands, including the update to the guidelines on interrelational violent crimes (1 July 2016), the operationalization of the national unit to combat violence in family and intimate relations (1 October 2017), the extension of the Danish Act on Restraining, Exclusion and Expulsion Orders to Greenland (1 April 2017), and the new legislation and Criminal Code amendments passed in the Faroe Islands (March 2017) that, inter alia, provide for clear rules regarding restraining orders, extend the statute of limitations for certain sexual offences and expand the definition of rape. The Committee requires further information on: (a) the practical impact of these measures, including of the national action plan (2014–2017) and the strategy and action plan against violence (2014–2017) of Greenland, on preventing domestic violence and facilitating the reporting of domestic violence, and on ensuring investigations, prosecutions and the sanctioning of perpetrators in Denmark, Greenland and the Faroe Islands (please provide relevant statistics since 2016); (b) the content of the latest update to the guidelines on interrelational violent crimes and any measures to ensure consistent application in practice; and (c) the incidence of cases of psychological violence against current or former intimate partners in the courts and the outcomes. The Committee appreciates the information on training in the prevention, detection and handling of violence and that the certification training on evidence-based risk assessment tools continues to be offered by the national centre for crime prevention. It requires additional information regarding: (a) any comprehensive and mandatory training offered to police officials (as opposed to police students) and professionals, other than prosecutors, involved in preventing and combating domestic violence; and (b) the number of professionals who obtained certification on evidence-based risk assessment tools since 2016 and the results of the training"
      }
-    ]
+    ],
+    "score": 5.0
    },
    {
     "para": "24",
@@ -2824,7 +2826,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "While taking note of the extensive information provided on solitary confinement and efforts to monitor and reduce its use, especially for prolonged periods of time, the Committee regrets that the State party neither abolished solitary confinement for minors nor reduced the total length of permissible solitary confinement for remand detainees even if it is used as a measure of last resort. It requires information on any amendments to the law adopted following the issuance of the recommendations regarding placement in a disciplinary cell made by the working group under the prison and probation service in January 2017. The Committee reiterates its recommendations"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "32",
@@ -2836,10 +2839,11 @@
      "C",
      "E"
     ],
-    "limbs": []
+    "limbs": [],
+    "score": 3.0
    }
   ],
   "history": []
  },
- "combined_score": 3.47
+ "combined_score": 3.64
 }

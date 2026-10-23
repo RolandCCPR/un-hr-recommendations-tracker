@@ -359,14 +359,24 @@ def main():
         past = [h for h in hist.get(code, [])
                 if h["session"] != cur_s and h["header_grades"]]
         r["history"] = sorted(past, key=lambda h: -h["session"])
-        # grades for the score: header line first, else limb grades
-        gs = [g for gg in r["header_grades"].values() for g in gg]
-        if not gs:
-            gs = [lb["grade"] for p in r["paragraphs"] for lb in p["limbs"]]
-        r["n_grades"] = len(gs)
-        r["score"] = round(sum(PTS[g] for g in gs) / len(gs), 2) if gs else None
-        c = Counter(gs)
-        r["grade_dist"] = {g: c.get(g, 0) for g in "ABCDE"}
+        # One number per Concluding Observation: when the Committee grades it in
+        # several subparagraphs each grade is worth an equal share (mean). A
+        # country's score is the mean of those numbers; the grade bar uses the same shares.
+        if r["header_grades"]:
+            cos = {k: v for k, v in r["header_grades"].items() if v}
+        else:
+            cos = {p["num"]: [lb["grade"] for lb in p["limbs"]]
+                   for p in r["paragraphs"] if p["limbs"]}
+        co_scores = {k: sum(PTS[g] for g in v) / len(v) for k, v in cos.items()}
+        r["n_grades"] = sum(len(v) for v in cos.values())
+        r["n_cobs"] = len(cos)
+        r["co_scores"] = {k: round(x, 2) for k, x in co_scores.items()}
+        r["score"] = round(sum(co_scores.values()) / len(co_scores), 2) if co_scores else None
+        dist = {g: 0.0 for g in "ABCDE"}
+        for v in cos.values():
+            for g in v:
+                dist[g] += 1 / len(v)
+        r["grade_dist"] = {g: round(x, 2) for g, x in dist.items()}
         records[code] = r
 
     OUT.write_text(json.dumps(records, ensure_ascii=False, indent=1), encoding="utf-8")

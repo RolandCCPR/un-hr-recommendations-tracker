@@ -21,13 +21,14 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 3,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 1,
-    "B": 3,
-    "C": 1,
-    "D": 0,
-    "E": 0
+    "A": 0.33,
+    "B": 2.33,
+    "C": 0.33,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 4.0
   },
@@ -46,7 +47,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the information that a review is under way to evaluate how to further improve safeguards for intersex children, and that a review of the new provisions under the Act on the Protection of Children with Variations in Sexual Development will take place within five years from the adoption (that is, before May 2026). It regrets, however, the lack of concrete information provided on the steps taken during the reporting period: (a) to ensure compliance with and the adequate implementation of the Act; and (b) to guarantee the provision of remedies in practice. It reiterates its recommendations in this regard, and requests further information on the progress of the legislative review and statistical data on the number of complaints received regarding violations of the legislation, on any criminal charges that have been brought and on the compensation provided to victims"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "31",
@@ -76,7 +78,8 @@
       "meaning": "Information/action largely satisfactory",
       "eval": "(f) The Committee welcomes the steps taken by the State Party to protect older persons from COVID-19 and to ensure long-term preparedness, including by taking the decision to set up a national reserve for health protection and continuing to make protective equipment available to care facilities. It requests additional information on the progress of the national “lessons-learned” process referred to by the State Party"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "43",
@@ -92,7 +95,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the State Party’s efforts to ensure that all types of surveillance activities and interference with privacy are in full conformity with the Covenant. In particular, it notes with satisfaction: (a) the reforms of the Federal Intelligence Service Act since 2021, ensuring a secure legal basis for the Service’s actions and consistent protection of fundamental rights under national and international obligations; and (b) the legislative amendments made in response to decisions of the Federal Constitutional Court in May 2020 and September 2022, including the establishment of the Independent Control Council in 2022 to provide independent legal oversight. The Committee regrets, however, the lack of concrete information on the practical implementation of the Federal Intelligence Service Act. It requests additional details on the reforms of the Federal Intelligence Service Act that have taken place since 2021 and concrete information on the work of the Independent Control Council. Furthermore, it requests data on the complaints received regarding any abuse of surveillance powers, the investigations carried out and the results thereof, and the effective remedies provided"
      }
-    ]
+    ],
+    "score": 4.0
    }
   ],
   "history": [

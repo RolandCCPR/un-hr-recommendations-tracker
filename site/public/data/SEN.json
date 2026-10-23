@@ -17,15 +17,16 @@
    "followup_paras": [],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 3,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 0,
-    "B": 2,
-    "C": 3,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 1.0,
+    "C": 2.0,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.4
+   "score": 3.33
   },
   "paragraphs": [
    {
@@ -40,7 +41,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee takes note of the information on the standard investigation procedure for all deaths in custody and on the conviction and sentencing of officers in the death of Fallou Ka. Nevertheless, the Committee is concerned at the lack of specific information about new measures taken to ensure that all such deaths are investigated, that the procedure is impartial, and that investigations are thorough. Furthermore, it regrets the absence of information on reparations for the victims’ beneficiaries, and on ensuring that punishments for perpetrators are commensurate with the gravity of the acts committed. The Committee reiterates its recommendations"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "33",
@@ -60,7 +62,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "(b) While noting the information on the measures proposed in the bill on legal aid, the Committee regrets the lack of information on measures to increase the financial and human resources of the National Commission on Eligibility for Refugee Status in order to make it more effective. The Committee reiterates its recommendations and requests information on current access to legal aid for asylum-seekers, refugees and stateless persons and on how the aforementioned bill will affect it. (c) The Committee regrets the absence of information on measures taken to reduce delays in responding to applications for refugee status and reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.5
    },
    {
     "para": "41",
@@ -80,10 +83,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "(c) The Committee notes the information on the measures taken to pass the Children’s Code into law, including efforts to convince stakeholders to support the draft law. Nevertheless, the Committee is concerned that the Children’s Code has not yet been passed into law and reiterates its recommendation. (d) The Committee notes the State party’s stated commitment to implementing article 298 of the Criminal Code. Nevertheless, it notes continued sociocultural barriers to reporting of cases, and the courts’ timid application in practice of sentencing provisions under article 298. The Committee regrets the lack of specific information regarding measures taken to provide the entire judicial chain with resources in order to ensure strict application of that article. The Committee reiterates its recommendation. (e) The Committee regrets that the vote in the National Assembly on the bill on the status of Qur’anic schools was reportedly blocked by opponents. It requests further information on the current status of the bill and whether similar legislation, compatible with the State party’s obligations under the Covenant, is envisaged. The Committee reiterates its recommendation. (f) The Committee takes note of the information provided indicating that the ongoing revision of the law on the punishment of the crime of trafficking in persons and on victim protection might include a provision allowing civil society organizations to associate themselves with criminal proceedings before the courts, and requests updated information in this regard. The Committee regrets the lack of information on cases of child abuse other than trafficking in this regard and reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.5
    }
   ],
   "history": []
  },
- "combined_score": 3.4
+ "combined_score": 3.33
 }

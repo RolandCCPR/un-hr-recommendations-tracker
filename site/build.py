@@ -162,6 +162,7 @@ def _grade_summary(hg: dict) -> str:
 
 def hrc_detail(rec: dict):
     dist = collections.Counter(rec["grade_dist"])
+    co_scores = rec.get("co_scores", {})
     paras = []
     for p in rec["paragraphs"]:
         hg = rec["header_grades"].get(p["num"], [])
@@ -172,6 +173,7 @@ def hrc_detail(rec: dict):
             "para": p["num"], "title": p["title"],
             "recommendation": p["recommendation"],
             "header_grades": hg, "limbs": limbs,
+            "score": co_scores.get(p["num"]),
         })
     meta = {
         "mechanism": "hrc",
@@ -186,7 +188,8 @@ def hrc_detail(rec: dict):
         "followup_paras": rec.get("followup_paras") or sorted(rec["header_grades"], key=int),
         "titles_editorial": rec.get("titles_editorial", False),
         "caveat": HRC_CAVEAT,
-        "n": rec["n_grades"],
+        "n": rec["n_cobs"],
+        "n_grades": rec["n_grades"],
         "grade_dist": {g: dist.get(g, 0) for g in "ABCDE"},
         "score": rec["score"],
     }

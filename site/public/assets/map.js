@@ -1,5 +1,5 @@
 // World choropleth. Depends on globals `d3` and `topojson` (classic scripts).
-import { scoreColor, esc, GRADE_ORDER, GRADE_COLOR } from "./app.js";
+import { scoreColor, esc, GRADE_ORDER, GRADE_COLOR, num1 } from "./app.js";
 
 const W = 960, H = 500;
 
@@ -63,7 +63,7 @@ export async function drawMap({ mountSel, tooltipSel, countries, worldUrl, numA3
       const m = rec[k];
       if (!m || m.score == null) continue;
       const bar = GRADE_ORDER.filter((gr) => m.grade_dist[gr])
-        .map((gr) => `<span style="background:${GRADE_COLOR[gr]}">${gr} ${m.grade_dist[gr]}</span>`)
+        .map((gr) => `<span style="background:${GRADE_COLOR[gr]}">${gr} ${num1(m.grade_dist[gr])}</span>`)
         .join("");
       s += `<div style="margin-top:6px"><b>${label}</b> — ${m.score.toFixed(2)} / 5<div class="tg">${bar}</div></div>`;
     }

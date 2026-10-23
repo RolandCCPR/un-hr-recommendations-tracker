@@ -21,15 +21,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 6,
+   "n": 3,
+   "n_grades": 6,
    "grade_dist": {
-    "A": 0,
-    "B": 4,
-    "C": 2,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 1.67,
+    "C": 1.33,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.67
+   "score": 3.56
   },
   "paragraphs": [
    {
@@ -53,7 +54,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee notes the efforts made to prevent inter-ethnic conflicts, but requires additional information on the content of the prevention initiatives and any other measures taken to address the root causes of ethnic intolerance and to promote a peaceful coexistence between different ethnic groups, and on the impact of such measures. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "15",
@@ -83,7 +85,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee notes that the case of Mr. Askarov was referred to the Chuy province court following the Committee’s findings of Covenant violations in his communication No. 2231/2012. It requires updated information on the status of the appeal and on the implementation of its Views concerning the said communication. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.67
    },
    {
     "para": "24",
@@ -99,10 +102,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee notes the information provided, but requires more specific information on the measures taken since the adoption of the concluding observations to: (a) investigate incidents of threats, intimidation and violence against human rights defenders and journalists, prosecute and punish perpetrators, and provide victims with compensation (provide statistics on such incidents reported since March 2014 and the outcome of such complaints, including of the criminal case initiated in 2015 for obstruction of human rights work); and (b) protect all individuals or organizations against reprisals for providing information to the Committee. The Committee reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []
  },
- "combined_score": 3.67
+ "combined_score": 3.56
 }

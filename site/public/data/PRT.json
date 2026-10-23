@@ -17,15 +17,16 @@
    "followup_paras": [],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 3,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 2,
-    "B": 2,
-    "C": 1,
-    "D": 0,
-    "E": 0
+    "A": 1.33,
+    "B": 1.33,
+    "C": 0.33,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 4.2
+   "score": 4.33
   },
   "paragraphs": [
    {
@@ -52,7 +53,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "(c) The Committee regrets the lack of information on steps taken to ensure victims of trafficking in persons have access to asylum procedures in which their potential needs can be determined. It therefore reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "37",
@@ -66,7 +68,8 @@
       "meaning": "Information/action partially satisfactory",
       "eval": "The Committee welcomes the information on the measures in place to ensure unaccompanied minors are not detained. It also welcomes the establishment of a single system for persons seeking and benefiting from international protection and standard operating procedures to ensure an integrated and comprehensive approach that secures protection for children. The Committee requests information on steps taken during the reporting period to ensure that physical conditions in all immigration and reception centres are in conformity with international standards, including whether any mechanisms are in place to ensure adequate and independent monitoring of those centres"
      }
-    ]
+    ],
+    "score": 4.0
    },
    {
     "para": "41",
@@ -80,7 +83,8 @@
       "meaning": "Information/action largely satisfactory",
       "eval": "The Committee welcomes the information on the hiring of new judges, prosecutors and inspectors, as well as the adoption and application of Act No. 9/2020 and the respective directives issued by the Prosecutor General mandating exceptional review of pretrial detention cases in the context of the COVID-19 pandemic. The Committee requests statistical 1"
      }
-    ]
+    ],
+    "score": 5.0
    }
   ],
   "history": [
@@ -92,5 +96,5 @@
    }
   ]
  },
- "combined_score": 4.2
+ "combined_score": 4.33
 }

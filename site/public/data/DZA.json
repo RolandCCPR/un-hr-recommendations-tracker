@@ -21,15 +21,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 5,
+   "n": 3,
+   "n_grades": 5,
    "grade_dist": {
-    "A": 0,
-    "B": 0,
-    "C": 2,
-    "D": 2,
-    "E": 1
+    "A": 0.0,
+    "B": 0.0,
+    "C": 1.0,
+    "D": 1.0,
+    "E": 1.0
    },
-   "score": 2.2
+   "score": 2.0
   },
   "paragraphs": [
    {
@@ -46,7 +47,8 @@
       "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
       "eval": "While taking note of the information provided, the Committee notes that the State party has repeated information and replies it had already submitted prior to the Committee’s adoption of its concluding observations, and which thus formed the basis of its specific and detailed recommendation. It therefore finds that the information reflects the State party’s rejection of its recommendation. The Committee strongly reiterates its recommendation and requests further information on allegations of intimidation of and threats against relatives of the disappeared and on activists advocating for the rights of the disappeared and their relatives"
      }
-    ]
+    ],
+    "score": 1.0
    },
    {
     "para": "38",
@@ -69,7 +71,8 @@
       "meaning": "No cooperation with the Committee",
       "eval": "(d) The Committee regrets the absence of information on the training available for immigration and border control officials and reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 2.5
    },
    {
     "para": "46",
@@ -92,10 +95,11 @@
       "meaning": "No cooperation with the Committee",
       "eval": "(b) The Committee regrets the lack of information on the unpublished decree of 18 June 2001 and reiterates its recommendation"
      }
-    ]
+    ],
+    "score": 2.5
    }
   ],
   "history": []
  },
- "combined_score": 2.2
+ "combined_score": 2.0
 }

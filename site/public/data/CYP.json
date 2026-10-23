@@ -17,13 +17,14 @@
    "followup_paras": [],
    "titles_editorial": true,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 2,
+   "n": 1,
+   "n_grades": 2,
    "grade_dist": {
-    "A": 0,
-    "B": 0,
-    "C": 2,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.0,
+    "C": 1.0,
+    "D": 0.0,
+    "E": 0.0
    },
    "score": 3.0
   },
@@ -46,7 +47,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "(b) The Committee takes note of the information provided by the State party, but requests information on measures taken to establish a Turkish school in Limassol since the adoption of the concluding observations, and on whether additional surveys have been conducted since 2005. The Committee reiterates its recommendations. Recommended action: A letter should be sent reflecting the analysis of the Committee. Next periodic report: 2 April 2020 24"
      }
-    ]
+    ],
+    "score": 3.0
    }
   ],
   "history": []

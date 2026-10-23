@@ -21,15 +21,16 @@
    ],
    "titles_editorial": false,
    "caveat": "The Human Rights Committee's follow-up procedure grades only the two to four “priority” recommendations it selected from this country's Concluding Observations (CoBs). The other CoBs are not graded.",
-   "n": 4,
+   "n": 3,
+   "n_grades": 4,
    "grade_dist": {
-    "A": 0,
-    "B": 1,
-    "C": 3,
-    "D": 0,
-    "E": 0
+    "A": 0.0,
+    "B": 0.5,
+    "C": 2.5,
+    "D": 0.0,
+    "E": 0.0
    },
-   "score": 3.25
+   "score": 3.17
   },
   "paragraphs": [
    {
@@ -46,7 +47,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets that no information was provided on specific measures taken to establish a national human rights institution in compliance with the Paris Principles. The Committee reiterates its request for information and its recommendation"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "25",
@@ -62,7 +64,8 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee notes the information provided by the State party but regrets that the measures were taken before the adoption of the concluding observations. The Committee therefore requests information on measures taken since the adoption of the concluding observations to do the following: (i) implement Law No. 67/2014 with a view to abrogating the crime of irregular entry and stay; (ii) refrain from carrying out collective expulsion of migrants and ensure that the requirement under the Unified Text for case-by-case assessments prior to expulsion is honoured in practice; (iii) ensure non-refoulement of expelled migrants; (iv) ensure that immigration detention is only applied for the shortest period possible and as a measure of last resort, after it has been determined, on a case-by-case basis, to be strictly necessary, proportionate, lawful and nonarbitrary; (v) increase the number of available places in reception centres and improve the conditions therein; and (vi) ensure that the standard operating procedures are applied in practice"
      }
-    ]
+    ],
+    "score": 3.0
    },
    {
     "para": "27",
@@ -85,10 +88,11 @@
       "meaning": "Information/action not satisfactory",
       "eval": "The Committee regrets the lack of specific information on the conditions for unaccompanied minors in reception facilities. The Committee reiterates its request for information, particularly about the segregation of unaccompanied minors from adults in reception facilities, and reiterates its recommendation. Recommended action: A letter should be sent informing the State party of the discontinuation of the follow-up procedure. The information requested should be included in the State party’s next periodic report. Next periodic report due: 29 March 2022. 4"
      }
-    ]
+    ],
+    "score": 3.5
    }
   ],
   "history": []
  },
- "combined_score": 3.25
+ "combined_score": 3.17
 }
