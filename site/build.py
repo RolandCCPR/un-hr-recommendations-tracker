@@ -162,6 +162,9 @@ def upr_detail(slug: str):
     meta = {
         "mechanism": "upr",
         "cycle": f"{cfg['cycle3_session']} session ({cfg['cycle3_review'][:4]})",
+        "cycle3_year": cfg["cycle3_review"][:4],
+        "cycle3_month_year": _dt.date.fromisoformat(cfg["cycle3_review"]).strftime("%B %Y"),
+        "review_label": re.sub(r"^\d+\s+", "", cfg["cycle4_review"]).replace(" (session", " – session").rstrip(")"),
         "co_symbol": cfg["cycle3_symbol"],
         "review": cfg["cycle4_review"],
         "sources": cfg["sources"],

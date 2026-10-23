@@ -48,9 +48,9 @@ function uprSection(upr) {
     })
     .join("");
   return `
-    <h2>Universal Periodic Review — ${esc(m.cycle)} recommendations</h2>
-    <p class="note">Recommendations in <strong>${esc(m.co_symbol)}</strong>, assessed against the
-      documentation for the ${esc(m.review)} review. Assessed by AI and not checked by a human expert.</p>
+    <h2>Universal Periodic Review — Third cycle (${esc(m.cycle3_year)}) recommendations</h2>
+    <p class="note">Recommendations from the third UPR cycle (${esc(m.cycle3_month_year)}), assessed against the
+      documentation for the fourth cycle review (${esc(m.review_label)}). Assessed by AI and not checked by a human expert.</p>
     ${m.note ? `<p class="note"><strong>Note.</strong> ${esc(m.note)}</p>` : ""}
     ${m.headline ? `<p class="lead">${mdInline(m.headline)}</p>` : ""}
     <p class="note"><strong>Sources.</strong> ${m.sources.map(mdInline).join(" · ")}</p>
