@@ -2,7 +2,3293 @@
  "a3": "THA",
  "name": "Thailand",
  "num": 764,
- "upr": null,
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "39th session (2021)",
+   "co_symbol": "A/HRC/49/17",
+   "review": "November 2026 (session 53)",
+   "sources": [
+    "**National Report** — A/HRC/WG.6/53/THA/1",
+    "**UN Compilation** — A/HRC/WG.6/53/THA/2",
+    "**Stakeholders' Summary** — A/HRC/WG.6/53/THA/3",
+    "**State mid-term report** for the third cycle (2022 - May 2024)"
+   ],
+   "headline": "**Partial implementation (B)** is the dominant outcome (150 of 278 recommendations), and Thailand adopted the largest number of new laws and plans of the 13 countries: the Marriage Equality Act (in force 23 January 2025, which also raised the marriage age to 18, **A**), the Prevention and Suppression of Torture and Enforced Disappearance Act (2023, **A**), ratification of the Convention on Enforced Disappearance (2024, **A**), a complete ban on corporal punishment of children in all settings (March 2025, **A**), restoration of the NHRCT to A status (2022, **A**), the Personal Data Protection Act (**A**), criminalisation of sexual harassment (December 2025), the Ethnic Groups Act (September 2025), a stateless-persons fast-track (121,471 granted status) and a National Referral Mechanism for trafficking. **No relevant action (C)** persists on lèse-majesté, sedition, defamation and computer-crime laws (HRW counts at least 1,997 people prosecuted since 2014), the death penalty, OP-CAT and ILO Conventions 87 and 98, refugee law, an anti-discrimination law (still a draft) and the Anti-SLAPP bill (still a draft). 17 recommendations are **D**, including those on COVID-19 measures and sexual education. The one **contrary measure (E)** is the continued return of refugees: a mass expulsion of asylum-seekers to Myanmar on 25 June 2024 and the return of 40 Uyghur men in February 2025.",
+   "note": "",
+   "n": 278,
+   "grade_dist": {
+    "A": 28,
+    "B": 150,
+    "C": 82,
+    "D": 17,
+    "E": 1
+   },
+   "score": 3.67
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "52.1, 52.2, 52.4-52.12, 52.14-52.16",
+      "n": 14,
+      "summary": "Ratify outstanding international instruments",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Thailand ratified ICPPED (2024) and ILO Conventions 144 and 155, but no ratification of the instruments in question is reported; ILO Conventions 87 and 98, OP2-ICCPR, ICRMW, the refugee conventions and the Rome Statute remain outstanding.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 5 — United Nations country team: \"recommended that Thailand ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 4 — NHRCT: \"no concrete progress had been made toward the ratification of ILO Conventions Nos. 87 and 98\""
+      ],
+      "position": "1 supported, 13 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.1",
+        "by": "Mongolia",
+        "position": "supported",
+        "text": "Consider ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "52.2",
+        "by": "Argentina; Armenia; Mexico; Slovenia",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "52.4",
+        "by": "Togo",
+        "position": "noted",
+        "text": "Proceed with the ratification of the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "52.5",
+        "by": "Côte d’Ivoire",
+        "position": "noted",
+        "text": "Ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "52.6",
+        "by": "Islamic Republic of Iran",
+        "position": "noted",
+        "text": "Ratify the International Convention on the Suppression and Punishment of the Crime of Apartheid"
+       },
+       {
+        "paragraph": "52.7",
+        "by": "Armenia; Austria; Cyprus; Israel",
+        "position": "noted",
+        "text": "Ratify the Convention on the Prevention and Punishment of the Crime of Genocide"
+       },
+       {
+        "paragraph": "52.8",
+        "by": "Austria; Luxembourg",
+        "position": "noted",
+        "text": "Ratify the Rome Statute of the International Criminal Court"
+       },
+       {
+        "paragraph": "52.9",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Accede to the Rome Statute of the International Criminal Court and implement it in national legislation (Estonia); Ratify and fully align its national legislation with all the obligations under the Rome Statute of the International Criminal Court, as previously recommended"
+       },
+       {
+        "paragraph": "52.10",
+        "by": "Estonia",
+        "position": "noted",
+        "text": "Ratify the Agreement on the Privileges and Immunities of the International Criminal Court"
+       },
+       {
+        "paragraph": "52.11",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Ratify the Optional Protocols to the International Covenant on Civil and Political Rights"
+       },
+       {
+        "paragraph": "52.12",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Ratify the Protocols Additional to the Geneva Conventions of 1949"
+       },
+       {
+        "paragraph": "52.14",
+        "by": "Costa Rica; Côte d’Ivoire",
+        "position": "noted",
+        "text": "Ratify the 1951 Convention relating to the Status of Refugees"
+       },
+       {
+        "paragraph": "52.15",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Ratify and implement the 1951 Convention relating to the Status of Refugees and its 1967 Protocol (Luxembourg) (Mexico) (Namibia); Accede to the 1951 Convention relating to the Status of Refugees and its 1967 Protocol"
+       },
+       {
+        "paragraph": "52.16",
+        "by": "Côte d’Ivoire",
+        "position": "noted",
+        "text": "Ratify the 1954 Convention relating to the Status of Stateless Persons (Costa Rica)"
+       }
+      ]
+     },
+     {
+      "paras": "52.3",
+      "n": 1,
+      "summary": "Ratify the Convention for the Protection of All Persons from Enforced Disappearance",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Thailand ratified ICPPED on 14 May 2024 (in force 13 June 2024).",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 87 — Thailand: \"ratified the International Convention for the Protection of All Persons from Enforced Disappearance (ICPPED), which subsequently entered into force for Thailand on 13 June 2024\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.3",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Accede to the International Convention for the Protection of All Persons from Enforced Disappearance, as well as its Optional Protocol, and subsequently adopt a more suitable and ambitious national legal framework to implement these policies"
+       }
+      ]
+     },
+     {
+      "paras": "51.15",
+      "n": 1,
+      "summary": "Ratify ICRMW and ICPPED",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Thailand ratified ICPPED (2024) but not ICRMW.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 87 — Thailand: \"ratified the International Convention for the Protection of All Persons from Enforced Disappearance (ICPPED), which subsequently entered into force for Thailand on 13 June 2024\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 5 — United Nations country team: \"recommended that Thailand ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.15",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Consider acceding to the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families, and advance the ratification of the International Convention for the Protection of All Persons from Enforced Disappearance"
+       }
+      ]
+     },
+     {
+      "paras": "52.17",
+      "n": 1,
+      "summary": "Ratify the UNESCO Convention against Discrimination in Education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "UNESCO continues to recommend ratification; none is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 8 — UNESCO: \"recommended that Thailand ratify the Convention against Discrimination in Education\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.17",
+        "by": "Mauritius",
+        "position": "noted",
+        "text": "Ratify the Convention against Discrimination in Education"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Constitutional & legislative framework",
+    "blocks": [
+     {
+      "paras": "51.2, 51.4, 51.23, 51.94, 51.128",
+      "n": 5,
+      "summary": "Review and align legislation with international human rights obligations",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Thailand adopted numerous laws in the period (torture, marriage equality, ethnic groups, sexual harassment, corporal punishment) and is drafting several others; no repeal of rights-restrictive legislation is reported.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 23 — Thailand: \"Thailand has made significant progress in developing laws and policies that protect and promote human rights\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.2",
+        "by": "Turkmenistan",
+        "position": "supported",
+        "text": "Enhance ongoing efforts to review and bring the legislation into line with the commitment to the international human rights obligations of Thailand"
+       },
+       {
+        "paragraph": "51.4",
+        "by": "Egypt",
+        "position": "supported",
+        "text": "Consider reviewing national legislation in line with the international human rights instruments ratified by Thailand"
+       },
+       {
+        "paragraph": "51.23",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Continue to take measures to improve national legislation in the field of the promotion and protection of human rights"
+       },
+       {
+        "paragraph": "51.94",
+        "by": "Syrian Arab Republic",
+        "position": "supported",
+        "text": "Enhance the frameworks to prevent the exploitation of cyberspace to commit criminal activities"
+       },
+       {
+        "paragraph": "51.128",
+        "by": "Kyrgyzstan",
+        "position": "supported",
+        "text": "Further strengthen legal frameworks related to the protection of women, children, persons with disabilities and other vulnerable groups"
+       }
+      ]
+     },
+     {
+      "paras": "51.1",
+      "n": 1,
+      "summary": "Repeal or amend rights-restrictive legislation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No repeal or amendment of the restrictive legislation is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 34 — HRW: \"at least 1,997 people had been prosecuted in Thailand for exercising their rights to free expression and peaceful assembly\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "51.1",
+        "by": "New Zealand",
+        "position": "noted",
+        "text": "Take action to repeal or amend such legislation to ensure full compliance with its international obligations"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Prohibition of torture & ill-treatment (including cruel, inhuman or degrading treatment)",
+    "blocks": [
+     {
+      "paras": "51.24-51.26, 51.72",
+      "n": 4,
+      "summary": "Enact legislation criminalising torture and enforced disappearance",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023; the Committee against Torture calls for fuller conformity with the Convention.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 89 — Thailand: \"enacted the Prevention and Suppression of Torture and Enforced Disappearance Act, B.E. 2565 (2022), which entered into force on 26 February 2023\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 11 — Committee against Torture: \"welcomed the adoption of the Prevention and Suppression of Torture and Enforced Disappearance Act B.E. 2565 (2022)\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.24",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Adopt national legislation criminalizing torture and enforced disappearance, and recognize the rights of victims"
+       },
+       {
+        "paragraph": "51.25",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Enact legislation that criminalizes torture and ill-treatment"
+       },
+       {
+        "paragraph": "51.26",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Enact legislation criminalizing torture and enforced disappearances"
+       },
+       {
+        "paragraph": "51.72",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Expedite the process of the legislation outlawing torture and enforced disappearance"
+       }
+      ]
+     },
+     {
+      "paras": "51.3, 51.73",
+      "n": 2,
+      "summary": "Criminalise torture and enforced disappearance and prevent ill-treatment",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023 and interpretative declarations to CAT were withdrawn; the Committee against Torture notes provisions not yet in full conformity and the NHRCT reports weak enforcement.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 89 — Thailand: \"enacted the Prevention and Suppression of Torture and Enforced Disappearance Act, B.E. 2565 (2022), which entered into force on 26 February 2023\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 88 — Thailand: \"withdrew its Interpretative Declarations to the Convention against Torture\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 2 — NHRCT: \"persistent challenges in enforcing the 2022 Prevention and Suppression of Torture and Enforced Disappearance Act\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.3",
+        "by": "Bahrain",
+        "position": "supported",
+        "text": "Continue efforts in revising legislation to be in line with the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "51.73",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Adopt measures preventing abuse and other ill-treatment by law enforcement authorities"
+       }
+      ]
+     },
+     {
+      "paras": "51.6, 51.7",
+      "n": 2,
+      "summary": "Ratify the Optional Protocol to the Convention against Torture",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The NHRCT conducted awareness visits as a prospective NPM; Thailand has not acceded and the NHRCT recommends a time-bound roadmap.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 25 — Thailand: \"has demonstrated its readiness to serve as the National Preventive Mechanism (NPM) by conducting field visits to raise awareness on recommendations concerning accession to the Optional Protocol\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 3 — NHRCT: \"adopt a time-bound roadmap for accession to the OP-CAT\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.6",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Consider ratifying the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "51.7",
+        "by": "Costa Rica; Cyprus; Denmark; France; Germany; Norway; Portugal; Switzerland; Togo; Turkey;",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       }
+      ]
+     },
+     {
+      "paras": "51.27, 51.28",
+      "n": 2,
+      "summary": "Align torture and enforced disappearance legislation with international obligations and prosecute alleged cases",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023; the Committee against Torture requests that the list of torture purposes be illustrative and superior responsibility and amnesty exemptions be clarified, and reports credible investigations are rare.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 89 — Thailand: \"enacted the Prevention and Suppression of Torture and Enforced Disappearance Act, B.E. 2565 (2022), which entered into force on 26 February 2023\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 11 — Committee against Torture: \"ensuring that the list of purposes for torture contained in the Act was established as illustrative, rather than exhaustive\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 17 — Committee against Torture: \"authorities routinely failed to carry out credible investigations except in a few high-profile cases that received media attention\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.27",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Align the draft prevention and suppression of torture and enforced disappearance act with Thailand’s obligations under international law"
+       },
+       {
+        "paragraph": "51.28",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Adopt legislation to implement Thailand’s international human rights commitments on torture and enforced disappearance, and investigate and prosecute all alleged cases"
+       }
+      ]
+     },
+     {
+      "paras": "51.9",
+      "n": 1,
+      "summary": "Ratify OP-CAT and legislate against torture and enforced disappearance",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Anti-Torture and Enforced Disappearance Act (2023) was enacted; OP-CAT is not ratified.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 89 — Thailand: \"enacted the Prevention and Suppression of Torture and Enforced Disappearance Act, B.E. 2565 (2022), which entered into force on 26 February 2023\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 3 — NHRCT: \"adopt a time-bound roadmap for accession to the OP-CAT\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.9",
+        "by": "New Zealand",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, and pass legislation criminalizing enforced disappearance and torture"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Economic, social & cultural rights - general measures of implementation",
+    "blocks": [
+     {
+      "paras": "51.53, 51.90, 51.99, 51.101, 51.131",
+      "n": 5,
+      "summary": "Social development and narrowing the digital divide",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Multidimensional Poverty Index and the 13th National Economic and Social Development Plan guide targeted social policies; Thailand has not ratified OP-ICESCR.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 28 — Thailand: \"adopted the National Multidimensional Poverty Index (MPI)\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.53",
+        "by": "Turkmenistan",
+        "position": "supported",
+        "text": "Continue pursuing its socioeconomic and development strategies in a way that it would cover all sectors of society"
+       },
+       {
+        "paragraph": "51.90",
+        "by": "China",
+        "position": "supported",
+        "text": "Strengthen the construction of information infrastructure and narrow the digital divide"
+       },
+       {
+        "paragraph": "51.99",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue strengthening its successful social policies in favour of its people, with emphasis on the most vulnerable"
+       },
+       {
+        "paragraph": "51.101",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to promote sustainable economic and social development and to improve people’s living standards"
+       },
+       {
+        "paragraph": "51.131",
+        "by": "Singapore",
+        "position": "supported",
+        "text": "Implement a holistic strategy to ensure the economic empowerment of older persons"
+       }
+      ]
+     },
+     {
+      "paras": "51.5",
+      "n": 1,
+      "summary": "Ratify the Optional Protocol to the ICESCR",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "UNESCO continues to recommend ratification; none is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 3 — UNESCO: \"recommended that Thailand ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.5",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Preventive Mechanism (NPM)",
+    "blocks": [
+     {
+      "paras": "51.29, 51.74",
+      "n": 2,
+      "summary": "Establish an independent mechanism for the prevention and suppression of torture and enforced disappearances",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The NHRCT has conducted awareness visits as a prospective national preventive mechanism but no independent mechanism has been established and OP-CAT is not ratified.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 25 — Thailand: \"has demonstrated its readiness to serve as the National Preventive Mechanism (NPM) by conducting field visits to raise awareness on recommendations concerning accession to the Optional Protocol\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 3 — NHRCT: \"adopt a time-bound roadmap for accession to the OP-CAT\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.29",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Advance in the establishment of an independent mechanism for the prevention and repression of torture and enforced disappearances"
+       },
+       {
+        "paragraph": "51.74",
+        "by": "Afghanistan",
+        "position": "supported",
+        "text": "Set up an independent mechanism for the prevention and suppression of torture and enforced disappearances, and reinforce the training of law enforcement officials and military"
+       }
+      ]
+     },
+     {
+      "paras": "51.8",
+      "n": 1,
+      "summary": "Ratify the Optional Protocol to the Convention against Torture",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The NHRCT conducted awareness visits as a prospective NPM; Thailand has not acceded and the NHRCT recommends a time-bound roadmap.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 25 — Thailand: \"has demonstrated its readiness to serve as the National Preventive Mechanism (NPM) by conducting field visits to raise awareness on recommendations concerning accession to the Optional Protocol\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 3 — NHRCT: \"adopt a time-bound roadmap for accession to the OP-CAT\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.8",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and establish an independent and well-resourced national preventive mechanism as previously recommended"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Enforced disappearances",
+    "blocks": [
+     {
+      "paras": "51.10-51.13",
+      "n": 4,
+      "summary": "Ratify the Convention for the Protection of All Persons from Enforced Disappearance",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Thailand ratified ICPPED on 14 May 2024 (in force 13 June 2024).",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 87 — Thailand: \"ratified the International Convention for the Protection of All Persons from Enforced Disappearance (ICPPED), which subsequently entered into force for Thailand on 13 June 2024\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.10",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Consider the ratification of the International Convention for the Protection of All Persons from Enforced Disappearance (Peru); Consider acceding to the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "51.11",
+        "by": "Estonia",
+        "position": "supported",
+        "text": "Speed up the ratification process of the International Convention for the Protection of All Persons from Enforced Disappearance and other core international human rights conventions"
+       },
+       {
+        "paragraph": "51.12",
+        "by": "Argentina; Austria; France; Costa Rica; Germany; Japan; Mexico; Senegal; Slovakia; Togo; Yemen",
+        "position": "supported",
+        "text": "Ratify the International Convention for the Protection of all Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "51.13",
+        "by": "Norway",
+        "position": "supported",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance and accelerate the enactment of the Act on Torture and Enforced Disappearance"
+       }
+      ]
+     },
+     {
+      "paras": "52.45",
+      "n": 1,
+      "summary": "Investigate enforced disappearances, including the case of Wanchalearm Satsaksit",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Committee against Torture notes an apparent lack of progress in investigating and prosecuting enforced disappearances.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 20 — Committee against Torture: \"the apparent lack of progress in investigating and prosecuting enforced disappearances\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.45",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Conduct prompt, transparent and impartial investigations into reports of enforced disappearances, including in the case of Wanchalearm Satsaksit and seven other Thai political activists missing since 2014"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Labour rights and right to work",
+    "blocks": [
+     {
+      "paras": "52.13",
+      "n": 1,
+      "summary": "Ratify ILO Conventions 87 and 98",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No progress toward ratification is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 4 — NHRCT: \"no concrete progress had been made toward the ratification of ILO Conventions Nos. 87 and 98\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.13",
+        "by": "Sweden",
+        "position": "noted",
+        "text": "Ratify International Labour Organization core conventions No. 87, concerning freedom of association and protection of the right to organize, and No. 98, concerning the application of the principles of the right to organize and to bargain collectively, and amend the labour law to facilitate and allow freedom of association for trade unions, for both nationals and non-nationals"
+       }
+      ]
+     },
+     {
+      "paras": "51.112",
+      "n": 1,
+      "summary": "Ratify ILO Conventions 87 and 98 and protect all workers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Thailand ratified ILO Conventions 144 and 155 but no progress was made on Conventions 87 and 98.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 43 — Thailand: \"ratified ILO’s Occupational Safety and Health Convention 1981 (No. 155)\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 4 — NHRCT: \"no concrete progress had been made toward the ratification of ILO Conventions Nos. 87 and 98\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.112",
+        "by": "Cambodia",
+        "position": "supported",
+        "text": "Take additional steps to further protect and promote the rights of all workers, including fishermen"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Migrants",
+    "blocks": [
+     {
+      "paras": "51.181-51.189",
+      "n": 9,
+      "summary": "Protect the rights of migrant workers",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Migrant Worker Assistance Centres were expanded from 10 to 30 provinces, health coverage was extended to undocumented migrant workers (HINT) and ILO projects on fair recruitment run; the NHRCT and CERD report gaps in labour and social protection.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 79 — Thailand: \"increased the numbers of Migrant Worker Assistance Centres from 10 provinces to 30 provinces nationwide\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 10 — NHRCT: \"migrant workers, informal workers and workers in new forms of work such as platform workers remained inadequately protected by labour law\""
+      ],
+      "position": "9 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.181",
+        "by": "Nigeria",
+        "position": "supported",
+        "text": "Strengthen efforts in the protection of the rights of migrants and members of their families"
+       },
+       {
+        "paragraph": "51.182",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Take all necessary steps to immediately end forced labour and human rights abuses in the fishing industry, including by providing medical and social security services to migrant workers in the industry"
+       },
+       {
+        "paragraph": "51.183",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Streamline cooperation processes in order to guarantee that migrant workers can access the rights provided in applicable laws, from their countries of origin to those of destination, in order to avoid problems such as debt bondage and the worst forms of child labour, in accordance with Sustainable Development Goal 8 and international labour standards"
+       },
+       {
+        "paragraph": "51.184",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Further promote the rights of migrant workers by guaranteeing their access to essential services"
+       },
+       {
+        "paragraph": "51.185",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts aimed at ensuring that migrant workers have access to legal and social protection"
+       },
+       {
+        "paragraph": "51.186",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Intensify efforts to protect the human rights of migrant workers"
+       },
+       {
+        "paragraph": "51.187",
+        "by": "Viet Nam",
+        "position": "supported",
+        "text": "Continue proactive efforts to ensure that migrant workers can access rights as prescribed by applicable laws, including universal health coverage, access to information and proper documentation"
+       },
+       {
+        "paragraph": "51.188",
+        "by": "Bangladesh",
+        "position": "supported",
+        "text": "Continue efforts to ensure the welfare of migrant workers, including extending social security to them, particularly in the context of the onslaught of the COVID-19 pandemic"
+       },
+       {
+        "paragraph": "51.189",
+        "by": "Colombia",
+        "position": "supported",
+        "text": "Continue to deploy proactive efforts to ensure that migrant workers can access the rights provided in the applicable regulations"
+       }
+      ]
+     },
+     {
+      "paras": "51.14",
+      "n": 1,
+      "summary": "Ratify the Migrant Workers Convention",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No ratification is reported; the UN country team continues to recommend it.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 5 — United Nations country team: \"recommended that Thailand ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.14",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Consider ratifying the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Refugees & asylum seekers",
+    "blocks": [
+     {
+      "paras": "52.79, 52.80",
+      "n": 2,
+      "summary": "Protect refugees and asylum seekers and allow them to work",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Screening Mechanism operates since 2023 and a Cabinet resolution (26 August 2025) lets Myanmar displaced persons in shelters work (6,089 had entered the labour market) and obtain ID cards; there is no refugee law.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 81 — Thailand: \"put in place the National Screening Mechanism (NSM) since 2023\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 82 — Thailand: \"6,089 MDPs have entered the labour market\""
+      ],
+      "position": "1 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.79",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Implement legal measures to ensure proper protection of refugees and asylum seekers"
+       },
+       {
+        "paragraph": "52.80",
+        "by": "Afghanistan",
+        "position": "noted",
+        "text": "Expand social welfare initiatives to refugees and asylum seekers that would allow them the right to work"
+       }
+      ]
+     },
+     {
+      "paras": "51.16",
+      "n": 1,
+      "summary": "Ratify the Refugee Convention and protect refugees and asylum seekers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Thailand created a National Screening Mechanism (2023) and allowed Myanmar displaced persons in shelters to work (August 2025), but has no refugee legislation; refugees are treated as irregular migrants and the Committee against Torture reports mass expulsions.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 81 — Thailand: \"put in place the National Screening Mechanism (NSM) since 2023\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 68 — Fortify Rights: \"refugees were treated as irregular migrants under the Immigration Act of 1979 and were therefore subject to arrest, detention and deportation\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.16",
+        "by": "Sierra Leone",
+        "position": "supported",
+        "text": "Consider ratifying the 1951 Convention relating to the Status of Refugees and its 1967 Protocol"
+       }
+      ]
+     },
+     {
+      "paras": "52.78",
+      "n": 1,
+      "summary": "Stop the return of refugees to Myanmar",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The Committee against Torture reports a mass expulsion of asylum-seekers from Myanmar on 25 June 2024 and HRW reports the return of 40 Uyghur men in February 2025: practice contrary to the recommendation.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 61 — Committee against Torture: \"allegations of the mass expulsion of asylum-seekers from Myanmar on 25 June 2024\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 69 — HRW: \"The Government sent 40 Uyghur men to a neighbouring country in February 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.78",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Stop immediately the return of refugees from Myanmar in view of the severe risk that it implies for their lives and integrity in the current circumstances of that country"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: protection and safety in situations of risk",
+    "blocks": [
+     {
+      "paras": "51.17",
+      "n": 1,
+      "summary": "Align legislation with the Convention on the Rights of Persons with Disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A draft Persons with Disabilities Empowerment Act (No. 3) is advancing to align the law with the CRPD.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 65 — Thailand: \"advancing the draft Persons with Disabilities Empowerment Act (No. 3)\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.17",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Strengthen and align its legislation with the Convention on the Rights of Persons with Disabilities, especially regarding access to health and education"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Mechanisms for Reporting & Follow-up (NMRF)",
+    "blocks": [
+     {
+      "paras": "51.18",
+      "n": 1,
+      "summary": "Permanent national mechanism for reporting and follow-up",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Committee on Driving Forward Human Rights Work in Thailand serves as the NMIRF.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 26 — Thailand: \"serves as the National Mechanism for Implementation, Reporting and Follow-up (NMIRF)\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.18",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Establish a permanent national mechanism for the reporting, implementation and follow-up of recommendations on human rights, considering the possibility of receiving cooperation for this purpose within the framework of Sustainable Development Goals 16 and 17"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of association",
+    "blocks": [
+     {
+      "paras": "52.18-52.26",
+      "n": 9,
+      "summary": "Revise or withdraw the draft law on non-profit organisations",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Thailand's mid-term report states that the Government noted the concerns, held public consultations and conducted an impact assessment, and that under the new Government the Bill has not been re-submitted to Cabinet; no revised text exists.",
+      "evidence": [
+       "State mid-term report (mid-term report), para. 3.10.1 — Thailand: \"held several public consultations and conducted an impact assessment\"",
+       "State mid-term report (mid-term report), para. 3.10.1 — Thailand: \"the said Bill has so far not been re-submitted to cabinet for consideration\""
+      ],
+      "position": "8 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.18",
+        "by": "France",
+        "position": "supported",
+        "text": "Revise the bill on the operations of non-profit organizations to guarantee freedom of association"
+       },
+       {
+        "paragraph": "52.19",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Critically examine the effect of the repressive draft act on the operation of not-for profit organizations"
+       },
+       {
+        "paragraph": "52.20",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Ensure that the revision of the draft law on the functioning of NGOs is in line with international commitments"
+       },
+       {
+        "paragraph": "52.21",
+        "by": "Netherlands",
+        "position": "supported",
+        "text": "Create and maintain, in law and in practice, an enabling environment for civil society, including by guaranteeing that the draft law governing the operation of not-for-profit organizations (2021) is revised to conform with international norms and good regulatory practices relating to the freedom of peaceful assembly and association"
+       },
+       {
+        "paragraph": "52.22",
+        "by": "Norway",
+        "position": "supported",
+        "text": "Ensure that the adoption of new NGO legislation will not prevent or impede civil society organizations from operating securely and freely"
+       },
+       {
+        "paragraph": "52.23",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Withdraw consideration of the draft law on the operations of not-for-profit organizations and other new legislation that could potentially restrict civic space in Thailand"
+       },
+       {
+        "paragraph": "52.24",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Ensure that the proposed NGO law does not impede civil society from undertaking legitimate activities"
+       },
+       {
+        "paragraph": "52.25",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Ensure that any potential new legislation governing the operations of the non-profit sector does not restrict the activities of civil society in a manner inconsistent with Thailand’s international obligations, ensure all stakeholders are consulted on such legislation, and protect and encourage the work of human rights defenders"
+       },
+       {
+        "paragraph": "52.26",
+        "by": "Denmark",
+        "position": "supported",
+        "text": "Revise the draft bill on not-for-profit organizations to ensure its full compliance with Thailand’s international human rights obligations, including article 22 of the International Covenant on Civil and Political Rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Treaty Bodies",
+    "blocks": [
+     {
+      "paras": "51.19",
+      "n": 1,
+      "summary": "Open, merit-based selection of treaty body candidates",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.19",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Adopt an open, merit-based process when selecting national candidates for United Nations treaty body elections"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation with human rights mechanisms & requests for technical assistance",
+    "blocks": [
+     {
+      "paras": "51.20, 51.22",
+      "n": 2,
+      "summary": "Cooperate with the Human Rights Council, special procedures and OHCHR",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Thailand sits on the Human Rights Council (2025-2027), welcomed two special procedure visits and maintains regular engagement with the OHCHR Regional Office.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 15 — Thailand: \"welcomed the official visits of two special procedures mandate holders\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 13 — Thailand: \"maintains regular engagement with the Regional Office for South-East Asia of the Office of the United Nations High Commissioner for Human Rights (OHCHR) in Bangkok\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.20",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue its cooperation with the Human Rights Council and its mechanisms, including the special procedures"
+       },
+       {
+        "paragraph": "51.22",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Continue to cooperate actively and constructively with OHCHR and other mechanisms responsible for the promotion and protection of human rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Special Procedures",
+    "blocks": [
+     {
+      "paras": "51.21",
+      "n": 1,
+      "summary": "Endorse requests for visits by special procedures",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Thailand hosted visits by the Working Group on discrimination against women and girls (December 2024) and the Special Rapporteur on health (February 2025).",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 15 — Thailand: \"welcomed the official visits of two special procedures mandate holders\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.21",
+        "by": "Belarus",
+        "position": "supported",
+        "text": "Consider endorsing requests from a number of special procedures of the Human Rights Council for visiting the country"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Members of minorities",
+    "blocks": [
+     {
+      "paras": "52.27",
+      "n": 1,
+      "summary": "Human rights training for public and educational institutions",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.27",
+        "by": "Ecuador",
+        "position": "supported",
+        "text": "Train public and educational institutions on human rights, with emphasis on the elimination of violence against women and girls, especially those from indigenous communities and ethnic and religious minorities"
+       }
+      ]
+     },
+     {
+      "paras": "52.77",
+      "n": 1,
+      "summary": "Draft and implement the Ethnic Groups Act in line with international standards",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Act entered into force on 19 September 2025; the UN country team notes it does not recognise Indigenous Peoples and reflects FPIC only partially.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 71 — Thailand: \"Protection and Promotion of the Way of Life of Ethnic Groups Act B.E. 2568 (2025) entered into force on 19 September 2025\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 55 — United Nations country team: \"did not explicitly recognize Indigenous Peoples and only reflected free, prior and informed consent partially\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.77",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Ensure that the protection and promotion of the way of life of ethnic groups act is drafted and implemented in accordance with the relevant international human rights law and standards"
+       }
+      ]
+     },
+     {
+      "paras": "51.180",
+      "n": 1,
+      "summary": "Promote and protect ethnic, religious and linguistic minorities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Protection and Promotion of the Way of Life of Ethnic Groups Act entered into force on 19 September 2025 and an Action Plan on Peaceful Coexistence 2023-2027 was adopted; the UN country team notes the Act does not recognise Indigenous Peoples and FPIC only partially.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 71 — Thailand: \"Protection and Promotion of the Way of Life of Ethnic Groups Act B.E. 2568 (2025) entered into force on 19 September 2025\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 55 — United Nations country team: \"did not explicitly recognize Indigenous Peoples and only reflected free, prior and informed consent partially\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.180",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Continue efforts to promote and protect ethnic, religious and linguistic minorities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "51.45, 51.46, 51.48, 51.129, 51.130, 51.158, 51.170",
+      "n": 7,
+      "summary": "Protect LGBTIQ+ persons and marginalised groups from discrimination",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Marriage Equality Act (in force 23 January 2025), coverage of gender-affirming hormone therapy under universal coverage (July 2025), the 5th National Human Rights Plan and dialogues with law enforcement were adopted; the Anti-Discrimination Bill is still being drafted and LBTIQ+ persons face discrimination.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 74 — Thailand: \"which came into effect on 23 January 2025\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 73 — Thailand: \"The Thai Government is drafting the Anti-Discrimination Bill\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 57 — Working Group on discrimination against women and girls: \"LBTIQ+ women and girls continued to face discrimination in many areas, including employment, education, housing and healthcare\""
+      ],
+      "position": "7 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.45",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Take the necessary steps to combat discrimination and violence against women and children, and on the basis of sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "51.46",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Combat discrimination based on sexual orientation and gender identity, especially in education, employment and health"
+       },
+       {
+        "paragraph": "51.48",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Further develop policies to ensure full enjoyment of rights and equality to LGBTQI persons"
+       },
+       {
+        "paragraph": "51.129",
+        "by": "Canada",
+        "position": "supported",
+        "text": "In line with Thailand’s international commitments, strengthen efforts to protect the rights of persons who are marginalized and most vulnerable, including women, migrant workers, children, and lesbian, gay, bisexual, transgender and intersex persons, while also taking steps to foster their fuller inclusion and to increase women’s participation in decision-making"
+       },
+       {
+        "paragraph": "51.130",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Pursue the efforts made that are aimed at protecting older persons"
+       },
+       {
+        "paragraph": "51.158",
+        "by": "Turkmenistan",
+        "position": "supported",
+        "text": "Take further measures on strengthening the protection of the rights of children, women and persons with disabilities"
+       },
+       {
+        "paragraph": "51.170",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue its efforts towards the protection of rights of persons with disabilities and ethnic minorities"
+       }
+      ]
+     },
+     {
+      "paras": "52.28, 52.30, 52.31",
+      "n": 3,
+      "summary": "Recognise same-sex marriage",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Civil and Commercial Code Amendment Act (No. 24) B.E. 2567 (Marriage Equality Act) came into effect on 23 January 2025.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 74 — Thailand: \"which came into effect on 23 January 2025\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.28",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Recognize same-sex marriage by the end of 2022"
+       },
+       {
+        "paragraph": "52.30",
+        "by": "Luxembourg; France",
+        "position": "noted",
+        "text": "Amend the Civil and Commercial Code to recognize same-sex marriage"
+       },
+       {
+        "paragraph": "52.31",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Amend legislation to recognize equality in marriage for lesbian, gay, bisexual, transgender and intersex persons"
+       }
+      ]
+     },
+     {
+      "paras": "51.47, 51.50",
+      "n": 2,
+      "summary": "Educate on diversity and non-discrimination of LGBTIQ+ persons",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation; CEDAW's Working Group reports bullying of LBTIQ+ students.",
+      "evidence": [],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.47",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Train education personnel, both in public and private institutions, and review the basic education curriculum to promote a positive and respectful attitude towards diversity, including sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "51.50",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Include the right to non-discrimination of people of diverse sexual orientations and gender identities in sexual health education"
+       }
+      ]
+     },
+     {
+      "paras": "52.29",
+      "n": 1,
+      "summary": "Enact a gender identity, gender expression and sex characteristics act",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No such law is reported; RSAT notes critical gaps in legislation protecting LGBTIQ+ individuals and the Anti-Discrimination Bill is only a draft.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 65 — RSAT: \"critical gaps in Thai legislation continued to deny LGBTIQ+ individuals the protection\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.29",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Enact a gender identity, gender expression and sex characteristics act by 2023, in consultation with LGBTI+ groups in Thailand"
+       }
+      ]
+     },
+     {
+      "paras": "51.49",
+      "n": 1,
+      "summary": "Promote and protect the rights of LGBTIQ+ people",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The Marriage Equality Act is in force (January 2025), gender-affirming hormone therapy is covered under universal coverage (July 2025), the 5th National Human Rights Plan targets LGBTIQ+ persons and dialogues are held with law enforcement.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 74 — Thailand: \"which came into effect on 23 January 2025\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 77 — Thailand: \"has regularly convened dialogues across various provinces nationwide to foster respect for the rights and appropriate treatment of LGBTIQ+ persons among law enforcement officers\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.49",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Maintain efforts to promote and protect the rights of LGBTIQ+ people"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Action Plans (or specific areas) / implementation plans",
+    "blocks": [
+     {
+      "paras": "51.31, 51.42, 51.55, 51.104, 51.111, 51.132",
+      "n": 6,
+      "summary": "Develop and implement national plans",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The 5th National Human Rights Plan (2023-2027), the UPR National Action Plan (Cabinet, 20 December 2022) and sectoral plans were adopted; the UN country team calls for updated, resourced plans.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 9 — Thailand: \"Approved by the Cabinet on 20 December 2022\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 14 — Committee against Torture: \"welcomed the adoption of the Fifth National Human Rights Plan (2023–2027)\""
+      ],
+      "position": "6 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.31",
+        "by": "Democratic People’s Republic of Korea",
+        "position": "supported",
+        "text": "Continue efforts to fulfil international obligations for the promotion and protection of human rights by further developing and implementing comprehensive national plans and programmes"
+       },
+       {
+        "paragraph": "51.42",
+        "by": "2019–2022; Romania",
+        "position": "supported",
+        "text": "Ensure the full implementation of the fourth National Human Rights Plan"
+       },
+       {
+        "paragraph": "51.55",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue efforts to strengthen national programmes and plans designed to achieve Sustainable Development Goal 1 through the national economic, social and development plan with a view to improving the living conditions of the population"
+       },
+       {
+        "paragraph": "51.104",
+        "by": "Democratic People’s Republic of Korea",
+        "position": "supported",
+        "text": "Continue implementation of social-oriented policies aimed at further improving the well-being of specific groups, including children, women, older persons, persons with disabilities and migrant workers"
+       },
+       {
+        "paragraph": "51.111",
+        "by": "Kuwait",
+        "position": "supported",
+        "text": "Continue to implement its plans related to creating job opportunities and encouraging professional activities"
+       },
+       {
+        "paragraph": "51.132",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Continue efforts to protect women and girls, as well as children, and include them in national development plans"
+       }
+      ]
+     },
+     {
+      "paras": "51.30",
+      "n": 1,
+      "summary": "Implement and renew the plan for coexistence in a multicultural society",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "An Action Plan on the Promotion of Peaceful Coexistence in a Multicultural Society 2023-2027 was adopted as national policy.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 72 — Thailand: \"Action Plan on the Promotion of Peaceful Coexistence in a Multicultural Society in Thailand B.E. 2566-2570 (2023-2027)\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.30",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Fully implement and consider renewing the 2018”2021 plan to promote coexistence under a multicultural society in Thailand"
+       }
+      ]
+     },
+     {
+      "paras": "51.54",
+      "n": 1,
+      "summary": "Implement the 20-year National Strategy",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.54",
+        "by": "2018–2037; Azerbaijan",
+        "position": "supported",
+        "text": "Ensure the effective implementation of the 20-year National Strategy"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "51.33-51.37, 51.39-51.41",
+      "n": 8,
+      "summary": "Strengthen the National Human Rights Commission in line with the Paris Principles",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "GANHRI restored the NHRCT to A status in March 2022; the Committee against Torture and JS38 note that the 2017 Organic Act removed powers and that independence of appointments needs reform.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 24 — Thailand: \"restored the accreditation status of the National Human Rights Commission of Thailand (NHRCT) to Category A status\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 12 — Committee against Torture: \"the Organic Act of the National Human Rights Commission of Thailand, adopted in 2017, removed the Commission’s power to file lawsuits\""
+      ],
+      "position": "8 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.33",
+        "by": "India",
+        "position": "supported",
+        "text": "Consider strengthening the National Human Rights Commission further in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "51.34",
+        "by": "Mongolia",
+        "position": "supported",
+        "text": "Accelerate its efforts to strengthen and upgrade the status of its National Human Rights Commission in line with the Paris Principles"
+       },
+       {
+        "paragraph": "51.35",
+        "by": "Namibia",
+        "position": "supported",
+        "text": "Take necessary measures to ensure that the National Human Rights Commission operates in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "51.36",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Assess measures to guarantee the effectiveness and independence of the National Human Rights Commission, in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "51.37",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Continue to work towards guaranteeing the transparency and independence of the National Human Rights Commission in full accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "51.39",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Ensure that the National Human Rights Commission is able to carry out its mandate effectively and independently, and in full conformity with the Paris Principles"
+       },
+       {
+        "paragraph": "51.40",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Take steps to ensure full compliance of the national human rights commission with the Paris Principles"
+       },
+       {
+        "paragraph": "51.41",
+        "by": "the Paris Principles; Egypt",
+        "position": "supported",
+        "text": "Consider taking further steps to ensure that the national human rights institution is in conformity with the principles relating to the status of national institutions for the promotion and protection of human rights"
+       }
+      ]
+     },
+     {
+      "paras": "51.32, 51.38",
+      "n": 2,
+      "summary": "Obtain A-level status for the National Human Rights Commission",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "GANHRI restored the NHRCT to Category A in March 2022.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 24 — Thailand: \"restored the accreditation status of the National Human Rights Commission of Thailand (NHRCT) to Category A status\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.32",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue measures with the aim of obtaining A-level status for the National Human Rights Commission of Thailand"
+       },
+       {
+        "paragraph": "51.38",
+        "by": "Sierra Leone",
+        "position": "supported",
+        "text": "Expedite the process of returning the National Human Rights Commission of Thailand to A-level status"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Death penalty",
+    "blocks": [
+     {
+      "paras": "52.32-52.34, 52.36-52.44, 52.65-52.70",
+      "n": 18,
+      "summary": "Move towards abolition of the death penalty or a formal moratorium",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report is silent on the death penalty; courts continue to impose it, including for drug offences, and the NHRCT calls for a time-bound abolition plan.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 16 — Committee against Torture: \"courts continued to impose the death penalty, including for drug-related and other offences\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 6 — NHRCT: \"adopt a time-bound action plan with clear targets and measurable indicators to advance the gradual abolition of the death penalty\""
+      ],
+      "position": "12 noted, 6 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.32",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Fully abolish the death penalty, ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty and introduce an immediate moratorium on executions"
+       },
+       {
+        "paragraph": "52.33",
+        "by": "Estonia",
+        "position": "noted",
+        "text": "Abolish the death penalty"
+       },
+       {
+        "paragraph": "52.34",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "End capital punishment and impose a moratorium on executions, as a first step towards full abolition of the death penalty, and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights"
+       },
+       {
+        "paragraph": "52.36",
+        "by": "Belgium",
+        "position": "noted",
+        "text": "Restrict the use of the death penalty to crimes that meet the “most serious crimes” threshold under international law"
+       },
+       {
+        "paragraph": "52.37",
+        "by": "Costa Rica",
+        "position": "noted",
+        "text": "Establish a moratorium on executions with a view to abolishing the death penalty (France); Establish a moratorium on the death penalty, with a view to working towards total abolition (Ireland); Establish a moratorium on the death penalty with a view to its abolition"
+       },
+       {
+        "paragraph": "52.38",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Establish a moratorium on the death penalty with a view to its eventual abolition, and consider ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "52.39",
+        "by": "Madagascar",
+        "position": "noted",
+        "text": "Adopt a formal moratorium on executions with a view to abolishing the death penalty while continuously sensitizing its citizens of all ages to human rights and alternatives to the death penalty"
+       },
+       {
+        "paragraph": "52.40",
+        "by": "Switzerland",
+        "position": "noted",
+        "text": "Establish a moratorium on executions (Slovenia); Establish a moratorium on the death penalty"
+       },
+       {
+        "paragraph": "52.41",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Establish a moratorium on executions and promulgate laws to abolish the death penalty"
+       },
+       {
+        "paragraph": "52.42",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Establish a formal moratorium on the death penalty, with a view to ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "52.43",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Consider all necessary steps to adopt a de jure moratorium of capital executions, with a view to fully abolishing the death penalty"
+       },
+       {
+        "paragraph": "52.44",
+        "by": "Cyprus",
+        "position": "noted",
+        "text": "Formalize the de facto moratorium on the abolishment of the death penalty"
+       },
+       {
+        "paragraph": "51.65",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Continue to review and discuss the relevance of the death penalty to Thailand, with a view to considering the imposition of a moratorium on the death penalty and its complete abolition"
+       },
+       {
+        "paragraph": "51.66",
+        "by": "New Zealand",
+        "position": "supported",
+        "text": "Take further action towards the abolition of the death penalty"
+       },
+       {
+        "paragraph": "51.67",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Ensure the continuation of the process aimed at abolishing the death penalty"
+       },
+       {
+        "paragraph": "51.68",
+        "by": "Slovakia",
+        "position": "supported",
+        "text": "Take necessary steps towards the full abolition of the death penalty"
+       },
+       {
+        "paragraph": "51.69",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Continue reviewing the use of the death penalty for all crimes"
+       },
+       {
+        "paragraph": "51.70",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Take steps towards the abolition of the death penalty, such as considering joining the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "52.35, 52.71",
+      "n": 2,
+      "summary": "Public awareness campaigns on alternatives to the death penalty",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.35",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Strengthen public awareness campaigns on the death penalty, with a view to the prompt ratification of the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "51.71",
+        "by": "Croatia",
+        "position": "supported",
+        "text": "Conduct awareness-raising campaigns with the aim of educating the public on human rights and alternatives to the death penalty"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & consultation with civil society",
+    "blocks": [
+     {
+      "paras": "51.43",
+      "n": 1,
+      "summary": "Guarantee civil society space",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report reports consultations on the UPR but no measure on civil society space; HRW and FLD report restrictions, SLAPPs and the absence of a legal framework for defenders.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 20 — FLD: \"Thailand lacked any specific laws, effective policies or practices addressing human rights defenders\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.43",
+        "by": "Sierra Leone",
+        "position": "supported",
+        "text": "Take concrete measures to guarantee civil society space"
+       }
+      ]
+     },
+     {
+      "paras": "51.44",
+      "n": 1,
+      "summary": "Enact legal protection against SLAPPs",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "An Anti-SLAPP Bill is being drafted, the Criminal Procedure Code was amended and the Supreme Court President issued criteria on section 161/1 (2026); no standalone law exists.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 91 — Thailand: \"The Thai Government is conducting a study on and drafting of the Anti-Strategic Lawsuit Against Public Participation Act\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 92 — Thailand: \"Recommendation of the President of the Supreme Court on the Criteria and Procedures for Case Consideration under Section 161/1 of the Criminal Procedure Code B.E. 2569 (2026)\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.44",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Enact legal protection against strategic litigation against public participation cases"
+       }
+      ]
+     },
+     {
+      "paras": "51.63",
+      "n": 1,
+      "summary": "Civil society participation in climate change policy",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.63",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Ensure in national legislation the effective participation of civil society, especially women, in the formulation and application of policies and action plans on climate change"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of opinion and expression & access to information",
+    "blocks": [
+     {
+      "paras": "52.46-52.67, 52.86-52.89, 52.91, 52.92",
+      "n": 28,
+      "summary": "Protect freedom of expression and peaceful assembly; reform lèse-majesté, sedition, defamation and computer-crime laws",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No amendment of sections 112, 116, defamation provisions or the Computer Crime Act is reported; HRW counts at least 1,997 people prosecuted since 2014 for expression and assembly, FLD reports cumulative sentences, and the UN country team reports prosecutions under the Public Assembly Act. Thailand reports only anti-SLAPP measures (see separate recommendations).",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 34 — HRW: \"at least 1,997 people had been prosecuted in Thailand for exercising their rights to free expression and peaceful assembly\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 35 — FLD: \"the issuance of cumulative sentences by the courts had significantly closed civic space\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 24 — United Nations country team: \"restrictions on freedom of peaceful assembly, particularly under the Public Assembly Act\""
+      ],
+      "position": "19 noted, 9 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.46",
+        "by": "Luxembourg",
+        "position": "noted",
+        "text": "Guarantee freedom of opinion and expression by amending articles 112 (lèse-majesté), 116 (sedition), 326 (defamation) and 328 (attack on honour) of the criminal code as well as the law on computer crime"
+       },
+       {
+        "paragraph": "52.47",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Decriminalize freedom of expression and peaceful assembly and avoid the detention of minors for exercising these rights"
+       },
+       {
+        "paragraph": "52.48",
+        "by": "Montenegro",
+        "position": "noted",
+        "text": "Abolish restrictions on freedom of opinion and expression in the national legislation in line with international standards on human rights"
+       },
+       {
+        "paragraph": "52.49",
+        "by": "New Zealand",
+        "position": "supported",
+        "text": "Ensure that rights of freedom of expression, opinion and peaceful assembly are not unduly restricted by cybersecurity laws and its criminal code"
+       },
+       {
+        "paragraph": "52.50",
+        "by": "Norway",
+        "position": "noted",
+        "text": "Guarantee the rights to freedom of expression, association and peaceful assembly, and protect individuals, including political opponents, from judicial harassment"
+       },
+       {
+        "paragraph": "52.51",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Repeal all provisions that criminalize or unduly restrict the rights to freedom of opinion and expression and of assembly"
+       },
+       {
+        "paragraph": "52.52",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Guarantee the rights to freedom of expression and assembly and stop targeting civilians engaging in peaceful protests under criminal charges entailing punishment with exorbitant prison terms"
+       },
+       {
+        "paragraph": "52.53",
+        "by": "Botswana",
+        "position": "noted",
+        "text": "Remove undue restrictions and infringements on the enjoyment of the freedoms of expression, association and peaceful assembly"
+       },
+       {
+        "paragraph": "52.54",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Consider revising its legislation on freedoms of expression and peaceful assembly in alignment with international human rights standards"
+       },
+       {
+        "paragraph": "52.55",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Ensure that the right to freedom of expression and opinion and the freedom of assembly are fully respected and protected, including in the context of a state of emergency"
+       },
+       {
+        "paragraph": "52.56",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Review the usage of lèse-majesté legislation in its entirety and especially against minors to comply with international human rights standards, including the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "52.57",
+        "by": "France",
+        "position": "noted",
+        "text": "Guarantee the protection of the freedoms of opinion and expression, including by amending article 112 of the criminal code"
+       },
+       {
+        "paragraph": "52.58",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Review the lèse-majesté law, the computer crime law and the criminal defamation law"
+       },
+       {
+        "paragraph": "52.59",
+        "by": "Norway",
+        "position": "noted",
+        "text": "Review the lèse-majesté law to bring it into conformity with international standards and to prevent it from being used to silence opponents"
+       },
+       {
+        "paragraph": "52.60",
+        "by": "Sweden",
+        "position": "noted",
+        "text": "Amend article 112 of the criminal code on royal defamation to bring it into line with Thailand’s international human rights obligations under the International Covenant on Civil and Political Rights and, as an intermediate step, remove mandatory minimum prison terms for violations of that provision"
+       },
+       {
+        "paragraph": "52.61",
+        "by": "Switzerland",
+        "position": "noted",
+        "text": "Amend articles 112 and 116 of the criminal code to ensure that the application of the crimes of lèse-majesté and sedition complies with human rights"
+       },
+       {
+        "paragraph": "52.62",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Review and revise laws and regulations that unduly restrict freedom of expression, including online expression, in particular the computer crimes act and the 2005 emergency decree, and eliminate mandatory minimum sentences for lèse-majesté violations"
+       },
+       {
+        "paragraph": "52.63",
+        "by": "Austria",
+        "position": "noted",
+        "text": "End arrests and prosecution of children under article 112 and other articles related to security and public order in the criminal code, and ensure the respect of Thailand’s obligations under articles 13, 15 and 37 of the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "52.64",
+        "by": "Belgium",
+        "position": "noted",
+        "text": "Amend article 112 of the criminal code and bring it into line with article 19 of the International Covenant on Civil and Political Rights"
+       },
+       {
+        "paragraph": "52.65",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Amend, repeal or restrict the use of legislation that curtails the exercise of rights of expression, association and peaceful assembly, including online, with particular reference to sections 112 and 116 of the criminal code and the computer crime act"
+       },
+       {
+        "paragraph": "52.66",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Ensure that the most severe criminal sentences are not applied to children, including in the context of article 112 of the criminal code, and in line with article 40 of the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "52.67",
+        "by": "Estonia",
+        "position": "noted",
+        "text": "Remove the broad range of restrictions on the rights to peaceful assembly and freedom of expression"
+       },
+       {
+        "paragraph": "51.86",
+        "by": "Latvia",
+        "position": "supported",
+        "text": "Promote and protect the right to freedom of expression and media freedom, as well as the safety of journalists"
+       },
+       {
+        "paragraph": "51.87",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Ensure that laws and policies on the rights to freedom of expression, peaceful assembly and association comply with relevant international human rights standards"
+       },
+       {
+        "paragraph": "51.88",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Enhance its efforts in ensuring that all citizens have the rights to freedom of expression, association and peaceful assembly in compliance with article 19 and 20 of the Universal Declaration of Human Rights"
+       },
+       {
+        "paragraph": "51.89",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Uphold its international obligations regarding the rights to freedom of expression and peaceful assembly"
+       },
+       {
+        "paragraph": "51.91",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Improve the human rights situation, including by ensuring the freedom of expression"
+       },
+       {
+        "paragraph": "51.92",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Improve the capacity of police, security forces and other law enforcement agencies to carry out their work while respecting the rights of people to freedom of assembly and expression, and civil society space"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Racial discrimination",
+    "blocks": [
+     {
+      "paras": "51.51",
+      "n": 1,
+      "summary": "Eliminate racial discrimination",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Ethnic Groups Act (2025) and an Anti-Discrimination Bill (under drafting) address discrimination; CERD recommends a stand-alone anti-discrimination law.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 73 — Thailand: \"The Thai Government is drafting the Anti-Discrimination Bill\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 10 — Committee on the Elimination of Racial Discrimination: \"adopt a comprehensive, stand-alone anti-discrimination law\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.51",
+        "by": "Nigeria",
+        "position": "supported",
+        "text": "Strengthen efforts in eliminating all forms of racial discrimination"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to development",
+    "blocks": [
+     {
+      "paras": "51.52",
+      "n": 1,
+      "summary": "Human-centred development",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The 13th National Economic and Social Development Plan guides development and SDG progress.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 29 — Thailand: \"sets Milestone 9: “Thailand has less intergenerational poverty and adequate, appropriate social protection.”\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.52",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Continue efforts at human-centred development, including through the thirteenth National Economic and Social Development Plan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Business & Human Rights",
+    "blocks": [
+     {
+      "paras": "51.56-51.59",
+      "n": 4,
+      "summary": "Implement the business and human rights agenda and mandatory human rights due diligence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The 2nd National Action Plan on Business and Human Rights (2023-2027) reports 112 of 125 activities implemented and a Promotion of Responsible Business Conduct Act (mandatory due diligence) is being drafted; the plan is non-binding.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 107 — Thailand: \"112 out of 125 activities under the Action Plan have been implemented, representing 89.60 per cent of the Plan\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 108 — Thailand: \"The Thai Government is drafting the Promotion of Responsible Business Conduct Act\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.56",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Sustain efforts in implementing the business and human rights agenda"
+       },
+       {
+        "paragraph": "51.57",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Continue efforts to address business-related human rights abuses in conformity with the Guiding Principles on Business and Human Rights"
+       },
+       {
+        "paragraph": "51.58",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Continue its efforts to promote human rights in the business sector"
+       },
+       {
+        "paragraph": "51.59",
+        "by": "Bahrain",
+        "position": "supported",
+        "text": "Pursue promoting mandatory measures for business to conduct human rights due diligence"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "51.60, 51.62, 51.64",
+      "n": 3,
+      "summary": "Rights-based climate action and participation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Department of Climate Change and Environment was created (August 2023) and a Climate Change Act was approved by Cabinet (expected 2027) and a Clean Air Act advanced; CEDAW notes gaps in women's participation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 110 — Thailand: \"established the Department of Climate Change and Environment on 18 August 2023\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 111 — Thailand: \"The draft Act has been approved by the Cabinet and is currently under consideration of the Office of the Council of State\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.60",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure the meaningful participation of women, children, persons with disabilities, and local communities in the development and implementation of climate change and disaster risk reduction frameworks"
+       },
+       {
+        "paragraph": "51.62",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Continue to enhance the participation of local communities in land conservation and forest management, including by recognizing the local community’s role in the global climate action agenda"
+       },
+       {
+        "paragraph": "51.64",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Integrate a rights-based approach in climate mitigation policy and disaster risk reduction plans"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Participation of women in political & public life",
+    "blocks": [
+     {
+      "paras": "51.151, 51.153",
+      "n": 2,
+      "summary": "Increase women's representation in political and public life",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Women's Development Action Plan 2023-2027 includes a pillar on participation at decision-making level; the Working Group on discrimination against women notes persisting underrepresentation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 60 — Thailand: \"promotion of women's participation at the decision-making level\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 49 — Working Group on discrimination against women and girls: \"women’s political representation remained a challenge\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.151",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue necessary measures to promote the representation of women in politics and at decision-making levels"
+       },
+       {
+        "paragraph": "51.153",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Step up efforts to increase the participation of women in political and public life, and take concrete steps to prevent and address all forms of violence against women and girls, including sexual and domestic violence"
+       }
+      ]
+     },
+     {
+      "paras": "51.61",
+      "n": 1,
+      "summary": "Women's participation in climate change policy",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CEDAW notes underrepresentation of women among scientists and policymakers addressing climate change.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 42 — Committee on the Elimination of Discrimination against Women: \"the underrepresentation of women among scientists and policymakers supporting the country’s efforts to address climate change\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.61",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Ensure the effective participation of women in the formulation and implementation of policies and action plans on climate change and disaster response and risk reduction"
+       }
+      ]
+     },
+     {
+      "paras": "51.152",
+      "n": 1,
+      "summary": "Increase women's representation in public life under Security Council resolution 1325",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "A National Action Plan on Women, Peace and Security (2025-2027) was formulated.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 61 — Thailand: \"Formulation of the Action Plan on Women, Peace and Security\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.152",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Carry out actions aimed at increasing the representation of women in public life, in accordance with Security council resolution 1325 (2000) on women, peace and security"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to peaceful assembly",
+    "blocks": [
+     {
+      "paras": "52.68",
+      "n": 1,
+      "summary": "Review regulations restricting freedom of assembly",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No review is reported; the UN country team reports prosecutions under the Public Assembly Act.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 24 — United Nations country team: \"restrictions on freedom of peaceful assembly, particularly under the Public Assembly Act\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.68",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Review existing regulations and practice which restrict freedom of assembly, giving high priority to the freedom of demonstration"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "51.113-51.118, 51.121, 51.123",
+      "n": 8,
+      "summary": "Universal health coverage and equitable access to health services",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The universal health coverage scheme was extended to the '30 Baht Treats Everywhere' model, a health insurance system for non-Thai persons (HINT) was developed with WHO, and telemedicine and village health volunteer services were expanded; the UN country team still calls for equitable access for migrants and stateless persons.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 32 — Thailand: \"Health Insurance for Non-Thai People System (HINT)\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 31 — Thailand: \"integrated medical innovations to enhance access to health services, including telemedicine, telepharmacy, and digital health data management\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 36 — United Nations country team: \"ensure equitable access to affordable, quality healthcare for migrants, displaced persons, stateless persons and persons under screening in the national screening mechanism\""
+      ],
+      "position": "8 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.113",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Implement measures to provide non-discriminatory universal health coverage"
+       },
+       {
+        "paragraph": "51.114",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue to strengthen its national health system and work in cooperation with the international community to further enhance global pandemic preparedness and response"
+       },
+       {
+        "paragraph": "51.115",
+        "by": "Singapore",
+        "position": "supported",
+        "text": "Continue to pursue international cooperation on health matters and strengthen the resilience of its health-care infrastructure"
+       },
+       {
+        "paragraph": "51.116",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Make efforts to guarantee universal access to health services, including sexual and reproductive health, including for regular and irregular migrant workers"
+       },
+       {
+        "paragraph": "51.117",
+        "by": "Bhutan",
+        "position": "supported",
+        "text": "Continue its efforts related to universal health coverage and strengthen its efforts in reducing maternal mortality rates"
+       },
+       {
+        "paragraph": "51.118",
+        "by": "Brunei Darussalam",
+        "position": "supported",
+        "text": "Continue efforts in ensuring the successful implementation of universal health coverage, including in promoting health insurance policies"
+       },
+       {
+        "paragraph": "51.121",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Continue to strengthen the national health system by collaborating with stakeholders to further enhance global pandemic preparedness and responses"
+       },
+       {
+        "paragraph": "51.123",
+        "by": "Qatar",
+        "position": "supported",
+        "text": "Step up efforts to enable all groups to have equal access to quality health services, especially in the context of combating the COVID-19 pandemic"
+       }
+      ]
+     },
+     {
+      "paras": "52.69, 52.70, 52.119, 52.120, 52.122",
+      "n": 5,
+      "summary": "COVID-19 response, mental health, sex workers and detained migrants' health",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation; JS50 reports structural limits in mental health services.",
+      "evidence": [],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.69",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Guarantee the right to access an adequate standard of health services for all, including sex workers"
+       },
+       {
+        "paragraph": "52.70",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Provide health-care services to migrants, refugees and asylum seekers in detention centres"
+       },
+       {
+        "paragraph": "51.119",
+        "by": "Hungary",
+        "position": "supported",
+        "text": "Uphold the approach of prioritizing the mental health of youth and persons with disabilities, with special regard to the impact of the COVID-19 pandemic"
+       },
+       {
+        "paragraph": "51.120",
+        "by": "Lao People’s Democratic Republic",
+        "position": "supported",
+        "text": "Continue its inclusive COVID-19 vaccination policy to ensure accessible and affordable COVID-19 vaccines and treatments for all, including the marginalized and migrant workers’ groups"
+       },
+       {
+        "paragraph": "51.122",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Continue to uphold human rights in the design and provision of COVID-19 pandemic countermeasures, particularly the rights of children and persons with disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & reproductive health and rights",
+    "blocks": [
+     {
+      "paras": "52.71",
+      "n": 1,
+      "summary": "National plan for access to sexual and reproductive health services",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.71",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Develop a national plan to guarantee access to comprehensive sexual and reproductive health services for all, including regular and irregular migrant workers"
+       }
+      ]
+     },
+     {
+      "paras": "51.124",
+      "n": 1,
+      "summary": "Access to sexual and reproductive health services, including for migrant workers",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Health insurance was extended to non-Thai persons (HINT), but UNCT and the Working Group note abortion is not fully decriminalised and access remains constrained.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 32 — Thailand: \"Health Insurance for Non-Thai People System (HINT)\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 37 — United Nations country team: \"abortion was not yet fully decriminalized and that access to safe and legal abortion remained severely constrained in practice\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.124",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Facilitate access to sexual and reproductive health services for all, including migrant workers, which includes integrated sexual and gender-based violence services, information and education campaigns, and migrant-friendly health services"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Access to justice & remedy",
+    "blocks": [
+     {
+      "paras": "52.72",
+      "n": 1,
+      "summary": "Women's access to justice",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report describes general online justice services but nothing specific for rural, Indigenous or disabled women.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 21 — Committee on the Elimination of Racial Discrimination: \"barriers preventing ethnic and ethno-religious groups, Indigenous Peoples, migrants, refugees, asylum-seekers and stateless persons from accessing justice\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.72",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Undertake actions to strengthen women’s access to justice, in particular for rural, indigenous women and those belonging to ethnic and religious minorities and women with disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to name, identity & nationality",
+    "blocks": [
+     {
+      "paras": "51.97, 51.98, 51.190",
+      "n": 3,
+      "summary": "Nationality and documentation for stateless children and persons",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Cabinet resolution (29 October 2024) shortened approval for residence and nationality for stateless persons from 270 and 180 days to 5 days: 121,471 were granted status by July 2026; 108,478 students without civil registration were enrolled; CERD finds the number of stateless persons very high.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 85 — Thailand: \"121,471 stateless individuals have been granted permanent residency or citizenship under the scheme\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 41 — Thailand: \"A total of 108,478 students without civil registration records or Thai nationality have received education\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 62 — Committee on the Elimination of Racial Discrimination: \"the number of stateless persons remained very high\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.97",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Take additional specific measures to ensure the effective implementation of the right to nationality of stateless children born in Thailand and ensure their inclusion in society"
+       },
+       {
+        "paragraph": "51.98",
+        "by": "Serbia",
+        "position": "supported",
+        "text": "Make additional efforts in providing documentation on the birth of children, which would reduce the risk of statelessness for them"
+       },
+       {
+        "paragraph": "51.190",
+        "by": "Kyrgyzstan",
+        "position": "supported",
+        "text": "Continue to promote the human rights of stateless persons, particularly in education, social protection and access to birth registration"
+       }
+      ]
+     },
+     {
+      "paras": "52.73",
+      "n": 1,
+      "summary": "Equal right of Thai women to pass nationality to spouses and children",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.73",
+        "by": "Cyprus",
+        "position": "noted",
+        "text": "Ensure that Thai women have the right to pass on their citizenship to their spouses and children"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & gender-based violence",
+    "blocks": [
+     {
+      "paras": "51.145-51.147, 51.149, 51.150",
+      "n": 5,
+      "summary": "Strengthen the response to sexual and gender-based violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Six-Year Action Plan on Rape and Sexual Harassment (2022-2027) and a National Action Plan on the Elimination of Violence against Women (2025-2027) were adopted and sexual harassment was criminalised (30 December 2025); CEDAW notes weak investigation and protection mechanisms under the Domestic Violence Victim Protection Act.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 58 — Thailand: \"Six-Year Action Plan on the Prevention and Resolution of Rape and Sexual Harassment B.E. 2565-2570 (2022–2027) was approved by the Cabinet on 20 December 2022\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 61 — Thailand: \"Enactment of specific legislation to address sexual harassment, pursuant to the Act Amending the Criminal Code (No. 30) B.E. 2568 (2025) on 30 December 2025\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 45 — Committee on the Elimination of Discrimination against Women: \"the absence of effective investigation, enforcement and survivor protection mechanisms in the Domestic Violence Victim Protection Act B.E. 2550 (2007)\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.145",
+        "by": "Hungary",
+        "position": "supported",
+        "text": "Further strengthen its efforts regarding the provision of essential services and support for victims of sexual and gender-based violence"
+       },
+       {
+        "paragraph": "51.146",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Continue to implement policies to raise awareness about, prosecute perpetrators of and adequately protect children and women from sexual exploitation and gender-based violence in conformity with the relevant national laws and international treaties to which Thailand is a party"
+       },
+       {
+        "paragraph": "51.147",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Significantly increase investment in the fight against gender based-violence, especially with regard to the creation of a solid and reliable network of care for victims with full respect for their freedom"
+       },
+       {
+        "paragraph": "51.149",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Continue to strengthen measures aimed at reducing gender-based violence against women and girls, in particular domestic violence and sexual violence"
+       },
+       {
+        "paragraph": "51.150",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Address the high number of cases of sexual and gender-based violence against girls and women through a solid, preventive regulatory framework focused on comprehensive reparation for victims"
+       }
+      ]
+     },
+     {
+      "paras": "52.74",
+      "n": 1,
+      "summary": "Abolish female genital circumcision",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.74",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Strengthen its efforts to abolish the continued practice of genital circumcision"
+       }
+      ]
+     },
+     {
+      "paras": "51.144",
+      "n": 1,
+      "summary": "Develop a national plan against sexual and gender-based violence",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "A National Action Plan on the Elimination of Violence against Women (2025-2027) and a Six-Year Action Plan on Rape and Sexual Harassment (2022-2027) were adopted.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 58 — Thailand: \"Six-Year Action Plan on the Prevention and Resolution of Rape and Sexual Harassment B.E. 2565-2570 (2022–2027) was approved by the Cabinet on 20 December 2022\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 61 — Thailand: \"Formulation of the Action Plan on Women, Peace and Security\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.144",
+        "by": "France",
+        "position": "supported",
+        "text": "Develop a national plan against sexual and gender-based violence and bring its perpetrators to justice"
+       }
+      ]
+     },
+     {
+      "paras": "51.148",
+      "n": 1,
+      "summary": "Review the gender equality law",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Only a draft Anti-Discrimination Bill is reported; no amendment of the gender equality law.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 73 — Thailand: \"The Thai Government is drafting the Anti-Discrimination Bill\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.148",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Improve the gender equality law to guarantee protection against all forms of violence and discrimination, eliminating existing exceptions, in line with the recommendations of the Human Rights Committee"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Conditions of detention",
+    "blocks": [
+     {
+      "paras": "51.75, 51.76",
+      "n": 2,
+      "summary": "Improve prison conditions and reduce overcrowding",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Thailand expanded non-custodial measures and diversion, health services and vocational training in prisons; the Committee against Torture reports continuing overcrowding, with 70% of prisoners held for drug offences.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 100 — Thailand: \"systematic expansion of alternatives to imprisonment (non-custodial measures)\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 19 — Committee against Torture: \"prisons continued to face high levels of overcrowding, an associated lack of staff and deteriorating conditions of detention\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.75",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Reform the penitentiary system in order to ensure humane conditions of detention in accordance with international standards"
+       },
+       {
+        "paragraph": "51.76",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Improve conditions for detainees and sentenced persons to ensure their right to humane treatment in detention"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: definition",
+    "blocks": [
+     {
+      "paras": "51.154-51.157, 51.174, 51.177-51.179",
+      "n": 8,
+      "summary": "Protect children and promote children's rights",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Thailand prohibited corporal and psychological punishment in all settings (Act No. 25, in force 25 March 2025), raised the age of criminal responsibility to 12, withdrew its reservation to CRC article 22 and developed an MOU and SOPs for children below the age of criminal responsibility.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 53 — Thailand: \"which prohibits corporal and psychological punishment of children in all settings, entered into force on 25 March 2025\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 54 — Thailand: \"increased the minimum age of criminal responsibility from 10 to 12 years old\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 52 — Thailand: \"deposited with the United Nations an instrument of withdrawal of its reservation to Article 22\""
+      ],
+      "position": "8 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.154",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Pursue efforts aimed at promoting the rights and welfare of children"
+       },
+       {
+        "paragraph": "51.155",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Redouble efforts to combat violence against children and young people, as well as prevent and address domestic violence in accordance with the provisions of Sustainable Development Goal 5"
+       },
+       {
+        "paragraph": "51.156",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Continue to provide adequate human and financial resources, including children’s rights training for government agencies and law enforcement authorities, to fully implement its domestic laws and international obligations to protect the rights of the child"
+       },
+       {
+        "paragraph": "51.157",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Ensure that wide-ranging policies and measures granting proper protection for children in vulnerable situation are enhanced"
+       },
+       {
+        "paragraph": "51.174",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Further strengthen measures to advance the rights of children with disabilities"
+       },
+       {
+        "paragraph": "51.177",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Develop a strategy to combat negative stereotypes about children with disabilities; raise awareness about their rights and strengthen the provision of assistance services appropriate to the age and type of disability"
+       },
+       {
+        "paragraph": "51.178",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Step up efforts to end discrimination against children with disabilities and ensure their full access to inclusive education"
+       },
+       {
+        "paragraph": "51.179",
+        "by": "Ecuador",
+        "position": "supported",
+        "text": "Adopt urgent actions to combat all forms of discrimination and violence against, and institutionalization and abandonment of, children with disabilities"
+       }
+      ]
+     },
+     {
+      "paras": "51.159-51.162",
+      "n": 4,
+      "summary": "Prohibit corporal punishment of children in all settings",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Civil and Commercial Code Amendment Act (No. 25) B.E. 2568 prohibits corporal and psychological punishment in all settings, including homes, schools and childcare (in force 25 March 2025).",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 53 — Thailand: \"which prohibits corporal and psychological punishment of children in all settings, entered into force on 25 March 2025\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.159",
+        "by": "Slovenia",
+        "position": "supported",
+        "text": "Prohibit corporal punishment of children in all settings"
+       },
+       {
+        "paragraph": "51.160",
+        "by": "Sweden",
+        "position": "supported",
+        "text": "Explicitly prohibit in law any form of corporal punishment or other cruel or degrading punishment of children in all settings, including in schools and at home, as previously recommended"
+       },
+       {
+        "paragraph": "51.161",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Prohibit all forms of corporal punishment against children and make this legislation known to the public"
+       },
+       {
+        "paragraph": "51.162",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Abolish corporal punishment by law and in practice, by enacting specific national legislation prohibiting corporal punishment in all environments"
+       }
+      ]
+     },
+     {
+      "paras": "51.175, 51.176",
+      "n": 2,
+      "summary": "Strategy against stereotypes about children with disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The 4th Education Plan for Persons with Disabilities 2023-2027 and a foster-family programme exist; no strategy on stereotypes is reported.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 39 — Thailand: \"4th Education Plan for Persons with Disabilities B.E. 2023-2027\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.175",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Consider adopting a strategy to combat stereotypes against children with disabilities and raise awareness of the rights of children with disabilities"
+       },
+       {
+        "paragraph": "51.176",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Adopt a strategy to combat stereotypes against children with disabilities and to strengthen their protection"
+       }
+      ]
+     },
+     {
+      "paras": "52.75",
+      "n": 1,
+      "summary": "End legal child marriage",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The Marriage Equality Act raised the minimum legal age of marriage to 18 years.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 74 — Thailand: \"adjusts the minimum legal age for marriage to 18 years\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.75",
+        "by": "Croatia",
+        "position": "supported",
+        "text": "Ensure that children cannot be legally married, especially to the perpetrators of rape and other forms of sexual violence and abuse"
+       }
+      ]
+     },
+     {
+      "paras": "51.108",
+      "n": 1,
+      "summary": "Expand the child support grant scheme",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.108",
+        "by": "Kuwait",
+        "position": "supported",
+        "text": "Continue the gradual expansion of the child support grant scheme for poor or close-to-poverty families"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: protection against exploitation",
+    "blocks": [
+     {
+      "paras": "52.76, 52.163, 52.164",
+      "n": 3,
+      "summary": "Prevent sexual exploitation and child labour",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Online child sexual offences were criminalised in 2025 and trafficking responses expanded; HKC reports that progress has been insufficient for the scale of online child exploitation.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 58 — HKC: \"the delayed criminalization of online offenses until 2025 indicated that insufficient progress had been made against the scale of the problem of child sexual exploitation\""
+      ],
+      "position": "1 noted, 2 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.76",
+        "by": "Ecuador",
+        "position": "noted",
+        "text": "Classify child, early and forced marriages as forms of sexual exploitation, and eliminate article 277 of the Penal Code in order to prevent girls who are victims of sexual abuse from marrying the perpetrator of the crime in order to condone the penalty"
+       },
+       {
+        "paragraph": "51.163",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Take effective measures to prevent the sexual exploitation of minors"
+       },
+       {
+        "paragraph": "51.164",
+        "by": "Slovakia",
+        "position": "supported",
+        "text": "Step up efforts to eradicate child labour, abuse and sexual exploitation of children, including their involvement in sexual tourism"
+       }
+      ]
+     },
+     {
+      "paras": "51.165",
+      "n": 1,
+      "summary": "End legal child marriage",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The Marriage Equality Act raised the minimum legal age of marriage to 18 years.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 74 — Thailand: \"adjusts the minimum legal age for marriage to 18 years\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.165",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Continue to address concerns about the prevalence of early and forced child marriage and unions"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "51.77-51.85",
+      "n": 9,
+      "summary": "Combat trafficking in persons and protect victims",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Referral Mechanism with a reflection period has operated since 2022, an Anti-Cyber Scam Centre and the SHIELD database were created and over 13,500 people were repatriated from scam centres; CERD and the NHRCT report inconsistent identification and returns without referral.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 47 — Thailand: \"Since 2022, the Thai Government has implemented the National Referral Mechanism (NRM) for the screening, identification, and protection of trafficking victims\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 48 — Thailand: \"assisted in repatriating over 13,500 individuals of 47 nationalities rescued from scam centres\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 9 — NHRCT: \"persons were returned to their countries of origin without going through the National Referral Mechanism (NRM)\""
+      ],
+      "position": "9 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.77",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Continue to strengthen measures to combat human trafficking, including addressing the vulnerability factors of high-risk groups and ensuring provision of adequate support for victims"
+       },
+       {
+        "paragraph": "51.78",
+        "by": "Qatar",
+        "position": "supported",
+        "text": "Adopt additional measures to strengthen the fight against human trafficking, guarantee the rights of victims and provide them with protection and assistance"
+       },
+       {
+        "paragraph": "51.79",
+        "by": "Islamic Republic of Iran",
+        "position": "supported",
+        "text": "Take the necessary steps to ensure respect of human rights standards while combating human trafficking"
+       },
+       {
+        "paragraph": "51.80",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Ensure effective investigation of human trafficking and bring to justice the perpetrators and their accomplices"
+       },
+       {
+        "paragraph": "51.81",
+        "by": "Syrian Arab Republic",
+        "position": "supported",
+        "text": "Expand the scope of social, health and legal support provided to victims of human trafficking, including by continuing the efforts to train a qualified staff to identify the victims and analyse their needs"
+       },
+       {
+        "paragraph": "51.82",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts exerted to address human trafficking and forced labour"
+       },
+       {
+        "paragraph": "51.83",
+        "by": "Belarus",
+        "position": "supported",
+        "text": "Further step up efforts to combat trafficking in human beings, including by improving law enforcement practices, with a view to bringing to justice and punishing the perpetrators, as well as by providing victims of trafficking with protection and rehabilitation"
+       },
+       {
+        "paragraph": "51.84",
+        "by": "Cambodia",
+        "position": "supported",
+        "text": "Broaden the ongoing efforts and cooperation with other States and stakeholders to continue addressing human trafficking"
+       },
+       {
+        "paragraph": "51.85",
+        "by": "Croatia",
+        "position": "supported",
+        "text": "Continue fighting human trafficking based on a victim-centred approach, with a special focus on the protection of children from all forms of punishment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights defenders",
+    "blocks": [
+     {
+      "paras": "52.82, 52.84, 52.191-52.194",
+      "n": 6,
+      "summary": "Protect human rights defenders and civil society",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Witness Protection Act was amended (November 2022) to cover whistleblowers, the Criminal Procedure Code was amended on SLAPPs and the Supreme Court President issued criteria on section 161/1 (2026); the Committee against Torture reports attacks, including the killing of Roning Dalah, and continuing SLAPPs.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 90 — Thailand: \"extends protection to whistleblowers and informants regarding criminal offences\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 92 — Thailand: \"Recommendation of the President of the Supreme Court on the Criteria and Procedures for Case Consideration under Section 161/1 of the Criminal Procedure Code B.E. 2569 (2026)\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 25 — Committee against Torture: \"recurring reports of attacks and reprisals against human rights defenders in the country\""
+      ],
+      "position": "6 supported",
+      "recommendations": [
+       {
+        "paragraph": "52.82",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Ensure the protection of civic space and human rights defenders, including youth, members of civil society, lawyers, media and academics, so that they can operate freely and fully exercise the rights to freedom of expression, including online, and freedom of peaceful assembly and association"
+       },
+       {
+        "paragraph": "52.84",
+        "by": null,
+        "position": "supported",
+        "text": "Take further steps to ensure a safe and enabling environment for human rights defenders, stop all forms of harassment, violence and intimidation against them and ensure prompt, transparent and independent investigation of all reported cases (Czechia)."
+       },
+       {
+        "paragraph": "51.191",
+        "by": "Latvia",
+        "position": "supported",
+        "text": "Take measures to foster a safe, respectful and enabling environment for civil society and human rights defenders, especially women human rights defenders, free from persecution, intimidation and harassment"
+       },
+       {
+        "paragraph": "51.192",
+        "by": "Norway",
+        "position": "supported",
+        "text": "Ensure the protection of human rights defenders, including through prompt and thorough investigation of attacks"
+       },
+       {
+        "paragraph": "51.193",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Protect human rights defenders, including under a gender perspective, and investigate any reported cases of intimidation, harassment and attacks against them"
+       },
+       {
+        "paragraph": "51.194",
+        "by": null,
+        "position": "supported",
+        "text": "Create a safe and enabling environment to exercise the rights to peaceful assembly and freedom of expression and prevent attacks and intimidation against human rights defenders (Italy)."
+       }
+      ]
+     },
+     {
+      "paras": "52.81, 52.83",
+      "n": 2,
+      "summary": "Amend defamation provisions and end arbitrary detention of activists",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Criminal defamation provisions (sections 326-333) remain; HRW and FLD report prosecutions and harassment of defenders and political actors.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 34 — HRW: \"at least 1,997 people had been prosecuted in Thailand for exercising their rights to free expression and peaceful assembly\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 55 — FLD: \"repeal the existing criminal defamation laws under Sections 326-333 of the Criminal Code\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "52.81",
+        "by": "Switzerland",
+        "position": "noted",
+        "text": "In order to ensure the protection of human rights defenders, amend sections 326 to 333 of the criminal code"
+       },
+       {
+        "paragraph": "52.83",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "End arbitrary detentions, arrests and any acts of harassment against political actors and civil society, including human rights defenders"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Data collection & research",
+    "blocks": [
+     {
+      "paras": "51.93",
+      "n": 1,
+      "summary": "Enact the data protection act",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The Personal Data Protection Act entered into force on 1 June 2022.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 116 — Thailand: \"The Personal Data Protection Act B.E. 2562 (2019) (PDPA) entered into force on 1 June 2022.\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.93",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Enact the data protection act soon with a view to respecting the principles of purpose limitation, necessity and data economy"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Good governance & corruption",
+    "blocks": [
+     {
+      "paras": "51.95",
+      "n": 1,
+      "summary": "Public service efficiency and accountability",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Act Prescribing Timeframes for Judicial Proceedings (2022) and the Act on Facilitation of Government Licences (2026) were adopted.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 94 — Thailand: \"enacted the Act Prescribing Timeframes for Judicial Proceedings, B.E. 2565 (2022)\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.95",
+        "by": "Azerbaijan",
+        "position": "supported",
+        "text": "Take measures aimed at ensuring increased efficiency and accountability in public service"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Support to victims & witnesses",
+    "blocks": [
+     {
+      "paras": "51.96",
+      "n": 1,
+      "summary": "Implement a national referral mechanism for trafficking victims",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Referral Mechanism has operated since 2022; the NHRCT reports identification and screening are not applied consistently.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 47 — Thailand: \"Since 2022, the Thai Government has implemented the National Referral Mechanism (NRM) for the screening, identification, and protection of trafficking victims\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 9 — NHRCT: \"The processes of identification, screening, and protection of victims were not applied consistently.\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.96",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Implement a national referral mechanism, which adopts a victim-centred approach, and ensure that national guidelines for victim identification and screening are uniformly implemented"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to an adequate standard of living",
+    "blocks": [
+     {
+      "paras": "51.100",
+      "n": 1,
+      "summary": "Raise the standard of living",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Poverty and social-protection policies were strengthened (MPI, 13th Plan).",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 28 — Thailand: \"adopted the National Multidimensional Poverty Index (MPI)\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.100",
+        "by": "Yemen",
+        "position": "supported",
+        "text": "Continue to implement development plans to raise the standard of living of the population"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Economic, social & cultural rights",
+    "blocks": [
+     {
+      "paras": "51.102, 51.103",
+      "n": 2,
+      "summary": "Access to social services for women, children and persons with disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Universal coverage, Zero Dropout, subsidies for 503 boarding schools and disability welfare services were expanded.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 38 — Thailand: \"A total of 1,604 schools in special areas received support to improve the effectiveness of education management\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.102",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Continue to implement additional measures to promote the human rights of women, children and persons with disabilities by improving their access to social services, including health care and education, particularly in rural areas"
+       },
+       {
+        "paragraph": "51.103",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Continue expanding the access and quality of its public health and education services"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to social security",
+    "blocks": [
+     {
+      "paras": "51.105-51.107",
+      "n": 3,
+      "summary": "Strengthen social security and protection of vulnerable groups",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Thai social protection system was reinforced through the 13th Plan's social protection milestone and the Social Security Act; migrant and informal workers remain insufficiently covered.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 29 — Thailand: \"sets Milestone 9: “Thailand has less intergenerational poverty and adequate, appropriate social protection.”\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 46 — JS49: \"ensure inclusion of domestic workers, including migrant domestic workers, in the mandatory social security system without delay\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.105",
+        "by": "Libya",
+        "position": "supported",
+        "text": "Continue the efforts to ensure that all citizens enjoy economic and social rights, and implement a social security network that includes the poorest groups"
+       },
+       {
+        "paragraph": "51.106",
+        "by": "Viet Nam",
+        "position": "supported",
+        "text": "Enhance measures to safeguard access to benefits, welfare and social security for underprivileged and vulnerable groups"
+       },
+       {
+        "paragraph": "51.107",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to strengthen the social security system and to further protect the rights of vulnerable groups"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & poverty",
+    "blocks": [
+     {
+      "paras": "51.109, 51.110",
+      "n": 2,
+      "summary": "Reduce poverty",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Thailand has achieved SDG 1 according to the Sustainable Development Report 2026 and adopted a National Multidimensional Poverty Index.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 28 — Thailand: \"adopted the National Multidimensional Poverty Index (MPI)\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 3 — Thailand: \"having achieved SDG 1 (No Poverty) and SDG 4 (Quality Education)\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.109",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Take measures to reduce the proportion of the population living in poverty, in accordance with Sustainable Development Goals 1 and 10 and, in the same way, reduce the economic and social impact that the COVID-19 pandemic has had on vulnerable groups"
+       },
+       {
+        "paragraph": "51.110",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Continue strengthening multidimensional measures for poverty eradication"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "51.125-51.127",
+      "n": 3,
+      "summary": "Basic education for all, including ethnic groups and migrant children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Zero Dropout initiative identified over 18,000 out-of-school children, a 2025 announcement admitted students without civil registration (108,478 enrolled) and 1,604 schools in special areas were supported.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 36 — Thailand: \"more than 18,000 children who were identified as missing from the system in its first year\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 41 — Thailand: \"A total of 108,478 students without civil registration records or Thai nationality have received education\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.125",
+        "by": "Kuwait",
+        "position": "supported",
+        "text": "Continue to provide basic education for all"
+       },
+       {
+        "paragraph": "51.126",
+        "by": "Lao People’s Democratic Republic",
+        "position": "supported",
+        "text": "Continue promoting the right to education for all, including ethnic groups and foreign and migrant workers’ children"
+       },
+       {
+        "paragraph": "51.127",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Continue efforts in ensuring access to education in order to increase school enrolment rates at all levels"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Advancement of women",
+    "blocks": [
+     {
+      "paras": "51.133",
+      "n": 1,
+      "summary": "Women's economic empowerment and representation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Women's Development Action Plan 2023-2027, an MoU for women-owned SMEs and presidential-level programmes support economic empowerment.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 60 — Thailand: \"promotion of women's participation at the decision-making level\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.133",
+        "by": "Bangladesh",
+        "position": "supported",
+        "text": "Continue efforts to enhance women’s economic empowerment and their representation in public and political life"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "51.134, 51.136-51.138",
+      "n": 4,
+      "summary": "Advance gender equality and combat discrimination against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Gender Equality Promotion Action Plan 2023-2027, a Women's Development Action Plan, Gender Equality Centres in 76 provinces and Labour Protection Act amendments (maternity leave raised to 120 days) were adopted; CEDAW notes a significant gender pay gap and informal employment gaps.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 61 — Thailand: \"Establishment of Gender Equality Centres across all 76 provinces\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 45 — Thailand: \"maternity leave up to 120 days per pregnancy (previously was 98 days)\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 33 — Committee on the Elimination of Discrimination against Women: \"the significant gender pay gap\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.134",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Take further measures to improve women’s access to employment and safe working conditions"
+       },
+       {
+        "paragraph": "51.136",
+        "by": "India",
+        "position": "supported",
+        "text": "Continue with legislative and policy measures for the progressive realization of gender equality, and to address gender-based discrimination"
+       },
+       {
+        "paragraph": "51.137",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Outlaw and take steps to combat all forms of discrimination on the basis of gender in the workplace, including with regard to recruitment and progression, and ensure that the retirement age of women in all sectors is at par with that for men"
+       },
+       {
+        "paragraph": "51.138",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Take further action to strengthen national mechanisms that contribute to greater gender equality, as well as to promote and protect the rights and the well-being of women and girls"
+       }
+      ]
+     },
+     {
+      "paras": "51.135",
+      "n": 1,
+      "summary": "Review the gender equality law",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Only a draft Anti-Discrimination Bill is reported; no amendment of the gender equality law.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 73 — Thailand: \"The Thai Government is drafting the Anti-Discrimination Bill\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.135",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Review the law on gender equality to remove any limitation on protection against gender discrimination"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "51.139-51.143",
+      "n": 5,
+      "summary": "Prevent and combat violence against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Action Plan on the Elimination of Violence against Women (2025-2027) and a Six-Year Action Plan on rape and sexual harassment were adopted; CEDAW and the Committee against Torture report underreporting and weak protection.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 58 — Thailand: \"Six-Year Action Plan on the Prevention and Resolution of Rape and Sexual Harassment B.E. 2565-2570 (2022–2027) was approved by the Cabinet on 20 December 2022\"",
+       "UN Compilation (A/HRC/WG.6/53/THA/2), para. 45 — Committee on the Elimination of Discrimination against Women: \"the absence of effective investigation, enforcement and survivor protection mechanisms in the Domestic Violence Victim Protection Act B.E. 2550 (2007)\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.139",
+        "by": "Latvia",
+        "position": "supported",
+        "text": "Take all necessary measures, both in law and in practice, to combat violence against women and child early and forced marriage"
+       },
+       {
+        "paragraph": "51.140",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Step up efforts to prevent and combat all forms of violence against women and to ensure that cases of violence against women are fully investigated and perpetrators prosecuted"
+       },
+       {
+        "paragraph": "51.141",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts aimed at combating violence against women and girls, establishing gender equality, and supporting women’s empowerment"
+       },
+       {
+        "paragraph": "51.142",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Redouble its efforts to prevent and address all forms of violence against women"
+       },
+       {
+        "paragraph": "51.143",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Take further measures to combat all forms of violence and discrimination against women and children, including domestic violence"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: definition, general principles",
+    "blocks": [
+     {
+      "paras": "51.166, 51.167, 51.169, 51.171-51.173",
+      "n": 6,
+      "summary": "Protect the rights of persons with disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The 4th Education Plan for Persons with Disabilities 2023-2027 was adopted and the draft Persons with Disabilities Empowerment Act (No. 3) is advancing to align the law with the CRPD.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 65 — Thailand: \"advancing the draft Persons with Disabilities Empowerment Act (No. 3)\"",
+       "National Report (A/HRC/WG.6/53/THA/1), para. 39 — Thailand: \"4th Education Plan for Persons with Disabilities B.E. 2023-2027\""
+      ],
+      "position": "6 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.166",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Further implement measures to promote and protect the rights of persons with disabilities"
+       },
+       {
+        "paragraph": "51.167",
+        "by": "India",
+        "position": "supported",
+        "text": "Consider initiatives to ensure promotion and protection of the rights of persons with disabilities"
+       },
+       {
+        "paragraph": "51.169",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Amend legislation to prohibit discrimination against persons with disabilities without exceptions"
+       },
+       {
+        "paragraph": "51.171",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Take measures to facilitate greater participation and representation of persons with disabilities in the work force"
+       },
+       {
+        "paragraph": "51.172",
+        "by": "Azerbaijan",
+        "position": "supported",
+        "text": "Intensify efforts in providing quality educational opportunities for persons with disabilities of all ages, including raising awareness of the rights of children with disabilities"
+       },
+       {
+        "paragraph": "51.173",
+        "by": "Brunei Darussalam",
+        "position": "supported",
+        "text": "Ensure that persons with disabilities continue to enjoy the same privileges in schools as well as at the workplace"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: independence, inclusion",
+    "blocks": [
+     {
+      "paras": "51.168",
+      "n": 1,
+      "summary": "Simplify access to the disability grant",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A One Stop Service system with health facilities is being developed for disability identification cards and welfare benefits.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/THA/1), para. 67 — Thailand: \"the development of a One Stop Service system in collaboration with health facilities to facilitate the issuance of disability identification cards\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "51.168",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Simplify procedures for persons with disabilities to access the disability grant"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
  "hrc": {
   "meta": {
    "mechanism": "hrc",
@@ -94,5 +3380,5 @@
   ],
   "history": []
  },
- "combined_score": 3.5
+ "combined_score": 3.58
 }

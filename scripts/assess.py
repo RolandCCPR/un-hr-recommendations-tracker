@@ -4,7 +4,7 @@ A country module (``countries/<slug>/assess.py``) defines its cluster and
 keyword rules and calls :func:`run`. Rules are graded on the adapted Human
 Rights Committee A-E scale and each carries verbatim quotes from that country's
 4th-cycle documents (National report /1, OHCHR Compilation /2, Stakeholders'
-Summary /3).
+Summary /3), and optionally the State's 3rd-cycle mid-term report (doc key "M").
 """
 
 from __future__ import annotations
@@ -20,13 +20,14 @@ from scripts.countries import ROOT, get, out_dir
 # A quote = (organisation/body as named, doc key "1"|"2"|"3", paragraph, text)
 Quote = tuple[str, str, str, str]
 
-DOC_NAMES = {"1": "National Report", "2": "UN Compilation", "3": "Stakeholders' Summary"}
+DOC_NAMES = {"1": "National Report", "2": "UN Compilation", "3": "Stakeholders' Summary",
+             "M": "State mid-term report"}
 
 
 def _fmt(quotes: list[Quote], sym: dict[str, str]) -> tuple[str, str]:
     ev_lines, seen = [], []
     for org, doc, para, text in quotes:
-        s = sym.get(doc, f"doc/{doc}")
+        s = sym.get(doc, "mid-term report" if doc == "M" else f"doc/{doc}")
         ev_lines.append(f'{DOC_NAMES[doc]} ({s}), para. {para} — {org}: "{text}"')
         loc = f"{s} para. {para}"
         if loc not in seen:

@@ -23,7 +23,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 | **E** — Contrary measures taken, or recommendation rejected | 16 | 6% |
 | **Total** | 267 | 100% |
 
-**Partial implementation (B)** is the dominant outcome (142 of 267 asks), and Hungary gives a National Report that admits "very limited progress": Act X of 2023 strengthened the National Judicial Council, a preventive restraining order that outlasts imprisonment (2025) and a review of 31,139 police domestic-violence cases, hate-crime training for all police, the National Strategy against Antisemitism (2024), the 2025 action plan under the Social Inclusion Strategy 2030, a partial decriminalisation of defamation (2023) and an Act on anti-discrimination in education (2024). **No relevant action (C)** covers 93 asks, notably media pluralism, civil-society space, asylum and pushbacks, the Istanbul Convention and the Women, Peace and Security plan. **Contrary measures (E)** apply to 16 asks: the 'child protection' law kept and extended by Act III of 2025, which bans Pride and other LGBTIQ-themed assemblies (a constitutional amendment followed), and the withdrawal from the Rome Statute. Four asks reach **A** (support for the family, visible bilingualism in the Rába region, cooperation with special procedures).
+**Partial implementation (B)** is the dominant outcome (142 of 267 recommendations), and Hungary gives a National Report that admits "very limited progress": Act X of 2023 strengthened the National Judicial Council, a preventive restraining order that outlasts imprisonment (2025) and a review of 31,139 police domestic-violence cases, hate-crime training for all police, the National Strategy against Antisemitism (2024), the 2025 action plan under the Social Inclusion Strategy 2030, a partial decriminalisation of defamation (2023) and an Act on anti-discrimination in education (2024). **No relevant action (C)** covers 93 recommendations, notably media pluralism, civil-society space, asylum and pushbacks, the Istanbul Convention and the Women, Peace and Security plan. **Contrary measures (E)** apply to 16 recommendations: the 'child protection' law kept and extended by Act III of 2025, which bans Pride and other LGBTIQ-themed assemblies (a constitutional amendment followed), and the withdrawal from the Rome Statute. Four recommendations reach **A** (support for the family, visible bilingualism in the Rába region, cooperation with special procedures).
 
 ## Assessment by theme
 
@@ -73,7 +73,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 3 — JS10: "withdraw the withdrawal instrument, or otherwise, re-ratify the Rome Statute of the International Criminal Court"
 
-**Assessment:** Hungary has withdrawn from the Rome Statute of the International Criminal Court, a measure contrary to the recommendation; JS10 asks it to withdraw the instrument of withdrawal.
+**Assessment:** Hungary has withdrawn from the Rome Statute of the International Criminal Court, a measure contrary to the recommendation; JS10 calls on it to withdraw the instrument of withdrawal.
 
 ### Recommendation 128.19 (Strengthen the legal framework against domestic and sexual violence)
 
@@ -136,7 +136,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 128.224 (National action plan on violence against children)
 
@@ -147,7 +147,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/HUN/1), para. 63 — Hungary: "Since July 2024, new and more stringent employment requirements have been introduced for managers, professionals, and applicants in child protection institutions"
 
-**Assessment:** Stricter employment-suitability requirements for staff of child protection institutions were introduced (July 2024); no national action plan is reported, and JS2 asks for a multi-stakeholder strategy.
+**Assessment:** Stricter employment-suitability requirements for staff of child protection institutions were introduced (July 2024); no national action plan is reported, and JS2 calls for a multi-stakeholder strategy.
 
 ---
 
@@ -256,7 +256,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -272,7 +272,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - UN Compilation (A/HRC/WG.6/53/HUN/2), para. 9 — UNHCR: "recommended that Hungary amend its national legislation to safeguard the right to seek and enjoy asylum and the prohibition of refoulement"
 - Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 17 — JS5: "formally withdraw the Transparency of Public Life bill to ensure that legislation does not restrict the lawful activities of civil society"
 
-**Assessment:** The National Report describes no review; UNHCR recommends amending asylum legislation and stakeholders ask for repeal of laws restricting civil society.
+**Assessment:** The National Report describes no review; UNHCR recommends amending asylum legislation and stakeholders call for repeal of laws restricting civil society.
 
 ### Recommendation 128.31 (Decriminalise defamation)
 
@@ -388,7 +388,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/HUN/1), para. 21 — Hungary: "The Hungarian media law expressly prohibits publishing press and media content that incites hatred"
 - Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 5 — JS2: "recommended to take effective measures to prevent and combat hate speech, racial discrimination, and violence against Roma"
 
-**Assessment:** Police hate-crime training became mandatory, a Handbook on handling hate crimes was issued and Criminal Code section 332 was extended in 2025; stakeholders ask for vigorous prosecution and awareness campaigns.
+**Assessment:** Police hate-crime training became mandatory, a Handbook on handling hate crimes was issued and Criminal Code section 332 was extended in 2025; stakeholders call for vigorous prosecution and awareness campaigns.
 
 ### Recommendation 128.66 (Combat discrimination against Roma and promote their inclusion)
 
@@ -489,7 +489,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 128.43 (Restore media independence and the independence of the Media Council)
 
@@ -501,7 +501,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - UN Compilation (A/HRC/WG.6/53/HUN/2), para. 28 — Special Rapporteur on freedom of expression: "revise the appointment procedure for the Chair of the Media Council to make it more transparent and inclusive"
 - UN Compilation (A/HRC/WG.6/53/HUN/2), para. 29 — Special Rapporteur on freedom of expression: "called for the independence, transparency and accountability of the Media Council, including through legislative reforms"
 
-**Assessment:** The National Report has no media section; the Special Rapporteur on freedom of expression still asks for a reformed Media Council and a framework for media independence.
+**Assessment:** The National Report has no media section; the Special Rapporteur on freedom of expression still calls for a reformed Media Council and a framework for media independence.
 
 ### Recommendation 128.51 (Support Council of the EU conclusions on the children's rights strategy)
 
@@ -512,7 +512,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 128.95 (Re-establish the Equal Treatment Authority)
 
@@ -613,7 +613,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -660,7 +660,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/HUN/1), para. 25 — Hungary: "Act X of 2023 strengthened the role and powers of the National Judicial Council (OBT) in order to balance the powers of the President of the National Judicial Office (OBH)"
 - Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 12 — Hungary Helsinki Committee: "requested the effective implementation of the prerogatives of the National Judicial Council introduced by the 2023 judicial reform"
 
-**Assessment:** Act X of 2023 strengthened the National Judicial Council, made the allocation of cases in the Curia transparent and removed obstacles to preliminary references to the CJEU; the Helsinki Committee asks for its effective implementation.
+**Assessment:** Act X of 2023 strengthened the National Judicial Council, made the allocation of cases in the Curia transparent and removed obstacles to preliminary references to the CJEU; the Helsinki Committee calls for its effective implementation.
 
 ---
 
@@ -701,7 +701,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - UN Compilation (A/HRC/WG.6/53/HUN/2), para. 28 — Special Rapporteur on freedom of expression: "revise the appointment procedure for the Chair of the Media Council to make it more transparent and inclusive"
 - UN Compilation (A/HRC/WG.6/53/HUN/2), para. 29 — Special Rapporteur on freedom of expression: "called for the independence, transparency and accountability of the Media Council, including through legislative reforms"
 
-**Assessment:** The National Report has no media section; the Special Rapporteur on freedom of expression still asks for a reformed Media Council and a framework for media independence.
+**Assessment:** The National Report has no media section; the Special Rapporteur on freedom of expression still calls for a reformed Media Council and a framework for media independence.
 
 ### Recommendation 128.125 (Allow civil society organisations to operate freely)
 
@@ -755,7 +755,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/HUN/1), para. 116 — Hungary: "1 billion HUF is earmarked for action to combat trafficking in human beings"
 - UN Compilation (A/HRC/WG.6/53/HUN/2), para. 38 — Committee on the Elimination of Discrimination against Women: "recommended that Hungary ensure sufficient human, technical and financial resources for the effective implementation and monitoring of the National Strategy against Trafficking in Human Beings for 2020–2023"
 
-**Assessment:** Hungary implemented an action plan under the 2020-2023 national strategy (prevention programmes in care institutions), earmarked HUF 1 billion under the Swiss-Hungarian programme, ran a referral mechanism exercise (July 2025) and provided for guardians for unaccompanied minors; CEDAW asks for adequate resources.
+**Assessment:** Hungary implemented an action plan under the 2020-2023 national strategy (prevention programmes in care institutions), earmarked HUF 1 billion under the Swiss-Hungarian programme, ran a referral mechanism exercise (July 2025) and provided for guardians for unaccompanied minors; CEDAW calls for adequate resources.
 
 ---
 
@@ -798,7 +798,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/HUN/1), para. 108 — Hungary: "The two fundamental objectives of the MNTFS2030 are the eradication of poverty and the promotion of the inclusion of the Roma community"
 - Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 55 — JS2: "recommended the development of targeted programs to reduce intergenerational poverty"
 
-**Assessment:** The National Social Inclusion Strategy 2030 and its 2025-2027 action plan target poverty eradication and Roma inclusion; JS2 asks for targeted programmes on intergenerational poverty.
+**Assessment:** The National Social Inclusion Strategy 2030 and its 2025-2027 action plan target poverty eradication and Roma inclusion; JS2 calls for targeted programmes on intergenerational poverty.
 
 ---
 
@@ -858,7 +858,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -964,7 +964,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 51 — JS2: "developing and implementing a multi-stakeholder national strategy to prevent and address all forms of violence against children"
 
-**Assessment:** No consultation on a child-rights framework or single child-rights body is reported; JS2 asks for a multi-stakeholder national strategy on violence against children.
+**Assessment:** No consultation on a child-rights framework or single child-rights body is reported; JS2 calls for a multi-stakeholder national strategy on violence against children.
 
 ---
 
@@ -1022,7 +1022,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -1037,7 +1037,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -1128,7 +1128,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 

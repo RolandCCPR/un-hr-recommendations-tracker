@@ -1,0 +1,1935 @@
+{
+ "a3": "PNG",
+ "name": "Papua New Guinea",
+ "num": 598,
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "39th session (2021)",
+   "co_symbol": "A/HRC/49/11",
+   "review": "November 2026 (session 53)",
+   "sources": [
+    "**National Report** — A/HRC/WG.6/53/PNG/1",
+    "**UN Compilation** — A/HRC/WG.6/53/PNG/2",
+    "**Stakeholders' Summary** — A/HRC/WG.6/53/PNG/3"
+   ],
+   "headline": "**Partial implementation (B)** is the dominant outcome, and Papua New Guinea gives a detailed National Report: the death penalty was abolished in 2022-2023, the Disability Services Act 2025 was enacted, a costed GBV Strategy 2026-2035 and a sorcery-accusation action plan (2024-2029) were launched, the Strategic Plan on Human Rights 2024-2029 and a National Human Rights Policy (2026) were adopted, a 10% women-candidate quota was legislated for 2027, and health and education funding rose. **No relevant action (C)** persists on ratification of CAT, OP-CAT and ICPPED, a comprehensive anti-discrimination law, decriminalisation of same-sex relations, the minimum ages of marriage and criminal responsibility, an access-to-information law, a national action plan on business and human rights and an established national human rights institution (draft legislation only). Reported on-the-ground violence, forced evictions and pressure on journalists remain serious concerns.",
+   "note": "",
+   "n": 161,
+   "grade_dist": {
+    "A": 16,
+    "B": 96,
+    "C": 48,
+    "D": 1,
+    "E": 0
+   },
+   "score": 3.79
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "144.1, 144.2, 144.4-144.10",
+      "n": 9,
+      "summary": "Ratify outstanding international instruments",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "PNG is still only reviewing the implications of ratifying CAT, OP-CAT, OP-CEDAW and ICPPED; no ratification in the review period is reported and the Rome Statute remains unratified.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 7 — Papua New Guinea: \"continues to review its legal, policy and institutional frameworks to assess the implications of ratifying additional international human rights instruments\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 6 — Office on Genocide Prevention and the Responsibility to Protect: \"Papua New Guinea had yet to ratify the Rome Statute of the International Criminal Court\""
+      ],
+      "position": "3 supported, 6 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.1",
+        "by": "Slovenia",
+        "position": "supported",
+        "text": "Ratify and implement international human rights treaties and the protocols thereto, as previously recommended"
+       },
+       {
+        "paragraph": "144.2",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Continue efforts to ratify international instruments and cooperate with human rights mechanisms"
+       },
+       {
+        "paragraph": "144.4",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Ratify the core international human rights treaties by the immediate ratification of the remaining covenants and conventions, beginning with the International Covenant on Economic, Social and Cultural Rights and the nine core human rights instruments"
+       },
+       {
+        "paragraph": "144.5",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Consider acceding to the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "144.6",
+        "by": "Japan",
+        "position": "noted",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance and the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "144.7",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel Inhuman or Degrading Treatment or Punishment (Bahamas) (Botswana) (Chile) (Denmark) (Estonia) (Latvia) (Malawi) (Timor-Leste) (Vanuatu); and the Optional Protocol thereto"
+       },
+       {
+        "paragraph": "144.8",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Continue and intensify efforts towards the ratification of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "144.9",
+        "by": "Georgia",
+        "position": "noted",
+        "text": "Take further steps towards the ratification of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the Optional Protocol thereto"
+       },
+       {
+        "paragraph": "144.10",
+        "by": "Indonesia; Iraq",
+        "position": "noted",
+        "text": "Consider ratifying the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       }
+      ]
+     },
+     {
+      "paras": "144.13-144.16, 144.24",
+      "n": 5,
+      "summary": "Ratify the Convention on the Rights of the Child",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "PNG is a party to the CRC and submitted its combined second and third periodic report in 2024.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 8 — Papua New Guinea: \"In 2024, PNG submitted its Combined Second and Third Periodic Report under the Convention on the Rights of the Child\""
+      ],
+      "position": "4 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.13",
+        "by": "Algeria; Senegal",
+        "position": "noted",
+        "text": "Consider ratifying the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "144.14",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict and the Optional Protocol to the Convention on the sale of children, child prostitution and child pornography"
+       },
+       {
+        "paragraph": "144.15",
+        "by": "Marshall Islands",
+        "position": "noted",
+        "text": "Ratify the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "144.16",
+        "by": "Mauritius",
+        "position": "noted",
+        "text": "Consider ratifying the Convention on the Rights of the Child and the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "144.24",
+        "by": "Cyprus",
+        "position": "noted",
+        "text": "Expedite the ratification of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, the Optional Protocol to the Convention against Torture, and two optional Protocols to the Convention on the Rights of the Child"
+       }
+      ]
+     },
+     {
+      "paras": "144.11, 144.12, 144.23",
+      "n": 3,
+      "summary": "Ratify the Rome Statute",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Rome Statute remains unratified.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 6 — Office on Genocide Prevention and the Responsibility to Protect: \"Papua New Guinea had yet to ratify the Rome Statute of the International Criminal Court\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/PNG/3), para. 3 — JS8: \"recommended that Papua New Guinea accede the Rome Statue of the International Criminal Court\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.11",
+        "by": "Botswana; Estonia",
+        "position": "noted",
+        "text": "Ratify the Rome Statute of the International Criminal Court"
+       },
+       {
+        "paragraph": "144.12",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Ratify and fully align its national legislation with all the obligations under the Rome Statute of the International Criminal Court"
+       },
+       {
+        "paragraph": "144.23",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, the Optional Protocols to the Convention on the Rights of the Child on a communications procedure and on the involvement of children in armed conflict and the Rome Statute of the International Criminal Court"
+       }
+      ]
+     },
+     {
+      "paras": "144.17, 144.18, 144.21",
+      "n": 3,
+      "summary": "Ratify OP-CEDAW",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "PNG is still reviewing the implications of ratifying OP-CEDAW.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 7 — Papua New Guinea: \"the Optional Protocol to CEDAW (OP-CEDAW)\""
+      ],
+      "position": "2 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.17",
+        "by": "Vanuatu",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women and enforce measures to increase awareness of gender-based violence, especially against women, and penalize infractions adequately"
+       },
+       {
+        "paragraph": "144.18",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women, review customary laws and repeal all provisions that are harmful and discriminatory against women and girls"
+       },
+       {
+        "paragraph": "144.21",
+        "by": "Turkey",
+        "position": "noted",
+        "text": "Accede to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the Optional Protocol thereto, the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families and the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       }
+      ]
+     },
+     {
+      "paras": "144.22, 144.25",
+      "n": 2,
+      "summary": "Ratify the Second Optional Protocol (abolition)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The death penalty was abolished in 2022-2023 but PNG is still only reviewing the implications of ratifying the Second Optional Protocol.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 118 — Papua New Guinea: \"The Government will continue to review the implications of ratifying the Second Optional Protocol to the ICCPR\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.22",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, the Optional Protocol to the Convention against Torture and two optional protocols to the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "144.25",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "144.19",
+      "n": 1,
+      "summary": "Implement CEDAW",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Gender Equality and Women's Empowerment Policy 2025-2035 and a 2026 party-candidate quota advance CEDAW implementation, but CEDAW reporting is outstanding.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 26 — Papua New Guinea: \"the adoption of the Gender Equality and Women's Empowerment Policy 2025-2035\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.19",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Take further steps to implement the Convention on the Elimination of All Forms of Discrimination against Women, in particular by curbing violence against women"
+       }
+      ]
+     },
+     {
+      "paras": "144.20",
+      "n": 1,
+      "summary": "Ratify the Palermo trafficking protocol",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG has decided to ratify the UN Convention against Transnational Organized Crime and is going through the domestic process; the Protocol remains unratified.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 49 — Papua New Guinea: \"The Government has decided to ratify the United Nations Convention against Transnational Organized Crime\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.20",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Ratify and implement the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children, supplementing the United Nations Convention against Transnational Organized Crime"
+       }
+      ]
+     },
+     {
+      "paras": "144.26",
+      "n": 1,
+      "summary": "Request OHCHR technical support",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG welcomes OHCHR technical assistance and has hosted an OHCHR human rights adviser since 2008.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 2 — OHCHR: \"has maintained a field presence in Papua New Guinea since 2008\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 10 — Papua New Guinea: \"welcomes continued technical assistance from OHCHR\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.26",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Request technical support from the Office of the United Nations High Commissioner for Human Rights to advance in the ratification of the main international human rights instruments to which the country is not yet a party, as well as to ensure the alignment of its national legal system with the obligations derived from ratified human rights treaties"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Special Procedures",
+    "blocks": [
+     {
+      "paras": "144.3",
+      "n": 1,
+      "summary": "Open invitation to special procedures",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG has had a standing invitation since 2011 but several visit requests remain pending and the last visit was in 2014.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 10 — Papua New Guinea: \"PNG has a standing invitation for Special Procedures since 2011\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 8 — United Nations country team: \"several requests for country visits remained pending\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.3",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Issue an open invitation to all Human Rights Council special procedures"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Treaty Bodies",
+    "blocks": [
+     {
+      "paras": "144.27, 144.28",
+      "n": 2,
+      "summary": "Submit overdue treaty reports and seek assistance",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG submitted its combined second and third CRC report in 2024 and created the NMIRF in 2023, but long reporting delays persist and CEDAW and CRPD reports are outstanding.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 8 — Papua New Guinea: \"In 2024, PNG submitted its Combined Second and Third Periodic Report under the Convention on the Rights of the Child\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 7 — United Nations country team: \"lengthy delays in reporting to the treaty bodies\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.27",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Consider requesting technical assistance and cooperation for the preparation and delivery of reports to the United Nations treaty bodies"
+       },
+       {
+        "paragraph": "144.28",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Request technical assistance for the timely preparation and submission of reports to the United Nations treaty bodies"
+       }
+      ]
+     },
+     {
+      "paras": "144.29",
+      "n": 1,
+      "summary": "Ratify the Convention on the Rights of the Child",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "PNG is a party to the CRC and submitted its combined second and third periodic report in 2024.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 8 — Papua New Guinea: \"In 2024, PNG submitted its Combined Second and Third Periodic Report under the Convention on the Rights of the Child\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.29",
+        "by": "Estonia",
+        "position": "supported",
+        "text": "Deliver the overdue reports to the Human Rights Council, including those under the Convention on the Elimination of All Forms of Discrimination against Women, the Convention on the Rights of the Child and the Convention on the Rights of Persons from Disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "2030 Agenda & other voluntary commitments",
+    "blocks": [
+     {
+      "paras": "144.30",
+      "n": 1,
+      "summary": "Address socioeconomic challenges with international assistance",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG reports its 2025 Voluntary National Review and development plans while citing resource constraints.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 88 — Papua New Guinea: \"The 2025 VNR records improvements in enrolment, gender parity and alternative learning pathways\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.30",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Take measures to deal with socioeconomic challenges and seek international assistance for promoting progress towards achieving the Sustainable Development Goals"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights education, trainings & awareness raising",
+    "blocks": [
+     {
+      "paras": "144.31",
+      "n": 1,
+      "summary": "Improve civil registration through awareness",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Civil Registration and Identity Management Act 2024, online ward registration and a National Identity Programme are being scaled up.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 62 — Papua New Guinea: \"The Government is scaling up the National Identity Programme, online ward registration and linkages with maternity medical systems\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.31",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Further improve the civil registration system through awareness raising activities in order to sustain the rise in registration numbers"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to participate in public affairs & right to vote",
+    "blocks": [
+     {
+      "paras": "144.32",
+      "n": 1,
+      "summary": "Guarantee the integrity of electoral processes",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The 2022 elections were marked by violence and displacement, and preparations for 2027 are only at the planning stage.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/PNG/3), para. 64 — CSOLC4UPR: \"it increased following violence associated with 2022 elections\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 140 — Papua New Guinea: \"The Government will continue preparations for peaceful, safe, inclusive and credible 2027 national election\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.32",
+        "by": "France",
+        "position": "noted",
+        "text": "Guarantee the integrity of electoral processes, notably of the upcoming legislative elections, in accordance with electoral observers; recommendations following the previous elections, in 2017"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "International criminal & humanitarian law (including crimes against humanity, war crimes, genocide)",
+    "blocks": [
+     {
+      "paras": "144.33",
+      "n": 1,
+      "summary": "Appoint a responsibility-to-protect focal point",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The UN Office on Genocide Prevention repeats a recommendation made in the previous cycle; no appointment is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 12 — Office on Genocide Prevention and the Responsibility to Protect: \"recommended appointing a senior-level national focal point on the responsibility to protect\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.33",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Appoint a focal point for the responsibility to protect; a senior level government official; responsible for the promotion of mass atrocity prevention and cooperation in that regard at the national, regional and international levels"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "144.34-144.42",
+      "n": 9,
+      "summary": "Establish a Paris-Principles national human rights institution",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Draft enabling legislation has been endorsed by the National Executive Council and a constitutional amendment is being finalised, but no institution has been established.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 11 — United Nations country team: \"draft enabling legislation endorsed by the National Executive Council\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 12 — Papua New Guinea: \"The Government is finalizing a draft Constitutional amendment and enabling legislation to establish a national human rights institution\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/PNG/3), para. 6 — Several submissions: \"noted the absence of a National Human Rights Institution (NHRI) in line with the Principles Relating to the Status of National Human Rights Institutions\""
+      ],
+      "position": "9 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.34",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue its efforts for the establishment and operationalization of a national human rights commission"
+       },
+       {
+        "paragraph": "144.35",
+        "by": "Netherlands",
+        "position": "supported",
+        "text": "Establish a national human rights institution in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles), as recommended during the previous universal periodic review cycle"
+       },
+       {
+        "paragraph": "144.36",
+        "by": "New Zealand",
+        "position": "supported",
+        "text": "Establish a national human rights commission"
+       },
+       {
+        "paragraph": "144.37",
+        "by": "the Paris Principles; Ukraine; Argentina; Malaysia; Montenegro",
+        "position": "supported",
+        "text": "Establish an independent national human rights institution in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights"
+       },
+       {
+        "paragraph": "144.38",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Establish a national human rights institution in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles), as supported by the Government of Papua New Guinea at the previous review cycle, in 2016"
+       },
+       {
+        "paragraph": "144.39",
+        "by": "the Paris Principles; Georgia",
+        "position": "supported",
+        "text": "Continue efforts aimed at establishing a national human rights institution in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights"
+       },
+       {
+        "paragraph": "144.40",
+        "by": "the Paris Principles; India",
+        "position": "supported",
+        "text": "Consider establishing a national human rights institution in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights"
+       },
+       {
+        "paragraph": "144.41",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Strengthen efforts to establish a national human rights institution in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles), including through possible bilateral discussions with the existing national human rights institutions in the Asia-Pacific region"
+       },
+       {
+        "paragraph": "144.42",
+        "by": "the Paris Principles; Nepal",
+        "position": "supported",
+        "text": "Expedite the process for the establishment of a national human rights institution in line with the principles relating to the status of national institutions for the promotion and protection of human rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "144.45-144.57",
+      "n": 13,
+      "summary": "Adopt comprehensive anti-discrimination protection",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "There is no comprehensive anti-discrimination law, no constitutional amendment on sexual orientation or gender identity, and consensual same-sex conduct between men remains criminalised.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 56 — United Nations country team: \"no constitutional amendment had been adopted to include sexual orientation or gender identity or expression among the prohibited grounds of discrimination\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/PNG/3), para. 10 — Amnesty International: \"it did not have a comprehensive antidiscrimination\""
+      ],
+      "position": "13 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.45",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Adopt a legal framework that prohibits discrimination on the basis of sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "144.46",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Decriminalize consensual sexual relations between men and strengthen protections from societal violence and discrimination for lesbian, gay, bisexual, transgender, queer, intersex and other persons"
+       },
+       {
+        "paragraph": "144.47",
+        "by": "France",
+        "position": "noted",
+        "text": "Decriminalize consensual sexual relations between persons of the same sex"
+       },
+       {
+        "paragraph": "144.48",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Decriminalize sexual relations between consenting same-sex adults"
+       },
+       {
+        "paragraph": "144.49",
+        "by": "New Zealand",
+        "position": "noted",
+        "text": "Decriminalize sexual relations between consenting adults of the same sex and include sexual orientation and gender as prohibited grounds of discrimination"
+       },
+       {
+        "paragraph": "144.50",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Amend the preamble and article 55 of the Constitution to include sexual orientation, gender identity and expression as grounds of non-discrimination"
+       },
+       {
+        "paragraph": "144.51",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Reform the Penal Code by repealing provisions that criminalize sexual relations between persons of the same sex"
+       },
+       {
+        "paragraph": "144.52",
+        "by": "Montenegro",
+        "position": "noted",
+        "text": "Review the Criminal Code with a view to repealing provisions that criminalize same-sex sexual relations"
+       },
+       {
+        "paragraph": "144.53",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Amend the Criminal Code with a view to repealing provisions that criminalize same-sex sexual relations between consenting adults"
+       },
+       {
+        "paragraph": "144.54",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Take immediate steps to decriminalize same-sex sexual relations between consenting adults, by repealing section 210 of the Criminal Code, and pass legislation to prohibit discrimination based on sexual orientation or gender identity"
+       },
+       {
+        "paragraph": "144.55",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Decriminalize same-sex conduct between consenting adults by repealing sections 210 and 212 of the Criminal Code"
+       },
+       {
+        "paragraph": "144.56",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Repeal sections 210 and 212 of the Criminal Code, in order to address discrimination based on sexual orientation or gender identity"
+       },
+       {
+        "paragraph": "144.57",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Repeal sections 210 and 212 of the Criminal Code, in order to decriminalize sexual relations between men"
+       }
+      ]
+     },
+     {
+      "paras": "144.43",
+      "n": 1,
+      "summary": "Tackle stigma against persons affected by leprosy",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG runs a National Leprosy Control Programme and a skin-disease project; progress is partial.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 34 — United Nations country team: \"partial progress in Papua New Guinea in reducing leprosy-related stigma\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 80 — Papua New Guinea: \"National Leprosy Control Programme\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.43",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Take concrete measures to tackle stigma and discrimination against persons affected by leprosy and members of their families to ensure that they have timely and adequate access to health services and that they can enjoy their rights to education and to work without discrimination, in line with the Convention on the Rights of Persons with Disabilities"
+       }
+      ]
+     },
+     {
+      "paras": "144.44",
+      "n": 1,
+      "summary": "Combat discrimination and violence against women and children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG adopted a gender equality policy, a GBV strategy and child protection roadmap.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 37 — Papua New Guinea: \"the National Strategy to Prevent and Respond to GenderBased Violence 2026-2035\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.44",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Take the necessary steps to combat discrimination and violence against women and children and on the basis of sexual orientation and gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "144.161",
+      "n": 1,
+      "summary": "Accede to the statelessness conventions",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "PNG says further legal and policy review is needed on accession.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 52 — Papua New Guinea: \"Further legal and policy review is needed on accession to the Convention relating to the Status of Stateless Persons\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 4 — United Nations country team: \"had yet to accede to the Convention relating to the Status of Stateless Persons and the Convention on the Reduction of Statelessness\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.161",
+        "by": null,
+        "position": "noted",
+        "text": "Accede to the Convention relating to the Status of Stateless Persons and the Convention on the Reduction of Statelessness (Haiti)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & the environment",
+    "blocks": [
+     {
+      "paras": "144.58",
+      "n": 1,
+      "summary": "Environmental protection and large-scale projects",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Protected Areas Act 2024 and environmental impact assessment systems exist, but extractive-sector concerns persist (Porgera, Wafi-Golpu, Panguna) and exploration continued in the Bismarck Sea.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 109 — Papua New Guinea: \"The Protected Areas Act 2024 establishes a national framework for the declaration, management and expansion of protected areas\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 41 — United Nations country team: \"human rights concerns in the extractive sector persisted\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.58",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Maintain the various environmental protection measures by ensuring the strengthening of the body of environmental legislation"
+       }
+      ]
+     },
+     {
+      "paras": "144.61",
+      "n": 1,
+      "summary": "Ensure large-scale projects meet environmental standards",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The UN country team reports persistent extractive-sector concerns and continued exploration despite a stated moratorium.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 41 — United Nations country team: \"exploration continued in the Bismarck Sea\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.61",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Continue to take more effective measures to ensure that large-scale projects meet environmental standards"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "144.59, 144.60, 144.62, 144.63",
+      "n": 4,
+      "summary": "Climate adaptation and participation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG applies the Climate Change (Management) Act 2015 and a National Adaptation Plan and enacted the Protected Areas Act 2024; the UN country team reports some progress on participation but no meaningful participation guarantee in the 2024 Act.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 114 — Papua New Guinea: \"Guided by the Climate Change (Management) Act 2015 and the National Adaptation Plan\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 39 — United Nations country team: \"some progress in embedding participation and inclusion in climate-related policy processes\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.59",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Continue to implement measures to adequately protect the population from the risks of unavoidable natural disasters due to climate change, in accordance with its environmental legislation and good practices"
+       },
+       {
+        "paragraph": "144.60",
+        "by": "Vanuatu",
+        "position": "supported",
+        "text": "Implement a solid policy to combat climate change, and advocate for climate action by all nations"
+       },
+       {
+        "paragraph": "144.62",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure the meaningful participation of women, children, persons with disabilities and local communities in the development and implementation of climate change and disaster risk reduction frameworks"
+       },
+       {
+        "paragraph": "144.63",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Guarantee the participation of civil society, and its equality of treatment and the diversity of its representation, in the development of climate and environmental policies"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Constitutional & legislative framework",
+    "blocks": [
+     {
+      "paras": "144.64",
+      "n": 1,
+      "summary": "Align forestry projects with human rights",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Protected Areas Act 2024 reinforces free, prior and informed consent, but it provides no explicit human rights safeguards for forestry projects.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 111 — Papua New Guinea: \"The Protected Areas Act 2024 reinforces the principle of free, prior and informed consent\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 39 — United Nations country team: \"or provide explicit human rights safeguards for forestry projects\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.64",
+        "by": "France",
+        "position": "supported",
+        "text": "Take additional measures to guarantee the conformity of projects related to forestry services with the rights of the local people concerned"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Business & Human Rights",
+    "blocks": [
+     {
+      "paras": "144.65, 144.66",
+      "n": 2,
+      "summary": "Develop a national action plan on business and human rights",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "PNG only says it will consider developing a national action plan; the UN country team recommends adopting one.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 139 — Papua New Guinea: \"It will consider development of a national action plan on business and human rights\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 41 — United Nations country team: \"recommended adopting a national action plan on business and human rights\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.65",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Consider developing a national action plan on human rights including the business sector"
+       },
+       {
+        "paragraph": "144.66",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Develop a national action plan in line with the Guiding Principles on Business and Human Rights, with the aim of promoting respect for human rights in the context of business activities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Good governance & corruption",
+    "blocks": [
+     {
+      "paras": "144.67, 144.68",
+      "n": 2,
+      "summary": "Strengthen the Independent Commission Against Corruption",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "ICAC became operational in 2023 and has built cooperation with other agencies, but it faced major leadership disputes and resourcing constraints.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 19 — Papua New Guinea: \"The ICAC became operational during the reporting period\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 21 — United Nations country team: \"faced major internal leadership disputes and system constraints\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.67",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Build capacity, provide resources and safeguard the autonomy of the Independent Commission against Corruption to decisively curb corruption"
+       },
+       {
+        "paragraph": "144.68",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to combat corruption"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Death penalty",
+    "blocks": [
+     {
+      "paras": "144.71, 144.74, 144.76-144.82, 144.85",
+      "n": 10,
+      "summary": "Ratify the Second Optional Protocol (abolition)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The death penalty was abolished in 2022-2023 but PNG is still only reviewing the implications of ratifying the Second Optional Protocol.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 118 — Papua New Guinea: \"The Government will continue to review the implications of ratifying the Second Optional Protocol to the ICCPR\""
+      ],
+      "position": "10 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.71",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Abolish the death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "144.74",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Fully abolish the death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "144.76",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Move towards the official abolition of the death penalty in all cases and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "144.77",
+        "by": "Nepal",
+        "position": "noted",
+        "text": "Consider ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "144.78",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Sign and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, and establish an official moratorium on the imposition of the death penalty"
+       },
+       {
+        "paragraph": "144.79",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Abolish the use of death penalty and, as a first step, immediately establish an official moratorium on executions and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "144.80",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Maintain the moratorium on death sentences and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "144.81",
+        "by": "Timor-Leste",
+        "position": "noted",
+        "text": "Maintain the moratorium on the death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "144.82",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Implement an immediate formal moratorium on the death penalty, with a view to ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "144.85",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Establish a moratorium on the death penalty, with a view to its eventual abolition, and consider ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "144.70, 144.72, 144.73, 144.75, 144.83, 144.84, 144.86, 144.87",
+      "n": 8,
+      "summary": "Abolish the death penalty / establish a moratorium",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Parliament amended the Criminal Code to abolish the death penalty and replace it with life imprisonment (2022-2023), meeting the core of the abolition recommendation; the Second Optional Protocol remains unratified.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 118 — Papua New Guinea: \"In 2023, Parliament passed an amendment of the Criminal Code to abolish the death penalty and replace it with life imprisonment\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 13 — United Nations country team: \"Parliament had amended the Criminal Code to repeal the death penalty and replace it with life imprisonment\""
+      ],
+      "position": "8 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.70",
+        "by": "Cyprus",
+        "position": "noted",
+        "text": "Limit capital crimes, with the aim of abolishing the death penalty"
+       },
+       {
+        "paragraph": "144.72",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Initiate a process for a State review and discussion of the relevance of the death penalty to Papua New Guinea, with a view to considering its complete abolition"
+       },
+       {
+        "paragraph": "144.73",
+        "by": "France",
+        "position": "noted",
+        "text": "Abolish the death penalty de jure"
+       },
+       {
+        "paragraph": "144.75",
+        "by": "Marshall Islands",
+        "position": "noted",
+        "text": "Pursue efforts towards the full and unequivocal abolition of the death penalty"
+       },
+       {
+        "paragraph": "144.83",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Adopt an immediate moratorium on the execution of the death penalty, with a view to its complete abolition"
+       },
+       {
+        "paragraph": "144.84",
+        "by": "Haiti",
+        "position": "noted",
+        "text": "Establish a moratorium on the death penalty and consider as soon as possible its abolition and replacement by an alternative punishment that is fair, proportionate and in line with international standards"
+       },
+       {
+        "paragraph": "144.86",
+        "by": "New Zealand",
+        "position": "noted",
+        "text": "Establish an immediate official moratorium on executions, with a view to abolishing the death penalty, and repeal all provisions in domestic law allowing for the death penalty"
+       },
+       {
+        "paragraph": "144.87",
+        "by": "Switzerland",
+        "position": "noted",
+        "text": "Establish an immediate moratorium on the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "144.69",
+      "n": 1,
+      "summary": "Awareness-raising on the death penalty",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on awareness-raising campaigns on the death penalty.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.69",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Strengthen awareness-raising campaigns on the death penalty and public debate on the topic from a human rights perspective, including in its parliament, with a view to enabling as soon as possible its definitive abolition and the ratification of the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: juvenile justice",
+    "blocks": [
+     {
+      "paras": "144.88, 144.89",
+      "n": 2,
+      "summary": "Raise the minimum age of criminal responsibility",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The minimum age of criminal responsibility remains 10 and PNG is only reviewing the legislation.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 47 — United Nations country team: \"the minimum age of criminal responsibility remained 10 years under the Juvenile Justice Act 2014\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 64 — Papua New Guinea: \"continues to review legal frameworks to raise the minimum age of criminal responsibility to 14 years\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.88",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Raise the age of criminal responsibility"
+       },
+       {
+        "paragraph": "144.89",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Review the Criminal Code and legislation to raise the minimum age of criminal responsibility to 14 years or older, in accordance with international human rights standards"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Administration of justice & fair trial",
+    "blocks": [
+     {
+      "paras": "144.90, 144.91",
+      "n": 2,
+      "summary": "Expand legal aid and strengthen the justice system",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Public Solicitor's Office now operates in 19 of 22 provinces (Jiwaka opened in 2025), Community Justice Centres were established and a new National and Supreme Court Complex opened; three provinces still lack an office.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 119 — Papua New Guinea: \"The Office of the Public Solicitor is currently established in 19 of the country's 22 provinces\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 120 — Papua New Guinea: \"operationalisation of the new National and Supreme Court Complex in Port Moresby\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.90",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Establish free legal aid offices across the 22 provinces of the country"
+       },
+       {
+        "paragraph": "144.91",
+        "by": "France",
+        "position": "supported",
+        "text": "Step up efforts to boost the effectiveness of its criminal and judicial system"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Prohibition of torture & ill-treatment (including cruel, inhuman or degrading treatment)",
+    "blocks": [
+     {
+      "paras": "144.92-144.94",
+      "n": 3,
+      "summary": "Investigate police torture and ill-treatment",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The police Internal Investigation Unit pre-dates the review period; new allegations of excessive force arose in 2026 and officers in the 2016 student shooting case were not prosecuted.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 16 — United Nations country team: \"allegations of excessive use of force and ill-treatment by security officers in 2026\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/PNG/3), para. 19 — Amnesty International: \"the individual police officers had not been prosecuted in this case\""
+      ],
+      "position": "1 supported, 2 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.92",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Investigate reports of mistreatment by the police, including torture, the excessive use of force, arbitrary or unlawful detention and killings and sexual violence, and prosecute perpetrators"
+       },
+       {
+        "paragraph": "144.93",
+        "by": "Zambia",
+        "position": "noted",
+        "text": "Investigate and promptly prosecute police officers who commit criminal offences, such as torture, sexual violence and prohibited forms of ill-treatment, including the excessive use of force"
+       },
+       {
+        "paragraph": "144.94",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Investigate effectively all acts of the security forces alleged to relate to torture, ill-treatment, extrajudicial killings and sexual violence and prosecute and punish perpetrators"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of opinion and expression & access to information",
+    "blocks": [
+     {
+      "paras": "144.95-144.97",
+      "n": 3,
+      "summary": "Access-to-information law and freedom of expression",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "PNG has a constitutional guarantee and a Right to Information Policy but still lacks an access-to-information law, and the Cybercrime Act is used against critical expression.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 26 — United Nations country team: \"still lacked an access to information law\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/PNG/3), para. 27 — JS2: \"the use of the Cybercrime Act (2016) to silence criticism, creating a chilling effect\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.95",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Consider reviewing current legislation on access to information, with the aim of strengthening, both online and offline, the rights to privacy, to freedom of expression and to peaceful assembly and association"
+       },
+       {
+        "paragraph": "144.96",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Introduce legislation on access to information that is in line with international standards"
+       },
+       {
+        "paragraph": "144.97",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Guarantee the rights to freedom of expression and association, by reviewing the regulations that have the effect of limiting the exercise of those rights and freedoms and persecuting their defenders"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Economic, social & cultural rights - general measures of implementation",
+    "blocks": [
+     {
+      "paras": "144.98, 144.99",
+      "n": 2,
+      "summary": "Strengthen economic, social and cultural rights policies",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG implements Vision 2050 and the Medium-Term Development Plan IV with investments in services; implementation constraints remain.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 123 — Papua New Guinea: \"implementation of Vision 2050, the Medium-Term Development Plan IV (2023-2027) and sector-specific policies aligned with the Sustainable Development Goals\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.98",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue to strengthen its successful policies in the field of economic, social and cultural rights to continue improving the quality of life of its people, in particular those in the most vulnerable sectors of the population"
+       },
+       {
+        "paragraph": "144.99",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to promote sustainable economic and social development and improve people’s living standards"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Action Plans (or specific areas) / implementation plans",
+    "blocks": [
+     {
+      "paras": "144.100",
+      "n": 1,
+      "summary": "Implement a national human rights action plan",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Strategic Plan on Human Rights 2024-2029 was launched in August 2024 and a National Human Rights Policy in July 2026.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 13 — Papua New Guinea: \"the Strategic Plan on Human Rights 2024–2029 which was launched in August 2024\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 14 — Papua New Guinea: \"In July 2026, the Government launched the National Human Rights Policy\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.100",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Continue efforts to ensure the well-being of its population, particularly women, children and youth, based on the design and effective implementation of national policies in different strategic sectors"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "144.101-144.103, 144.107, 144.108",
+      "n": 5,
+      "summary": "Improve access to health care",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Health Plan 2021-2030 is being implemented, health financing rose from K2.5 billion (2022) to K3.2 billion (2026) and the UHC index and worker density increased; infrastructure, workforce and rural access gaps remain.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 65 — Papua New Guinea: \"the Universal Health Coverage Service Coverage Index increased from 41 in 2019 to 46 in 2023\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 67 — Papua New Guinea: \"Health sector funding increased from approximately K2.5 billion in 2022 to K3.2 billion in 2026\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 71 — Papua New Guinea: \"In 2023, only 54% of health posts were operational\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.101",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Adopt measures to ensure universal access to health"
+       },
+       {
+        "paragraph": "144.102",
+        "by": "Vanuatu",
+        "position": "supported",
+        "text": "Increase health-care funding and facilities, even in rural areas, to provide medical assistance to people living with HIV"
+       },
+       {
+        "paragraph": "144.103",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Take necessary steps to ensure that hospitals and rural medical services are properly funded and accessible, particularly to those women and girls seeking medical assistance in childbirth"
+       },
+       {
+        "paragraph": "144.107",
+        "by": "India",
+        "position": "supported",
+        "text": "Take adequate measures to improve access to health care, particularly for women, children and other vulnerable groups, in rural areas"
+       },
+       {
+        "paragraph": "144.108",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Continue making efforts to ensure that health facilities and services are accessible to all, particularly the most vulnerable"
+       }
+      ]
+     },
+     {
+      "paras": "144.104-144.106",
+      "n": 3,
+      "summary": "Sexual and reproductive health services",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG implements a National Sexual and Reproductive Health Policy, a Family Planning Policy and an HPV vaccination programme; access remains inequitable.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 72 — Papua New Guinea: \"implementation of the National Sexual and Reproductive Health Policy, Family Planning Policy, National Youth and Adolescent Health Policy\""
+      ],
+      "position": "2 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.104",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Ensure that women and girls have adequate access to sexual and reproductive health-care services"
+       },
+       {
+        "paragraph": "144.105",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Fully ensure sexual and reproductive health rights"
+       },
+       {
+        "paragraph": "144.106",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Decriminalize abortion and ensure universal and safe access to abortion and other sexual and reproductive health and rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "144.110-144.115, 144.119",
+      "n": 7,
+      "summary": "Improve access to and quality of education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG is implementing the National Education Plan 2020-2029 with higher funding, a free-education policy and rising enrolment; however free education is not yet anchored in the Education Act, indirect costs remain and tens of thousands of children are out of school.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 84 — Papua New Guinea: \"Education sector funding increased to K4.435 billion in 2025, representing a 12 per cent increase over the previous year\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 36 — UNESCO: \"UNESCO reported that the Education Act did not guarantee free primary and secondary education\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 95 — Papua New Guinea: \"approximately 53,289 primary school-aged children remained out of school in 2021\""
+      ],
+      "position": "7 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.110",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Intensify efforts to provide quality education for all age groups of children"
+       },
+       {
+        "paragraph": "144.111",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Take practical steps to ensure meaningful access to free, quality primary and secondary education for all children, including those with disabilities"
+       },
+       {
+        "paragraph": "144.112",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Consider further measures to address barriers to education for girls and improve the retention of female students in the education system"
+       },
+       {
+        "paragraph": "144.113",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Adopt a coherent strategy to ensure universal access to education, as well as to provide formal education to both girls and boys, as one of the means of poverty alleviation"
+       },
+       {
+        "paragraph": "144.114",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Realize the right to education, including by integrating gender equality into all levels of education, and ensure access to education, particularly for communities in remote and rural areas"
+       },
+       {
+        "paragraph": "144.115",
+        "by": "China",
+        "position": "supported",
+        "text": "Increase investment in educational infrastructure and increase the enrolment rate of children in remote areas"
+       },
+       {
+        "paragraph": "144.119",
+        "by": "Thailand",
+        "position": "supported",
+        "text": "Intensify its efforts to improve the rate of school attendance across the country and ensure access to education for all, including for children with disabilities, during the COVID-19 pandemic and beyond"
+       }
+      ]
+     },
+     {
+      "paras": "144.116, 144.117",
+      "n": 2,
+      "summary": "Adopt a national strategy on out-of-school children",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No national strategy is reported; PNG lists school-fee support and FODE alternative pathways and acknowledges that out-of-school children remain a challenge.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 95 — Papua New Guinea: \"out-of-school children remain a challenge\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.116",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Develop a national strategy on out-of-school children, particularly in remote and rural communities, to ensure access to education"
+       },
+       {
+        "paragraph": "144.117",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Finalize, adopt and implement the national strategy on out-of-school children, especially children in remote and rural communities, to guarantee the right to education"
+       }
+      ]
+     },
+     {
+      "paras": "144.109",
+      "n": 1,
+      "summary": "Ratify the Convention against Discrimination in Education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "UNESCO encourages ratification; none is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 5 — UNESCO: \"UNESCO encouraged the ratification of the Convention against Discrimination in Education\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.109",
+        "by": "Senegal",
+        "position": "noted",
+        "text": "Ratify the Convention against Discrimination in Education"
+       }
+      ]
+     },
+     {
+      "paras": "144.118",
+      "n": 1,
+      "summary": "Bring back children who dropped out because of COVID-19",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG says attendance was restored after the pandemic through awareness and community programmes, but many children remain out of school.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 94 — Papua New Guinea: \"school attendance was restored and classes have been back to normal\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.118",
+        "by": "India",
+        "position": "supported",
+        "text": "Adopt measures to bring back children who dropped out of school due to the COVID-19 pandemic, and ensure access to education"
+       }
+      ]
+     },
+     {
+      "paras": "144.155",
+      "n": 1,
+      "summary": "Train teachers for inclusive education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Teacher training on inclusive education and Special Education Resource Centres were established.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 97 — Papua New Guinea: \"The Government has established and supported Special Education Resource Centres (SERCs) across the country\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.155",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Provide more training and resources to schools and teachers so that they are better equipped to meet the needs of children with disabilities and children affected by leprosy"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Participation of women in political & public life",
+    "blocks": [
+     {
+      "paras": "144.120-144.128",
+      "n": 9,
+      "summary": "Increase women's political participation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "In 2026 Parliament required parties to endorse at least 10% women candidates from the 2027 elections, with penalties; women hold under 3% of seats.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 32 — Papua New Guinea: \"The amendments require all political parties to endorse at least 10% women candidates beginning with the 2027 elections\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 31 — Papua New Guinea: \"women's representation in the National Parliament remains below 3 per cent (3 out of 118 members)\""
+      ],
+      "position": "9 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.120",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Develop policies and practices to increase the participation of women and girls in society and political life and in decision-making processes on issues that affect them"
+       },
+       {
+        "paragraph": "144.121",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Further strengthen the economic participation of women and their access to livelihood opportunities"
+       },
+       {
+        "paragraph": "144.122",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Take further steps to increase the participation of women in the legislature, the executive and the judiciary"
+       },
+       {
+        "paragraph": "144.123",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Enhance the greater participation of women in politics and decision-making"
+       },
+       {
+        "paragraph": "144.124",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Guarantee full, equal and effective representation and the participation of women at all levels of decision-making by amending the Organic Law on the Integrity of Political Parties and Candidates"
+       },
+       {
+        "paragraph": "144.125",
+        "by": "New Zealand",
+        "position": "supported",
+        "text": "Implement practical measures intended to improve the political representation of women at both the national and local levels"
+       },
+       {
+        "paragraph": "144.126",
+        "by": "Serbia",
+        "position": "supported",
+        "text": "Continue financing and supporting special measures that would remove all obstacles to the political participation of women"
+       },
+       {
+        "paragraph": "144.127",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Strengthen its efforts to eliminate the barriers to the political participation of women"
+       },
+       {
+        "paragraph": "144.128",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue the efforts made to promote gender equality, empower women and support their participation in public and political life"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "144.129, 144.130, 144.150",
+      "n": 3,
+      "summary": "Gender equality policy and social inclusion",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Gender Equality and Women's Empowerment Policy 2025-2035 was adopted and GESI approaches are applied across the public sector; barriers to women's economic participation persist.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 26 — Papua New Guinea: \"the adoption of the Gender Equality and Women's Empowerment Policy 2025-2035\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 36 — Papua New Guinea: \"women continue to face barriers in accessing finance, markets and formal employment opportunities\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.129",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to develop a policy of gender equality and social inclusion within law enforcement agencies"
+       },
+       {
+        "paragraph": "144.130",
+        "by": "France",
+        "position": "supported",
+        "text": "Strengthen measures to promote equality between men and women and to combat gender-based violence"
+       },
+       {
+        "paragraph": "144.150",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "In line with Sustainable Development Goal 5, work with local communities to ensure the abolition of practices that are discriminatory against women, such as child, early and forced marriage, witchcraft-related executions and bride price"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "144.131, 144.132, 144.140-144.145, 144.147, 144.149",
+      "n": 10,
+      "summary": "Prevent, investigate and prosecute violence against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG launched the costed National Strategy to Prevent and Respond to Gender-Based Violence 2026-2035 (March 2026), amended the Family Protection Act in 2022 and runs Family and Sexual Violence Units; violence remains pervasive and accountability very weak.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 38 — Papua New Guinea: \"the National Strategy to Prevent and Respond to Gender-Based Violence 2026-2035, launched by the Prime Minister in March 2026\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 44 — United Nations Population Fund; United Nations country team: \"Accountability remained extremely weak, with conviction rates as low as 0.5% in some regions\""
+      ],
+      "position": "10 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.131",
+        "by": "Thailand",
+        "position": "supported",
+        "text": "Further strengthen its efforts in addressing violence against women and girls, providing adequate support to victims and promoting the representation of women in politics and decision-making processes"
+       },
+       {
+        "paragraph": "144.132",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Take concrete steps to protect the human rights of women, including by punishing sexual and gender-based violence and domestic violence, eliminate all forms of discrimination in law and in practice and promote the full and equal participation of women in society"
+       },
+       {
+        "paragraph": "144.140",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Take action to prevent acts of violence against women and girls, including domestic violence, and ensure the accountability of those who perpetrate those acts"
+       },
+       {
+        "paragraph": "144.141",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Thoroughly investigate acts of violence against women and girls, including domestic violence and sorcery-related violence, and prosecute perpetrators"
+       },
+       {
+        "paragraph": "144.142",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Investigate acts of gender-based violence, including domestic violence and sexual violence, and prosecute and punish the perpetrators"
+       },
+       {
+        "paragraph": "144.143",
+        "by": "Netherlands",
+        "position": "supported",
+        "text": "Investigate all acts of violence against women and girls, including sexual violence, domestic violence and sorcery-related violence, and prosecute perpetrators, with a view to ensuring full accountability for victims"
+       },
+       {
+        "paragraph": "144.144",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Strengthen ongoing efforts to prevent and combat violence and abuse against women and girls, including domestic violence and sorcery-related violence, including by creating safe spaces for victims of violence and prosecuting perpetrators"
+       },
+       {
+        "paragraph": "144.145",
+        "by": "Latvia",
+        "position": "supported",
+        "text": "Take all necessary measures, both in law and in practice, to combat violence against women and girls and domestic violence and to ensure that victims receive medical and social support and have access to legal remedies"
+       },
+       {
+        "paragraph": "144.147",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Budget adequate resources and build capacity to effectively implement policies to end gender-based violence, especially against women and girls"
+       },
+       {
+        "paragraph": "144.149",
+        "by": "New Zealand",
+        "position": "supported",
+        "text": "Increase its support, funding and coordination for efforts to respond to violence against women and girls"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & gender-based violence",
+    "blocks": [
+     {
+      "paras": "144.133-144.139, 144.148",
+      "n": 8,
+      "summary": "Fund and enforce measures against sexual and gender-based violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The GBV Strategy is to be funded at about K180 million a year, secretariats and Family and Sexual Violence Units are in place, and sorcery-accusation violence is addressed by NAPSARV 2024-2029 and new Criminal Code offences; enforcement and resourcing gaps persist.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 39 — Papua New Guinea: \"The implementation of the Strategy is to be funded at approximately K180 million per year over the next 10 years\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 42 — Papua New Guinea: \"Amendments to the Criminal Code Act introduced new provisions (Sections 520A-520G) criminalising the activities of persons commonly known as glassman or glassmeri\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/PNG/3), para. 47 — Amnesty International: \"police lacked adequate capacity and resources to address the high rates of violence\""
+      ],
+      "position": "8 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.133",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Implement recommendations emanating from the first report to parliament on the inquiry into gender-based violence in Papua New Guinea and advance the implementation of the sorcery accusation-related violence national action plan"
+       },
+       {
+        "paragraph": "144.134",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Enforce measures provided in the Family Protection Act to tackle sexual and physical violence against women"
+       },
+       {
+        "paragraph": "144.135",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Effectively enforce the provisions of the Family Protection Act to protect women and children from violence within the family and from violence in government facilities"
+       },
+       {
+        "paragraph": "144.136",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Develop a strategy to combat all forms of violence against women, including through the provision of training and capacity-building for court personnel and protection mechanisms"
+       },
+       {
+        "paragraph": "144.137",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Increase funding and resources to prevent and respond to gender-based violence, including training for police to identify and investigate cases"
+       },
+       {
+        "paragraph": "144.138",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Take further steps to address and protect women and girls from all forms of gender-based violence, including sorcery accusation-related violence"
+       },
+       {
+        "paragraph": "144.139",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Continue efforts to eliminate gender-based violence, including domestic, sexual and sorcery accusation-related violence, by strengthening accountability mechanisms and allocating sufficient budgets to relevant programmes"
+       },
+       {
+        "paragraph": "144.148",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Ensure that adequate funding and resources are allocated to national and provincial secretariats to further build their capacity in combatting sexual and gender-based violence"
+       }
+      ]
+     },
+     {
+      "paras": "144.146",
+      "n": 1,
+      "summary": "Develop a national gender policy and action plan",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The Gender Equality and Women's Empowerment Policy 2025-2035 and the costed GBV Strategy 2026-2035 were adopted.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 26 — Papua New Guinea: \"the adoption of the Gender Equality and Women's Empowerment Policy 2025-2035\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 38 — Papua New Guinea: \"The Strategy provides a properly costed framework for prevention, response, coordination and accountability\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.146",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Develop a national gender policy and an action plan endowed with sufficient resources to combat sexual and gender-based violence and guarantee the rights of victims"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to marriage & family",
+    "blocks": [
+     {
+      "paras": "144.151, 144.152",
+      "n": 2,
+      "summary": "End child marriage and abolish exceptions to the minimum age",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "PNG is only reviewing and harmonising the Marriage Act; the minimum age exceptions remain (16 or 14 with a court order for girls).",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 59 — Papua New Guinea: \"continues to review and harmonise the legal framework relating to marriage, including the Marriage Act (Chapter 280)\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/PNG/3), para. 50 — Amnesty International: \"the age of consent for marriage remained at 16 (or 14 years with a court order) for girls\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.151",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Strengthen measures to end child marriage"
+       },
+       {
+        "paragraph": "144.152",
+        "by": "Denmark",
+        "position": "supported",
+        "text": "Abolish any exceptions to 18 years as the minimum age of marriage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: protection against exploitation",
+    "blocks": [
+     {
+      "paras": "144.153, 144.154",
+      "n": 2,
+      "summary": "Protect children against abuse and exploitation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "PNG implements the Ending Violence Against Children Roadmap and child protection procedures and set up a Special Parliamentary Committee on Children and Youth Wellbeing in 2025; child protection laws remain largely unenforced and few children are registered.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 55 — Papua New Guinea: \"The Government is implementing the national Ending Violence Against Children (EVAC) Roadmap\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 57 — Papua New Guinea: \"The Special Parliamentary Committee on Children and Youth Wellbeing was established in 2025\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.153",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Adopt measures to promote the full enjoyment of the rights of children, especially the right to education, prevent child, early and forced marriage and raise the minimum age of criminal responsibility to 14 years"
+       },
+       {
+        "paragraph": "144.154",
+        "by": "2015; Japan",
+        "position": "supported",
+        "text": "Strengthen efforts to combat child abuse and exploitation, including by raising the level of birth registration, which would facilitate the full implementation of the Child Protection Act"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to name, identity & nationality",
+    "blocks": [
+     {
+      "paras": "144.156",
+      "n": 1,
+      "summary": "Birth registration for all children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Civil Registration and Identity Management Act 2024 was enacted and registration is being scaled up, but only 7% of children under five hold a birth certificate.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 61 — Papua New Guinea: \"The Government enacted the Civil Registration and Identity Management Act 2024\"",
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 48 — United Nations country team: \"only 7% of children under 5 years of age had a birth certificate\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.156",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Take all necessary measures to ensure birth registration for all children under 5 years of age, including children of refugees and stateless persons"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: definition, general principles",
+    "blocks": [
+     {
+      "paras": "144.157, 144.158",
+      "n": 2,
+      "summary": "Promote the rights of persons with disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Parliament unanimously enacted the Disability Services Act 2025 and an Office for Disability Services is being set up; the National Disability Policy expired in 2025 and services remain concentrated in urban centres.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 100 — Papua New Guinea: \"The National Parliament unanimously enacted the Disability Services Act 2025\"",
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 102 — Papua New Guinea: \"The Government is working to update the National Disability Policy, which expired in 2025\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.157",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Maintain the priority given to promoting the rights of people with disabilities and their access to health, education, employment and basic services"
+       },
+       {
+        "paragraph": "144.158",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Plan and implement concrete measures to enable persons with disabilities to overcome the obstacles that they face in access to education and the labour market and to combat their stigmatization"
+       }
+      ]
+     },
+     {
+      "paras": "144.159",
+      "n": 1,
+      "summary": "Enact the disability bill",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Parliament unanimously enacted the Disability Services Act 2025.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/PNG/1), para. 100 — Papua New Guinea: \"The National Parliament unanimously enacted the Disability Services Act 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "144.159",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Continue its efforts to enact the disability authority bill"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Refugees & asylum seekers",
+    "blocks": [
+     {
+      "paras": "144.160",
+      "n": 1,
+      "summary": "Strengthen protection of refugees and asylum-seekers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "UNHCR reports gaps in the national refugee framework, seven reservations to the Refugee Convention and poor detention conditions.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/PNG/2), para. 57 — UNHCR: \"gaps in the national refugee framework, limited institutional capacity for asylum-seeker identification\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "144.160",
+        "by": "Brazil",
+        "position": "noted",
+        "text": "Take additional steps to enhance the protection of the rights of refugees and asylum seekers"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "hrc": null,
+ "combined_score": 3.79
+}

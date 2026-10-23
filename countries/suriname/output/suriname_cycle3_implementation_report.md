@@ -148,7 +148,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 98.13 (Ratify the Genocide Convention)
 
@@ -291,7 +291,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 98.35 (Support the family through social policies)
 
@@ -332,7 +332,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -633,7 +633,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - UN Compilation (A/HRC/WG.6/53/SUR/2), para. 85 — Human Rights Committee: "prohibiting corporal punishment by parents in the draft New Civil Code"
 
-**Assessment:** The State describes elimination of corporal punishment in education only; the Human Rights Committee asks that parents' corporal punishment also be prohibited in the Civil Code.
+**Assessment:** The State describes elimination of corporal punishment in education only; the Human Rights Committee requests that parents' corporal punishment also be prohibited in the Civil Code.
 
 ### Recommendation 97.82 (Eliminate child, early and forced marriage)
 
@@ -644,7 +644,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - UN Compilation (A/HRC/WG.6/53/SUR/2), para. 87 — UNESCO: "amend its legislation to ensure that the minimum age of marriage was 18 years old without exception"
 
-**Assessment:** UNESCO asks that the minimum age of marriage be 18 without exception; the State only states that customary law cannot override national law.
+**Assessment:** UNESCO requests that the minimum age of marriage be 18 without exception; the State only states that customary law cannot override national law.
 
 ---
 
@@ -689,7 +689,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - UN Compilation (A/HRC/WG.6/53/SUR/2), para. 48 — ILO Committee of Experts: "reiterated its request to Suriname to adopt as soon as possible comprehensive legislation that"
 
-**Assessment:** The Equal Treatment in Employment Act (2022) was adopted; the ILO continues to ask for comprehensive legislation covering all grounds.
+**Assessment:** The Equal Treatment in Employment Act (2022) was adopted; the ILO continues to call for comprehensive legislation covering all grounds.
 
 ---
 

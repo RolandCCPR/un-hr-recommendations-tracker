@@ -1,0 +1,3101 @@
+{
+ "a3": "TZA",
+ "name": "Tanzania, United Republic of",
+ "num": 834,
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "39th session (2021)",
+   "co_symbol": "A/HRC/49/13",
+   "review": "November 2026 (session 53)",
+   "sources": [
+    "**National Report** — A/HRC/WG.6/53/TZA/1",
+    "**UN Compilation** — A/HRC/WG.6/53/TZA/2",
+    "**Stakeholders' Summary** — A/HRC/WG.6/53/TZA/3"
+   ],
+   "headline": "**Partial implementation (B)** is the dominant outcome (143 of 252 recommendations), and Tanzania gives a detailed National Report on socio-economic and service measures: health financing (TZS 1.31 to 3.104 trillion), school construction and a Re-Entry Guideline for pregnant girls, the Second National Plan of Action on violence against women and children (2024/25-2028/29), a National Action Plan on persons with albinism, the Mama Samia legal aid campaign and amendments to the Media Services Act and related laws. **Fully implemented (A)** are the ban on expelling pregnant schoolgirls, birth registration, older persons, climate participation and rural communication infrastructure. **No relevant action (C)** persists on ratifying the Convention against Torture and other treaties, the death penalty (a de facto moratorium only), child marriage (the Law of Marriage Act is still only under consultation), decriminalisation of same-sex relations, corporal punishment and the second National Human Rights Action Plan. **Contrary measures (E)** apply to 14 recommendations on freedom of expression, assembly, political participation and indigenous peoples: the nationwide internet shutdown after the 29 October 2025 elections, the shutdown of more than 80,000 websites (May 2025), reported lethal force, arrests and enforced disappearances (which the State rejects), disqualification of opposition candidates and the position that no group is indigenous.",
+   "note": "",
+   "n": 252,
+   "grade_dist": {
+    "A": 7,
+    "B": 143,
+    "C": 87,
+    "D": 1,
+    "E": 14
+   },
+   "score": 3.51
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "146.1-146.32, 146.38, 146.64",
+      "n": 35,
+      "summary": "Ratify outstanding international instruments (CAT, ICPPED, ICRMW and others)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report states that Tanzania is yet to ratify the instruments recommended and continues legal and policy consultations; stakeholders confirm that CAT, ICPPED and others remain unratified.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 13 — United Republic of Tanzania: \"The URT is yet to ratify the international human rights instruments recommended during the 3rd cycle of UPR\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 3 — Stakeholders: \"the United Republic of Tanzania had yet to ratify CAT\""
+      ],
+      "position": "30 noted, 5 supported",
+      "recommendations": [
+       {
+        "paragraph": "146.1",
+        "by": "Côte d’Ivoire",
+        "position": "noted",
+        "text": "Ratify the Convention relating to the Status of Stateless Persons"
+       },
+       {
+        "paragraph": "147.1",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Ratify the international human rights treaties to which the United Republic of Tanzania is not yet a party"
+       },
+       {
+        "paragraph": "147.2",
+        "by": "Ghana",
+        "position": "noted",
+        "text": "Intensify its efforts to ratify outstanding international instruments, of note is the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and its Optional Protocol"
+       },
+       {
+        "paragraph": "147.3",
+        "by": "South Africa",
+        "position": "noted",
+        "text": "Ratify all outstanding international human rights treaties it has committed to"
+       },
+       {
+        "paragraph": "147.4",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Continue to adhere to more international human rights conventions"
+       },
+       {
+        "paragraph": "147.5",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Intensify efforts to ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "147.6",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "147.7",
+        "by": "Democratic Republic of the Congo",
+        "position": "noted",
+        "text": "Complete the ratification of the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "147.8",
+        "by": "France",
+        "position": "noted",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "147.9",
+        "by": "Mongolia",
+        "position": "noted",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "147.10",
+        "by": "Democratic Republic of the Congo",
+        "position": "noted",
+        "text": "Complete the ratification of the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "147.11",
+        "by": "Angola",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.12",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "147.13",
+        "by": "Armenia",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the International Convention on the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "147.14",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.15",
+        "by": "Bahamas",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.16",
+        "by": "Côte d’Ivoire",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.17",
+        "by": "Czechia",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the Optional Protocol thereto, as previously recommended"
+       },
+       {
+        "paragraph": "147.18",
+        "by": "Democratic Republic of the Congo",
+        "position": "noted",
+        "text": "Complete the ratification of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.19",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.20",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Take further steps towards the ratification of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.21",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Strengthen efforts to ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.22",
+        "by": "Malawi",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.23",
+        "by": "Mali",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.24",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Consider ratifying the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.25",
+        "by": "Mongolia",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.26",
+        "by": "Morocco",
+        "position": "noted",
+        "text": "Consolidate international commitments in the field of human rights, such as the ratification of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.27",
+        "by": "Namibia",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.28",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Continue efforts to ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.29",
+        "by": "Rwanda",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.30",
+        "by": "Sierra Leone",
+        "position": "noted",
+        "text": "Ratify and accede to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "147.31",
+        "by": "Switzerland",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.32",
+        "by": "Zambia",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "147.38",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, abolish the death penalty and commute existing death sentences to proportionate punishments in line with international human rights standards"
+       },
+       {
+        "paragraph": "147.64",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Consider the abolition of the death penalty in all cases and circumstances and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, and the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       }
+      ]
+     },
+     {
+      "paras": "145.1",
+      "n": 1,
+      "summary": "Implement the Convention on the Rights of Persons with Disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Tanzania is a party and is finalising its first report; the Persons with Disabilities Policy was revised and an assistive technology strategy launched.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 17 — United Republic of Tanzania: \"The URT is finalising its State Party Report om the Convention on the Rights of Persons with Disabilities\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 34 — United Republic of Tanzania: \"the Person with Disabilities Policy of 2004 was revised in 2023\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.1",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Accelerate implementation of the Convention on the Rights of Persons with Disabilities"
+       }
+      ]
+     },
+     {
+      "paras": "147.59",
+      "n": 1,
+      "summary": "Establish a moratorium on executions",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Tanzania maintains a de facto moratorium (no execution since 1994) which it has not formalised.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 64 — United Republic of Tanzania: \"The URT maintained its de facto moratorium on the death penalty, and no executions have been carried out since 1994\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 11 — JS28: \"As no executions had been carried out since 1994, a de facto moratorium appeared to be in place\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.59",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Establish a moratorium on the death penalty with a view to its eventual abolition, and consider ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Treaty Bodies",
+    "blocks": [
+     {
+      "paras": "145.2, 145.33, 145.85",
+      "n": 3,
+      "summary": "Submit reports to treaty bodies",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Tanzania is finalising overdue reports to CRPD and CEDAW and hosted an OHCHR treaty-body reporting workshop (October 2024).",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 17 — United Republic of Tanzania: \"The URT is finalising its State Party Report om the Convention on the Rights of Persons with Disabilities and the Convention on the Elimination of All Forms of Discrimination Against Women\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 16 — United Republic of Tanzania: \"from 1–3 October 2024 jointly hosted with the Office of the High Commissioner for Human Rights\""
+      ],
+      "position": "2 supported, 1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "145.2",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Continue efforts to submit and discuss national human rights reports to treaty bodies"
+       },
+       {
+        "paragraph": "147.33",
+        "by": "Poland",
+        "position": "supported_noted",
+        "text": "Submit reports on the implementation of the core international human rights treaties that the United Republic of Tanzania is a party to, and adhere to or ratify the remaining ones"
+       },
+       {
+        "paragraph": "145.85",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Take further measures to implement the Convention on the Elimination of All Forms of Discrimination against Women, in particular to curb discrimination and violence against women"
+       }
+      ]
+     },
+     {
+      "paras": "145.3",
+      "n": 1,
+      "summary": "Implement the Convention on the Rights of Persons with Disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Tanzania is a party and is finalising its first report; the Persons with Disabilities Policy was revised and an assistive technology strategy launched.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 17 — United Republic of Tanzania: \"The URT is finalising its State Party Report om the Convention on the Rights of Persons with Disabilities\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 34 — United Republic of Tanzania: \"the Person with Disabilities Policy of 2004 was revised in 2023\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.3",
+        "by": "Sierra Leone",
+        "position": "supported",
+        "text": "Consider requesting technical assistance with a view to submitting overdue reports to the Committees of the International Covenant on Economic, Social and Cultural Rights, the Convention on the Elimination of All Forms of Discrimination against Women and the Convention on the Rights of Persons with Disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Constitutional & legislative framework",
+    "blocks": [
+     {
+      "paras": "147.46, 147.54, 147.55",
+      "n": 3,
+      "summary": "Decriminalise same-sex relations and protect LGBTI persons",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Consensual same-sex relations remain criminalised in mainland Tanzania and Zanzibar; JS4 reports deregistration of 14 organisations serving LGBTI persons and no measurable progress on violence against LGBTI persons.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 55 — United Nations country team: \"criminalization of consensual same-sex relations\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 32 — JS4: \"the Authorities had deregistered 14 organizations that had provided health and support services to LGBTI persons\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.46",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Consider enacting legislation that decriminalizes same-sex sexual relations"
+       },
+       {
+        "paragraph": "147.54",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Decriminalize consensual adult same-sex relations and combat discrimination against lesbian, gay, bisexual, transgender and intersex persons"
+       },
+       {
+        "paragraph": "147.55",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Decriminalize same-sex sexual relations between consenting adults"
+       }
+      ]
+     },
+     {
+      "paras": "146.2",
+      "n": 1,
+      "summary": "Protect the rights of older persons",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The Elder Persons Matters Act No. 2 of 2020 and the revised National Ageing Policy apply; the UN country team considers the recommendation implemented.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 88 — United Republic of Tanzania: \"Elder Persons Matters Act No. 2 of 2020\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 50 — United Nations country team: \"had implemented the relevant recommendation it had supported at the previous review\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "146.2",
+        "by": "Kenya",
+        "position": "supported",
+        "text": "Enact a law on the protection of older persons in society on the mainland of the United Republic of Tanzania"
+       }
+      ]
+     },
+     {
+      "paras": "147.40",
+      "n": 1,
+      "summary": "Enact comprehensive legislation on gender-based violence",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "JS30 notes there is no comprehensive legislation on gender-based violence and the framework is fragmented; JS14 notes no definition of marital rape.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 65 — JS30: \"there was no comprehensive legislation on gender-based violence\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 65 — JS14: \"the absence of definitions of “marital rape” and “family violence” in national policy\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.40",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Enact a comprehensive law on sexual and gender-based violence, ensuring inclusion of indigenous women and girls and those living with disabilities"
+       }
+      ]
+     },
+     {
+      "paras": "147.52",
+      "n": 1,
+      "summary": "Enact legislation on sexual and gender-based violence and decriminalise same-sex relations",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Consensual same-sex relations remain criminalised in mainland Tanzania and Zanzibar and no comprehensive law on sexual and gender-based violence exists.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 79 — JS4: \"consensual same-sex relations remained criminalized under the laws of mainland Tanzania\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 65 — JS30: \"there was no comprehensive legislation on gender-based violence\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.52",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Decriminalize consensual sexual relations between adults of the same sex"
+       }
+      ]
+     },
+     {
+      "paras": "147.117",
+      "n": 1,
+      "summary": "Combat child marriage, FGM and discrimination against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "FGM prevalence fell from 10% to about 5% under national strategies, marriage registration was digitalised through RITA and pregnant girls may return to school; the Law of Marriage Act has not been amended.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 55 — United Republic of Tanzania: \"adopted the National Multisectoral Strategy to End Female Genital Mutilation (2025/26–2029/30)\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 26 — United Republic of Tanzania: \"continued strengthening of the civil registration system, including marriage registration services administered by RITA\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.117",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Adopt legislative and policy measures to combat all forms of discrimination and violence against women and girls, including by addressing the issue of child marriage and ensuring access to education for pregnant schoolgirls and young mothers"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & follow up with the Universal Periodic Review (UPR)",
+    "blocks": [
+     {
+      "paras": "146.3",
+      "n": 1,
+      "summary": "Protect the rights of older persons",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The Elder Persons Matters Act No. 2 of 2020 and the revised National Ageing Policy apply; the UN country team considers the recommendation implemented.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 88 — United Republic of Tanzania: \"Elder Persons Matters Act No. 2 of 2020\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 50 — United Nations country team: \"had implemented the relevant recommendation it had supported at the previous review\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "146.3",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Implement the recommendations accepted during the previous universal periodic review on legislation aimed at protecting older persons"
+       }
+      ]
+     },
+     {
+      "paras": "145.10",
+      "n": 1,
+      "summary": "Adopt and implement the second National Human Rights Action Plan",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The second plan has been drafted since 2017-2018 and is only 'at the finalisation stage'; JS26 reports the 2018-2022 plan expired without implementation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 18 — United Republic of Tanzania: \"the draft NHRAP, which is currently at the finalisation stage\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 7 — JS26: \"the National Human Rights Action Plan (2018-2022) had expired without implementation\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.10",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Expedite the adoption of the second national human rights action plan to implement the recommendations of the universal periodic review"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation with human rights mechanisms & requests for technical assistance",
+    "blocks": [
+     {
+      "paras": "145.5, 145.6, 145.37",
+      "n": 3,
+      "summary": "Engage with OHCHR and cooperate with UN mechanisms",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Tanzania hosted an OHCHR treaty-body reporting workshop (October 2024) and received an African Commission visit; the UN country team finds cooperation with special procedures not implemented.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 16 — United Republic of Tanzania: \"from 1–3 October 2024 jointly hosted with the Office of the High Commissioner for Human Rights\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 2 — United Nations country team: \"the State had not issued a standing invitation to the special procedures\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.5",
+        "by": "Mozambique",
+        "position": "supported",
+        "text": "Continue to engage with OHCHR and other United Nations institutions for technical assistance and support in capacity-building in human and peoples’ rights matters"
+       },
+       {
+        "paragraph": "145.6",
+        "by": "Nigeria",
+        "position": "supported",
+        "text": "Seek international cooperation, technical assistance and capacity-building in the field of human rights"
+       },
+       {
+        "paragraph": "147.37",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Request technical support from OHCHR to advance in the ratification of the main international human rights instruments to which the country is not yet a party, as well as to ensure the alignment of its national legal system with the obligations derived from ratified human rights treaties"
+       }
+      ]
+     },
+     {
+      "paras": "145.4",
+      "n": 1,
+      "summary": "Cooperate with Human Rights Council mechanisms, including special procedures",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The UN country team considers cooperation with special procedures not implemented; visit requests by three Special Rapporteurs were not granted.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 2 — United Nations country team: \"the State had not issued a standing invitation to the special procedures or granted the requests for visits\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.4",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue cooperation with the Human Rights Council and its mechanisms, including the special procedures"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Land & property rights",
+    "blocks": [
+     {
+      "paras": "146.4",
+      "n": 1,
+      "summary": "Equal inheritance and customary-law reform for women",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Customary and religious laws continue to disadvantage women in inheritance; the National Land Policy was revised in 2025.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 10 — JS10: \"Customary and religious laws influenced matters such as inheritance and property rights, which disadvantaged women\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "146.4",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Consider revising inheritance laws in order to ensure equal inheritance rights for women with regard to their husbands and parents"
+       }
+      ]
+     },
+     {
+      "paras": "146.5",
+      "n": 1,
+      "summary": "Women's inheritance and land rights",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Land Policy was revised in 2025 and women land-right holders rose from 28.5% to 35%; customary inheritance rules persist.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 22 — United Republic of Tanzania: \"the proportion of women land-right holders rose from 28.5% in 2020 to 35.0% in 2025\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 10 — JS10: \"Customary and religious laws influenced matters such as inheritance and property rights, which disadvantaged women\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "146.5",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Take additional steps to ensure women’s rights in matters of inheritance, succession and land rights"
+       }
+      ]
+     },
+     {
+      "paras": "146.6",
+      "n": 1,
+      "summary": "Revoke discriminatory customary laws on women's land rights",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CHRAGG recommends repeal of the 1963 Local Customary Law Declaration Order; no repeal is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 2 — CHRAGG: \"Repeal The Customary Law (Declaration) Order (GN. No. 436/1963) (No.4)\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "146.6",
+        "by": "Switzerland",
+        "position": "noted",
+        "text": "Revoke customary laws that undermine women’s land rights, such as the Local Customary Law (Declaration) Order (G.N. No. 436/1963) (No. 4), and strengthen institutions dealing with land administration"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to development",
+    "blocks": [
+     {
+      "paras": "145.7, 145.16, 145.22, 145.26",
+      "n": 4,
+      "summary": "Implement national development plans and gender mainstreaming",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Third National Five-Year Development Plan concluded and Vision 2050 was launched (July 2026); the National Gender and Women Development Policy and its strategy mainstream gender in planning.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 65 — United Republic of Tanzania: \"The URT successfully concluded implementation of Tanzania Development Vision 2025 through the Third National Five-Year Development Plan (2021/22–2025/26)\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 9 — United Republic of Tanzania: \"On 17 July, 2026 the National Development Agenda Vision 2050 was officially launched\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.7",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to implement the Tanzania Development Vision 2025, the Agenda 2063 of the African Union and the 2030 Agenda for Sustainable Development and to improve people’s living standards"
+       },
+       {
+        "paragraph": "145.16",
+        "by": "South Sudan",
+        "position": "supported",
+        "text": "Implement the third national five-year development plan in line with the Tanzania Development Vision 2025, the 2030 Agenda for Sustainable Development and the Agenda 2063 of the African Union in respect of human and peoples’ rights"
+       },
+       {
+        "paragraph": "145.22",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Strengthen gender mainstreaming in national and local development planning and ensure the participation of women and other relevant stakeholders in the process"
+       },
+       {
+        "paragraph": "145.26",
+        "by": "Syrian Arab Republic",
+        "position": "supported",
+        "text": "Continue to implement the national legal framework for the protection of natural resources and their effective use in the context of realizing the right to development"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "146.7, 146.23, 146.90, 146.96, 146.118",
+      "n": 5,
+      "summary": "Combat discrimination against women and girls",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Gender and Women Development Policy (2023), a National Women Access to Justice Strategy and a Gender Equality Strategy 2022-2027 were adopted; customary law still disadvantages women.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 23 — United Republic of Tanzania: \"the National Gender and Women Development Policy of 2023\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 10 — JS10: \"the coexistence of parallel legal systems created ambiguity and perpetuated discrimination against women\""
+      ],
+      "position": "4 supported, 1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "146.7",
+        "by": "Lesotho",
+        "position": "supported",
+        "text": "Continue efforts to combat discrimination and inequality against women, especially on issues relating to marriage and inheritance"
+       },
+       {
+        "paragraph": "145.23",
+        "by": "Serbia",
+        "position": "supported",
+        "text": "Continue the fight against all forms of discrimination against women"
+       },
+       {
+        "paragraph": "145.90",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Take further measures to eradicate all forms of discrimination and violence against women and girls, including child, early and forced marriage and female genital mutilation"
+       },
+       {
+        "paragraph": "145.96",
+        "by": "Rwanda",
+        "position": "supported",
+        "text": "Continue efforts to combat all forms of discrimination and violence against women"
+       },
+       {
+        "paragraph": "147.118",
+        "by": "France",
+        "position": "supported_noted",
+        "text": "Take all necessary measures to combat discrimination and violence against women, including family and domestic violence"
+       }
+      ]
+     },
+     {
+      "paras": "147.44",
+      "n": 1,
+      "summary": "Combat child marriage, FGM and discrimination against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "FGM prevalence fell from 10% to about 5% under national strategies, marriage registration was digitalised through RITA and pregnant girls may return to school; the Law of Marriage Act has not been amended.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 55 — United Republic of Tanzania: \"adopted the National Multisectoral Strategy to End Female Genital Mutilation (2025/26–2029/30)\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 26 — United Republic of Tanzania: \"continued strengthening of the civil registration system, including marriage registration services administered by RITA\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.44",
+        "by": "Burkina Faso",
+        "position": "supported",
+        "text": "Promote the elimination of discrimination against women and girls – in particular child marriage, female genital mutilation and the expulsion of pregnant girls and young mothers from schools – in accordance with the Convention on the Elimination of All Forms of Discrimination against Women"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "146.8, 146.45, 146.66-146.72, 146.74",
+      "n": 10,
+      "summary": "Expand health financing, infrastructure and access to care",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Health financing rose from TZS 1.31 to 3.104 trillion, facilities increased from 8,458 to 10,044, maternal mortality fell from 197 to 104 per 100,000 live births; UNCT finds rural access and workforce gaps.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 93 — United Republic of Tanzania: \"Health financing increased from TZS 1.31 trillion in 2024/25 to TZS 3.104 trillion in 2025/26\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 96 — United Republic of Tanzania: \"Maternal mortality declined from 197 deaths per 100,000 live births in 2022 to 104 in 2026\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 30 — United Nations country team: \"accelerate equitable access to healthcare, particularly in underserved areas\""
+      ],
+      "position": "10 supported",
+      "recommendations": [
+       {
+        "paragraph": "146.8",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Implement measures to provide non-discriminatory universal health coverage"
+       },
+       {
+        "paragraph": "145.45",
+        "by": "Eswatini",
+        "position": "supported",
+        "text": "Continue efforts to ensure that all children, especially children living with albinism, have access to education and health-care services"
+       },
+       {
+        "paragraph": "145.66",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Further prioritize expenditure on health, including specialized care and services for people living with albinism"
+       },
+       {
+        "paragraph": "145.67",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Continue expanding the health infrastructure and extending the scope of health services"
+       },
+       {
+        "paragraph": "145.68",
+        "by": "Djibouti",
+        "position": "supported",
+        "text": "Continue efforts to ensure equal access to quality health services for all citizens without discrimination in both urban and rural areas"
+       },
+       {
+        "paragraph": "145.69",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Further advance the right to health through the allocation of resources to and improvement of infrastructure in the health sector"
+       },
+       {
+        "paragraph": "145.70",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Continue the initiatives undertaken to prevent the spread of COVID-19, as well as to fight against misinformation on this pandemic"
+       },
+       {
+        "paragraph": "145.71",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Further ensure that people have access to vital information on the prevention of COVID-19"
+       },
+       {
+        "paragraph": "145.72",
+        "by": "Burkina Faso",
+        "position": "supported",
+        "text": "Improve health infrastructure, access to training for midwives in emergency obstetric care and resources devoted to maternal health"
+       },
+       {
+        "paragraph": "145.74",
+        "by": "Uganda",
+        "position": "supported",
+        "text": "Continue to sensitize the population on the COVID-19 pandemic as part of the regional efforts to fight against the deadly pandemic"
+       }
+      ]
+     },
+     {
+      "paras": "147.110",
+      "n": 1,
+      "summary": "Expand HIV prevention among young people",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National HIV Prevention Road Map (2023/24-2026/27) expands youth-friendly services; the UN country team calls to expand youth-focused HIV prevention.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 99 — United Republic of Tanzania: \"National HIV Prevention Road Map (2023/24–2026/27)\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.110",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Strengthen HIV-prevention programmes aimed at young people and make efforts to expand their coverage, ensuring that health services and information on the subject are accessible throughout the country"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "145.8, 145.86-145.89, 145.91, 145.92, 145.98, 145.116, 145.120",
+      "n": 10,
+      "summary": "Prevent and respond to violence against women and children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Second National Plan of Action (2024/25-2028/29) established 788 GBV desks, and 5,562 GBV convictions were recorded; GERG and JS30 note the lack of comprehensive GBV legislation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 27 — United Republic of Tanzania: \"establishment of 550 new GBV Desks in markets, transport hubs, and other public areas across 19 regions, increasing the total number of GBV desks to 788 nationwide\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 29 — United Republic of Tanzania: \"resulting in 5,562 convictions (60%) and 3,771 acquittals (40%)\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 65 — JS30: \"there was no comprehensive legislation on gender-based violence\""
+      ],
+      "position": "9 supported, 1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "145.8",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue efforts aimed at the implementation of the National Plan of Action to End Violence against Women and Children in Tanzania 2017/18–2021/22, including the elimination of the gender-based violence"
+       },
+       {
+        "paragraph": "145.86",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to enhance the capacity of law enforcement officials to combat violence against women and children"
+       },
+       {
+        "paragraph": "145.87",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Continue actions to combat violence against women and to reduce gender gaps"
+       },
+       {
+        "paragraph": "145.88",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Enhance efforts to combat all forms of gender-based violence, including domestic and sexual violence"
+       },
+       {
+        "paragraph": "145.89",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Continue to reinforce relevant measures to ensure the elimination of violence against women, including by prohibiting all harmful practices such as female genital mutilation"
+       },
+       {
+        "paragraph": "145.91",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Take more measures to implement more effectively the national action plan to end violence against women and children"
+       },
+       {
+        "paragraph": "145.92",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Continue strengthening the enforcement of laws prohibiting violence against women and girls"
+       },
+       {
+        "paragraph": "145.98",
+        "by": "South Africa",
+        "position": "supported",
+        "text": "Continue to strengthen measures in combating violence against women and girls and fully implement the national action plan to end violence against women and children"
+       },
+       {
+        "paragraph": "147.116",
+        "by": "Egypt",
+        "position": "supported",
+        "text": "Continue national efforts to address domestic violence"
+       },
+       {
+        "paragraph": "147.120",
+        "by": "Thailand",
+        "position": "supported_noted",
+        "text": "Undertake further measures to prevent domestic violence and marital rape and ensure that all victims receive necessary assistance"
+       }
+      ]
+     },
+     {
+      "paras": "147.119",
+      "n": 1,
+      "summary": "Enact comprehensive legislation on gender-based violence",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "JS30 notes there is no comprehensive legislation on gender-based violence and the framework is fragmented; JS14 notes no definition of marital rape.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 65 — JS30: \"there was no comprehensive legislation on gender-based violence\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 65 — JS14: \"the absence of definitions of “marital rape” and “family violence” in national policy\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.119",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Step up efforts on the legislative front to combat and punish all forms of violence and discrimination against women and girls, including domestic violence, and take further measures to eliminate female genital mutilation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Conditions of detention",
+    "blocks": [
+     {
+      "paras": "145.9",
+      "n": 1,
+      "summary": "Reform the prison system",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "5,923 inmates were pardoned (2025), parole and community service orders were expanded and e-courts reach 81 prisons; JS28 describes prison conditions as deplorable.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 46 — United Republic of Tanzania: \"5,923 inmates received a Presidential pardon in 2025\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 16 — JS28: \"the conditions in prisons as deplorable\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.9",
+        "by": "Libya",
+        "position": "supported",
+        "text": "Continue efforts aimed at reforming and developing the prison system to ensure its compliance with international human rights standards and take all measures to ensure justice and the fight against impunity"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & gender-based violence",
+    "blocks": [
+     {
+      "paras": "145.31, 145.36-145.38, 145.97, 145.100",
+      "n": 6,
+      "summary": "Combat female genital mutilation and gender-based violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Multisectoral Strategy to End FGM (2025/26-2029/30) was adopted, prevalence fell from 10% to about 5% and GBV desks expanded; JS2 notes that criminal liability is limited to custodians.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 55 — United Republic of Tanzania: \"adopted the National Multisectoral Strategy to End Female Genital Mutilation (2025/26–2029/30)\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 66 — JS2: \"restricted criminal liability to parents, guardians, or other custodial figures\""
+      ],
+      "position": "6 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.31",
+        "by": "Zimbabwe",
+        "position": "supported",
+        "text": "Continue to enforce laws prohibiting female genital mutilation, domestic violence and violence against persons believed to be practising witchcraft"
+       },
+       {
+        "paragraph": "145.36",
+        "by": "Congo",
+        "position": "supported",
+        "text": "Effectively fight the practice of female genital mutilation"
+       },
+       {
+        "paragraph": "145.37",
+        "by": "Gabon",
+        "position": "supported",
+        "text": "Redouble efforts to eradicate female genital mutilation"
+       },
+       {
+        "paragraph": "145.38",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Enforce the relevant legislation criminalizing the practice of female genital mutilation"
+       },
+       {
+        "paragraph": "145.97",
+        "by": "Sierra Leone",
+        "position": "supported",
+        "text": "Enhance efforts to combat all forms of gender-based violence against women, including domestic and sexual violence"
+       },
+       {
+        "paragraph": "145.100",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Address gender-based violence"
+       }
+      ]
+     },
+     {
+      "paras": "146.9",
+      "n": 1,
+      "summary": "Combat child marriage, FGM and discrimination against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "FGM prevalence fell from 10% to about 5% under national strategies, marriage registration was digitalised through RITA and pregnant girls may return to school; the Law of Marriage Act has not been amended.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 55 — United Republic of Tanzania: \"adopted the National Multisectoral Strategy to End Female Genital Mutilation (2025/26–2029/30)\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 26 — United Republic of Tanzania: \"continued strengthening of the civil registration system, including marriage registration services administered by RITA\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "146.9",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Enhance the protection of girls and women of all ages from the practice of female genital mutilation and set the minimum age of marriage at 18 years for both girls and boys by concluding the amendment of the Law of Marriage Act"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "146.10, 146.75, 146.76, 146.78-146.81, 146.83, 146.84",
+      "n": 9,
+      "summary": "Expand access to inclusive, quality education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Education financing rose from TZS 5.6 to 6.3 trillion, 472 primary and 386 secondary schools and 42 special and inclusive schools were built and a Re-Entry Guideline (2022) returned 13,272 students; UNCT and UNESCO note infrastructure, quality and legislative gaps.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 101 — United Republic of Tanzania: \"budget allocations increasing from TZS 5.6 trillion in 2022/23 to TZS 6.3 trillion in 2025/26\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 104 — United Republic of Tanzania: \"the Re-Entry Guideline of 2022, which enabled 13,272 students to return to school\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 35 — UNESCO: \"enact legislation to make pre-primary education free and compulsory for at least one year and to guarantee at least 12 years of free primary and secondary education\""
+      ],
+      "position": "1 supported-noted, 8 supported",
+      "recommendations": [
+       {
+        "paragraph": "146.10",
+        "by": "Poland",
+        "position": "supported_noted",
+        "text": "Introduce amendments to the laws with a view to guaranteeing the right to education and introduce 12 years of free primary and secondary education, of which 9 years are compulsory, and at least one year of free and compulsory pre-primary education, especially for girls and children with disabilities"
+       },
+       {
+        "paragraph": "145.75",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Scale up investment in infrastructure, management, certification and learning aids for alternative learning opportunities for out-of-school adolescent boys and girls and people living with disabilities"
+       },
+       {
+        "paragraph": "145.76",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Further develop the National Strategy for Inclusive Education2018–2021, especially for children with disabilities, and ensure their access to quality education, infrastructure, assistive devices and learning materials"
+       },
+       {
+        "paragraph": "145.78",
+        "by": "India",
+        "position": "supported",
+        "text": "Take adequate measures to increase the information and communications technology-related infrastructure to advance the quality of education, in particular for women and girls"
+       },
+       {
+        "paragraph": "145.79",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Strengthen measures for school enrolment and school infrastructure development"
+       },
+       {
+        "paragraph": "145.80",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Continue to implement inclusive education programmes, including alternative learning opportunities for vulnerable groups"
+       },
+       {
+        "paragraph": "145.81",
+        "by": "Yemen",
+        "position": "supported",
+        "text": "Continue improving public and technical education in rural areas"
+       },
+       {
+        "paragraph": "145.83",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Continue its efforts to increase school enrolment and enhance access to education"
+       },
+       {
+        "paragraph": "145.84",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Continue its efforts with regard to education and adopt policies to enhance the quality of education and ensure inclusion in education for girls and children with disabilities"
+       }
+      ]
+     },
+     {
+      "paras": "145.77, 145.82, 145.112, 145.114, 145.115",
+      "n": 5,
+      "summary": "Re-entry to education for pregnant girls and young mothers",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Education Circular No. 2 of 2021 and a Re-Entry Guideline (2022) allow return after childbirth (13,272 returned); JS2 notes restrictive provisions, discretion of schools and no measure against pregnancy tests.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 104 — United Republic of Tanzania: \"the Re-Entry Guideline of 2022, which enabled 13,272 students to return to school\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 59 — JS2: \"existing laws and policies neither adequately addressed, nor sufficiently facilitated, their re-entry into the education system\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.77",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Review laws and policies to ensure that pregnant girls and young mothers can re-enter the formal education system"
+       },
+       {
+        "paragraph": "145.82",
+        "by": "Slovenia",
+        "position": "supported",
+        "text": "Review laws and policies to ensure that girls who fall pregnant while in school, are married or young mothers can re-enter the formal education system"
+       },
+       {
+        "paragraph": "147.112",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Ensure that pregnant girls and young mothers can attend school and take measures against the practice of invasive pregnancy tests without prior consent"
+       },
+       {
+        "paragraph": "147.114",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Take measures to eliminate stigma, discrimination and exclusion of pregnant girls and adolescent mothers, including in schools"
+       },
+       {
+        "paragraph": "147.115",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Take the necessary measures to ensure that pregnant girls have access to education without discrimination, in accordance with national and international human rights obligations"
+       }
+      ]
+     },
+     {
+      "paras": "147.111, 147.113",
+      "n": 2,
+      "summary": "End the ban on pregnant girls attending school",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Education Circular No. 2 of 2021 lifted the ban on pregnant schoolgirls and adolescent mothers may return after childbirth; a Re-Entry Guideline (2022) returned 13,272 students.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 39 — UNESCO: \"the ban on pregnant schoolgirls had been lifted in both mainstream schools and alternative learning pathways and adolescent mothers were allowed to return to education after childbirth\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 104 — United Republic of Tanzania: \"the Re-Entry Guideline of 2022, which enabled 13,272 students to return to school\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.111",
+        "by": "Armenia",
+        "position": "supported",
+        "text": "Refrain from imposing a ban on pregnant girls and young women attending schools or taking exams"
+       },
+       {
+        "paragraph": "147.113",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "End its policy of expelling pregnant schoolgirls"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Action Plans (or specific areas) / implementation plans",
+    "blocks": [
+     {
+      "paras": "145.14, 145.53, 145.93-145.95, 145.99",
+      "n": 6,
+      "summary": "Implement national action plans (GBV, trafficking, albinism)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Second National Plan of Action to End Violence Against Women and Children (2024/25-2028/29), NATIP III and the National Action Plan for Persons with Albinism (2024/25-2028/29) were adopted; the UN country team finds implementation partial.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 27 — United Republic of Tanzania: \"establishment of 550 new GBV Desks in markets, transport hubs, and other public areas across 19 regions, increasing the total number of GBV desks to 788 nationwide\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 36 — United Republic of Tanzania: \"the National Action Plan for the Rights and Welfare of Persons with Albinism (2024/25–2028/29) was developed\""
+      ],
+      "position": "6 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.14",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue steps to implement the third national development plan for achieving progress towards the Sustainable Development Goals"
+       },
+       {
+        "paragraph": "145.53",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Fully implement the provisions of the 2008 anti-trafficking law as outlined in the implementing regulations and the national action plan"
+       },
+       {
+        "paragraph": "145.93",
+        "by": "Mozambique",
+        "position": "supported",
+        "text": "Speed up the implementation of the national plan of action on violence against women and children"
+       },
+       {
+        "paragraph": "145.94",
+        "by": "Namibia",
+        "position": "supported",
+        "text": "Strengthen planning, budgeting and institutional mechanisms at the subnational and national levels to ensure effective implementation of the National Plan of Action to End Violence against Women and Children in Tanzania 2017/18–2021/22"
+       },
+       {
+        "paragraph": "145.95",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue strengthening the plans to combat gender-based violence"
+       },
+       {
+        "paragraph": "145.99",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Adequately resource the National Plan of Action to End Violence against Women and Girls in Tanzania 2017/18–2021/22 and strengthen the fight against child and forced marriages"
+       }
+      ]
+     },
+     {
+      "paras": "145.11, 145.13, 145.15, 145.17",
+      "n": 4,
+      "summary": "Adopt and implement the second National Human Rights Action Plan",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The second plan has been drafted since 2017-2018 and is only 'at the finalisation stage'; JS26 reports the 2018-2022 plan expired without implementation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 18 — United Republic of Tanzania: \"the draft NHRAP, which is currently at the finalisation stage\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 7 — JS26: \"the National Human Rights Action Plan (2018-2022) had expired without implementation\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.11",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Approve the implementation of the national human rights action plan that was developed in 2017"
+       },
+       {
+        "paragraph": "145.13",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Expedite ongoing efforts aimed at the early finalization of the second national human rights plan"
+       },
+       {
+        "paragraph": "145.15",
+        "by": "Sierra Leone",
+        "position": "supported",
+        "text": "Enhance the national infrastructure for the effective implementation of the national human rights action plan"
+       },
+       {
+        "paragraph": "145.17",
+        "by": "Thailand",
+        "position": "supported",
+        "text": "Accelerate the adoption of the overdue second national human rights action plan (2018–2022) and implement it with a view to mainstreaming human rights in different policies and programmes"
+       }
+      ]
+     },
+     {
+      "paras": "146.11",
+      "n": 1,
+      "summary": "Implement the national action plan for persons with albinism",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Action Plan for Persons with Albinism (2024/25-2028/29) was adopted and 71 attack cases were prosecuted; the UN country team calls for stronger implementation and for the African Court judgment to be implemented.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 36 — United Republic of Tanzania: \"the National Action Plan for the Rights and Welfare of Persons with Albinism (2024/25–2028/29) was developed\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 12 — United Nations country team: \"fully implement the judgment of the African Court on Human and Peoples’ Rights\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "146.11",
+        "by": "Mauritania",
+        "position": "supported",
+        "text": "Implement the national action plan for persons with albinism, which has been pending since 2020"
+       }
+      ]
+     },
+     {
+      "paras": "145.28",
+      "n": 1,
+      "summary": "Adopt a national strategy against radicalisation and violent extremism",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "JS7 reports that no such strategy and plan has been published.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 17 — JS7: \"no such strategy and plan had been published\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.28",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Adopt a national strategy and action plan for the prevention of radicalization and violent extremism"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to social security",
+    "blocks": [
+     {
+      "paras": "145.12, 145.61",
+      "n": 2,
+      "summary": "Advance social protection",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Social Security Policy (2023) was adopted, TASAF reached 1.36 million households and informal-sector coverage expanded; UNCT notes domestic workers and persons with leprosy are not covered.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 84 — United Republic of Tanzania: \"the National Social Security Policy of 2023\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 27 — United Nations country team: \"the existing social protection programmes did not adequately cover all vulnerable groups\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.12",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue advancing in the consolidation of its successful social programmes with an emphasis on policies on education"
+       },
+       {
+        "paragraph": "145.61",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue its efforts towards implementing the social protection policies contributing to poverty reduction"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to name, identity & nationality",
+    "blocks": [
+     {
+      "paras": "146.12",
+      "n": 1,
+      "summary": "Birth registration for all children",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The UN country team considers the recommendation fully implemented, noting legal reforms and a nationwide simplified registration for children under 5.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 57 — United Nations country team: \"The country team considered that the United Republic of Tanzania had fully implemented the recommendation\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "146.12",
+        "by": null,
+        "position": "supported",
+        "text": "Continue to increase access to birth registration for all children born in the United Republic of Tanzania, including children of migrants and refugees, thus avoiding statelessness (Eswatini)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights education, trainings & awareness raising",
+    "blocks": [
+     {
+      "paras": "145.18, 145.19",
+      "n": 2,
+      "summary": "Human rights training and awareness-raising",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Awareness programmes reached 21 million people and constitutional modules entered school curricula; JS14 notes no specific programme for public officials.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 106 — United Republic of Tanzania: \"awareness programs reached out to 21,109,573 people, including law enforcement officials, journalists, and trade unionists\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 8 — JS14: \"there was no specific national programme for comprehensive human rights education for public service officials and students\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.18",
+        "by": "Zimbabwe",
+        "position": "supported",
+        "text": "Extend the human rights training and awareness programme to cater for more categories of public service officials"
+       },
+       {
+        "paragraph": "145.19",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Continue efforts to strengthen the process of sensitizing civil society on human rights education and training to law enforcement officials, journalists and trade unionists"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "145.20, 145.21, 145.24, 145.35, 145.40, 145.44, 145.108",
+      "n": 7,
+      "summary": "Combat discrimination against persons with albinism, women and persons affected by leprosy",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Tanzania adopted the National Action Plan for Persons with Albinism, extended social protection and sunscreen supply to persons with albinism, runs leprosy screening and women hold 39.3% of Parliament; attacks, stigma and legal gaps persist.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 58 — United Republic of Tanzania: \"71 criminal cases involving attacks against persons with albinism were prosecuted, of which 68 involved trafficking in body parts and 34 cases resulted in convictions\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 22 — United Republic of Tanzania: \"women's representation in Parliament increased to 39.3% in 2025\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 12 — United Nations country team: \"fully implement the judgment of the African Court on Human and Peoples’ Rights\""
+      ],
+      "position": "6 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "145.20",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to achieve gender equality and eliminate all forms of discrimination against women and girls"
+       },
+       {
+        "paragraph": "145.21",
+        "by": "Libya",
+        "position": "supported",
+        "text": "Continue efforts to halt all forms of discrimination against women"
+       },
+       {
+        "paragraph": "145.24",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Take further steps to effectively address discrimination and violence against persons, including children, with albinism"
+       },
+       {
+        "paragraph": "145.35",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Intensify action to combat discrimination against persons with albinism, including by ensuring that persons with albinism benefit from poverty alleviation programmes through special measures"
+       },
+       {
+        "paragraph": "145.40",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to support persons with albinism and combat all forms of discrimination against them"
+       },
+       {
+        "paragraph": "145.44",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Continue to combat discrimination against persons with albinism"
+       },
+       {
+        "paragraph": "147.108",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Affirm its commitment to the principle of non-discrimination, promoting the necessary debates to review the Penal Code as soon as possible with the aim to put an end to the criminalization of consensual sexual relations between adults of the same sex"
+       }
+      ]
+     },
+     {
+      "paras": "147.45, 147.48, 147.50",
+      "n": 3,
+      "summary": "Decriminalise same-sex relations and protect LGBTI persons",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Consensual same-sex relations remain criminalised in mainland Tanzania and Zanzibar; JS4 reports deregistration of 14 organisations serving LGBTI persons and no measurable progress on violence against LGBTI persons.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 55 — United Nations country team: \"criminalization of consensual same-sex relations\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 32 — JS4: \"the Authorities had deregistered 14 organizations that had provided health and support services to LGBTI persons\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.45",
+        "by": "South Africa",
+        "position": "noted",
+        "text": "Enhance measures to prevent discrimination against all vulnerable groups, including all persons living with HIV and persons from the LGBTQI community"
+       },
+       {
+        "paragraph": "147.48",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Prohibit discrimination based on sexual orientation or gender identity and decriminalize same-sex activity between consenting adults"
+       },
+       {
+        "paragraph": "147.50",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Take the necessary steps to combat discrimination and violence against women and children and on the basis of sexual orientation and gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "145.30",
+      "n": 1,
+      "summary": "Implement the Convention on the Rights of Persons with Disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Tanzania is a party and is finalising its first report; the Persons with Disabilities Policy was revised and an assistive technology strategy launched.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 17 — United Republic of Tanzania: \"The URT is finalising its State Party Report om the Convention on the Rights of Persons with Disabilities\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 34 — United Republic of Tanzania: \"the Person with Disabilities Policy of 2004 was revised in 2023\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.30",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Take concrete measures to tackle stigma and discrimination against persons affected by leprosy and their families, ensure they have timely and adequate access to health services and can enjoy their rights to education and to work without discrimination, in line with the Convention on the Rights of Persons with Disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of opinion and expression & access to information",
+    "blocks": [
+     {
+      "paras": "147.83, 147.84, 147.86, 147.89, 147.90, 147.92, 147.95-147.97",
+      "n": 9,
+      "summary": "Protect freedom of expression, journalists, human rights defenders and activists",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The State acknowledges an internet disruption after the 29 October 2025 elections, a regulator shut down more than 80,000 websites and accounts in May 2025, and special procedures and stakeholders report arrests of journalists, opposition figures and activists, enforced disappearances and lethal force; the State rejects the allegations. Contrary measures outweigh the 2022 lifting of the rally ban and the revoked newspaper suspensions.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 20 — United Republic of Tanzania: \"the Internet disruption following the events of 29 October 2025 had been a temporary measure\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 29 — ERF: \"the Communications Regulatory Authority had shut down more than 80 000 websites, social media accounts, blogs, and online platforms\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 12 — JS7: \"reported cases of enforced disappearances, arbitrary detention, torture and extrajudicial killing of political actors, activists, journalists and protesters before, during, and after the October 2025 elections\""
+      ],
+      "position": "8 supported, 1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "147.83",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Take further measures to ensure freedom of expression and protect journalists and the media from harassment, assault, arbitrary arrest or detention and enforced disappearances"
+       },
+       {
+        "paragraph": "147.84",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Take additional steps to ensure the rights to freedom of expression, peaceful assembly and political participation"
+       },
+       {
+        "paragraph": "147.86",
+        "by": "France",
+        "position": "supported",
+        "text": "Guarantee the rights to freedom of expression, assembly and peaceful association as well as freedom of the press, in the first place by freeing political activists, lawyers and journalists detained on abstract grounds"
+       },
+       {
+        "paragraph": "147.89",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Ensure full respect for the right to freedom of expression by removing all obstacles to the right to freedom of expression and media freedom"
+       },
+       {
+        "paragraph": "147.90",
+        "by": "Italy",
+        "position": "supported_noted",
+        "text": "Ensure that the right to freedom of expression is duly respected and intensify efforts to protect the rights of persons belonging to religious minorities"
+       },
+       {
+        "paragraph": "147.92",
+        "by": "Latvia",
+        "position": "supported",
+        "text": "Promote and protect the right to freedom of expression and media freedom, as well as the safety of journalists"
+       },
+       {
+        "paragraph": "147.95",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Take further steps to ensure respect for the rights to freedom of expression and freedom of assembly"
+       },
+       {
+        "paragraph": "147.96",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Ensure that human rights defenders and political dissidents can freely exercise their human rights without fear of reprisal"
+       },
+       {
+        "paragraph": "147.97",
+        "by": "France",
+        "position": "supported",
+        "text": "Ensure that human rights defenders can freely exercise their activities without risk of reprisal"
+       }
+      ]
+     },
+     {
+      "paras": "147.80-147.82, 147.85, 147.87, 147.88, 147.93, 147.98",
+      "n": 8,
+      "summary": "Amend laws restricting freedom of expression, assembly and association",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Media Services, Access to Information, Cybercrimes, Political Parties, Statistics and Electronic and Postal Communications Acts were amended (R.E. 2023), removing criminal defamation provisions, and the political-rally ban was lifted (2022-2023); stakeholders consider that licensing and content restrictions remain.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 51 — United Republic of Tanzania: \"These reforms removed criminal defamation provisions and strengthened safeguards for editorial independence, professional standards, and responsible media practice\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 4 — United Republic of Tanzania: \"Its recommendations led to lifting the ban on political party rallies\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 29 — JS3: \"licensing requirements and content restrictions\""
+      ],
+      "position": "6 supported-noted, 2 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.80",
+        "by": "Australia",
+        "position": "supported_noted",
+        "text": "Repeal or amend laws unreasonably restricting freedom of expression, including the 2015 Statistics Act, the 2015 Cybercrimes Act and the 2016 Media Services Act"
+       },
+       {
+        "paragraph": "147.81",
+        "by": "Canada",
+        "position": "supported_noted",
+        "text": "Amend the domestic legal framework to ensure respect for the rights to freedom of expression, to freedom of peaceful assembly and association and to trial without undue delay, and to facilitate their exercise by all Tanzanians, including through civil society organizations, political parties and the media"
+       },
+       {
+        "paragraph": "147.82",
+        "by": "Slovenia",
+        "position": "supported",
+        "text": "Amend the Media Services Act of 2016 to comply with international standards"
+       },
+       {
+        "paragraph": "147.85",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Promote freedom of the media by ensuring full compliance of the Media Service Bill of 2015 with the right to freedom of expression and implementing the necessary legislative changes"
+       },
+       {
+        "paragraph": "147.87",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported_noted",
+        "text": "Amend the Media Services Act, the Political Parties Act and related legislation to ensure freedom of expression and assembly are protected"
+       },
+       {
+        "paragraph": "147.88",
+        "by": "Germany",
+        "position": "supported_noted",
+        "text": "Review legislation, including the Cybercrimes Act, to ensure that freedom of the press, as well as freedom of expression and opinion, is protected"
+       },
+       {
+        "paragraph": "147.93",
+        "by": "Sweden",
+        "position": "supported_noted",
+        "text": "Ensure, through dialogue and technical support, that the different laws and regulations governing the media sector, for example the Cybercrimes Act 2015, the Media Services Act 2016, the Access to Information Act 2016 and the Electronic and Postal Communications (Online Content) Regulations 2020, are in full compliance with human rights, including freedom of expression"
+       },
+       {
+        "paragraph": "147.98",
+        "by": "Netherlands",
+        "position": "supported_noted",
+        "text": "Repeal or amend national legislation that restricts civil society like human rights defenders and journalists from exercising their rights and fundamental freedoms without fear of scrutiny and reprisal, including the three relevant acts, so that it complies with international standards"
+       }
+      ]
+     },
+     {
+      "paras": "145.25",
+      "n": 1,
+      "summary": "Invest in communication infrastructure in rural areas",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Tanzania built 10,787 communication towers, extended the fibre-optic backbone to 15,167 km and raised internet penetration from 25% to 85.3%.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 54 — United Republic of Tanzania: \"expanded the national fibre optic backbone to 15,167 kilometres\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 54 — United Republic of Tanzania: \"Internet penetration increased from 25% (15.6 million users) to 85.3% (58.1 million users) by December 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.25",
+        "by": "China",
+        "position": "supported",
+        "text": "Increase investment in the construction of communication facilities and infrastructure in rural areas to promote economic and social development in rural areas"
+       }
+      ]
+     },
+     {
+      "paras": "147.94",
+      "n": 1,
+      "summary": "Protect freedom of expression and assembly; reform restrictive laws and combat impunity",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Some laws were amended but attacks on journalists and defenders remain unaddressed; UNCT considers the recommendations on freedoms not implemented.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 17 — United Nations country team: \"The country team considered those recommendations not to have been implemented\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 51 — United Republic of Tanzania: \"These reforms removed criminal defamation provisions and strengthened safeguards for editorial independence, professional standards, and responsible media practice\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.94",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Protect freedom of expression, freedom of peaceful assembly and freedom of association, bring laws restricting these freedoms into line with international standards and combat impunity for attacks on journalists, human rights defenders and peaceful political actors in line with target 16.10 of the Sustainable Development Goals"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Good governance & corruption",
+    "blocks": [
+     {
+      "paras": "145.27",
+      "n": 1,
+      "summary": "Tackle corruption",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A 4th Strategy and Action Plan of the National Anti-Corruption Strategy (2023-2030) was developed, procurement and audit laws were revised and Tanzania left the FATF grey list (June 2025); UNCT finds the recommendation partially implemented.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 75 — United Republic of Tanzania: \"developed the 4th SAP of the NACSAP (2023-2030)\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 77 — United Republic of Tanzania: \"grey list effective June 13, 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.27",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue efforts aimed at improvements in tackling corruption through initiatives that include the adaptation of legislative and regulatory frameworks"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "145.29",
+      "n": 1,
+      "summary": "Participation of women, children, persons with disabilities and local communities in climate frameworks",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The UN country team considers the recommendation fully implemented.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 42 — United Nations country team: \"The country team considered that it had fully implemented that recommendation\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.29",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure the meaningful participation of women, children, persons with disabilities and local communities in the development and implementation of climate change and disaster risk reduction frameworks"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Liberty & security of the person",
+    "blocks": [
+     {
+      "paras": "145.32-145.34, 145.39, 145.42, 145.43, 145.72",
+      "n": 7,
+      "summary": "Protect persons with albinism and fight female genital mutilation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Action Plan on Persons with Albinism (2024/25-2028/29) was established, 71 attack cases prosecuted (34 convictions) and a National Multisectoral Strategy to End FGM (2025/26-2029/30) adopted; JS1 reports continued attacks and killings.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 58 — United Republic of Tanzania: \"71 criminal cases involving attacks against persons with albinism were prosecuted, of which 68 involved trafficking in body parts and 34 cases resulted in convictions\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 55 — United Republic of Tanzania: \"adopted the National Multisectoral Strategy to End Female Genital Mutilation (2025/26–2029/30)\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 14 — JS1: \"reported attacks and killings of persons with albinism and the inadequate protection systems for them\""
+      ],
+      "position": "6 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "145.32",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Continue and strengthen its efforts to fight discrimination and violence and to eliminate human rights abuses against persons with albinism"
+       },
+       {
+        "paragraph": "145.33",
+        "by": "Rwanda",
+        "position": "supported",
+        "text": "Continue efforts to address all types of attacks against persons with albinism"
+       },
+       {
+        "paragraph": "145.34",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Strengthen community policing and the role of security committees in each village with a view to promoting the safety of persons with albinism"
+       },
+       {
+        "paragraph": "145.39",
+        "by": "India",
+        "position": "supported",
+        "text": "Take steps to implement the initiatives taken against female genital mutilation and towards the protection of people with albinism"
+       },
+       {
+        "paragraph": "145.42",
+        "by": "Congo",
+        "position": "supported",
+        "text": "Redouble efforts to guarantee people with albinism full enjoyment of their rights and, in particular, the right to life"
+       },
+       {
+        "paragraph": "145.43",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Strengthen efforts in order to protect persons with albinism from violence"
+       },
+       {
+        "paragraph": "147.72",
+        "by": "Gabon",
+        "position": "noted",
+        "text": "Pursue its efforts to combat harmful practices linked to witchcraft or accusations of witchcraft"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Special Procedures",
+    "blocks": [
+     {
+      "paras": "147.34-147.36",
+      "n": 3,
+      "summary": "Extend a standing invitation to special procedures",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The UN country team and stakeholders confirm that no standing invitation was issued and visit requests were not granted.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 2 — United Nations country team: \"the State had not issued a standing invitation to the special procedures\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.34",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Consider extending a standing invitation to all special procedure mandate holders of the Human Rights Council, as previously recommended"
+       },
+       {
+        "paragraph": "147.35",
+        "by": "Maldives",
+        "position": "noted",
+        "text": "Extend a standing invitation to the special procedure mandate holders of the Human Rights Council"
+       },
+       {
+        "paragraph": "147.36",
+        "by": "State of Palestine",
+        "position": "noted",
+        "text": "Extend a standing invitation to special procedure mechanisms"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Legal & institutional reform",
+    "blocks": [
+     {
+      "paras": "147.43, 147.46, 147.49, 147.70",
+      "n": 4,
+      "summary": "Strengthen legal protection of vulnerable groups, including persons with albinism",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Tanzania adopted the National Action Plan for Persons with Albinism and prosecuted 71 attack cases; protection of sexual minorities is not addressed.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 58 — United Republic of Tanzania: \"71 criminal cases involving attacks against persons with albinism were prosecuted, of which 68 involved trafficking in body parts and 34 cases resulted in convictions\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 55 — United Nations country team: \"criminalization of consensual same-sex relations\""
+      ],
+      "position": "1 supported-noted, 1 supported, 2 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.43",
+        "by": "Russian Federation",
+        "position": "supported_noted",
+        "text": "Ensure protection in law and in practice of the rights of vulnerable groups of the population, in particular women, children, persons with disabilities, the elderly and ethnic minorities"
+       },
+       {
+        "paragraph": "145.46",
+        "by": "Gabon",
+        "position": "supported",
+        "text": "Strengthen the legislative framework to combat violence against persons with albinism"
+       },
+       {
+        "paragraph": "147.49",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Adopt urgent measures to modify the Penal Code and eliminate the criminalization of consensual sexual relations between adults of the same sex"
+       },
+       {
+        "paragraph": "147.70",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Review national legislation to mitigate the causes of persecution practices against persons with albinism"
+       }
+      ]
+     },
+     {
+      "paras": "147.41, 147.47, 147.51",
+      "n": 3,
+      "summary": "Decriminalise same-sex relations and protect LGBTI persons",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Consensual same-sex relations remain criminalised in mainland Tanzania and Zanzibar; JS4 reports deregistration of 14 organisations serving LGBTI persons and no measurable progress on violence against LGBTI persons.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 55 — United Nations country team: \"criminalization of consensual same-sex relations\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 32 — JS4: \"the Authorities had deregistered 14 organizations that had provided health and support services to LGBTI persons\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.41",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Strengthen the legal protection of individuals belonging to the most vulnerable groups, among which are sexual minorities and women, and ensure the prevention and investigation of all forms of violence, including domestic and sexual violence and female genital mutilation"
+       },
+       {
+        "paragraph": "147.47",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Repeal or amend laws discriminating against lesbian, gay, bisexual, transgender and intersex persons, including section 154 of the Penal Code, which criminalizes consensual same-sex acts among adults"
+       },
+       {
+        "paragraph": "147.51",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Ensure that section 154 of the Penal Code does not criminalize, or is not interpreted in a manner that criminalizes, same-sex relations"
+       }
+      ]
+     },
+     {
+      "paras": "147.39",
+      "n": 1,
+      "summary": "Amend laws restricting freedom of expression, assembly and association",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Media Services, Access to Information, Cybercrimes, Political Parties, Statistics and Electronic and Postal Communications Acts were amended (R.E. 2023), removing criminal defamation provisions, and the political-rally ban was lifted (2022-2023); stakeholders consider that licensing and content restrictions remain.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 51 — United Republic of Tanzania: \"These reforms removed criminal defamation provisions and strengthened safeguards for editorial independence, professional standards, and responsible media practice\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 4 — United Republic of Tanzania: \"Its recommendations led to lifting the ban on political party rallies\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 29 — JS3: \"licensing requirements and content restrictions\""
+      ],
+      "position": "1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "147.39",
+        "by": "Belgium",
+        "position": "supported_noted",
+        "text": "Repeal or amend all laws that are not in conformity with articles 19 and 21 of the International Covenant on Civil and Political Rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "145.41, 145.52, 145.54, 145.55, 145.58",
+      "n": 5,
+      "summary": "Prevent trafficking in persons and protect victims",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "NATIP III (2021-2024), a Multi-Agency Task Force (2022), anti-trafficking secretariats and 7 safe houses were established; UNCT finds limited prosecutions and no explicit prohibition on trafficking in body parts.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 56 — United Republic of Tanzania: \"establishment of a Multi-Agency Task Force in 2022 to support coordinated investigation and prosecution of trafficking offences\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 57 — United Republic of Tanzania: \"establishment of 7 safe houses and referral systems in Mainland Tanzania\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 25 — United Nations country team: \"limited prosecutions, weak data systems and the absence of provisions explicitly prohibiting trafficking in body parts\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.41",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Take specific measures, in close cooperation with civil society, aimed at tackling the human trafficking of persons with albinism"
+       },
+       {
+        "paragraph": "145.52",
+        "by": "Eswatini",
+        "position": "supported",
+        "text": "Continue strengthening its laws that curb human trafficking and people smuggling, including through the use of awareness-raising programmes and campaigns on trafficking, particularly in rural areas, border areas and areas of poverty"
+       },
+       {
+        "paragraph": "145.54",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Take concrete measures to implement the National Anti-Trafficking in Persons Action Plan 2018–2021 with a view to combating trafficking in persons"
+       },
+       {
+        "paragraph": "145.55",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue measures to prevent trafficking in persons"
+       },
+       {
+        "paragraph": "145.58",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Take further proactive measures to prevent and address trafficking in persons and reduce the vulnerability of groups that are most at risk"
+       }
+      ]
+     },
+     {
+      "paras": "145.56",
+      "n": 1,
+      "summary": "Address trafficking in body parts in legislation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The UN country team notes the absence of provisions explicitly prohibiting trafficking in body parts.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 25 — United Nations country team: \"the absence of provisions explicitly prohibiting trafficking in body parts\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.56",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Review the legislative framework and ensure that it sufficiently addresses trafficking in body parts of persons with albinism"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Budget & resources (for human rights implementation)",
+    "blocks": [
+     {
+      "paras": "147.42",
+      "n": 1,
+      "summary": "Adequate resources for health and education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Health financing rose from TZS 1.31 to 3.104 trillion and education financing from TZS 5.6 to 6.3 trillion.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 93 — United Republic of Tanzania: \"Health financing increased from TZS 1.31 trillion in 2024/25 to TZS 3.104 trillion in 2025/26\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 101 — United Republic of Tanzania: \"budget allocations increasing from TZS 5.6 trillion in 2022/23 to TZS 6.3 trillion in 2025/26\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.42",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Continue to provide adequate resources and funding for fundamental human rights issues, including access to health care and education"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Administration of justice & fair trial",
+    "blocks": [
+     {
+      "paras": "147.76, 147.77, 147.79",
+      "n": 3,
+      "summary": "End unlawful pre-trial detention and review non-bailable offences",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "ERF reports a significantly high number of persons in prolonged pre-trial detention and JS17 reports that over 1,700 persons were held for non-bailable offences after the October 2025 elections.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 21 — ERF: \"a significantly high number of persons had been held in pro-longed pre-trial detention\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 22 — JS17: \"over 1,700 persons had reportedly been held under investigation for non-bailable offences\""
+      ],
+      "position": "1 supported, 2 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.76",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "End illegal pretrial detention which contravenes constitutional guarantees and the internationally recognized right to a fair trial"
+       },
+       {
+        "paragraph": "147.77",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Review the legislation on the automatic denial of bail for enumerated offences, for instance for economic crimes and, particularly, money-laundering, to align its laws to recognize regional and international law and human rights standards"
+       },
+       {
+        "paragraph": "147.79",
+        "by": "Sweden",
+        "position": "noted",
+        "text": "Ensure access to justice, including by addressing the use of non-bailable offences targeting politicians, businessmen, journalists and human rights defenders, and ensure it complies with due process standards"
+       }
+      ]
+     },
+     {
+      "paras": "145.47, 145.48",
+      "n": 2,
+      "summary": "Strengthen the judiciary and access to justice",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Case backlog fell from 10% to 5%, 26 High Court sub-registries and an e-Case Management System were established and the Mama Samia Legal Aid Campaign reached 7.9 million people; the UN country team and JS17 report lack of judicial independence and presidential powers over judges.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 41 — United Republic of Tanzania: \"case backlog declined from 10% in 2022 to 5% in 2023\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 44 — United Republic of Tanzania: \"provided legal aid awareness, advice and representation to a total of 7,885,295 people\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 15 — United Nations country team: \"expressed concern about the lack of judicial independence\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.47",
+        "by": "Norway",
+        "position": "supported",
+        "text": "Approve and implement reforms to strengthen the independence of the judiciary and to strengthen citizens’ access to justice and legal aid"
+       },
+       {
+        "paragraph": "145.48",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Continue to take measures aimed at improving the functioning of the judicial and penitentiary systems"
+       }
+      ]
+     },
+     {
+      "paras": "147.73",
+      "n": 1,
+      "summary": "Judicial independence and impartiality towards LGBTI persons",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "JS17 reports extensive presidential powers over judicial appointments and removal; criminalisation continues.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 18 — JS17: \"conferred on the Presidency extensive powers in relation to judicial appointments, tenure and removal\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.73",
+        "by": "Czechia",
+        "position": "noted",
+        "text": "Improve further the independence of the judicial system and its impartial attitude towards the lesbian, gay, bisexual, transgender and intersex community and cease the criminalization of its activities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Access to justice & remedy",
+    "blocks": [
+     {
+      "paras": "145.49, 145.50, 145.74, 145.75",
+      "n": 4,
+      "summary": "Promote access to justice and legal aid",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Mama Samia Legal Aid Campaign provided legal aid to 7.9 million people, 446 laws were translated into Kiswahili and a toll-free legal call centre was launched (2024); JS28 reports limited access for the indigent.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 44 — United Republic of Tanzania: \"provided legal aid awareness, advice and representation to a total of 7,885,295 people\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 19 — JS28: \"Despite the Legal Aid Act, 2017, only a few indigent accused had received assistance\""
+      ],
+      "position": "2 supported, 2 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "145.49",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Continue to promote access to justice for all through increased provision and coverage of legal aid"
+       },
+       {
+        "paragraph": "145.50",
+        "by": "Egypt",
+        "position": "supported",
+        "text": "Continue national efforts aimed at enhancing access to justice"
+       },
+       {
+        "paragraph": "147.74",
+        "by": "Algeria",
+        "position": "supported_noted",
+        "text": "Continue to strengthen policies and programmes aimed at improving access to justice and redress for violations of the rights of people in vulnerable situations, including people with albinism"
+       },
+       {
+        "paragraph": "147.75",
+        "by": "Brazil",
+        "position": "supported_noted",
+        "text": "Continue to strengthen policies and programmes aimed at enhancing access to justice and redress concerning violations of the rights of persons in vulnerable situations, including persons with albinism"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rule of law & impunity",
+    "blocks": [
+     {
+      "paras": "145.51",
+      "n": 1,
+      "summary": "Investigate attacks and killings of journalists and defenders",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A Commission of Inquiry was created on the post-election unrest but reprisals against defenders and lawyers are reported.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 7 — United Republic of Tanzania: \"a Presidential Commission of Inquiry was established on 18 November, 2025 to examine the unrest that occurred during and after the General Elections\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 23 — JS17: \"reprisals against lawyers involved with human rights causes or associated with opposition political parties\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.51",
+        "by": "Latvia",
+        "position": "supported",
+        "text": "Conduct full and impartial investigations of all threats and attacks against and killings of journalists, civil society actors and human rights defenders, and hold perpetrators accountable"
+       }
+      ]
+     },
+     {
+      "paras": "147.67",
+      "n": 1,
+      "summary": "Combat impunity for enforced disappearance and human trafficking",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Anti-trafficking prosecutions and a Multi-Agency Task Force exist; enforced disappearances reported after the October 2025 elections are denied by the State.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 56 — United Republic of Tanzania: \"establishment of a Multi-Agency Task Force in 2022 to support coordinated investigation and prosecution of trafficking offences\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 12 — JS7: \"reported cases of enforced disappearances, arbitrary detention, torture and extrajudicial killing of political actors, activists, journalists and protesters before, during, and after the October 2025 elections\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.67",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Take all necessary measures to combat impunity for the crimes of enforced disappearance and human trafficking"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Private life & privacy",
+    "blocks": [
+     {
+      "paras": "147.53",
+      "n": 1,
+      "summary": "Ban invasive anal examinations of LGBTI persons",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.53",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Respect the right to confidentiality and dignity of LGBTI+ persons by banning invasive and demeaning procedures disguised as evidence-gathering, such as anal examinations"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Death penalty",
+    "blocks": [
+     {
+      "paras": "147.56-147.58, 147.61, 147.62, 147.65, 147.66",
+      "n": 7,
+      "summary": "Abolish the death penalty or adopt a formal moratorium",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Tanzania maintains a de facto moratorium (no execution since 1994) but the mandatory death penalty remains in the Penal Code and no formal moratorium or awareness campaign has followed.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 64 — United Republic of Tanzania: \"The URT maintained its de facto moratorium on the death penalty, and no executions have been carried out since 1994\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 11 — JS28: \"the mandatory death penalty for the murder and treason as prescribed in the Penal Code required reform\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 9 — United Nations country team: \"expressed concern about the lack of implementation of those commitments\""
+      ],
+      "position": "7 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.56",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Establish an immediate formal moratorium on the mandatory death penalty with a view to its abolition and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "147.57",
+        "by": "France",
+        "position": "noted",
+        "text": "Abolish the death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "147.58",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Adopt a de jure moratorium on capital executions and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "147.61",
+        "by": "Norway",
+        "position": "noted",
+        "text": "Abolish the death penalty in all circumstances"
+       },
+       {
+        "paragraph": "147.62",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Fully abolish the death penalty in all circumstances and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "147.65",
+        "by": "Switzerland",
+        "position": "noted",
+        "text": "Abolish the death penalty and commute all death sentences to alternative sentences"
+       },
+       {
+        "paragraph": "147.66",
+        "by": "Madagascar",
+        "position": "noted",
+        "text": "Adopt a formal moratorium on executions with a view to abolishing the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "147.60",
+      "n": 1,
+      "summary": "Awareness campaigns and public debates on the death penalty",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The UN country team expresses concern about the lack of implementation of this commitment.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 9 — United Nations country team: \"expressed concern about the lack of implementation of those commitments\""
+      ],
+      "position": "1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "147.60",
+        "by": "Uruguay",
+        "position": "supported_noted",
+        "text": "Strengthen awareness-raising campaigns on the death penalty and hold public debates on the subject from a human rights perspective, including in parliament, with a view to realizing its definitive abolition and the ratification of the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, as soon as possible"
+       }
+      ]
+     },
+     {
+      "paras": "147.63",
+      "n": 1,
+      "summary": "Establish a moratorium on executions",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Tanzania maintains a de facto moratorium (no execution since 1994) which it has not formalised.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 64 — United Republic of Tanzania: \"The URT maintained its de facto moratorium on the death penalty, and no executions have been carried out since 1994\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 11 — JS28: \"As no executions had been carried out since 1994, a de facto moratorium appeared to be in place\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.63",
+        "by": "Sierra Leone",
+        "position": "noted",
+        "text": "Establish a moratorium on executions with a view to abolishing the death penalty"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: protection against exploitation",
+    "blocks": [
+     {
+      "paras": "145.57, 145.102-145.105",
+      "n": 5,
+      "summary": "Prevent child labour and sexual abuse of children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Action Plan on the Elimination of Child Labour (2025/26-2029/30) was adopted and child labour fell from 33.8% to 25.4%; JS10 reports it remains widespread.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 32 — United Republic of Tanzania: \"These interventions contributed to reducing child labour from 33.8% to 25.4% in 2024\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 41 — JS10: \"child labour had remained widespread, particularly in agriculture, fishing, mining, and domestic work\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.57",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Intensify the work done to prevent and investigate cases of sexual abuse of children and eliminate the practice of female genital mutilation"
+       },
+       {
+        "paragraph": "145.102",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Continue its efforts to curtail child labour"
+       },
+       {
+        "paragraph": "145.103",
+        "by": "Kenya",
+        "position": "supported",
+        "text": "Continue its efforts, including existing programmes, to eliminate child labour in the country"
+       },
+       {
+        "paragraph": "145.104",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Continue the efforts undertaken to eliminate child labour"
+       },
+       {
+        "paragraph": "145.105",
+        "by": "Mozambique",
+        "position": "supported",
+        "text": "Continue to enhance efforts to prevent child labour"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to adequate housing",
+    "blocks": [
+     {
+      "paras": "145.59",
+      "n": 1,
+      "summary": "Improve access to adequate housing, water and sanitation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Housing construction loans reached 31% of loans (TZS 659.3 billion) and the Zanzibar Housing Corporation built 144 units; UNCT finds partial implementation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 89 — United Republic of Tanzania: \"accessible housing construction loans, which reached 31% of loans worth TZS 659.3 billion\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.59",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Improve access to adequate housing, safe drinking water and adequate sanitation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & poverty",
+    "blocks": [
+     {
+      "paras": "145.60, 145.62, 145.63",
+      "n": 3,
+      "summary": "Reduce poverty, including among persons with albinism",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "National poverty fell from 26.4% (2020) to 24.9% (2025), TASAF reached 1.36 million households and interest-free loans were extended to persons with disabilities including albinism.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 66 — United Republic of Tanzania: \"national basic needs poverty rate declined from 26.4% in 2020 to 24.9% in 2025\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 85 — United Republic of Tanzania: \"TASAF benefited a total of 1.36 million households with 5,195,605 beneficiaries\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.60",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Continue efforts to reduce poverty, especially by enhancing access to quality education and skills development, as well as by improving conditions for farmers, small businesses and investors to thrive"
+       },
+       {
+        "paragraph": "145.62",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Ensure that persons with albinism benefit from programmes to combat poverty, in particular through special measures"
+       },
+       {
+        "paragraph": "145.63",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Ensure that persons with albinism are covered by anti-poverty programmes"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Safe drinking water & sanitation",
+    "blocks": [
+     {
+      "paras": "145.64, 145.65",
+      "n": 2,
+      "summary": "Improve drinking water and sanitation in rural areas",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "WSDP III completed 1,373 rural projects and raised rural access to 85.2%; UNCT notes disparities in rural and informal settlements.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 91 — United Republic of Tanzania: \"increased access to water in rural areas to 85.2%, and 92.5 % in urban areas\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 29 — United Nations country team: \"disparities in access to water in rural and informal settlements\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.64",
+        "by": "India",
+        "position": "supported",
+        "text": "Continue to take necessary measures to improve the provision of clean drinking water and sanitation facilities to rural areas"
+       },
+       {
+        "paragraph": "145.65",
+        "by": "South Sudan",
+        "position": "supported",
+        "text": "Redouble efforts to resolve the disparity in accessing water services in urban and rural areas"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Prohibition of torture & ill-treatment (including cruel, inhuman or degrading treatment)",
+    "blocks": [
+     {
+      "paras": "147.68",
+      "n": 1,
+      "summary": "Strengthen the fight against torture and ill-treatment; prohibit corporal punishment",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The UN country team finds the torture recommendation not implemented, JS15 reports ongoing risks in police custody and corporal punishment remains lawful.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 13 — JS15: \"ongoing risks of torture and ill-treatment in police custody\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 70 — JS10: \"corporal punishment remained lawful and widely practices in homes and schools\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.68",
+        "by": "France",
+        "position": "supported",
+        "text": "Strengthen the fight against torture and ill-treatment"
+       }
+      ]
+     },
+     {
+      "paras": "147.71",
+      "n": 1,
+      "summary": "Prohibit corporal punishment",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Corporal punishment remains lawful in schools and homes.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 49 — UNESCO: \"recommended legally proscribing corporal punishment in education settings\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 70 — JS10: \"corporal punishment remained lawful and widely practices in homes and schools\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.71",
+        "by": "Zambia",
+        "position": "noted",
+        "text": "Prohibit all forms of corporal punishment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Arbitrary arrest & detention",
+    "blocks": [
+     {
+      "paras": "147.69",
+      "n": 1,
+      "summary": "Investigate arbitrary arrest and detention of political opponents and activists",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Presidential Commission of Inquiry (November 2025) and a Criminal Investigation Commission (May 2026) were set up on the post-election unrest; the State rejects allegations of arbitrary arrests.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 7 — United Republic of Tanzania: \"a Presidential Commission of Inquiry was established on 18 November, 2025 to examine the unrest that occurred during and after the General Elections\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 11 — United Republic of Tanzania: \"It rejected the allegations of widespread arbitrary arrests and detentions\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.69",
+        "by": "Poland",
+        "position": "supported",
+        "text": "Take steps to promptly and effectively investigate and provide information on cases of arbitrary arrest and detention of political opponents, activists, protesters and dissenting journalists"
+       }
+      ]
+     },
+     {
+      "paras": "147.78",
+      "n": 1,
+      "summary": "Investigate arbitrary arrests and ensure fair hearings",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Decision to Charge Guidelines (2023) and DPP Guidelines No. 2 of 2024 strengthened prosecutorial safeguards, and a Commission of Inquiry on the post-election unrest was created; special procedures report arbitrary arrests of protesters and opposition leaders.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 48 — United Republic of Tanzania: \"The Decision to Charge Guidelines (2023) and Director of Public Prosecutions Guidelines No. 2 of 2024 strengthened investigation standards\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 16 — United Nations country team: \"arrests of an opposition leader during a public rally and of several young people in the aftermath of the October 2025 elections\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.78",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Ensure fair and public hearings for those criminally charged and to prevent arbitrary arrests"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & reproductive health and rights",
+    "blocks": [
+     {
+      "paras": "145.73",
+      "n": 1,
+      "summary": "Re-entry to education for pregnant girls and young mothers",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Education Circular No. 2 of 2021 and a Re-Entry Guideline (2022) allow return after childbirth (13,272 returned); JS2 notes restrictive provisions, discretion of schools and no measure against pregnancy tests.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 104 — United Republic of Tanzania: \"the Re-Entry Guideline of 2022, which enabled 13,272 students to return to school\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 59 — JS2: \"existing laws and policies neither adequately addressed, nor sufficiently facilitated, their re-entry into the education system\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.73",
+        "by": "Lesotho",
+        "position": "supported",
+        "text": "Strengthen measures to safeguard the health rights of women, particularly on issues relating to prenatal and postnatal care of pregnant women"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of association",
+    "blocks": [
+     {
+      "paras": "147.91",
+      "n": 1,
+      "summary": "Amend laws restricting freedom of expression, assembly and association",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Media Services, Access to Information, Cybercrimes, Political Parties, Statistics and Electronic and Postal Communications Acts were amended (R.E. 2023), removing criminal defamation provisions, and the political-rally ban was lifted (2022-2023); stakeholders consider that licensing and content restrictions remain.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 51 — United Republic of Tanzania: \"These reforms removed criminal defamation provisions and strengthened safeguards for editorial independence, professional standards, and responsible media practice\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 4 — United Republic of Tanzania: \"Its recommendations led to lifting the ban on political party rallies\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 29 — JS3: \"licensing requirements and content restrictions\""
+      ],
+      "position": "1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "147.91",
+        "by": "United States of America",
+        "position": "supported_noted",
+        "text": "Amend or repeal aspects of the Political Parties Act, the Media Services Act and the Electronic and Postal Communications Act to promote freedom of expression"
+       }
+      ]
+     },
+     {
+      "paras": "147.100",
+      "n": 1,
+      "summary": "Amend the NGO regulations in line with international standards",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "JS5 and JS21 report broad registration discretion and burdensome compliance; 14 LGBTI-serving organisations were deregistered.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 32 — JS5: \"granted the Authorities broad discretion to deny registration or impose restrictions on organizations\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.100",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Amend the Non-Governmental Organizations Act (Amendments) Regulation 2018 in line with international human rights standards on freedoms of association and peaceful assembly"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to peaceful assembly",
+    "blocks": [
+     {
+      "paras": "147.99, 147.101, 147.105",
+      "n": 3,
+      "summary": "Ensure freedom of assembly and a safe environment for parties, media and civil society",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Special procedures and stakeholders report restriction of opposition rallies, disqualification of opposition candidates, the October 2025 internet shutdown and arrests; the State rejects the allegations.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 36 — JS21: \"the Authorities had systematically restricted opposition rallies and had curtailed the movement of members of opposition parties\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 23 — Special procedure mandate holders: \"had reportedly resulted in the disqualification of opposition candidates during the nomination process\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 20 — United Republic of Tanzania: \"the Internet disruption following the events of 29 October 2025 had been a temporary measure\""
+      ],
+      "position": "1 supported-noted, 2 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.99",
+        "by": "Norway",
+        "position": "supported_noted",
+        "text": "Respect fully and protect the rights to freedom of assembly and freedom of expression, and enshrine into law the right to a safe and enabling environment for human rights defenders, journalists and media workers"
+       },
+       {
+        "paragraph": "147.101",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Ensure freedom of assembly and expression to enable a political and civic space, so that political parties, the media and civil society organizations can operate safely and fully exercise their rights"
+       },
+       {
+        "paragraph": "147.105",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Create and maintain a safe and conducive environment where all political parties and civil society organizations can exercise their rights to freedom of peaceful assembly and of political participation without fear of reprisal"
+       }
+      ]
+     },
+     {
+      "paras": "147.103, 147.104",
+      "n": 2,
+      "summary": "Amend laws restricting freedom of expression, assembly and association",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Media Services, Access to Information, Cybercrimes, Political Parties, Statistics and Electronic and Postal Communications Acts were amended (R.E. 2023), removing criminal defamation provisions, and the political-rally ban was lifted (2022-2023); stakeholders consider that licensing and content restrictions remain.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 51 — United Republic of Tanzania: \"These reforms removed criminal defamation provisions and strengthened safeguards for editorial independence, professional standards, and responsible media practice\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 4 — United Republic of Tanzania: \"Its recommendations led to lifting the ban on political party rallies\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 29 — JS3: \"licensing requirements and content restrictions\""
+      ],
+      "position": "1 supported, 1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "147.103",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Ensure that the laws governing the right to freedom of peaceful assembly are fully in line with the provisions of the International Covenant on Civil and Political Rights"
+       },
+       {
+        "paragraph": "147.104",
+        "by": "Spain",
+        "position": "supported_noted",
+        "text": "Guarantee freedom of assembly, association, expression and press freedom for members of all political parties, the media and civil society organizations by, inter alia, reforming the Cybercrimes Act and the Media Act"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: definition",
+    "blocks": [
+     {
+      "paras": "147.122-147.130",
+      "n": 9,
+      "summary": "Amend the Law of Marriage Act and raise the minimum age of marriage to 18",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Amendment is only 'under consultation'; the High Court ordered it in 2016 and JS2 notes the Act still allows girls to marry at 14.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 26 — United Republic of Tanzania: \"Amendment of the Law of Marriage Act, Cap. 29, are under consultation as part of broader legal reforms\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 69 — JS2: \"the Law of Marriage Act, which allowed girls as young as 14 years of age to marry, had not been amended\""
+      ],
+      "position": "9 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.122",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Amend the 1971 Law of Marriage Act to raise the marriage age for girls to 18 years, as ordered by the Supreme Court of Appeal in 2019"
+       },
+       {
+        "paragraph": "147.123",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Revise the Law of Marriage Act of 1971 to establish the minimum age of marriage at 18 years for both girls and boys with a view to ending child, early and forced marriages"
+       },
+       {
+        "paragraph": "147.124",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Revise the 1971 Law of Marriage Act to set the minimum age of marriage to 18 years for both girls and boys"
+       },
+       {
+        "paragraph": "147.125",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Amend the Law of Marriage Act (1971) and other legislation to reflect the Court of Appeals decision on the minimum age of marriage"
+       },
+       {
+        "paragraph": "147.126",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Complete the reforms necessary to raise the minimum legal age of marriage for boys and girls to 18 years and sensitize people of the importance of protecting the rights of all children"
+       },
+       {
+        "paragraph": "147.127",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Harmonize the regulations regarding the minimum age of marriage and prohibit early and child marriages and unions"
+       },
+       {
+        "paragraph": "147.128",
+        "by": "Norway",
+        "position": "supported",
+        "text": "Take urgent steps to amend legislation to outlaw all forms of child marriage, safeguard women’s rights to sexual and reproductive health and end violence against women and children"
+       },
+       {
+        "paragraph": "147.129",
+        "by": "Slovenia",
+        "position": "supported",
+        "text": "Amend the Law of Marriage Act from 1971 to set the minimum age of marriage at 18 years for both boys and girls"
+       },
+       {
+        "paragraph": "147.130",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Continue to combat the phenomena of child, early and forced marriage by amending the relevant legislation accordingly"
+       }
+      ]
+     },
+     {
+      "paras": "145.101",
+      "n": 1,
+      "summary": "Protect children's rights",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Child helpline, online-protection campaign, child justice strategy, child labour action plan and fee-free basic education were implemented; legislation on marriage and corporal punishment is unchanged.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 30 — United Republic of Tanzania: \"National Child Online Protection Campaign in all 26 regions of Mainland Tanzania\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.101",
+        "by": "Djibouti",
+        "position": "supported",
+        "text": "Continue to protect the rights of children through the strengthening of protective policies and legislation, in particular by meeting their educational needs and by sanctioning violations of their rights"
+       }
+      ]
+     },
+     {
+      "paras": "147.121",
+      "n": 1,
+      "summary": "Prohibit corporal punishment",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Corporal punishment remains lawful in schools and homes.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 49 — UNESCO: \"recommended legally proscribing corporal punishment in education settings\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 70 — JS10: \"corporal punishment remained lawful and widely practices in homes and schools\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "147.121",
+        "by": "Norway",
+        "position": "noted",
+        "text": "Protect children’s rights to access to health and education by abolishing corporal punishment in schools"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to participate in public affairs & right to vote",
+    "blocks": [
+     {
+      "paras": "147.106, 147.107",
+      "n": 2,
+      "summary": "Electoral reform and election observation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Electoral laws were amended (2024), 164 CSOs were accredited for voter education and 12 international observer missions attended the 2025 elections; SADC found the elections fell short of its principles and special procedures raised questions on the electoral commission's independence.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 62 — United Republic of Tanzania: \"12 international observer missions comprising 135 observers observed the elections\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 35 — JS7: \"found that the elections had fallen short of its principles and guidelines\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 21 — United Nations country team: \"expressed concern about the independence and impartiality of the Independent National Electoral Commission\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.106",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Promote citizens’ ability to choose their government in free and fair periodic elections by reforming election observation and voter education programmes and by preventing political violence"
+       },
+       {
+        "paragraph": "147.107",
+        "by": "Sweden",
+        "position": "supported",
+        "text": "Enable future free, fair and transparent elections by undertaking political and electoral reforms, including the implementation of the recommendations issued in the final report of the European Union election observation mission to the United Republic of Tanzania of 2015"
+       }
+      ]
+     },
+     {
+      "paras": "147.102",
+      "n": 1,
+      "summary": "Ensure a safe and enabling environment for political parties, civil society and defenders",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Opposition rallies were restricted, opposition candidates disqualified and the 29 October 2025 elections followed by an internet shutdown and reports of lethal force; the State rejects the allegations.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 36 — JS21: \"the Authorities had systematically restricted opposition rallies and had curtailed the movement of members of opposition parties\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 23 — Special procedure mandate holders: \"had reportedly resulted in the disqualification of opposition candidates during the nomination process\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.102",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Ensure a safe and enabling environment for political parties, civil society organizations and human rights defenders to exercise their legitimate activities effectively and independently"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: accessibility, mobility",
+    "blocks": [
+     {
+      "paras": "145.106",
+      "n": 1,
+      "summary": "Accessibility of public places and transport",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "New courts, health facilities and schools incorporate ramps and accessible toilets, and accessibility regulations for public transport apply.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 40 — United Republic of Tanzania: \"newly constructed courts, Integrated Justice Centres, health facilities, schools and other public buildings incorporated ramps, accessible toilets and other universal accessibility features\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.106",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Improve accessibility of persons with disabilities to public places, including public buildings and public transport services"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Advancement of women",
+    "blocks": [
+     {
+      "paras": "145.107",
+      "n": 1,
+      "summary": "Protect the rights of women, children and persons with disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Gender, child-protection and disability policies were adopted and expanded.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 23 — United Republic of Tanzania: \"the National Gender and Women Development Policy of 2023\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.107",
+        "by": "Nigeria",
+        "position": "supported",
+        "text": "Sustain efforts and commitments in protecting the rights of women, children and people with disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: definition, general principles",
+    "blocks": [
+     {
+      "paras": "145.108",
+      "n": 1,
+      "summary": "Empower persons with disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Persons with Disabilities Policy was revised (2023), a National Assistive Technology Strategy 2024-2027 launched and interest-free loans extended; UNCT finds partial implementation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 34 — United Republic of Tanzania: \"the Person with Disabilities Policy of 2004 was revised in 2023\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 35 — United Republic of Tanzania: \"launched the National Assistive Technology Strategy (2024-2027) on 3rd December, 2024\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "145.108",
+        "by": null,
+        "position": "supported",
+        "text": "Continue to implement national policies and programmes aimed at empowering persons with disabilities (Syrian Arab Republic)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to marriage & family",
+    "blocks": [
+     {
+      "paras": "147.109",
+      "n": 1,
+      "summary": "Combat child marriage, FGM and discrimination against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "FGM prevalence fell from 10% to about 5% under national strategies, marriage registration was digitalised through RITA and pregnant girls may return to school; the Law of Marriage Act has not been amended.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 55 — United Republic of Tanzania: \"adopted the National Multisectoral Strategy to End Female Genital Mutilation (2025/26–2029/30)\"",
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 26 — United Republic of Tanzania: \"continued strengthening of the civil registration system, including marriage registration services administered by RITA\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.109",
+        "by": "Uganda",
+        "position": "supported",
+        "text": "Strengthen the policies and the legal framework to ensure marriage registration to address cases of early child marriage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Indigenous peoples",
+    "blocks": [
+     {
+      "paras": "147.131",
+      "n": 1,
+      "summary": "Clarify land rights and safeguard indigenous culture and livelihoods",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Tanzania states that no group is recognised as indigenous; special procedures and stakeholders report forced evictions in Ngorongoro and Ruaha.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 54 — United Republic of Tanzania: \"no special group or community in the country was recognized as indigenous\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TZA/3), para. 76 — JS18: \"planned eviction of pastoralists from at least 25 villages in Ngorongoro Division\""
+      ],
+      "position": "1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "147.131",
+        "by": "Finland",
+        "position": "supported_noted",
+        "text": "Clarify land rights and safeguard indigenous culture, including traditional livelihoods, especially for indigenous peoples, and adopt positive measures to protect them"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Refugees & asylum seekers",
+    "blocks": [
+     {
+      "paras": "147.132",
+      "n": 1,
+      "summary": "Protect refugee claimants and ensure voluntary repatriation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Tanzania hosts 164,901 refugees with UNHCR; the UN country team recommendations that non-refoulement be respected in the Burundi tripartite repatriation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/TZA/1), para. 63 — United Republic of Tanzania: \"Tanzania hosted 164,901 refugees in partnership with UNHCR and their country of origin\"",
+       "UN Compilation (A/HRC/WG.6/53/TZA/2), para. 56 — United Nations country team: \"comply with the principle of non-refoulement in the implementation of the tripartite agreement on the repatriation of Burundian refugees\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "147.132",
+        "by": null,
+        "position": "supported",
+        "text": "Uphold the rights of refugee claimants in the United Republic of Tanzania and ensure that those seeking asylum are protected pending status determination, that refugee status is determined in an impartial, fair and timely manner and that any repatriation of refugee claimants is conducted in accordance with the international human rights obligations of the United Republic of Tanzania (Canada)."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "hrc": null,
+ "combined_score": 3.51
+}

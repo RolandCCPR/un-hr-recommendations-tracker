@@ -169,11 +169,11 @@ CLUSTERS = {
     ),
     "Support to victims & witnesses": (
         D, "Support and referral services for victims",
-        "The documents contain no specific information on this ask.", [],
+        "The documents contain no specific information on this recommendation.", [],
     ),
     "Migrants": (
         D, "Access of migrants to services and decriminalisation of irregular entry",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Conditions of detention": (
         B, "Improve prison and detention conditions",
@@ -186,7 +186,7 @@ CLUSTERS = {
     ),
     "Right to health": (
         D, "Strengthen the national health system",
-        "The documents contain no specific information on measures on this ask.", [],
+        "The documents contain no specific information on measures on this recommendation.", [],
     ),
     "Labour rights and right to work": (
         C, "Legislate against sexual harassment and employment discrimination",
@@ -209,7 +209,7 @@ CLUSTERS = {
     ),
     "Legal & institutional reform": (
         D, "Create appropriate legislative and institutional conditions",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Right to social security": (
         B, "Promote and protect social security",
@@ -228,7 +228,7 @@ CLUSTERS = {
     ),
     "Persons with disabilities: accessibility, mobility": (
         D, "Accessibility of public buildings and transport",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "National Mechanisms for Reporting & Follow-up (NMRF)": (
         B, "National mechanism for monitoring and reporting",
@@ -245,11 +245,11 @@ CLUSTERS = {
     ),
     "Liberty & security of the person": (
         D, "Human-rights-centred reform of law enforcement",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Freedom of association": (
         D, "Freedom of association and assembly",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
 }
 
@@ -257,7 +257,7 @@ KEYWORDS = [
     # --- ratification-cluster specifics ---
     (r"Hague|Intercountry Adoption", D,
      "Ratify the Hague Intercountry Adoption Convention",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"American Convention", C,
      "Ratify the American Convention on Human Rights",
      "The country has ratified very few OAS human rights treaties; the Special Rapporteur encouraged it to join the inter-American system.",
@@ -304,7 +304,7 @@ KEYWORDS = [
      [("ILO Committee of Experts", "2", "40", "the minimum age for work or employment was 14 years and that the age of completion of compulsory education (set at 16 years under the Education Act of 2006) continued to be higher")]),
     (r"retention and re-integration of school-age|special education needs|children with disabilities|inclusive education", D,
      "Retention of pregnant students and inclusive education",
-     "The documents contain no specific information on measures on this ask.", []),
+     "The documents contain no specific information on measures on this recommendation.", []),
     (r"family life education curriculum|comprehensive sexuality education", B,
      "Revise family life and comprehensive sexuality education",
      "The regional CSEC Social Studies syllabus was revised in 2023 to include sexual orientation and gender identity content; the Health and Family Life Education programme has not been revised to the international guidance.",
@@ -317,7 +317,7 @@ KEYWORDS = [
       ("CCI", "3", "45", "legally permitted under the concept of 'reasonable punishment'")]),
     (r"sale, sexual|prostitution", D,
      "Legal protection of children from sale and sexual exploitation",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- other ---
     (r"standing invitation", B,
      "Standing invitation to special procedures",
@@ -329,13 +329,13 @@ KEYWORDS = [
      [("JS1", "3", "22", "an Employment Relations (Prevention of Sexual Harassment) Bill had been drafted but not yet adopted")]),
     (r"awareness campaigns aimed at address", D,
      "Awareness campaigns against discrimination",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"Continue taking measures against discrimination in all forms", C,
      "Continue measures against discrimination",
      "No comprehensive anti-discrimination legislation has been adopted.",
      [("United Nations subregional team", "2", "12", "no comprehensive anti-discrimination legislation had been adopted")]),
     (r"HIV/AIDS", D,
-     "Anti-discrimination protection for people with HIV", "The documents contain no information on this ask.", []),
+     "Anti-discrimination protection for people with HIV", "The documents contain no information on this recommendation.", []),
 ]
 
 FALLBACK = (

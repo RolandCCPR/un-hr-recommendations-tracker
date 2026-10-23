@@ -22,7 +22,7 @@
 <p>Two things, on the same A–E scale:</p>
 <ul>
 <li><strong>Human Rights Committee follow-up gradings</strong> for <strong>114 countries</strong> — the Committee's <em>own</em> grades, copied out of its reports.</li>
-<li><strong>A Universal Periodic Review (UPR) implementation assessment</strong> for <strong>4 countries</strong> (United States, Denmark, Namibia, Paraguay) — our assessment, produced with AI from the UN reports.</li>
+<li><strong>A Universal Periodic Review (UPR) implementation assessment</strong> for <strong>17 countries</strong> (United States, Denmark, Namibia, Paraguay, Antigua and Barbuda, Eswatini, Greece, Hungary, Ireland, Papua New Guinea, Samoa, Saint Vincent and the Grenadines, Suriname, Tajikistan, Tanzania, Thailand, and Trinidad and Tobago) — our assessment, produced with AI from the UN reports.</li>
 </ul>
 <p>Everything feeds one database, one score per country, and one world map.</p>
 <hr>
@@ -30,7 +30,7 @@
 <p>All documents are public and come from the UN Office of the High Commissioner for Human Rights (OHCHR).</p>
 <ul>
 <li><strong>Human Rights Committee follow-up:</strong> the UN Treaty Body Database (<code>tbinternet.ohchr.org</code>). We opened the list of <em>"Follow-up Report of the Special Rapporteur on follow-up on Concluding Observations"</em> for the ICCPR and downloaded every one of them — 120 documents in all, from the Committee's 98th session (2010) to its 145th (2026). Each PDF was converted to plain text. Only the reports from the 109th session (2013) on are used, because that is when the Committee began grading A–E in a table (before then it wrote "reply satisfactory / not satisfactory" in prose).</li>
-<li><strong>UPR (4 countries):</strong> each country's OHCHR UPR page. We took the country's 3rd-cycle recommendations from its OHCHR <em>"Thematic List of Recommendations"</em> Word file, and the three pre-sessional reports prepared for its 4th-cycle review: the <strong>National Report</strong> (…/1), the <strong>OHCHR Compilation of UN information</strong> (…/2) and the <strong>Summary of Stakeholders' submissions</strong> (…/3).</li>
+<li><strong>UPR (17 countries):</strong> each country's OHCHR UPR page. We took the country's 3rd-cycle recommendations from its OHCHR <em>"Thematic List of Recommendations"</em> Word file, and the three pre-sessional reports prepared for its 4th-cycle review: the <strong>National Report</strong> (…/1), the <strong>OHCHR Compilation of UN information</strong> (…/2) and the <strong>Summary of Stakeholders' submissions</strong> (…/3). Where a State submitted a mid-term report on its third-cycle recommendations, we read it as well, and each country's page lists it among its sources.</li>
 </ul>
 <p>The downloaded text of every report is kept in the project (<code>training/ccpr_followup/reports/</code>, <code>countries/*/evidence/</code>) so anyone can re-check what we read.</p>
 <hr>
@@ -63,17 +63,17 @@
 </li>
 </ol>
 <hr>
-<h2>4. The UPR implementation assessment (4 countries)</h2>
+<h2>4. The UPR implementation assessment (17 countries)</h2>
 <p>This part <strong>is</strong> our assessment. For each country:</p>
 <ol>
-<li>We took every 3rd-cycle recommendation and <strong>grouped them by theme</strong> (using OHCHR's own thematic labels), because most are near-duplicate asks from different States. Number ranges are collapsed for readability.
+<li>We took every 3rd-cycle recommendation and <strong>grouped them by theme</strong> (using OHCHR's own thematic labels), because most are near-duplicate recommendations from different States. Number ranges are collapsed for readability.
 </li>
 <li>For each theme we <strong>read the three 4th-cycle reports</strong> for what the State actually did since the last review.
 </li>
 <li>We assigned one <strong>A–E grade</strong> per theme (splitting a theme where its parts diverge), using this rule:
 <ul>
 <li><strong>A</strong> — the core of the recommendation is essentially done (a law is in force, a treaty is ratified, the thing asked for exists).</li>
-<li><strong>B</strong> — a concrete, on-point measure was adopted in the review period but it is incomplete (not yet in force, no results yet, only part of the ask).</li>
+<li><strong>B</strong> — a concrete, on-point measure was adopted in the review period but it is incomplete (not yet in force, no results yet, only part of the recommendation).</li>
 <li><strong>C</strong> — only the pre-existing framework, a stalled or rejected bill, or no action.</li>
 <li><strong>D</strong> — the reports say nothing on this point.</li>
 <li><strong>E</strong> — a new measure runs against the recommendation, or the State rejects it.</li>
@@ -82,7 +82,7 @@
 <li>Every grade is backed by <strong>verbatim quotations</strong> from the reports, with the UN body or organisation named, shown on the country page and in the database.
 </li>
 </ol>
-<p>The UPR grading is a <strong>first-pass assessment for expert review</strong>, not a final verdict.</p>
+<p>The UPR grading is assessed by AI and not checked by a human expert.</p>
 <hr>
 <h2>5. How the AI was "trained" to grade, and what it learned</h2>
 <p>"Trained" here does not mean machine learning. It means the AI studied ~15 years of the Committee's own practice and distilled the working rules — the same way a new staff member would learn by reading past files.</p>
@@ -108,7 +108,7 @@
 </li>
 <li>Secondary lessons: <strong>A</strong> is more reachable than we first assumed (one completed action can earn A for a "continue your efforts" recommendation, even without full outcome statistics); <strong>E</strong> must stay rare and specific (an explicit refusal or a new contrary law — not merely a bad situation on the ground); the Committee <strong>grades each lettered sub-part separately</strong> about two-thirds of the time; and where <strong>no NGO submitted</strong> anything, the Committee's grades tend to sit slightly higher because it has less with which to test the State's own account.
 </li>
-<li>We rewrote the rule in section 4 accordingly and <strong>re-ran all four UPR assessments</strong>. Denmark, Namibia and Paraguay moved from mostly-C to mostly-B; the United States stayed mostly C and E, because its record for the period is genuine inaction plus measures (in 2025) that run against the recommendations.
+<li>We rewrote the rule in section 4 accordingly and applied it to every UPR assessment on this site.
 </li>
 </ol>
 <p>The full working notes are in <code>training/CCPR_followup_grading_calibration.md</code> and <code>training/CCPR_followup_grading_corpus_analysis.md</code>; the blind-test grades and the country-by-country comparison are recorded there.</p>
@@ -124,15 +124,15 @@
 <hr>
 <h2>7. The database, map and website</h2>
 <ol>
-<li>One script (<code>site/build.py</code>) reads the four UPR databases and the Human Rights Committee data and writes a single SQLite file (<code>site/assessments.db</code>) with a row for every graded recommendation, plus a set of JSON files.
+<li>One script (<code>site/build.py</code>) reads the UPR databases and the Human Rights Committee data and writes a single SQLite file (<code>site/assessments.db</code>) with a row for every graded recommendation, plus a set of JSON files.
 </li>
-<li>The website (<code>site/public/</code>) is a plain static site: a world map coloured by the scores, a sortable country table, and one page per country showing every grade with its verbatim recommendation and the Committee's wording (or, for the four UPR countries, our reasoning and quotations).
+<li>The website (<code>site/public/</code>) is a plain static site: a world map coloured by the scores, a sortable country table, and one page per country showing every grade with its verbatim recommendation and the Committee's wording (or, for the UPR countries, our reasoning and quotations).
 </li>
 </ol>
 <hr>
 <h2>8. Things to be careful about</h2>
 <ul>
-<li><strong>UPR:</strong> only 4 countries; our assessment, AI-produced; a first pass for expert review; depends on what the UN and NGO reports happened to mention.</li>
+<li><strong>UPR:</strong> only 17 countries; our assessment, AI-produced and not checked by a human expert; depends on what the UN and NGO reports happened to mention.</li>
 <li><strong>Human Rights Committee:</strong> the Committee grades only 2–4 <em>priority</em> recommendations per country, not the whole record — a low score means those specific recommendations were not carried out, not an overall rating. We show each country at one point in time (its most recent evaluation, 2014–2026).</li>
 <li>Topic titles for pre-2019 evaluations are ours, not the UN's.</li>
 <li>Grades were transcribed and parsed by script; we spot-checked but have not hand-verified every one of the ~500 Human Rights Committee grade rows.</li>
@@ -148,7 +148,7 @@
 <h2>10. When is my country next?</h2>
 <p>The "When is my country next?" section of the home page shows, for each country, when it was last, and will next be, reviewed at the Universal Periodic Review (UPR) and in dialogue with the Human Rights Committee (HRCttee), over the last ten and the next ten years.</p>
 <p><strong>UPR.</strong> Dates come from the OHCHR calendar of the fourth cycle (updated 9 July 2026). Each review is shown with its session month and the month its outcome is adopted by the Human Rights Council: a November review is adopted in March of the following year, a January review in June, an April review in September. The fifth cycle is a prediction: it starts in November 2027, with three sessions a year (November, January, April), in the same order as the fourth cycle. The United States and Ukraine keep their original fourth-cycle place in that order. Myanmar's date is not set. The stakeholders' and State's report deadlines are the months in the calendar (fourth cycle) or predicted from the session month (fifth cycle).</p>
-<p><strong>HRCttee.</strong> Past dialogues come from the Committee's concluding observations and session lists. The next dialogue is set in this order: (1) if the Committee has adopted a list of issues prior to reporting (LOIPR) since the last dialogue, two years after that LOIPR; (2) otherwise the year stated in the last concluding observations; (3) otherwise the date the concluding observations ask for the State's next report, plus one year. The LOIPR is placed two years before the dialogue and the State's report one year before it, in the session month of the last dialogue (March, June or October; the summer session counts as June). The NGO deadline for a LOIPR is two months before it, and for the dialogue one month before. The follow-up date is the one stated in the concluding observations. A date the Committee has not adopted or stated is labelled "tentative". A date that has already passed is shown as "Expected [month year], not yet scheduled". A country with no dialogue in the last ten years is labelled as such, and a country that is not party to the Covenant has no HRCttee row.</p>
+<p><strong>HRCttee.</strong> Past dialogues come from the Committee's concluding observations and session lists. The next dialogue is set in this order: (1) if the Committee has adopted a list of issues prior to reporting (LOIPR) since the last dialogue, two years after that LOIPR; (2) otherwise the year stated in the last concluding observations; (3) otherwise the date the concluding observations request for the State's next report, plus one year. The LOIPR is placed two years before the dialogue and the State's report one year before it, in the session month of the last dialogue (March, June or October; the summer session counts as June). The NGO deadline for a LOIPR is two months before it, and for the dialogue one month before. The follow-up date is the one stated in the concluding observations. A date the Committee has not adopted or stated is labelled "tentative". A date that has already passed is shown as "Expected [month year], not yet scheduled". A country with no dialogue in the last ten years is labelled as such, and a country that is not party to the Covenant has no HRCttee row.</p>
     <p class="note" style="margin-top:30px"><a href="index.html">◂ Back to the world map</a></p>
   </div>
 </main>

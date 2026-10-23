@@ -275,15 +275,15 @@ CLUSTERS = {
     ),
     "Cooperation & Follow up with Treaty Bodies": (
         D, "Open, merit-based selection of treaty-body candidates",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Right to development": (
         D, "Promote infrastructure and rural development",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Business & Human Rights": (
         D, "Implement the Guiding Principles on Business and Human Rights",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Discrimination against women": (
         C, "Adopt a comprehensive definition of discrimination against women",
@@ -303,15 +303,15 @@ CLUSTERS = {
     ),
     "Cooperation & follow up with the Universal Periodic Review (UPR)": (
         D, "Strengthen implementation and monitoring of UPR recommendations",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "National Mechanisms for Reporting & Follow-up (NMRF)": (
         D, "Establish a permanent national mechanism for reporting and follow-up",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Right to adequate housing": (
         D, "Fulfil the rights to housing and health",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
 }
 

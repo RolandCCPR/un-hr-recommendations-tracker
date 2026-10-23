@@ -7,6 +7,7 @@ Assessment of Eswatini's implementation of the 222 recommendations received in t
 - **National Report** — A/HRC/WG.6/53/SWZ/1
 - **UN Compilation** — A/HRC/WG.6/53/SWZ/2, OHCHR
 - **Stakeholders' Summary** — A/HRC/WG.6/53/SWZ/3, OHCHR
+- **State mid-term report** — Eswatini, UPR Mid-Term Report 2022-2024 (water and sanitation, gender-based violence, inclusive education), OHCHR website
 
 Grades: **A** largely satisfactory · **B** partially satisfactory · **C** not satisfactory / no relevant action · **D** no information · **E** measures contrary to, or rejection of, the recommendation.
 
@@ -17,13 +18,13 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 | Grade | Count | Share |
 |---|---:|---:|
 | **A** — Largely implemented / action largely satisfactory | 5 | 2% |
-| **B** — Partially implemented / steps taken, further action needed | 107 | 48% |
+| **B** — Partially implemented / steps taken, further action needed | 110 | 50% |
 | **C** — Not implemented / no relevant action taken | 93 | 42% |
-| **D** — No information available on implementation | 10 | 5% |
+| **D** — No information available on implementation | 7 | 3% |
 | **E** — Contrary measures taken, or recommendation rejected | 7 | 3% |
 | **Total** | 222 | 100% |
 
-**Partial implementation (B)** is the dominant outcome (107 of 222 asks) alongside a large block of **No relevant action (C)** (93 asks). B reflects concrete measures in the National Report: the Commission on Human Rights and Public Administration Bill introduced in Parliament (2026), the Legal Aid Act (2025), a reconstituted Judicial Service Commission, the National Disability Plan of Action 2024-2028 and a National Disability Advisory Council, a GBV Coordination Mechanism, the Sexual, Reproductive, Maternal, Newborn, Child, Adolescent Health and Nutrition Strategy 2024-2028, education reforms (primary dropout down from 6.5% to 4.8%) and higher social grants. C persists on ratification (OP-CAT, OP-CEDAW, the Second Optional Protocol and others), the death penalty, same-sex relations and anti-discrimination law for sexual orientation and gender identity, corporal punishment, the Family Law Bills (the Marriages Bill is still not enacted, so the marriage age stays at 16), political parties, torture and accountability for the 2021 unrest and the killing of Thulani Maseko. **Contrary measures (E)** apply to seven asks: the Government obtained a Supreme Court judgment (August 2024) upholding the Suppression of Terrorism Act and the Sedition and Subversive Activities Act and made no reform, and the UN reports excessive force against protests. Water and sanitation (and part of GBV and inclusive education) were referred to a mid-term report that was not reviewed here, so water asks are **D**.
+**Partial implementation (B)** is the dominant outcome (110 of 222 recommendations) alongside a large block of **No relevant action (C)** (93 recommendations). B reflects concrete measures in the National Report: the Commission on Human Rights and Public Administration Bill introduced in Parliament (2026), the Legal Aid Act (2025), a reconstituted Judicial Service Commission, the National Disability Plan of Action 2024-2028 and a National Disability Advisory Council, a GBV Coordination Mechanism, the Sexual, Reproductive, Maternal, Newborn, Child, Adolescent Health and Nutrition Strategy 2024-2028, education reforms (primary dropout down from 6.5% to 4.8%) and higher social grants. C persists on ratification (OP-CAT, OP-CEDAW, the Second Optional Protocol and others), the death penalty, same-sex relations and anti-discrimination law for sexual orientation and gender identity, corporal punishment, the Family Law Bills (the Marriages Bill is still not enacted, so the marriage age stays at 16), political parties, torture and accountability for the 2021 unrest and the killing of Thulani Maseko. **Contrary measures (E)** apply to seven recommendations: the Government obtained a Supreme Court judgment (August 2024) upholding the Suppression of Terrorism Act and the Sedition and Subversive Activities Act and made no reform, and the UN reports excessive force against protests. The National Report refers water and sanitation, gender-based violence and inclusive education to the State mid-term report (2022-2024), which was also used: it records rural water schemes, solar-powered pumps and disability-accessible water facilities (**B** on water and sanitation).
 
 ## Assessment by theme
 
@@ -50,7 +51,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -125,7 +126,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -269,7 +270,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -393,7 +394,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -690,12 +691,15 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 
 *3 of 222 — position: 3 supported.*
 
-**Grade: D — No cooperation with the Committee**
+**Grade: B — Information/action partially satisfactory**
 
 **Evidence:**
-- National Report (A/HRC/WG.6/53/SWZ/1), para. 2 — Eswatini: "These recommendations include curbing gender-based violence, improving access to clean water, sanitation and hygiene, and ensuring inclusive access to education"
+- State mid-term report (mid-term report), para. 36 — Eswatini: "The proportion of the national population which has access to safely managed clean drinking water increased from 75% in 2022 to 81.2% in 2023"
+- State mid-term report (mid-term report), para. 37 — Eswatini: "introducing solar- powered pumps as a renewable energy solution"
+- State mid-term report (mid-term report), para. 38 — Eswatini: "New facility designs now accommodate persons with disabilities (PWDs)"
+- UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 61 — Committee on the Rights of the Child: "many children lived in informal settlements without access to water or sanitation"
 
-**Assessment:** The National Report refers water and sanitation to the mid-term report and gives no information; the UN country team notes children in informal settlements without water.
+**Assessment:** The National Report refers water and sanitation to Eswatini's mid-term report, which records rural water schemes, a solar-powered pump pilot, disability-accessible water facilities and a sanitation project; the proportion with safely managed drinking water rose from 75% to 81.2% (2022-2023). The Committee on the Rights of the Child notes children in informal settlements without water.
 
 ---
 
@@ -775,7 +779,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 

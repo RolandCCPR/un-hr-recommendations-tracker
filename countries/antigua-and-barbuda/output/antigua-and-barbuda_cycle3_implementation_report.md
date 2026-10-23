@@ -159,7 +159,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -174,7 +174,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 88.34 (Extend a standing invitation to special procedures)
 
@@ -230,7 +230,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -245,7 +245,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -287,7 +287,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendations 88.129, 88.130 (Eliminate discrimination against women)
 
@@ -418,7 +418,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/ATG/1), para. 60 — Antigua and Barbuda: "In 2023, the Directorate developed a new Gender Based Violence Action Plan"
 
-**Assessment:** A GBV Action Plan (2023), the SARC and a gender policy in final draft advance this ask.
+**Assessment:** A GBV Action Plan (2023), the SARC and a gender policy in final draft advance this recommendation.
 
 ### Recommendation 88.67 (Regulatory inclusion of LGBTI persons)
 
@@ -429,7 +429,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 88.152 (Strengthen the Disabilities and Equal Opportunities Act)
 
@@ -486,7 +486,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -622,7 +622,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -679,7 +679,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -890,7 +890,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 88.127 (Adopt a national gender policy)
 
@@ -912,7 +912,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/ATG/1), para. 60 — Antigua and Barbuda: "In 2023, the Directorate developed a new Gender Based Violence Action Plan"
 
-**Assessment:** A GBV Action Plan (2023), the SARC and a Cabinet-approved shelter partnership advance the policy ask; no temporary special measures are reported.
+**Assessment:** A GBV Action Plan (2023), the SARC and a Cabinet-approved shelter partnership advance the policy recommendation; no temporary special measures are reported.
 
 ---
 
@@ -978,7 +978,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 88.142 (Mandate to promote and protect women's rights)
 

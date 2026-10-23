@@ -22,7 +22,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 | **E** — Contrary measures taken, or recommendation rejected | 2 | 1% |
 | **Total** | 166 | 100% |
 
-**No relevant action (C)** is the dominant outcome, with a thin evidence base on the State's own account because its National Report was not yet available (14 asks are **D**). **Partial implementation (B)** appears where the documents record concrete measures: the 2023 National Strategic Action Plan on gender-based and sexual violence, anti-trafficking plans, shelters and a first conviction, a National Climate Change Policy, near-universal free education and a comprehensive social protection system. **No relevant action (C)** persists on the mandatory death penalty (48 people under sentence of death in 2026, no moratorium), treaty ratification, refugee legislation, an anti-discrimination law, a national human rights institution and prison conditions. There is a clear regression (**E**): consensual same-sex relations were re-criminalised in 2025 when the Court of Appeal reinstated sections 13 and 16 of the Sexual Offences Act, and repeated States of Emergency since 2024 have expanded police powers.
+**No relevant action (C)** is the dominant outcome, with a thin evidence base on the State's own account because its National Report was not yet available (14 recommendations are **D**). **Partial implementation (B)** appears where the documents record concrete measures: the 2023 National Strategic Action Plan on gender-based and sexual violence, anti-trafficking plans, shelters and a first conviction, a National Climate Change Policy, near-universal free education and a comprehensive social protection system. **No relevant action (C)** persists on the mandatory death penalty (48 people under sentence of death in 2026, no moratorium), treaty ratification, refugee legislation, an anti-discrimination law, a national human rights institution and prison conditions. There is a clear regression (**E**): consensual same-sex relations were re-criminalised in 2025 when the Court of Appeal reinstated sections 13 and 16 of the Sexual Offences Act, and repeated States of Emergency since 2024 have expanded police powers.
 
 ## Assessment by theme
 
@@ -324,7 +324,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -339,7 +339,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -354,7 +354,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -412,7 +412,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -601,7 +601,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -642,7 +642,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 

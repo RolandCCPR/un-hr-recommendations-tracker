@@ -382,7 +382,7 @@ CLUSTERS = {
     ),
     "Inter-State cooperation and assistance": (
         D, "Avoid contributing to violations from unilateral coercive measures",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Rights related to marriage & family": (
         B, "Policies to support the family",
@@ -394,7 +394,7 @@ CLUSTERS = {
     ),
     "National Mechanisms for Reporting & Follow-up (NMRF)": (
         D, "Permanent national mechanism for implementation, reporting and follow-up",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
 }
 
@@ -439,7 +439,7 @@ KEYWORDS = [
       ("JS4", "3", "19", "widespread evidence of racial profiling, discriminatory conduct and inadequate cultural sensitivity by An Garda Síochána")]),
     (r"^Conduct impartial and independent investigations into the excessive use of violence by the security forces against people of African descent", D,
      "Investigate excessive use of violence by security forces against people of African descent",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"Investigate cases of hate speech, including by politicians", C,
      "Investigate hate speech, including by politicians",
      "IHREC reports that hate crimes and incidents are rising with a chilling effect on political participation; the National Report gives no information on hate speech by politicians.",
@@ -468,9 +468,10 @@ KEYWORDS = [
      "No expansion of the mandate is reported; the National Report refers only to IHREC's existing mandate to promote intercultural understanding.",
      [("Ireland", "1", "6", "IHREC also has a mandate under equality legislation to promote intercultural understanding")]),
     # --- women ---
-    (r"^Encourage youth initiatives", D,
+    (r"^Encourage youth initiatives", B,
      "Youth initiatives on gender equality",
-     "The documents contain no information on this ask.", []),
+     "Ireland reports funding of youth services of €77.95 million in 2024 (up 26% from 2020) under youth schemes; nothing specific on gender-equality discussions is reported.",
+     [("Ireland", "M", "157.193", "Ireland continues to support youth initiatives, with a total investment of €77.95M allocated to youth services in 2024, an increase of 26% from the €61.78M allocated in 2020")]),
     (r"article 41 \(2\)|articles 40 and 41", B,
      "Amend Article 41.2 of the Constitution",
      "The Government put a constitutional amendment to a referendum in 2024 proposing to delete Article 41.2; it was defeated and CEDAW recommends a new referendum.",
@@ -522,12 +523,13 @@ KEYWORDS = [
      "Apologise and provide reparations to mixed-race children in institutions",
      "The 2026 Special Rapporteur report identifies gaps in recognition, justice and redress, and AMRI reports that mixed-race children continue to be denied adequate reparations.",
      [("AMRI", "3", "20", "continued to be denied adequate reparations as adults")]),
-    (r"^Take further measures to promote the rights of the child, especially in its COVID-19 response", D,
+    (r"^Take further measures to promote the rights of the child, especially in its COVID-19 response", B,
      "Promote children's rights in the COVID-19 response",
-     "The documents contain no information on this ask.", []),
+     "Ireland's mid-term report describes a two-phase project with the Children's Rights Alliance, Tusla and others on using children's rights to recover from the pandemic.",
+     [("Ireland", "M", "157.217", "Building Children’s Futures: Using Children’s Rights to Recover from the Global Pandemic")]),
     (r"^Sign the Declaration on Children, Youth and Climate Action", D,
      "Sign the Declaration on Children, Youth and Climate Action",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^Cease torture and other cruel or inhuman treatment of children in places of reform", C,
      "Prosecute abuse of children in reform and industrial schools",
      "Supports for survivors were legislated (2025) but IHREC reports that no individual has been prosecuted for institutional abuse.",
@@ -546,7 +548,7 @@ KEYWORDS = [
     # --- health ---
     (r"intersex children", D,
      "Health-care protocol for intersex children",
-     "The documents contain no information on this ask; the Human Rights Committee asks that non-consensual sex assignment be prohibited.",
+     "The documents contain no information on this recommendation; the Human Rights Committee requests that non-consensual sex assignment be prohibited.",
      []),
     # --- education ---
     (r"^(Consider introducing a legislative guarantee of free primary and secondary education|Fully implement the Education for Persons with Special Educational Needs Act 2004)", C,
@@ -572,5 +574,5 @@ KEYWORDS = [
      [("IHREC", "3", "9", "hold a referendum to amend the Constitution to include provisions on the protection of biodiversity and the environment")]),
 ]
 
-FALLBACK = (D, "No information on this ask",
-            "The documents contain no information on this ask.", [])
+FALLBACK = (D, "No information on this recommendation",
+            "The documents contain no information on this recommendation.", [])

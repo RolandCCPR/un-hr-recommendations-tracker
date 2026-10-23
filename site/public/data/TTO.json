@@ -1,0 +1,1902 @@
+{
+ "a3": "TTO",
+ "name": "Trinidad and Tobago",
+ "num": 780,
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "39th session (2021)",
+   "co_symbol": "A/HRC/49/16",
+   "review": "November 2026 (session 53)",
+   "sources": [
+    "The **National Report** (A/HRC/WG.6/53/TTO/1) was not yet available at the time of assessment.",
+    "**UN Compilation** — A/HRC/WG.6/53/TTO/2",
+    "**Stakeholders' Summary** — A/HRC/WG.6/53/TTO/3"
+   ],
+   "headline": "**No relevant action (C)** is the dominant outcome, with a thin evidence base on the State's own account because its National Report was not yet available (14 recommendations are **D**). **Partial implementation (B)** appears where the documents record concrete measures: the 2023 National Strategic Action Plan on gender-based and sexual violence, anti-trafficking plans, shelters and a first conviction, a National Climate Change Policy, near-universal free education and a comprehensive social protection system. **No relevant action (C)** persists on the mandatory death penalty (48 people under sentence of death in 2026, no moratorium), treaty ratification, refugee legislation, an anti-discrimination law, a national human rights institution and prison conditions. There is a clear regression (**E**): consensual same-sex relations were re-criminalised in 2025 when the Court of Appeal reinstated sections 13 and 16 of the Sexual Offences Act, and repeated States of Emergency since 2024 have expanded police powers.",
+   "note": "No national report was available for this review when the assessment was made, so more recommendations are graded D (no information).",
+   "n": 166,
+   "grade_dist": {
+    "A": 0,
+    "B": 62,
+    "C": 88,
+    "D": 14,
+    "E": 2
+   },
+   "score": 3.27
+  },
+  "themes": [
+   {
+    "theme": "Constitutional & legislative framework",
+    "blocks": [
+     {
+      "paras": "108.1",
+      "n": 1,
+      "summary": "Harmonise national legislation with international commitments",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Gaps remain between domestic law and the ICCPR, and reservations remain in force.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 6 — Human Rights Committee: \"gaps remained between the domestic legal framework and the International Covenant on Civil and Political Rights\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.1",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Continue efforts to harmonize national legislation with the international human rights instruments which Trinidad and Tobago has ratified or to which it has acceded"
+       }
+      ]
+     },
+     {
+      "paras": "108.5",
+      "n": 1,
+      "summary": "Enact the police complaints authority bill",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on enactment of this bill; the Police Complaints Authority is reported to have limited powers and resources.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.5",
+        "by": "Kenya",
+        "position": "supported",
+        "text": "Complete enactment of the Special Reserve Police and Municipal Police Complaints Authority bill into law"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "109.1-109.9, 109.12-109.19, 109.21-109.26, 109.29",
+      "n": 24,
+      "summary": "Ratify outstanding international instruments",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The documents show that CAT, ICPPED, ICRMW, the Second Optional Protocol to the ICCPR and the CRC communications procedure remain unratified and the First Optional Protocol to the ICCPR has not been re-acceded to; no ratification in the review period is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 2 — United Nations country team: \"recommended that Trinidad and Tobago ratify all outstanding international human rights instruments\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 3 — Human Rights Committee: \"recommended reacceding to the Optional Protocol to the International Covenant on Civil and Political Rights\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 2 — JS2: \"had not ratified the Second Optional Protocol to the International Covenant on Civil and Political Rights\""
+      ],
+      "position": "24 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.1",
+        "by": "Malawi; Senegal; Argentina",
+        "position": "noted",
+        "text": "Consider acceding to the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "109.2",
+        "by": "Vanuatu",
+        "position": "noted",
+        "text": "Consider acceding to the Convention for the Protection of All Persons from Enforced Disappearance and the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "109.3",
+        "by": "Malawi",
+        "position": "noted",
+        "text": "Consider acceding to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "109.4",
+        "by": "Peru",
+        "position": "noted",
+        "text": "Consider acceding to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "109.5",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Denmark) (Fiji) (Germany) (Italy) (Mauritius); Ratify urgently the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "109.6",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and its Optional Protocol"
+       },
+       {
+        "paragraph": "109.7",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and its Optional Protocol, in line with Sustainable Development Goal 16"
+       },
+       {
+        "paragraph": "109.8",
+        "by": "Indonesia",
+        "position": "noted",
+        "text": "Take necessary measures to ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "109.9",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Continue efforts to ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families and the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "109.12",
+        "by": "Nepal",
+        "position": "noted",
+        "text": "Consider ratifying the second optional protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.13",
+        "by": "as previously recommended; Slovenia",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.14",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, so as to bring the legislation into conformity with the de facto situation"
+       },
+       {
+        "paragraph": "109.15",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Establish an official moratorium on executions with a view to abolishing capital punishment and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.16",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Establish a de jure moratorium on the death penalty with a view to ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.17",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Fully abolish the death penalty and ratify the Second Optional Protocol of the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.18",
+        "by": "France",
+        "position": "noted",
+        "text": "Abolish de jure the death penalty and ratify the Second Optional Protocol relating to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.19",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Abolish the use of the death penalty and, as a first step, immediately establish an official moratorium on executions, and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.21",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Abolish the death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.22",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Establish a de jure moratorium on the death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.23",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Establish a de jure moratorium on the application of the death penalty that may lead to its removal from legislation and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.24",
+        "by": "Panama",
+        "position": "noted",
+        "text": "Sign the Declaration on Children, Youth and Climate Action and ratify the Optional Protocol to the Convention on the Rights of the Child on the sale of children, child prostitution and child pornography and the Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean"
+       },
+       {
+        "paragraph": "109.25",
+        "by": "Japan",
+        "position": "noted",
+        "text": "Continue to strengthen efforts to further promote human rights protection by participating in more international agreements, particularly the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "109.26",
+        "by": "Japan",
+        "position": "noted",
+        "text": "Continue to strengthen efforts to further promote human rights protection by participating in more international agreements, particularly the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "109.29",
+        "by": "Costa Rica",
+        "position": "noted",
+        "text": "Align its national framework for the ratification and implementation of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, the International Convention for the Protection of All Persons from Enforced Disappearance and the Optional Protocols to the Convention on the Rights of the Child"
+       }
+      ]
+     },
+     {
+      "paras": "109.10, 109.11",
+      "n": 2,
+      "summary": "Ratify OP-CEDAW / OPs to the CRC",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on the status of these protocols.",
+      "evidence": [],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.10",
+        "by": "Vanuatu",
+        "position": "noted",
+        "text": "Consider acceding to the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "109.11",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Ratify the Optional Protocols to the Convention on the Rights of the Child on the involvement of children in armed conflict and on the sale of children, child prostitution and child pornography"
+       }
+      ]
+     },
+     {
+      "paras": "109.20, 109.27",
+      "n": 2,
+      "summary": "Awareness-raising and public debate on the death penalty",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on awareness-raising or public debate on the death penalty.",
+      "evidence": [],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.20",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Promote a public debate with a view to abolishing the death penalty at all times and to ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.27",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Strengthen awareness-raising campaigns on the death penalty and hold public debates on the subject from a human rights perspective, including in its parliament, with a view to realizing its definitive abolition and the ratification of the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, as soon as possible"
+       }
+      ]
+     },
+     {
+      "paras": "109.38",
+      "n": 1,
+      "summary": "Request OHCHR support for ratification",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on a request for OHCHR support.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.38",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Request technical support from OHCHR to advance the ratification of the main international human rights instruments to which the country is not yet a party, as well as to ensure the alignment of its national legal system with the obligations derived from ratified human rights treaties"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "108.2, 108.32-108.35, 108.37",
+      "n": 6,
+      "summary": "Establish a Paris-Principles national human rights institution",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No compliant institution exists; there is no clarity or progress on converting the Equal Opportunity Commission.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 7 — Human Rights Committee: \"there was a lack of clarity and progress on plans to convert the Commission into a national human rights institution\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 5 — QuFo; JS4; JS5: \"the continued absence of an independent National Human Rights Institution (NHRI) compliant with the Paris Principles\""
+      ],
+      "position": "1 supported, 5 noted",
+      "recommendations": [
+       {
+        "paragraph": "108.2",
+        "by": "the Paris Principles; Peru",
+        "position": "supported",
+        "text": "Assess the pertinence of creating a national human rights institution in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights"
+       },
+       {
+        "paragraph": "109.32",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Establish a national human rights institution in accordance with the Paris Principles (Iraq) (Montenegro) (Ukraine); Take steps to establish a national human rights institution in accordance with the Paris Principles (Malaysia); Establish and launch a national human rights institution in accordance with the Paris principles"
+       },
+       {
+        "paragraph": "109.33",
+        "by": "India",
+        "position": "noted",
+        "text": "Consider establishing a national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "109.34",
+        "by": "Haiti",
+        "position": "noted",
+        "text": "Consider, by all means, the creation of a national institution for the promotion and protection of human rights in compliance with the Paris principles"
+       },
+       {
+        "paragraph": "109.35",
+        "by": "Togo",
+        "position": "noted",
+        "text": ". Create a national human rights institution with powers, mechanisms and means of operation that guarantee its independence and effectiveness"
+       },
+       {
+        "paragraph": "109.37",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Establish a well-resourced national human rights mechanism in line with the Paris Principles to address discrimination and violence against LGBTI+ persons"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights education, trainings & awareness raising",
+    "blocks": [
+     {
+      "paras": "108.3, 108.4, 108.6, 108.7",
+      "n": 4,
+      "summary": "Human rights training for officials",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Capacity-building for law enforcement and public officials was delivered through UN technical assistance but is project-dependent and not institutionalised.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 10 — United Nations country team: \"human rights training remained project-dependent and was not systematically institutionalized\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.3",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Provide human rights education and training for government officials and for law enforcement officers, including through international cooperation with partners"
+       },
+       {
+        "paragraph": "108.4",
+        "by": "Panama",
+        "position": "supported",
+        "text": "Develop sustainable and human rights-centred training programmes for the police and the judiciary regarding issues such as gender-based violence, human trafficking, migrant smuggling, sexual exploitation and forms of child abuse"
+       },
+       {
+        "paragraph": "108.6",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Enhance training programmes for judicial and law enforcement officers in the areas of gender-based violence, human trafficking and child abuse"
+       },
+       {
+        "paragraph": "108.7",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Continue efforts to increase the training of personnel and set up the necessary infrastructure to properly include students with disabilities and children with special needs"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Good governance & corruption",
+    "blocks": [
+     {
+      "paras": "108.8",
+      "n": 1,
+      "summary": "Curb corruption and strengthen transparent procurement",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Human Rights Committee welcomed steps to prevent and combat corruption, but the whistle-blower protection bill is delayed and enforcement is weak.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 9 — Human Rights Committee: \"welcomed the steps taken to prevent and combat corruption among persons exercising public functions\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 9 — Human Rights Committee: \"delays in adopting the whistle-blower protection bill\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.8",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Take concrete actions to curb corruption by creating transparent public procurement processes at all levels of government and investigating police officers who take or solicit bribes"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "108.9-108.12, 108.52",
+      "n": 5,
+      "summary": "Climate policy and participation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Trinidad and Tobago adopted a National Climate Change Policy, submitted its second NDC and strengthened disaster preparedness; participation of marginalised groups remains limited.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 37 — United Nations country team: \"the adoption of the National Climate Change Policy, the submission of the second nationally determined contribution and strengthened disaster preparedness\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 37 — United Nations country team: \"the limited participation of marginalized groups\""
+      ],
+      "position": "4 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "108.9",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue to implement policies to mitigate the effects of climate change and strengthen the resilience of communities from a human rights approach"
+       },
+       {
+        "paragraph": "108.10",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure the meaningful participation of women, children, persons with disabilities and local communities in the development and implementation of climate change and disaster risk reduction frameworks"
+       },
+       {
+        "paragraph": "108.11",
+        "by": "Barbados",
+        "position": "supported",
+        "text": "Maintain its commitment to advocating for climate action that is consistent with existing human rights agreements, obligations, standards and principles"
+       },
+       {
+        "paragraph": "108.12",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Adopt and implement measures to adequately protect the population against the risks of natural disasters, inevitable due to climate change"
+       },
+       {
+        "paragraph": "109.52",
+        "by": "Vanuatu",
+        "position": "noted",
+        "text": "Continue to implement effective climate change and disaster risk reduction policies, and advocate for climate action by all nations"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to life",
+    "blocks": [
+     {
+      "paras": "108.13",
+      "n": 1,
+      "summary": "Combat violent crime while respecting rights",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Violent crime remains high; repeated States of Emergency since 2024 have expanded police powers and are reported not to be yielding results.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 17 — United Nations country team: \"there continued to be high levels of violent crime in Trinidad and Tobago\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 4 — JS4: \"State of Emergency had been repeatedly in effect\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.13",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to combat violent crimes to ensure the safety of the people"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Conditions of detention",
+    "blocks": [
+     {
+      "paras": "109.62, 109.64, 109.67, 109.68",
+      "n": 4,
+      "summary": "Improve prison conditions and reduce pretrial detention",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Conditions remain inadequate despite ongoing reforms; most prison infrastructure projects remain unfinished and remand detention is prolonged; a 2026 Parole Bill has been introduced.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 18 — Human Rights Committee: \"despite ongoing reforms, detention conditions remained inadequate\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 10 — JS2: \"most prison infrastructure projects remained unfinished despite significant public expenditure\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 18 — United Nations country team: \"the 2026 Parole Bill sought to introduce an early release system\""
+      ],
+      "position": "4 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.62",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Adopt comprehensive public policies aimed at guaranteeing the rights of persons deprived of liberty and eliminate overcrowding in prisons"
+       },
+       {
+        "paragraph": "109.64",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Take further measures to improve prison infrastructure and the system for determining the security classification of inmates"
+       },
+       {
+        "paragraph": "109.67",
+        "by": "Malawi",
+        "position": "noted",
+        "text": "Continue to improve conditions for prisoners and persons awaiting trial by further investing in infrastructure, training personnel and taking actions such as expanding judicial discretion to reduce bail terms and amounts for people accused of petty offences"
+       },
+       {
+        "paragraph": "109.68",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Ensure that prison conditions meet international human rights standards, including by starting a reform of the pretrial detention system to reduce the number of persons in pretrial detention"
+       }
+      ]
+     },
+     {
+      "paras": "108.14, 108.63",
+      "n": 2,
+      "summary": "Reform the criminal justice and penitentiary system",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Reforms are ongoing and a 2026 Parole Bill has been introduced, but delays and overcrowding persist.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 18 — United Nations country team: \"the 2026 Parole Bill sought to introduce an early release system with structured supervision\""
+      ],
+      "position": "1 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "108.14",
+        "by": "the Nelson Mandela Rules; Mexico",
+        "position": "supported",
+        "text": "Strengthen the criminal justice system and improve the situation in prisons in accordance with the United Nations Standard Minimum Rules for the Treatment of Prisoners"
+       },
+       {
+        "paragraph": "109.63",
+        "by": "France",
+        "position": "noted",
+        "text": "Carry out the necessary reforms to the judicial and penitentiary system, in order to resolve the problem of prison overcrowding and improve conditions of detention"
+       }
+      ]
+     },
+     {
+      "paras": "109.65",
+      "n": 1,
+      "summary": "Review and update the Prisons Act 2014",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "JS2 recommends the review; no update is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 10 — JS2: \"reviewing and updating the Miscellaneous Provisions (Prisons) Act, 2014\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.65",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Review and update the Miscellaneous Provisions (Prisons) Act, 2014, and operationalize the national budget and other sectoral mechanisms to improve material conditions in detention facilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rule of law & impunity",
+    "blocks": [
+     {
+      "paras": "108.15",
+      "n": 1,
+      "summary": "Investigate unlawful killings by police",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Investigations of police misconduct face significant delays; an estimated 55 police killings occurred in 2025.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 17 — Human Rights Committee: \"significant delays in investigations into serious police misconduct, which had yielded limited results\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 21 — United Nations country team: \"An estimated 55 police killings had occurred in 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.15",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Investigate reports of arbitrary or unlawful killings and human trafficking by the police and reports of excessive use of force by prison guards and hold accountable any officers found to be responsible"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "108.16-108.23, 108.69-108.72",
+      "n": 12,
+      "summary": "Strengthen anti-trafficking law, victim protection and prosecution",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Trinidad and Tobago adopted a National Plan of Action, established specialised support units and shelters, improved victim identification and secured a first conviction under the Trafficking in Persons Act; prosecution rates remain low and official complicity is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 15 — ECLJ: \"including the adoption of a National Plan of Action, enhanced victim identification and awareness-raising initiatives, the establishment of specialized support units and shelters\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 15 — ECLJ: \"the first conviction secured under the Trafficking in Persons Act\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 27 — United Nations country team: \"enforcement outcomes remained inadequate\""
+      ],
+      "position": "8 supported, 4 noted",
+      "recommendations": [
+       {
+        "paragraph": "108.16",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Strengthen measures against trafficking in persons by creating awareness programmes for law enforcement officials and the population to encourage the reporting of cases of trafficking, and continue efforts to investigate, prosecute and punish those who commit this crime"
+       },
+       {
+        "paragraph": "108.17",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Strengthen the law and resources to address human trafficking, specifically for women and girls"
+       },
+       {
+        "paragraph": "108.18",
+        "by": "Serbia",
+        "position": "supported",
+        "text": "Further strengthen the anti-trafficking legislation and seek to increase regional cooperation in this area, primarily through greater exchange of information"
+       },
+       {
+        "paragraph": "108.19",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Intensify efforts to address the causes of trafficking in women and girls and to strengthen the implementation of legislation against trafficking in persons, thoroughly investigating, prosecuting and punishing the perpetrators"
+       },
+       {
+        "paragraph": "108.20",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Intensify capacity-building programmes for public officials in combating trafficking in persons, especially women and children, and ensure the provision of adequate assistance to victims"
+       },
+       {
+        "paragraph": "108.21",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Intensify efforts to address trafficking in persons, including of women and children, bringing all those responsible to justice and providing shelter, legal assistance and care to the victims"
+       },
+       {
+        "paragraph": "108.22",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Intensify efforts to combat trafficking in persons and forced labour"
+       },
+       {
+        "paragraph": "108.23",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Boost laws and regulations to combat trafficking in women and girls"
+       },
+       {
+        "paragraph": "109.69",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Develop a national action plan to raise public awareness of trafficking in persons and ensure adequate assistance to victims, in line with the targets of Sustainable Development Goal 8"
+       },
+       {
+        "paragraph": "109.70",
+        "by": "Nepal",
+        "position": "noted",
+        "text": "Carry out effective measures to prevent trafficking in women and girls and ensure the rehabilitation and social integration of victims"
+       },
+       {
+        "paragraph": "109.71",
+        "by": "Belgium",
+        "position": "noted",
+        "text": "Scale up and strengthen the protection and reparations available for victims of trafficking, paying particular attention to the impact of the humanitarian refugee crisis in the region"
+       },
+       {
+        "paragraph": "109.72",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Take concrete steps to strengthen the protection mechanisms and the emergency and long-term support services for all suspected victims of modern slavery, including those from vulnerable migrant communities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to an adequate standard of living",
+    "blocks": [
+     {
+      "paras": "108.24-108.26",
+      "n": 3,
+      "summary": "Improve living standards and social programmes",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Trinidad and Tobago has a comprehensive social protection system, but poverty remains multidimensional and uneven.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 31 — United Nations country team: \"poverty remained multidimensional and uneven, affecting 41.6% of children\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.24",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to promote sustainable economic and social development and to improve people’s living standards"
+       },
+       {
+        "paragraph": "108.25",
+        "by": "Vision 2030; Cuba",
+        "position": "supported",
+        "text": "Strengthen actions to improve the standard of living of its population, particularly women, children and the elderly, as part of the implementation of the Trinidad and Tobago national development strategy"
+       },
+       {
+        "paragraph": "108.26",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Continue giving priority to social programmes for the well-being of its population, with an emphasis on rural communities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to social security",
+    "blocks": [
+     {
+      "paras": "108.27, 108.28",
+      "n": 2,
+      "summary": "Strengthen the social protection network",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Social protection programmes provide financial, food and housing support but remain inadequate and poorly targeted.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 30 — United Nations country team: \"social protection programmes provided for financial, food and housing support, they remained inadequate\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.27",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Continue taking steps to ensure robust social protection measures for vulnerable groups"
+       },
+       {
+        "paragraph": "108.28",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Sustain efforts to further strengthen the social protection network"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Special Procedures",
+    "blocks": [
+     {
+      "paras": "109.28",
+      "n": 1,
+      "summary": "Extend a standing invitation to special procedures",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No standing invitation has been extended and no country visit has taken place.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 5 — United Nations country team: \"had not extended a standing invitation to the special procedure mandate holders and had not hosted a country visit\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.28",
+        "by": "Belgium; Costa Rica; Ukraine",
+        "position": "noted",
+        "text": "Extend a standing invitation to the special procedures of the Human Rights Council"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & poverty",
+    "blocks": [
+     {
+      "paras": "108.29, 108.30",
+      "n": 2,
+      "summary": "Strengthen poverty-eradication institutions",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Social welfare policies exist but poverty remains multidimensional.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 31 — United Nations country team: \"a comprehensive social protection system\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.29",
+        "by": "Barbados",
+        "position": "supported",
+        "text": "Continue strengthening the institutions responsible for the promotion and protection of human rights, particularly in the areas of social protection and poverty alleviation"
+       },
+       {
+        "paragraph": "108.30",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue advancing in the eradication of poverty through its successful social welfare policies"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Treaty Bodies",
+    "blocks": [
+     {
+      "paras": "109.30",
+      "n": 1,
+      "summary": "Open, merit-based selection of treaty-body candidates",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.30",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Adopt an open, merit-based process when selecting national candidates for United Nations treaty body elections"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to adequate housing",
+    "blocks": [
+     {
+      "paras": "108.31",
+      "n": 1,
+      "summary": "Fulfil the rights to housing and health",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.31",
+        "by": "Portugal",
+        "position": "supported",
+        "text": ". Reinforce measures to fulfil the rights to housing and to health"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & follow up with the Universal Periodic Review (UPR)",
+    "blocks": [
+     {
+      "paras": "109.31",
+      "n": 1,
+      "summary": "Strengthen implementation and monitoring of UPR recommendations",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.31",
+        "by": "Dominican Republic",
+        "position": "noted",
+        "text": "Continue strengthening the implementation and monitoring of recommendations accepted during the universal periodic review and establish a mechanism to link them with the 2030 Agenda"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "108.32, 108.34-108.37",
+      "n": 5,
+      "summary": "Strengthen health services including HIV/AIDS",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Sexual and reproductive health services are integrated into universal health coverage and maternal, neonatal and infant mortality fell; HIV prevention remains insufficient for key populations.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 20 — Christian Council International: \"reported progress in reducing maternal, neonatal and infant mortality and noted universal skilled birth attendance\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 19 — JS5: \"prevention measures remained insufficient, particularly for key populations\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.32",
+        "by": "Colombia",
+        "position": "supported",
+        "text": "Advance in guaranteeing the right to health for people living with HIV/AIDS by strengthening interinstitutional coordination and establishing programmes and strategies to reduce the HIV infection rate, especially among adolescents and young women"
+       },
+       {
+        "paragraph": "108.34",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Address the root causes of the prevalence of HIV/AIDS and implement preventive strategies to combat HIV"
+       },
+       {
+        "paragraph": "108.35",
+        "by": "Barbados",
+        "position": "supported",
+        "text": "Continue to apply human rights principles as it seeks to implement its COVID-19 recovery"
+       },
+       {
+        "paragraph": "108.36",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Continue efforts to ensure effective access to basic health services for all segments of the population"
+       },
+       {
+        "paragraph": "108.37",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue to strengthen its national health system to continue protecting the lives of its people, especially the most vulnerable"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & reproductive health and rights",
+    "blocks": [
+     {
+      "paras": "109.73-109.75, 109.77, 109.81",
+      "n": 5,
+      "summary": "Legalise abortion and expand sexuality education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Abortion remains criminalised except to save the woman's life and the State has no intention to modify the law; implementation gaps persist in sexual and reproductive health services.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 44 — Human Rights Committee: \"abortion continued to be criminalized, except when there was a direct threat to the woman’s life\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 32 — United Nations country team: \"implementation gaps persisted\""
+      ],
+      "position": "5 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.73",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Revise the health and family life education curriculum and integrate comprehensive sexuality education in line with international standards"
+       },
+       {
+        "paragraph": "109.74",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Consider amending the Offences against the Persons Act by legalizing abortion in cases of rape, incest and serious fetal malformation and by decriminalizing it in all other cases"
+       },
+       {
+        "paragraph": "109.75",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Encourage the public and parliamentary debates necessary for the revision of the law on the voluntary interruption of pregnancy under a human rights approach, especially to allow this procedure in cases of rape, incest, fetal malformation or when pregnancy threatens the woman’s life or health"
+       },
+       {
+        "paragraph": "109.77",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Amend its legislation in order to legalize the termination of pregnancies in cases of risk to the life of the pregnant woman, rape, incest and severe impairment of the fetus"
+       },
+       {
+        "paragraph": "109.81",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Decriminalize abortion by amending the Offences against the Persons Act"
+       }
+      ]
+     },
+     {
+      "paras": "108.33",
+      "n": 1,
+      "summary": "Access to sexual and reproductive health information and services",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Services are integrated into universal health coverage under the National Sexual and Reproductive Health Policy, with gaps in implementation.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 32 — United Nations country team: \"sexual and reproductive health and rights services were integrated into universal health coverage, pursuant to the National Sexual and Reproductive Health Policy\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.33",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Provide effective access for women to comprehensive information and services on sexual and reproductive health"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Mechanisms for Reporting & Follow-up (NMRF)",
+    "blocks": [
+     {
+      "paras": "109.36",
+      "n": 1,
+      "summary": "Establish a permanent national mechanism for reporting and follow-up",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.36",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Establish a permanent national mechanism for implementing, reporting on and following up on the recommendations on human rights, considering the possibility of receiving cooperation for this purpose, within the framework of Sustainable Development Goals 16 and 17"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "108.38, 108.54, 108.76",
+      "n": 3,
+      "summary": "Strengthen access to quality education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Education is free and compulsory with almost universal access; retention challenges, early pregnancy and below-benchmark spending persist.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 33 — UNESCO: \"the Education Act provided for non-discrimination in education and guaranteed free, compulsory schooling\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 34 — United Nations country team: \"access to education was almost universal, retention challenges persisted\""
+      ],
+      "position": "2 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "108.38",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Further strengthen efforts to address barriers to education with a view to enhancing school enrolment, attendance and retention rates, especially among girls"
+       },
+       {
+        "paragraph": "108.54",
+        "by": "India",
+        "position": "supported",
+        "text": "Take all necessary measures and allocate additional resources to ensure quality education for children, in particular for girls and children with disabilities"
+       },
+       {
+        "paragraph": "109.76",
+        "by": "Mauritius",
+        "position": "noted",
+        "text": "Adopt a coherent strategy to ensure universal access to education for all, including girls, and prevent them from dropping out early from school"
+       }
+      ]
+     },
+     {
+      "paras": "109.89",
+      "n": 1,
+      "summary": "Access to education and services for migrant and refugee children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "School access for migrants, refugees and asylum-seekers progressed following an updated refugee policy.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 51 — United Nations country team: \"progress on the regularization of and school access for migrants, refugees and asylum-seekers following an updated refugee policy\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.89",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Implement measures to ensure that all children, including migrants, asylum seekers and refugees, have equal access to all levels of education and provide age-appropriate comprehensive sexual education"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "109.39, 109.41, 109.43, 109.49",
+      "n": 4,
+      "summary": "Prohibit discrimination on grounds of sexual orientation and gender identity",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Sexual orientation and gender identity are still not protected grounds; the Equal Opportunity Act amendment has been pending for over a decade.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 50 — ILO Committee of Experts: \"the proposed inclusion of sexual orientation as a protected ground in the Equal Opportunity Act had remained pending for over a decade\""
+      ],
+      "position": "4 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.39",
+        "by": "Costa Rica",
+        "position": "noted",
+        "text": "Amend its national framework to include sexual orientation, gender identity and living with HIV/AIDS as prohibited grounds for discrimination"
+       },
+       {
+        "paragraph": "109.41",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Amend the Equal Opportunity Act to prohibit discrimination against lesbian, gay, bisexual, transgender and intersex persons and remove laws criminalizing consensual same-sex relations"
+       },
+       {
+        "paragraph": "109.43",
+        "by": "France",
+        "position": "noted",
+        "text": "Take all necessary measures to fight against discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "109.49",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Implement policies and programmes to prevent discrimination based on sexual orientation and gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "109.40, 109.44, 109.47",
+      "n": 3,
+      "summary": "Adopt comprehensive anti-discrimination legislation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "There is no comprehensive anti-discrimination law; sexual orientation and gender identity are not protected grounds and the Equal Opportunity Act amendment has been pending for over a decade.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 14 — Human Rights Committee: \"did not afford full and effective protection against direct, indirect and intersectional discrimination\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 50 — ILO Committee of Experts: \"the proposed inclusion of sexual orientation as a protected ground in the Equal Opportunity Act had remained pending for over a decade\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.40",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Adopt the additional measures necessary to guarantee the full enjoyment of human rights by groups in vulnerable situations who suffer discrimination, especially because of their sexual orientation or gender identity"
+       },
+       {
+        "paragraph": "109.44",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Modify the Equal Opportunities Act to include the prohibition of discrimination on grounds of sexual preference and orientation"
+       },
+       {
+        "paragraph": "109.47",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Ensure full implementation of legislation ending discrimination based on gender identity or sexual orientation and conduct independent investigations into all acts of discrimination against lesbian, gay, bisexual, transgender and intersex persons"
+       }
+      ]
+     },
+     {
+      "paras": "109.42, 109.45",
+      "n": 2,
+      "summary": "Decriminalise consensual same-sex relations",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Consensual same-sex relations were re-criminalised in 2025 when the Court of Appeal reinstated sections 13 and 16 of the Sexual Offences Act, overturning the 2018 ruling; the Government maintained that the question rested with the Privy Council.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 49 — United Nations country team: \"heightened concerns following the recriminalization of consensual same-sex relations in March 2025\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 8 — JS5: \"following the 2025 Court of Appeal decision criminalizing same-sex sexual relations between adults that overturned the 2018 High Court ruling\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.42",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Decriminalize same-sex conduct between consenting adults by repealing sections 13 and 16 of the Sexual Offences Act"
+       },
+       {
+        "paragraph": "109.45",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Decriminalize consensual sexual relations between adults of the same sex by removing sections 13 and 16 of the Sexual Offences Act"
+       }
+      ]
+     },
+     {
+      "paras": "108.45",
+      "n": 1,
+      "summary": "Equal pay for work of equal value",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Employment Standards Bill, needed to enshrine equal pay, has not been adopted.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 29 — ILO Committee of Experts: \"swift adoption of the Employment Standards Bill\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.45",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Reduce the gender wage gap by guaranteeing and enforcing the principle of equal pay for work of equal value in all sectors"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & gender-based violence",
+    "blocks": [
+     {
+      "paras": "108.39-108.43, 108.48, 108.80, 108.85, 108.86",
+      "n": 9,
+      "summary": "Implement legislation and policy against gender-based violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Cabinet approved the National Strategic Action Plan on gender-based and sexual violence (2023-2027), clinical guidelines were adopted, a central GBV registry was launched and the judiciary introduced a Gender Equality Protocol; rates remain high and enforcement and protection are weak.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 27 — JS2: \"in 2023, the Cabinet approved a National Strategic Action Plan\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 40 — United Nations country team: \"the adoption of the 2023–2027 national strategic action plan and clinical guidelines on intimate partner violence and sexual violence\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 28 — ICAAD: \"the judiciary had introduced the Gender Equality Protocol for Judicial Officers\""
+      ],
+      "position": "5 supported, 4 noted",
+      "recommendations": [
+       {
+        "paragraph": "108.39",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Improve implementation of national legislation and policies to reduce gender-based violence and protect victims and survivors, including by improving staff training for the Trinidad and Tobago Police Service’s gender-based violence unit"
+       },
+       {
+        "paragraph": "108.40",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Take stronger measures to prevent, mitigate and respond to sexual and gender-based violence, including by providing adequate financial, staffing and technical support for the full implementation of the gender-based violence unit"
+       },
+       {
+        "paragraph": "108.41",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Strengthen measures to prevent and combat gender-based and domestic violence with the equal and meaningful participation of women in its decision-making process"
+       },
+       {
+        "paragraph": "108.42",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Enforce legislation related to gender-based violence"
+       },
+       {
+        "paragraph": "108.43",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Strengthen efforts to combat domestic and gender-based violence by ensuring the systematic prosecution of all cases of violence against women and girls and adopting prevention programmes"
+       },
+       {
+        "paragraph": "109.48",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Reform laws to strengthen protections against discrimination and gender-based violence, including for LGBTQI+ persons, including by establishing a law criminalizing discrimination against LGBTQI+ individuals on the basis of their sexual orientation, gender identity and expression"
+       },
+       {
+        "paragraph": "109.80",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Address the problem of gender-based violence and fully implement the Domestic Violence (Amendment) Act, 2020, and thereby guarantee that particularly vulnerable migrant women have access to gender-based violence services and are protected from trafficking"
+       },
+       {
+        "paragraph": "109.85",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Implement a national gender policy and action plan endowed with sufficient resources to combat sexual and gender-based violence"
+       },
+       {
+        "paragraph": "109.86",
+        "by": "Chile",
+        "position": "noted",
+        "text": ". Continue taking measures to eradicate all forms of violence and discrimination against women, girls and lesbian, gay, bisexual, transgender and intersex people"
+       }
+      ]
+     },
+     {
+      "paras": "109.46, 109.78",
+      "n": 2,
+      "summary": "Prohibit discrimination on grounds of sexual orientation and gender identity",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Sexual orientation and gender identity are still not protected grounds; the Equal Opportunity Act amendment has been pending for over a decade.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 50 — ILO Committee of Experts: \"the proposed inclusion of sexual orientation as a protected ground in the Equal Opportunity Act had remained pending for over a decade\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.46",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Take further steps to combat all forms of violence, abuse and discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "109.78",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Take the necessary steps to combat discrimination and violence against women and children and on the basis of sexual orientation and gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "109.84",
+      "n": 1,
+      "summary": "Adopt the national gender policy and the national strategic action plan",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Strategic Action Plan on gender-based and sexual violence 2023-2027 was approved by Cabinet; the status of a national gender policy is not reported and CEDAW notes delays in adopting gender equality frameworks.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 27 — JS2: \"in 2023, the Cabinet approved a National Strategic Action Plan\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.84",
+        "by": "Panama",
+        "position": "noted",
+        "text": "Adopt the national gender policy and the national strategic action plan to end sexual and gender-based violence to ensure that gender-based violence is prioritized and receives increased budgetary allocation to implement communication campaigns addressing negative social norms and special measures to prevent sexual and gender-based violence against all women, girls, men and boys, regardless of their legal or migratory status, nationality, gender identity or sexual orientation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "108.44, 108.50, 108.79, 108.82, 108.87",
+      "n": 5,
+      "summary": "Protect women from violence and strengthen services",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Specialised police mechanisms, a central GBV registry and the Domestic Violence Act exist; underreporting, resource constraints and weak protection-order enforcement persist.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 39 — United Nations country team: \"specialized mechanisms within the police service and the launch of the Central Registry on Gender-based Violence (Umbono System)\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 43 — Human Rights Committee: \"emergency protection orders reportedly could not be granted to persons of the same sex as the perpetrator\""
+      ],
+      "position": "2 supported, 3 noted",
+      "recommendations": [
+       {
+        "paragraph": "108.44",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Prioritize access to shelters, medical services, legal aid and counselling services for women exiting domestic violence situations"
+       },
+       {
+        "paragraph": "108.50",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Strengthen measures to combat violence against women by creating specialized police units to investigate these crimes and mitigate impunity"
+       },
+       {
+        "paragraph": "109.79",
+        "by": "France",
+        "position": "noted",
+        "text": "Continue the efforts made to fight against violence and discrimination against women, including by abolishing the law criminalizing the voluntary termination of pregnancy"
+       },
+       {
+        "paragraph": "109.82",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Continue the efforts to ensure full and effective implementation of the Domestic Violence (Amendment) Act, 2020"
+       },
+       {
+        "paragraph": "109.87",
+        "by": "Tunisia",
+        "position": "noted",
+        "text": "Continue the efforts to combat violence against women and girls, establish gender equality and support women’s empowerment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Advancement of women",
+    "blocks": [
+     {
+      "paras": "108.46-108.48",
+      "n": 3,
+      "summary": "Promote gender parity and women's empowerment",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Women's representation increased in government, local government, the judiciary and law enforcement (including the first woman Police Commissioner); women remain under-represented in senior decision-making.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 42 — Human Rights Committee: \"welcomed the measures to increase the representation of women in political life\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 30 — ICAAD: \"the appointment of the first female Commissioner of Police\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.46",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue consolidating the achievements made in the promotion of the rights and well-being of women through the National Policy on Gender and Development"
+       },
+       {
+        "paragraph": "108.47",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue with efforts to promote gender parity and enhance women’s participation in the political, economic and social spheres"
+       },
+       {
+        "paragraph": "108.48",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Continue to strengthen measures to facilitate the economic empowerment of women, especially those in rural areas"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: protection against exploitation",
+    "blocks": [
+     {
+      "paras": "108.53, 108.56",
+      "n": 2,
+      "summary": "Prevent and eliminate child labour",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The list of hazardous work prohibited to children has been pending since 2004.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 46 — ILO Committee of Experts: \"to ensure the adoption in the very near future of the list of hazardous types of work prohibited to children under 18 years of age\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.53",
+        "by": "India",
+        "position": "supported",
+        "text": "Enhance measures to prevent and eliminate child labour, including the involvement of children in hazardous work"
+       },
+       {
+        "paragraph": "108.56",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue the efforts exerted to prevent and eliminate child labour and to prevent the involvement of children in hazardous work"
+       }
+      ]
+     },
+     {
+      "paras": "108.49",
+      "n": 1,
+      "summary": "Prohibit child marriage and eliminate child labour",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The ILO Committee of Experts urges adoption of the list of hazardous work for children, pending since 2004; the minimum marriage age was raised to 18.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 46 — ILO Committee of Experts: \"to ensure the adoption in the very near future of the list of hazardous types of work prohibited to children under 18 years of age\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.49",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Develop and implement legislation that prohibits child marriage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to development",
+    "blocks": [
+     {
+      "paras": "109.50",
+      "n": 1,
+      "summary": "Promote infrastructure and rural development",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.50",
+        "by": "China",
+        "position": "noted",
+        "text": "Continue to promote infrastructure construction and accelerate the development of rural areas"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: definition",
+    "blocks": [
+     {
+      "paras": "108.52, 108.55, 108.57",
+      "n": 3,
+      "summary": "Child protection legislation and policy",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Human Rights Committee notes efforts to abolish child marriage, raise the minimum marriage age to 18 and prohibit corporal punishment in schools; the national child policy implementation plan is not reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 45 — Human Rights Committee: \"noting efforts to abolish child marriage, raise the minimum marriage age to 18 and prohibit the corporal punishment of children in schools\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.52",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue working on the harmonization and adoption of national legislation towards full compliance with its obligations under the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "108.55",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Continue the momentum towards full compliance with its obligations under the Convention on the Rights of the Child"
+       },
+       {
+        "paragraph": "108.57",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue the efforts exerted to protect and promote the rights of the child and to provide care, protection and rehabilitation for child victims of violence"
+       }
+      ]
+     },
+     {
+      "paras": "108.51, 108.88",
+      "n": 2,
+      "summary": "Adopt the national child policy",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on the national child policy or its implementation plan.",
+      "evidence": [],
+      "position": "1 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "108.51",
+        "by": "France",
+        "position": "supported",
+        "text": "Deepen the progress made in child protection through the rapid adoption of its national child policy"
+       },
+       {
+        "paragraph": "109.88",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Urgently adopt the implementation plan for 2020–2030 of the white paper on the national child policy"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Business & Human Rights",
+    "blocks": [
+     {
+      "paras": "109.51",
+      "n": 1,
+      "summary": "Implement the Guiding Principles on Business and Human Rights",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.51",
+        "by": "Colombia",
+        "position": "noted",
+        "text": "Continue advancing in the implementation of the Guiding Principles on Business and Human Rights through the adoption of a national plan on the matter"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Death penalty",
+    "blocks": [
+     {
+      "paras": "109.53-109.61",
+      "n": 9,
+      "summary": "Abolish the death penalty or establish a moratorium",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The mandatory death penalty for murder and treason remains, courts continue to impose death sentences, 48 people were under sentence of death in 2026 and the State told the Human Rights Committee it did not plan to consider a moratorium until violent crime was under control.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 15 — Human Rights Committee: \"the death penalty remained mandatory for murder, leading to a large number of persons on death row\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/TTO/3), para. 9 — JS2: \"domestic law retained the mandatory death penalty for murder and treason and that 48 individuals were under sentence of death as of 2026\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 15 — Human Rights Committee: \"the State did not plan to consider abolishing the death penalty or even establishing an official moratorium until violent crime was under control\""
+      ],
+      "position": "9 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.53",
+        "by": "Costa Rica",
+        "position": "noted",
+        "text": "Establish a moratorium on the death penalty with a view to its abolition"
+       },
+       {
+        "paragraph": "109.54",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Continue to refrain from applying the death penalty and impose an official moratorium on the death penalty"
+       },
+       {
+        "paragraph": "109.55",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Initiate a process for a State review and discussion of the relevance of the death penalty to Trinidad and Tobago, with a view to considering its complete abolition"
+       },
+       {
+        "paragraph": "109.56",
+        "by": "Haiti",
+        "position": "noted",
+        "text": "Establish a moratorium on the death penalty and consider its abolition and replacement by an alternative penalty that is fair, proportional and in accordance with international standards"
+       },
+       {
+        "paragraph": "109.57",
+        "by": "Marshall Islands",
+        "position": "noted",
+        "text": "Pursue efforts towards the full and unequivocal abolition of the death penalty"
+       },
+       {
+        "paragraph": "109.58",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Take the necessary steps to move towards the abolition of the death penalty and consider introducing a formal moratorium on its application"
+       },
+       {
+        "paragraph": "109.59",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Take steps to abolish the death penalty"
+       },
+       {
+        "paragraph": "109.60",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Develop awareness-raising campaigns concerning the absence of deterrent effects on the application of the death penalty"
+       },
+       {
+        "paragraph": "109.61",
+        "by": "Belgium",
+        "position": "noted",
+        "text": "Repeal provisions allowing for the imposition of the death penalty as the mandatory punishment for some offences and replace them with an alternative sentencing framework"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: definition, general principles",
+    "blocks": [
+     {
+      "paras": "108.58-108.65",
+      "n": 8,
+      "summary": "Adopt disability legislation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A persons-with-disabilities bill and national strategy are still 'under development'; no comprehensive disability law exists.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 48 — United Nations country team: \"a persons with disabilities bill and a comprehensive national strategy were under development\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 47 — Committee on the Rights of Persons with Disabilities: \"the apparent absence of comprehensive disability legislation\""
+      ],
+      "position": "8 supported",
+      "recommendations": [
+       {
+        "paragraph": "108.58",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Adopt domestic legislation to reflect the provisions and principles of the Convention on the Rights of Persons with Disabilities and amend all legislation that discriminates against persons with disabilities"
+       },
+       {
+        "paragraph": "108.59",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Align its domestic legislation with the principles of the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "108.60",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Proceed with consideration of strengthening the legal framework for the protection of the rights of persons with disabilities"
+       },
+       {
+        "paragraph": "108.61",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Accelerate its efforts to develop domestic policies and legislation to protect the rights of persons with disabilities, including through the newly established interministerial committee to oversee the implementation of the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "108.62",
+        "by": "Kenya",
+        "position": "supported",
+        "text": "Continue the efforts to enable persons with disabilities to secure jobs in the public and private sectors"
+       },
+       {
+        "paragraph": "108.63",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Maintain efforts, through the interministerial committee, to develop policies and legislation to protect the rights of persons with disabilities in order to address the lack of legislation and to achieve the implementation of the Convention on the Rights of Persons with Disabilities"
+       },
+       {
+        "paragraph": "108.64",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Continue improvements on the protection of people with disabilities, both in its legal framework and in social assistance, and the provision of resources to improve accessibility in all areas"
+       },
+       {
+        "paragraph": "108.65",
+        "by": null,
+        "position": "supported",
+        "text": "Adopt legislation to reflect the provisions and principles of the Convention on the Rights of Persons with Disabilities and consider amending all legislation that discriminates against persons with disabilities (Bulgaria)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Migrants",
+    "blocks": [
+     {
+      "paras": "109.66, 109.93",
+      "n": 2,
+      "summary": "Harmonise the Immigration Act and end pretrial custody of migrants",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Discriminatory immigration provisions remain and irregular entrants are detained without clear limits.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 14 — Human Rights Committee: \"discriminatory provisions in immigration law\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.66",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Take all necessary steps to end instances of individuals being remanded in pretrial custody or immigration detention for extended periods"
+       },
+       {
+        "paragraph": "109.93",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Expedite legislative processes to harmonize the Immigration Act with international human rights standards and develop an asylum act to ensure the full protection of refugees and asylum seekers, in accordance with international standards"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "109.83",
+      "n": 1,
+      "summary": "Adopt a comprehensive definition of discrimination against women",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CEDAW identifies shortcomings in the definition of discrimination against women; no amendment is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 38 — Committee on the Elimination of Discrimination against Women: \"shortcomings in the definition of discrimination against women\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.83",
+        "by": "Montenegro",
+        "position": "noted",
+        "text": "Adopt a comprehensive definition of discrimination against women in its national legislation in line with the Convention on the Elimination of All Forms of Discrimination against Women"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Refugees & asylum seekers",
+    "blocks": [
+     {
+      "paras": "109.90-109.92, 109.94-109.96, 109.98, 109.100, 109.101",
+      "n": 9,
+      "summary": "Enact refugee legislation and an asylum procedure",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "There is still no refugee legislation or status-determination procedure; a High Court ruling declared the Refugee Convention inapplicable (2023); an updated refugee policy and a 2026 Migration Registration Framework offer only partial progress.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 53 — Human Rights Committee: \"the absence of a comprehensive legislative and institutional framework for the protection of refugees and asylum-seekers\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 52 — United Nations experts: \"the High Court ruling declaring the Convention relating to the Status of Refugees inapplicable in Trinidad and Tobago\"",
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 51 — United Nations country team: \"progress on the regularization of and school access for migrants, refugees and asylum-seekers following an updated refugee policy\""
+      ],
+      "position": "9 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.90",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Enact legislation for the protection of refugees and the granting of asylum under international refugee instruments"
+       },
+       {
+        "paragraph": "109.91",
+        "by": "France",
+        "position": "noted",
+        "text": "Adopt a legislative framework relating to refugees facilitating their protection and integration"
+       },
+       {
+        "paragraph": "109.92",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Align national legislation on refugees and asylum seekers to international obligations and improve efforts to address human trafficking"
+       },
+       {
+        "paragraph": "109.94",
+        "by": "Brazil",
+        "position": "noted",
+        "text": "Consider adopting additional legal and policy measures to comply with the 1951 Convention relating to the Status of Refugees and its 1967 Protocol, with a view to preventing cases of detention and/or refoulement of asylum seekers"
+       },
+       {
+        "paragraph": "109.95",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Incorporate the 1951 Convention on the Status of Refugees into national law"
+       },
+       {
+        "paragraph": "109.96",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Develop an effective legal framework at the national level in compliance with international norms and standards to ensure protection and safeguards for asylum seekers, including by providing adequate reception conditions"
+       },
+       {
+        "paragraph": "109.98",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Implement a road map to accelerate the development of national refugee legislation to incorporate international commitments into domestic law"
+       },
+       {
+        "paragraph": "109.100",
+        "by": "Togo",
+        "position": "noted",
+        "text": "Set up a national refugee status determination procedure in accordance with the relevant provisions of the 1951 Convention relating to the Status of Refugees"
+       },
+       {
+        "paragraph": "109.101",
+        "by": null,
+        "position": "noted",
+        "text": "Develop national legislation on refugees that is in line with existing international standards and, in the interim, implement the existing national policy on asylum and refugees by addressing smuggling and trafficking and putting in place a refugee determination system (Canada)."
+       }
+      ]
+     },
+     {
+      "paras": "109.97, 109.99",
+      "n": 2,
+      "summary": "Protect asylum-seekers and migrants",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No refugee legislation exists; UN experts warned of deportations and the Human Rights Committee of harmful detention practices.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/TTO/2), para. 53 — Human Rights Committee: \"increasing numbers of deportations of individuals seeking international protection and harmful detention practices affecting adults and children\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "109.97",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Ensure the rights granted to asylum seekers and refugees under international refugee conventions by the development of national legislation"
+       },
+       {
+        "paragraph": "109.99",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Adopt the necessary measures to guarantee the effective protection of migrants, asylum seekers or those who require international protection, ensuring that the principle of non-refoulement and their access to health and education services is observed"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "hrc": null,
+ "combined_score": 3.27
+}

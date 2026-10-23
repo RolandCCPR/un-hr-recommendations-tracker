@@ -7,6 +7,7 @@ Assessment of Ireland's implementation of the 260 recommendations received in th
 - **National Report** — A/HRC/WG.6/53/IRL/1
 - **UN Compilation** — A/HRC/WG.6/53/IRL/2, OHCHR
 - **Stakeholders' Summary** — A/HRC/WG.6/53/IRL/3, OHCHR
+- **State mid-term report** — Ireland, UPR third-cycle mid-term report (2024) and annex, OHCHR website
 
 Grades: **A** largely satisfactory · **B** partially satisfactory · **C** not satisfactory / no relevant action · **D** no information · **E** measures contrary to, or rejection of, the recommendation.
 
@@ -17,13 +18,13 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 | Grade | Count | Share |
 |---|---:|---:|
 | **A** — Largely implemented / action largely satisfactory | 19 | 7% |
-| **B** — Partially implemented / steps taken, further action needed | 182 | 70% |
+| **B** — Partially implemented / steps taken, further action needed | 184 | 71% |
 | **C** — Not implemented / no relevant action taken | 44 | 17% |
-| **D** — No information available on implementation | 8 | 3% |
+| **D** — No information available on implementation | 6 | 2% |
 | **E** — Contrary measures taken, or recommendation rejected | 7 | 3% |
 | **Total** | 260 | 100% |
 
-**Partial implementation (B)** is by far the dominant outcome (182 of 260 asks), with 19 asks fully met (**A**) and 44 at **No relevant action (C)**. Ireland reports a dense set of concrete measures in the review period: the National Action Plan Against Racism 2023-2027 (March 2023) with a Special Rapporteur on Racial Equality, the Criminal Justice (Hate Offences) Act 2024, endorsement of the IHRA definition of antisemitism, the National Traveller and Roma Inclusion Strategy II and the National LGBTIQ+ Inclusion Strategy II, the National Human Rights Strategy for Disabled People 2025-2030 and accession to the Optional Protocol to the CRPD (October 2024), the Third National Strategy on domestic, sexual and gender-based violence and the new agency Cuan, the Birth Information and Tracing Act 2022, an independent review of civil legal aid, the National Strategy for Women and Girls 2025-2030 and the Mental Health Act 2026. **C** persists on ICPPED and OP-ICESCR (under consideration), incorporation of ICERD, amendment of the 1989 Incitement to Hatred Act (hate speech reform was dropped), a legislative ban on racial profiling, conversion practices, direct provision, a second business and human rights plan and redress for mixed-race children in institutions. The seven **contrary** asks (**E**) all concern the Migrant Workers Convention, which Ireland states it has no plans to sign or ratify.
+**Partial implementation (B)** is by far the dominant outcome (184 of 260 recommendations), with 19 recommendations fully met (**A**) and 44 at **No relevant action (C)**. Ireland reports a dense set of concrete measures in the review period: the National Action Plan Against Racism 2023-2027 (March 2023) with a Special Rapporteur on Racial Equality, the Criminal Justice (Hate Offences) Act 2024, endorsement of the IHRA definition of antisemitism, the National Traveller and Roma Inclusion Strategy II and the National LGBTIQ+ Inclusion Strategy II, the National Human Rights Strategy for Disabled People 2025-2030 and accession to the Optional Protocol to the CRPD (October 2024), the Third National Strategy on domestic, sexual and gender-based violence and the new agency Cuan, the Birth Information and Tracing Act 2022, an independent review of civil legal aid, the National Strategy for Women and Girls 2025-2030 and the Mental Health Act 2026. **C** persists on ICPPED and OP-ICESCR (under consideration), incorporation of ICERD, amendment of the 1989 Incitement to Hatred Act (hate speech reform was dropped), a legislative ban on racial profiling, conversion practices, direct provision, a second business and human rights plan and redress for mixed-race children in institutions. The seven **contrary** recommendations (**E**) all concern the Migrant Workers Convention, which Ireland states it has no plans to sign or ratify.
 
 ## Assessment by theme
 
@@ -181,7 +182,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -286,7 +287,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 157.77 (Adopt the IHRA working definition of antisemitism)
 
@@ -415,7 +416,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -690,7 +691,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask; the Human Rights Committee asks that non-consensual sex assignment be prohibited.
+**Assessment:** The documents contain no information on this recommendation; the Human Rights Committee requests that non-consensual sex assignment be prohibited.
 
 ---
 
@@ -764,12 +765,12 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 
 *1 of 260 — position: 1 supported.*
 
-**Grade: D — No cooperation with the Committee**
+**Grade: B — Information/action partially satisfactory**
 
 **Evidence:**
-- *No specific information in the evidence base.*
+- State mid-term report (mid-term report), para. 157.193 — Ireland: "Ireland continues to support youth initiatives, with a total investment of €77.95M allocated to youth services in 2024, an increase of 26% from the €61.78M allocated in 2020"
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** Ireland reports funding of youth services of €77.95 million in 2024 (up 26% from 2020) under youth schemes; nothing specific on gender-equality discussions is reported.
 
 ---
 
@@ -850,12 +851,12 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 
 *1 of 260 — position: 1 supported.*
 
-**Grade: D — No cooperation with the Committee**
+**Grade: B — Information/action partially satisfactory**
 
 **Evidence:**
-- *No specific information in the evidence base.*
+- State mid-term report (mid-term report), para. 157.217 — Ireland: "Building Children’s Futures: Using Children’s Rights to Recover from the Global Pandemic"
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** Ireland's mid-term report describes a two-phase project with the Children's Rights Alliance, Tusla and others on using children's rights to recover from the pandemic.
 
 ### Recommendation 157.220 (Sign the Declaration on Children, Youth and Climate Action)
 
@@ -866,7 +867,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 157.222 (Apologise and provide reparations to mixed-race children in institutions)
 

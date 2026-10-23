@@ -477,7 +477,7 @@ CLUSTERS = {
     ),
     "Refugees & asylum seekers": (
         B, "Protect refugee claimants and ensure voluntary repatriation",
-        "Tanzania hosts 164,901 refugees with UNHCR; the UN country team asks "
+        "Tanzania hosts 164,901 refugees with UNHCR; the UN country team recommendations "
         "that non-refoulement be respected in the Burundi tripartite "
         "repatriation.",
         [
@@ -498,7 +498,7 @@ CLUSTERS = {
     ),
     "Private life & privacy": (
         D, "Ban invasive anal examinations of LGBTI persons",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
 }
 
@@ -565,7 +565,7 @@ KEYWORDS = [
       ("JS4", "3", "32", "the Authorities had deregistered 14 organizations that had provided health and support services to LGBTI persons")]),
     (r"^Respect the right to confidentiality and dignity of LGBTI", D,
      "Ban invasive anal examinations of LGBTI persons",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- violence/marriage ---
     (r"^Enact a comprehensive law on sexual and gender-based violence|^Step up efforts on the legislative front", C,
      "Enact comprehensive legislation on gender-based violence",
@@ -615,7 +615,7 @@ KEYWORDS = [
     # --- health ---
     (r"^Strengthen HIV-prevention programmes aimed at young people", B,
      "Expand HIV prevention among young people",
-     "The National HIV Prevention Road Map (2023/24-2026/27) expands youth-friendly services; the UN country team asks to expand youth-focused HIV prevention.",
+     "The National HIV Prevention Road Map (2023/24-2026/27) expands youth-friendly services; the UN country team calls to expand youth-focused HIV prevention.",
      [("United Republic of Tanzania", "1", "99", "National HIV Prevention Road Map (2023/24–2026/27)")]),
     # --- justice / detention ---
     (r"^(End illegal pretrial detention|Review the legislation on the automatic denial of bail|Ensure access to justice, including by addressing the use of non-bailable offences)", C,
@@ -666,7 +666,7 @@ KEYWORDS = [
     # --- other ---
     (r"^Implement the national action plan for persons with albinism", B,
      "Implement the national action plan for persons with albinism",
-     "The National Action Plan for Persons with Albinism (2024/25-2028/29) was adopted and 71 attack cases were prosecuted; the UN country team asks for stronger implementation and for the African Court judgment to be implemented.",
+     "The National Action Plan for Persons with Albinism (2024/25-2028/29) was adopted and 71 attack cases were prosecuted; the UN country team calls for stronger implementation and for the African Court judgment to be implemented.",
      [("United Republic of Tanzania", "1", "36", "the National Action Plan for the Rights and Welfare of Persons with Albinism (2024/25–2028/29) was developed"),
       ("United Nations country team", "2", "12", "fully implement the judgment of the African Court on Human and Peoples’ Rights")]),
     (r"^Clarify land rights and safeguard indigenous culture", E,
@@ -676,5 +676,5 @@ KEYWORDS = [
       ("JS18", "3", "76", "planned eviction of pastoralists from at least 25 villages in Ngorongoro Division")]),
 ]
 
-FALLBACK = (D, "No information on this ask",
-            "The documents contain no information on this ask.", [])
+FALLBACK = (D, "No information on this recommendation",
+            "The documents contain no information on this recommendation.", [])

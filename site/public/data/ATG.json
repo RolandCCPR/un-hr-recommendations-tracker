@@ -1,0 +1,2171 @@
+{
+ "a3": "ATG",
+ "name": "Antigua and Barbuda",
+ "num": 28,
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "39th session (2021)",
+   "co_symbol": "A/HRC/49/15",
+   "review": "November 2026 (session 53)",
+   "sources": [
+    "**National Report** — A/HRC/WG.6/53/ATG/1",
+    "**UN Compilation** — A/HRC/WG.6/53/ATG/2",
+    "**Stakeholders' Summary** — A/HRC/WG.6/53/ATG/3"
+   ],
+   "headline": "**Partial implementation (B)** is the dominant outcome, and Antigua and Barbuda submitted a detailed National Report: the High Court decriminalised consensual same-sex relations in July 2022 (**A**, though the provisions were not formally repealed), ILO Conventions 190 and 183 were ratified in 2022, maternity leave rose to 14 weeks, a National Child Protection Policy (2021), a Sexual Offenders Registry (2022), a GBV Action Plan (2023), a shelter partnership, prison upgrades, higher pensions (2025-2026) and large climate-resilience financing were reported. **No relevant action (C)** persists on the unratified treaties and protocols (ICPPED, OP-CAT, the Second Optional Protocol), a national human rights institution, a national reporting mechanism, anti-discrimination legislation, criminalisation of marital rape, abortion, corporal punishment in schools and formal abolition of the death penalty (a de facto moratorium since 1991). No trafficking conviction has ever been secured.",
+   "note": "",
+   "n": 155,
+   "grade_dist": {
+    "A": 9,
+    "B": 68,
+    "C": 59,
+    "D": 19,
+    "E": 0
+   },
+   "score": 3.43
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "88.2, 88.4, 88.12, 88.14, 88.17, 88.21, 88.23, 88.25, 88.26, 88.28",
+      "n": 10,
+      "summary": "Ratify outstanding treaties and optional protocols",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Antigua and Barbuda has ratified 7 of the 9 core treaties and reports no new core-treaty or optional-protocol ratification (ICPPED, OP-ICCPR, OP-ICESCR, OP-CAT and the Second Optional Protocol remain outstanding), though it ratified ILO Conventions 190 and 183 in 2022.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 23 — Antigua and Barbuda: \"Antigua and Barbuda has ratified 7 out of the 9-core international human rights instruments\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 2 — UNESCO: \"recommended that Antigua and Barbuda ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 2 — CGNK: \"recommended that Antigua and Barbuda ratify the Convention on Enforced Disappearances (CED)\""
+      ],
+      "position": "10 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.2",
+        "by": "Cyprus",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights"
+       },
+       {
+        "paragraph": "88.4",
+        "by": "Denmark; Estonia; Finland; France; South Africa",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "88.12",
+        "by": "Malawi",
+        "position": "noted",
+        "text": "Consider acceding to the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "88.14",
+        "by": "Morocco",
+        "position": "noted",
+        "text": "Consider ratifying United Nations conventions, especially those relating to migrant workers and enforced disappearance"
+       },
+       {
+        "paragraph": "88.17",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Ratify the main pending international human rights treaties, in order to advance on Sustainable Development Goals 4, 5, 10, 16 and 17"
+       },
+       {
+        "paragraph": "88.21",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Sign and ratify the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "88.23",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Consider ratifying the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "88.25",
+        "by": "Vanuatu",
+        "position": "noted",
+        "text": "Consider acceding to the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "88.26",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Consider ratifying the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "88.28",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Consider ratifying the International Convention for the Protection of All Persons from Enforced Disappearance"
+       }
+      ]
+     },
+     {
+      "paras": "88.1, 88.8-88.10, 88.18, 88.20, 88.22",
+      "n": 7,
+      "summary": "Ratify the Second Optional Protocol (abolition)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Second Optional Protocol has not been ratified; JS4 recommends ratification.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 2 — JS4: \"recommended the ratification of the Second Optional Protocol to the International Covenant on Civil and Political Rights\""
+      ],
+      "position": "7 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.1",
+        "by": "Cyprus",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the International Covenant on Civil and Political Rights and the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "88.8",
+        "by": "France",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "88.9",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, and the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "88.10",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, and take all the necessary measures to abolish the death penalty"
+       },
+       {
+        "paragraph": "88.18",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Abolish the death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "88.20",
+        "by": "South Africa",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "88.22",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "88.11, 88.15, 88.19, 88.27",
+      "n": 4,
+      "summary": "Establish a moratorium on the death penalty",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A de facto moratorium has been in place since 1991, no one is on death row and the country voted for the UN moratorium resolution in 2024; no formal moratorium exists.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 4 — JS4: \"a de facto moratorium had been in place since 1991 and no person was currently under sentence of death\"",
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 35 — Antigua and Barbuda: \"leaving no inmates on death row\""
+      ],
+      "position": "4 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.11",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Establish a de jure moratorium on the death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "88.15",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Establish an official moratorium on executions and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, so as to bring national legislation into conformity with the de facto moratorium"
+       },
+       {
+        "paragraph": "88.19",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Establish an official moratorium on the death penalty, with a view to its full abolition, and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "88.27",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Establish a formal moratorium on the death penalty, with a view to ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "88.3, 88.6, 88.16",
+      "n": 3,
+      "summary": "Ratify other instruments",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on these instruments.",
+      "evidence": [],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.3",
+        "by": "Cyprus",
+        "position": "noted",
+        "text": "Ratify the 1954 Convention for the Protection of Cultural Property in the Event of Armed Conflict"
+       },
+       {
+        "paragraph": "88.6",
+        "by": "Finland; France",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict"
+       },
+       {
+        "paragraph": "88.16",
+        "by": "Panama",
+        "position": "noted",
+        "text": "Sign the Declaration on Children, Youth and Climate Action and ratify the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict"
+       }
+      ]
+     },
+     {
+      "paras": "88.5",
+      "n": 1,
+      "summary": "Ratify ILO Maternity Protection Convention 2000",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Antigua and Barbuda ratified ILO Convention 183 in May 2022 and extended maternity leave to 14 weeks.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 21 — Antigua and Barbuda: \"also ratified ILO Convention 183 – Maternity Protection, 2000, in May 2022\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.5",
+        "by": "No. 183; Dominican Republic",
+        "position": "supported",
+        "text": "Consider the possibility of ratifying the ILO Maternity Protection Convention, 2000"
+       }
+      ]
+     },
+     {
+      "paras": "88.7",
+      "n": 1,
+      "summary": "Abolish the death penalty and ratify the Second Optional Protocol",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Abolition has not been enacted and the Second Optional Protocol is unratified; only a de facto moratorium (since 1991) exists.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 10 — United Nations country team: \"no formal legislative abolition had been enacted\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.7",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Abolish death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, while noting the de facto moratorium on executions"
+       }
+      ]
+     },
+     {
+      "paras": "88.13",
+      "n": 1,
+      "summary": "Mandate to promote and protect women's rights",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No independent mandate has been established; the Directorate of Gender Affairs is a government department.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 58 — Antigua and Barbuda: \"holds the primary mandate in Antigua and Barbuda for mainstreaming\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.13",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Ratify the American Convention on Human Rights, accept the contentious jurisdiction of the Inter-American Court of Human Rights, and create an independent national human rights institution in line with the Paris Principles"
+       }
+      ]
+     },
+     {
+      "paras": "88.24",
+      "n": 1,
+      "summary": "Awareness-raising on the death penalty",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on awareness-raising on the death penalty.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.24",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Strengthen awareness-raising campaigns on the death penalty and public debates on the subject with a human rights focus, including in parliament, with a view to enabling its formal abolition, and to ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, as soon as possible"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation with international organizations",
+    "blocks": [
+     {
+      "paras": "88.29, 88.31, 88.36",
+      "n": 3,
+      "summary": "Seek OHCHR technical assistance",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Treaty reports are being drafted with development-partner support and technical assistance was sought for the national institution; no dedicated reporting unit exists.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 23 — Antigua and Barbuda: \"The reports for the Convention Against Torture and the Convention on the Elimination of Racial Discrimination are being drafted with support from development partners\"",
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 80 — Antigua and Barbuda: \"The country does not have a dedicated unit or mechanism for monitoring and reporting on Human Rights\""
+      ],
+      "position": "1 noted, 2 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.29",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Request technical assistance from the Office of the United Nations High Commissioner for Human Rights to advance in the ratification of the main international human rights instruments to which the country has not yet acceded, as well as to ensure the alignment of its national legal framework with the obligations derived from already ratified human rights treaties"
+       },
+       {
+        "paragraph": "88.31",
+        "by": "Vanuatu",
+        "position": "supported",
+        "text": "Engage with the Office of the United Nations High Commissioner for Human Rights to seek assistance in the national implementation of the core international human rights treaties to which Antigua and Barbuda has become a party"
+       },
+       {
+        "paragraph": "88.36",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Request technical assistance from the Office of the United Nations High Commissioner for Human Rights to assist in international human rights treaty reporting and monitoring"
+       }
+      ]
+     },
+     {
+      "paras": "88.30",
+      "n": 1,
+      "summary": "Establish a specific unit for reporting and human-rights data",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The report states the country has no dedicated reporting unit.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 80 — Antigua and Barbuda: \"The country does not have a dedicated unit or mechanism for monitoring and reporting on Human Rights\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.30",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Seek technical assistance with a view to creating a specific unit staffed by trained personnel whose responsibility would include public dissemination of information concerning the human rights obligations of the State, investigating human rights issues for the purpose of creating a data bank and generating reports as and when required"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Treaty Bodies",
+    "blocks": [
+     {
+      "paras": "88.32",
+      "n": 1,
+      "summary": "Open, merit-based selection of treaty-body candidates",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.32",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Adopt an open, merit-based process when selecting national candidates for United Nations treaty body elections"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Special Procedures",
+    "blocks": [
+     {
+      "paras": "88.33",
+      "n": 1,
+      "summary": "Invite the Special Rapporteur on the environment",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.33",
+        "by": "Panama",
+        "position": "noted",
+        "text": "Extend an invitation to the Special Rapporteur on the issue of human rights obligations relating to the enjoyment of a safe, clean, healthy and sustainable environment to visit the country before its fourth review under the universal periodic review mechanism"
+       }
+      ]
+     },
+     {
+      "paras": "88.34",
+      "n": 1,
+      "summary": "Extend a standing invitation to special procedures",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No standing invitation has been issued despite repeated recommendations.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 4 — United Nations country team: \"had not issued a standing invitation for special procedures, despite repeated recommendations\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.34",
+        "by": "Montenegro",
+        "position": "noted",
+        "text": "Issue a standing invitation to special procedure mandate holders"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Legal & institutional reform",
+    "blocks": [
+     {
+      "paras": "88.35",
+      "n": 1,
+      "summary": "Establish a specific unit for reporting and human-rights data",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The report states the country has no dedicated reporting unit.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 80 — Antigua and Barbuda: \"The country does not have a dedicated unit or mechanism for monitoring and reporting on Human Rights\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.35",
+        "by": "Georgia",
+        "position": "noted",
+        "text": "Proceed with efforts aimed at establishing a specific unit responsible for disseminating information on the human rights obligations of the State, creating a relevant data bank and generating reports"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Inter-State cooperation and assistance",
+    "blocks": [
+     {
+      "paras": "88.37",
+      "n": 1,
+      "summary": "Seek international assistance to mitigate climate impacts",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Antigua and Barbuda secured Green Climate Fund financing and led the ITLOS advisory-opinion request.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 28 — Antigua and Barbuda: \"requested a clarifying Advisory Opinion from the International Tribunal for the Law of the Sea\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.37",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue with efforts and seek international assistance to mitigate the adverse impacts of the COVID-19 pandemic"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Budget & resources (for human rights implementation)",
+    "blocks": [
+     {
+      "paras": "88.38",
+      "n": 1,
+      "summary": "Build capacity of duty bearers",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.38",
+        "by": "Philippines",
+        "position": "noted",
+        "text": "Strengthen efforts to build the capacity of duty bearers on the implementation of international human rights obligations under instruments to which the country is a signatory"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Action Plans (or specific areas) / implementation plans",
+    "blocks": [
+     {
+      "paras": "88.39",
+      "n": 1,
+      "summary": "National human rights action plan",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.39",
+        "by": "Indonesia",
+        "position": "noted",
+        "text": "Consider developing a national action plan on human rights, including on promoting human rights respect in the business sector, and on action in combating domestic violence, including through possible bilateral and international cooperation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "88.41-88.43, 88.45, 88.47-88.50",
+      "n": 8,
+      "summary": "Establish a Paris-Principles national human rights institution",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Antigua and Barbuda has only considered restructuring the Ombudsman's office and sought technical assistance; no institution exists.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 72 — Antigua and Barbuda: \"Antigua and Barbuda has considered establishing an independent Human Rights Institution, possibly through restructuring the office of the Ombudsman, and has sought technical assistance for mapping this transition\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 7 — United Nations country team: \"did not have a national human rights institution compliant with the principles relating to the status of national institutions for the promotion and protection of human rights\""
+      ],
+      "position": "8 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.41",
+        "by": "India",
+        "position": "noted",
+        "text": "Consider establishing a national human rights institution, in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "88.42",
+        "by": "Iraq",
+        "position": "noted",
+        "text": "Consider establishing a national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "88.43",
+        "by": "Malawi",
+        "position": "noted",
+        "text": "Consider establishing a national human rights institution in full compliance with the Paris Principles"
+       },
+       {
+        "paragraph": "88.45",
+        "by": "Montenegro",
+        "position": "noted",
+        "text": "Establish a national human rights institution in compliance with the Paris Principles"
+       },
+       {
+        "paragraph": "88.47",
+        "by": "Senegal",
+        "position": "noted",
+        "text": "Establish a national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "88.48",
+        "by": "Togo",
+        "position": "noted",
+        "text": "Establish a national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "88.49",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Establish a national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "88.50",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Consider the establishment of a human rights institution in accordance with the Paris Principles"
+       }
+      ]
+     },
+     {
+      "paras": "88.40",
+      "n": 1,
+      "summary": "Mandate to promote and protect women's rights",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No independent mandate has been established; the Directorate of Gender Affairs is a government department.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 58 — Antigua and Barbuda: \"holds the primary mandate in Antigua and Barbuda for mainstreaming\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.40",
+        "by": "Estonia",
+        "position": "noted",
+        "text": "Establish an independent national human rights institution in compliance with the Paris Principles"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "88.121, 88.128",
+      "n": 2,
+      "summary": "Repeal discriminatory legislation / incorporate CEDAW",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.121",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Repeal discriminatory provisions against women in national legislation, including in the Equal Opportunity Act and the Sexual Offences Act, with a view to fully incorporating the Convention on the Elimination of All Forms of Discrimination against Women into national legislation"
+       },
+       {
+        "paragraph": "88.128",
+        "by": "Iraq",
+        "position": "noted",
+        "text": "Work to incorporate the Convention on the Elimination of All Forms of Discrimination against Women into its national legislation"
+       }
+      ]
+     },
+     {
+      "paras": "88.129, 88.130",
+      "n": 2,
+      "summary": "Eliminate discrimination against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Constitution guarantees equality and gender-mainstreaming efforts continue, but there is no comprehensive statutory definition of discrimination against women.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 9 — United Nations country team: \"domestic legislation did not contain a comprehensive statutory definition of discrimination against women\""
+      ],
+      "position": "1 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.129",
+        "by": "India",
+        "position": "supported",
+        "text": "Continue with further measures for promoting gender equality and combating gender-based discrimination"
+       },
+       {
+        "paragraph": "88.130",
+        "by": "Haiti",
+        "position": "noted",
+        "text": "Continue efforts to combat discrimination against women and girls, in particular by defining policies, with an intersectional approach, to promote the visibility of this category in the country’s public and political decision-making spaces, as well as in the scientific areas"
+       }
+      ]
+     },
+     {
+      "paras": "88.44",
+      "n": 1,
+      "summary": "Mandate to promote and protect women's rights",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No independent mandate has been established; the Directorate of Gender Affairs is a government department.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 58 — Antigua and Barbuda: \"holds the primary mandate in Antigua and Barbuda for mainstreaming\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.44",
+        "by": "Marshall Islands",
+        "position": "noted",
+        "text": "Establish a mandate to promote and protect women’s rights to provide an independent alternative to the Office of the Ombudsman to address sexual harassment and discrimination against women, as they still remain in a special position of vulnerability, prone to violence, rape and sexual harassment"
+       }
+      ]
+     },
+     {
+      "paras": "88.123",
+      "n": 1,
+      "summary": "Incorporate a definition of discrimination against women",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "There is no comprehensive statutory definition.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 9 — United Nations country team: \"domestic legislation did not contain a comprehensive statutory definition of discrimination against women\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.123",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Prioritize the incorporation into its legislation of a comprehensive definition of discrimination against women and girls in line with article 1 of the Convention on the Elimination of All Forms of Discrimination against Women, that covers both direct and indirect discrimination and that recognizes intersectional forms of discrimination, in accordance with the comments received from the Committee on the Elimination of Discrimination against Women"
+       }
+      ]
+     },
+     {
+      "paras": "88.153",
+      "n": 1,
+      "summary": "Policies for older women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Policy on Ageing and the GRACE programme provide care for older persons.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 41 — Antigua and Barbuda: \"provides free at-home care for the elderly\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.153",
+        "by": "Brazil",
+        "position": "noted",
+        "text": "Consider adopting national policies to protect the rights of older women and of women and girls with disabilities, as well as establishing mechanisms to safeguard them from discrimination, violence and abuse"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Mechanisms for Reporting & Follow-up (NMRF)",
+    "blocks": [
+     {
+      "paras": "88.46, 88.51",
+      "n": 2,
+      "summary": "Establish a national mechanism for reporting and follow-up",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The report states the country has no dedicated unit or mechanism for human-rights reporting and no system for tracking UPR recommendations.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 80 — Antigua and Barbuda: \"there is no comprehensive system in place for tracking the progress on the recommendations\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.46",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Establish a national human rights institution in accordance with the Paris Principles, and create a national mechanism for implementation, reporting and follow-up, using the universal periodic review practical guidance issued by the Office of the United Nations High Commissioner for Human Rights"
+       },
+       {
+        "paragraph": "88.51",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Establish a permanent national mechanism for implementation, reporting and follow-up of human rights recommendations, considering the possibility of receiving cooperation for this purpose, within the framework of Sustainable Development Goals 16 and 17"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "88.55, 88.56, 88.58, 88.60, 88.64",
+      "n": 5,
+      "summary": "Decriminalise consensual same-sex relations",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The High Court struck down sections 12 and 15 of the Sexual Offences Act in July 2022, decriminalising consensual same-sex relations; the provisions have not been formally repealed by legislation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 17 — Antigua and Barbuda: \"striking down sections 12 and 15 of the Sexual Offences Act of 1995, which criminalised same-sex sexual relations and ascribed custodial criminal sentences\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 52 — United Nations country team: \"had not been formally repealed by legislative amendment, but rather rendered unenforceable through the Court’s declaration of unconstitutionality\""
+      ],
+      "position": "5 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.55",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Reform the Sexual Offences Act of 1995 to decriminalize private, same-sex sexual activity between consenting adults"
+       },
+       {
+        "paragraph": "88.56",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Decriminalize consensual adult same-sex relations and combat discrimination and violence based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "88.58",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Decriminalize consensual sexual activity between persons of the same sex"
+       },
+       {
+        "paragraph": "88.60",
+        "by": "France",
+        "position": "noted",
+        "text": "Decriminalize consensual sexual relations between persons of the same sex"
+       },
+       {
+        "paragraph": "88.64",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Change the indecency statutes with the aim of decriminalizing male consensual same-sex conduct"
+       }
+      ]
+     },
+     {
+      "paras": "88.53, 88.63, 88.66",
+      "n": 3,
+      "summary": "Legislate against discrimination, including on sexual orientation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Same-sex relations were decriminalised by the High Court in July 2022 and the Constitution was interpreted to protect against discrimination on grounds of sexual orientation; no anti-discrimination legislation has been enacted.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 73 — Antigua and Barbuda: \"the Constitution has been interpreted to extend protection from discrimination based on sexual orientation\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 5 — United Nations country team: \"the Constitution of Antigua and Barbuda prohibited discrimination on the grounds of race, sex or creed\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.53",
+        "by": "South Africa",
+        "position": "noted",
+        "text": "Introduce legislation to prohibit discrimination on the basis of sexual identity or sexual orientation"
+       },
+       {
+        "paragraph": "88.63",
+        "by": "Peru",
+        "position": "noted",
+        "text": "Continue strengthening the legislative framework to comprehensively prohibit discrimination"
+       },
+       {
+        "paragraph": "88.66",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Adopt comprehensive anti-discrimination legislation prohibiting discrimination on the basis of sexual orientation and gender identity and effectively investigate all acts of violence against LGBTI+ persons"
+       }
+      ]
+     },
+     {
+      "paras": "88.57, 88.62, 88.65",
+      "n": 3,
+      "summary": "Promote tolerance and combat stigmatisation of LGBTI+ persons",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The draft National Gender Equality and Social Inclusion Policy was consulted with LGBTQ+ organisations.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 74 — Antigua and Barbuda: \"Consultation on the draft National Gender Equality and Social Inclusion Policy also includes representatives from organisations that represent the interests of LGBTQ+ persons\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.57",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Strengthen its commitment to the principles of equality and non-discrimination, both in law and in practice, including through the immediate decriminalization of same-sex sexual relations between consenting adults"
+       },
+       {
+        "paragraph": "88.62",
+        "by": "Estonia",
+        "position": "noted",
+        "text": "Adopt a national policy to promote tolerance towards lesbian, gay, bisexual, transgender and intersex persons and abolish all provisions that criminalize consensual same-sex relationships"
+       },
+       {
+        "paragraph": "88.65",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Take all necessary steps to end the discrimination and stigmatization of LGBTI+ people, including the adoption of legislation that explicitly prohibits discrimination based on sexual orientation and gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "88.52, 88.61",
+      "n": 2,
+      "summary": "Prohibit discrimination on grounds of sexual orientation and gender identity",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Same-sex relations were decriminalised and the Constitution was interpreted to protect against discrimination on grounds of sexual orientation, but no legislation prohibits it.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 73 — Antigua and Barbuda: \"the Constitution has been interpreted to extend protection from discrimination based on sexual orientation\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.52",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Prohibit discrimination based on sexual orientation and gender identity and decriminalize consensual same-sex relationships"
+       },
+       {
+        "paragraph": "88.61",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Prohibit discrimination based on sexual orientation and gender identity, including by repealing all laws criminalizing sexual relations between consenting adults"
+       }
+      ]
+     },
+     {
+      "paras": "88.54, 88.59",
+      "n": 2,
+      "summary": "Repeal sections 12 and 15 of the Sexual Offences Act",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The provisions were declared unconstitutional and are unenforceable but were not formally repealed.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 52 — United Nations country team: \"had not been formally repealed by legislative amendment\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.54",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Repeal sections 12 and 15 of the Sexual Offences Act of 1995, which criminalize sexual relations between consenting individuals of the same sex, and which are contradictory to the commitment of non-discrimination"
+       },
+       {
+        "paragraph": "88.59",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Enact legislation to prohibit discrimination on the basis of sexual orientation or gender identity, and repeal sections 12 and 15 of the Sexual Offences Act (1995), which criminalize sexual relations between consenting adults of the same sex"
+       }
+      ]
+     },
+     {
+      "paras": "88.103, 88.131",
+      "n": 2,
+      "summary": "Combat discrimination and violence against women and children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A GBV Action Plan (2023), the SARC and a gender policy in final draft advance this recommendation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 60 — Antigua and Barbuda: \"In 2023, the Directorate developed a new Gender Based Violence Action Plan\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.103",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Adopt the additional measures necessary to ensure the full enjoyment of human rights by all persons belonging to groups in a situation of vulnerability"
+       },
+       {
+        "paragraph": "88.131",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Take the necessary steps to combat discrimination and violence against women and children, and on the basis of sexual orientation and gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "88.67",
+      "n": 1,
+      "summary": "Regulatory inclusion of LGBTI persons",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.67",
+        "by": "Dominican Republic",
+        "position": "noted",
+        "text": "Make the necessary regulatory changes to ensure the inclusion of lesbian, gay, bisexual, transgender and intersex persons in the economic activities of the country"
+       }
+      ]
+     },
+     {
+      "paras": "88.152",
+      "n": 1,
+      "summary": "Strengthen the Disabilities and Equal Opportunities Act",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Act (2017) establishes a rights framework and a complaints tribunal; the regulations are outstanding.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 57 — Antigua and Barbuda: \"This Act sets out the rights framework for persons living with disabilities and establishes a specialised tribunal for complaints\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.152",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Step up efforts to strengthen the Disabilities and Equal Opportunities Act and the Sexual Offences Act, in order for them to translate into substantive equality between women and men"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "88.68-88.70, 88.72",
+      "n": 4,
+      "summary": "Climate resilience policies and participation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Antigua and Barbuda adopted the Agenda for SIDS (2024), runs the UNDP EnGenDER community resilience project, benefits from the US$12.3 million Early Warning for All programme and led the ITLOS advisory-opinion request.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 27 — Antigua and Barbuda: \"led to the adoption of the Antigua and Barbuda Agenda for SIDS (ABAS)\"",
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 32 — Antigua and Barbuda: \"US12.3-Million-dollar Early Warning for All (EW4ALL) initiative funded by the Green Climate Fund (GCF)\""
+      ],
+      "position": "3 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.68",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue to implement policies to mitigate the effects of climate change and strengthen the resilience of communities"
+       },
+       {
+        "paragraph": "88.69",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Put in place effective public environmental policies to fight against the impacts of climate change such as floods, cyclones and hurricanes in the country, and promote the gradual elimination of single-use plastics to protect the oceans"
+       },
+       {
+        "paragraph": "88.70",
+        "by": "Vanuatu",
+        "position": "supported",
+        "text": "Continue to implement policies to build resilience and mitigate the impact of climate change while advocating concerted efforts by all nations to conserve the environment"
+       },
+       {
+        "paragraph": "88.72",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Ensure the meaningful participation of women, children, persons with disabilities and local communities in the development and implementation of climate change and disaster risk reduction frameworks"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Economic & political crisis, natural disasters or other emergencies",
+    "blocks": [
+     {
+      "paras": "88.71",
+      "n": 1,
+      "summary": "Ensure well-being in crises and disasters",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Early-warning, disaster-law review and community resilience projects were launched.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 32 — Antigua and Barbuda: \"there will be a complete review and update of disaster legislation\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.71",
+        "by": "Cuba",
+        "position": "noted",
+        "text": "Continue efforts to ensure the well-being of its population, in particular women, children and older persons, in the implementation of reconstruction strategies following the damage caused by natural disasters"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: protection and safety in situations of risk",
+    "blocks": [
+     {
+      "paras": "88.73",
+      "n": 1,
+      "summary": "Access to information for persons with disabilities in emergencies",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.73",
+        "by": "Indonesia",
+        "position": "noted",
+        "text": "Further provide persons with disabilities with increased access to information in emergency settings and promote the inclusion of persons with disabilities in relief efforts"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Constitutional & legislative framework",
+    "blocks": [
+     {
+      "paras": "88.74",
+      "n": 1,
+      "summary": "Prohibit corporal punishment of children",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Education Act 2008 allows corporal punishment in schools; only its use as a judicial sentence is prohibited.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 14 — UNESCO: \"the Education Act of 2008 allowed for the use of corporal punishment in schools (article 50 (2))\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.74",
+        "by": "Marshall Islands",
+        "position": "noted",
+        "text": "Officially repeal capital punishment as a legal sentence from national legislation as well as provisions authorizing judicial corporal punishment for persons under the age of 18 years"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Death penalty",
+    "blocks": [
+     {
+      "paras": "88.76, 88.79, 88.80",
+      "n": 3,
+      "summary": "Abolish the death penalty",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The death penalty remains on the statute books for murder and treason; no execution has taken place since 1991 and no one is on death row.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 35 — Antigua and Barbuda: \"Antigua and Barbuda has not had an execution under the death penalty since 1991\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 10 — United Nations country team: \"no formal legislative abolition had been enacted\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.76",
+        "by": "Nepal",
+        "position": "noted",
+        "text": "Carry out the necessary measures towards the legal abolition of the death penalty"
+       },
+       {
+        "paragraph": "88.79",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Abolish the death penalty"
+       },
+       {
+        "paragraph": "88.80",
+        "by": "Estonia",
+        "position": "noted",
+        "text": "Abolish the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "88.75",
+      "n": 1,
+      "summary": "Awareness-raising on the death penalty",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on awareness-raising on the death penalty.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.75",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Develop awareness-raising campaigns regarding the absence of dissuasive effects in the application of the death penalty and the introduction of a de jure moratorium leading to its total abolition"
+       }
+      ]
+     },
+     {
+      "paras": "88.77",
+      "n": 1,
+      "summary": "Establish a moratorium on the death penalty",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A de facto moratorium has been in place since 1991, no one is on death row and the country voted for the UN moratorium resolution in 2024; no formal moratorium exists.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 4 — JS4: \"a de facto moratorium had been in place since 1991 and no person was currently under sentence of death\"",
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 35 — Antigua and Barbuda: \"leaving no inmates on death row\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.77",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Establish a formal moratorium as an initial step towards abolishing the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "88.78",
+      "n": 1,
+      "summary": "State review of the death penalty",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Prime Minister stated in March 2025 he was not in favour of the death penalty; no formal review is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 4 — JS4: \"the Prime Minister's public statement of March 2025 that he was not in favour of the death penalty\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.78",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Initiate a process for a State review and discussion on the relevance of the death penalty to Antigua and Barbuda, with a view to considering the imposition of a moratorium on the death penalty and its complete abolition"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Prohibition of torture & ill-treatment (including cruel, inhuman or degrading treatment)",
+    "blocks": [
+     {
+      "paras": "88.81",
+      "n": 1,
+      "summary": "Harmonise torture legislation with the Convention",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Suppression of Torture Act 1993 pre-dates the review and no reform is reported.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 34 — Antigua and Barbuda: \"enacted the Suppression of Torture Act in that same year\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.81",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Harmonize the legislation on torture in accordance with the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, indicating the non-prescription of the crime of torture; abolish the death penalty; and prohibit corporal punishment in the field of child-rearing"
+       }
+      ]
+     },
+     {
+      "paras": "88.82",
+      "n": 1,
+      "summary": "Criminalise torture and exclude evidence obtained by torture",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Torture is criminalised by the Suppression of Torture Act 1993 (pre-dating the review) and exclusion of evidence rests on the Constitution and common law; there is no explicit statutory provision.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 33 — Antigua and Barbuda: \"no specific law formally prohibiting the introduction of evidence obtained under torture\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 13 — United Nations country team: \"there was no explicit statutory provision declaring such evidence inadmissible, as that relied on judicial doctrines and common law\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.82",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Consider criminalizing torture and formally prohibiting the introduction of evidence obtained under torture or other cruel, inhuman or degrading treatment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Administration of justice & fair trial",
+    "blocks": [
+     {
+      "paras": "88.83",
+      "n": 1,
+      "summary": "Reduce pretrial detention and the criminal-justice backlog",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Backlog-reduction reforms were announced in November 2025, but pretrial detention can last up to five years.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 77 — Antigua and Barbuda: \"announced several reforms aimed at reducing the backlog in the Criminal Justice system\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 15 — United Nations country team: \"pretrial detention had been extended for up to five years\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.83",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Implement alternatives to prison sentences and/or pretrial detention, and take measures to increase judicial capacity and improve material conditions for detainees, including those with disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Conditions of detention",
+    "blocks": [
+     {
+      "paras": "88.84-88.86, 88.88-88.90",
+      "n": 6,
+      "summary": "Eliminate prison overcrowding and improve conditions",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Antigua and Barbuda added 170 beds and container units at His Majesty's Prison, built new sanitation and recruited 42 correctional officers; the prison still holds about twice its design capacity.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 75 — Antigua and Barbuda: \"The first phase of major upgrades saw the addition of 170 new beds\"",
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 77 — Antigua and Barbuda: \"The prison also recruited 42 new correctional officers in 2025\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 5 — JS4: \"which had a design capacity of 150 but held approximately 300 prisoners as of 2024\""
+      ],
+      "position": "6 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.84",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Eliminate overcrowding in Her Majesty’s Prison and increase resources aimed at improving the overall living conditions of inmates"
+       },
+       {
+        "paragraph": "88.85",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Step up activities to address the problem of extreme overcrowding in the country’s prison facility"
+       },
+       {
+        "paragraph": "88.86",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Improve the conditions of detention facilities, including hygiene and sanitation"
+       },
+       {
+        "paragraph": "88.88",
+        "by": "the Nelson Mandela Rules; Germany",
+        "position": "noted",
+        "text": "Ensure that places of detention comply with the United Nations Standard Minimum Rules for the Treatment of Prisoners"
+       },
+       {
+        "paragraph": "88.89",
+        "by": "France",
+        "position": "noted",
+        "text": "Take additional measures to improve the conditions of detention of prisoners"
+       },
+       {
+        "paragraph": "88.90",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Bring its prisons into line with the Nelson Mandela Rules"
+       }
+      ]
+     },
+     {
+      "paras": "88.87",
+      "n": 1,
+      "summary": "Commission a State report on prison conditions",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.87",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Commission a State report into prison conditions in order to ascertain the quality of the detention facilities and as a means to measure future improvements"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Good governance & corruption",
+    "blocks": [
+     {
+      "paras": "88.91",
+      "n": 1,
+      "summary": "Ratify other instruments",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on these instruments.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.91",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Implement the Government’s proposal for fighting corruption domestically and in the Caribbean and address recommendations received through the Mechanism for Follow-up on the Implementation of the Inter-American Convention against Corruption peer review process"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "88.92-88.96",
+      "n": 5,
+      "summary": "Strengthen anti-trafficking measures and victim assistance",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Trafficking in Persons Prevention Unit investigates cases (13 suspects in 2024), a 2025 National Action Plan exists and victims receive services; no conviction has ever been secured.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 37 — Antigua and Barbuda: \"the Trafficking in Persons Prevention Unit initiated investigations of 13 suspects in nine cases\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 7 — ECLJ: \"no individual had ever been convicted of human trafficking in Antigua and Barbuda and no victim had been formally identified\""
+      ],
+      "position": "4 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.92",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Strengthen measures to assist victims of human trafficking, taking into account the needs of particularly vulnerable groups such as women domestic workers"
+       },
+       {
+        "paragraph": "88.93",
+        "by": "Marshall Islands",
+        "position": "noted",
+        "text": "Strengthen the local Trafficking in Persons Prevention Committee in order to completely halt any form of human trafficking"
+       },
+       {
+        "paragraph": "88.94",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Continue to allocate sufficient resources to programmes on combating trafficking in persons, and provide adequate services to victims to support their reintegration and rehabilitation"
+       },
+       {
+        "paragraph": "88.95",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Intensify efforts to prevent trafficking and sexual exploitation of women and girls"
+       },
+       {
+        "paragraph": "88.96",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to combat trafficking in persons and to prevent all forms of slavery"
+       }
+      ]
+     },
+     {
+      "paras": "88.97",
+      "n": 1,
+      "summary": "Implement anti-slavery legislation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "There has never been a conviction for trafficking.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 7 — ECLJ: \"no individual had ever been convicted of human trafficking in Antigua and Barbuda\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.97",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Implement legislation to address modern slavery and human trafficking, and expedite current cases by providing adequate resources and training for officials to effectively investigate and prosecute cases and protect victims"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to marriage & family",
+    "blocks": [
+     {
+      "paras": "88.98",
+      "n": 1,
+      "summary": "Remove exceptions to the minimum age of marriage",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.98",
+        "by": "Mauritius",
+        "position": "noted",
+        "text": "Amend the Marriage Act to remove exceptions that allow marriage for those under the age of 18 years"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & poverty",
+    "blocks": [
+     {
+      "paras": "88.99, 88.102, 88.104",
+      "n": 3,
+      "summary": "Social programmes and poverty alleviation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The HAPPI housing programme has delivered 111 homes, pensions were raised in 2025 and 2026 and food assistance continues.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 39 — Antigua and Barbuda: \"The programme has delivered 111 homes across the island so far\"",
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 43 — Antigua and Barbuda: \"In April 2025, the Government increased the minimum pension payable from EC$350.00 to EC$500\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.99",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Sustain efforts to alleviate poverty and strengthen the social protection system"
+       },
+       {
+        "paragraph": "88.102",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Continue to prioritize social programmes, with an emphasis on eradicating and alleviating poverty"
+       },
+       {
+        "paragraph": "88.104",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue to promote its successful social policies in the areas of education, health and poverty reduction, for the benefit of the most vulnerable groups"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to social security",
+    "blocks": [
+     {
+      "paras": "88.100",
+      "n": 1,
+      "summary": "Allocate more resources to social protection",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Social Protection Act 2020 exists and minimum pensions were raised in 2025 and 2026.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 43 — Antigua and Barbuda: \"In 2026, a 5% increase in payments for pensioners across the board through the ABSSS was approved\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.100",
+        "by": "Barbados",
+        "position": "supported",
+        "text": "Deepen efforts to allocate more resources to social protection"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to development",
+    "blocks": [
+     {
+      "paras": "88.101",
+      "n": 1,
+      "summary": "Promote sustainable development and living standards",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Housing, renewable energy and resilience-financing programmes were launched.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 49 — Antigua and Barbuda: \"The Government continues to promote climate-adaptive development through the Sustainable Island Resource Framework Fund\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.101",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to promote sustainable economic and social development, and to improve people’s living standards, so as to lay a solid foundation for people’s enjoyment of human rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & reproductive health and rights",
+    "blocks": [
+     {
+      "paras": "88.108-88.110",
+      "n": 3,
+      "summary": "Decriminalise consensual same-sex relations",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The High Court struck down sections 12 and 15 of the Sexual Offences Act in July 2022, decriminalising consensual same-sex relations; the provisions have not been formally repealed by legislation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 17 — Antigua and Barbuda: \"striking down sections 12 and 15 of the Sexual Offences Act of 1995, which criminalised same-sex sexual relations and ascribed custodial criminal sentences\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 52 — United Nations country team: \"had not been formally repealed by legislative amendment, but rather rendered unenforceable through the Court’s declaration of unconstitutionality\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.108",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Decriminalize the voluntary interruption of pregnancy and expand its admitted grounds, particularly in cases of sexual abuse or high-risk pregnancies"
+       },
+       {
+        "paragraph": "88.109",
+        "by": "South Africa",
+        "position": "noted",
+        "text": "Consider legalizing abortion in cases of rape, incest, threats to the life or health of the pregnant woman and severe fetal impairment; decriminalize it in all other cases; and ensure access for women to safe, high-quality and affordable abortion-related care, including post-abortion care in cases of complications resulting from unsafe abortions"
+       },
+       {
+        "paragraph": "88.110",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Legalize abortion in certain cases such as rape, incest and serious malformation of the fetus, and decriminalize it in all other cases"
+       }
+      ]
+     },
+     {
+      "paras": "88.105, 88.106",
+      "n": 2,
+      "summary": "Decriminalise abortion",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Abortion remains criminalised except where the pregnant woman's life is at risk.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 29 — United Nations country team: \"abortion remained criminalized in Antigua and Barbuda under the Offences Against the Person Act, except in limited circumstances where the continuation of pregnancy posed a risk to the life of the pregnant woman\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.105",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Amend its legislation in order to legalize the termination of pregnancies in cases of risk to the life of the pregnant woman, rape, incest and severe impairment of the fetus"
+       },
+       {
+        "paragraph": "88.106",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Form a legislative committee to revise the abortion law to allow the termination of pregnancy"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "88.107, 88.111",
+      "n": 2,
+      "summary": "Strengthen health-care access and resources",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A dedicated NCD department, free HPV cervical cancer screening, a planned renal centre and a 2026 transition to national health insurance advance access.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 46 — Antigua and Barbuda: \"Women between the ages of 30 and 65 in Antigua and Barbuda are eligible for free HPV Cervical Cancer screening\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 28 — United Nations country team: \"the scheme would be transformed into a national health insurance scheme in 2026\""
+      ],
+      "position": "1 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.107",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Continue strengthening measures to ensure access to health care by allocating adequate resources in the health sector, especially for the treatment of non-communicable diseases"
+       },
+       {
+        "paragraph": "88.111",
+        "by": "Bulgaria",
+        "position": "noted",
+        "text": "Continue to improve the health-care system with measures to allocate more resources and upgrade infrastructure, in order to strengthen maternal health"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights education, trainings & awareness raising",
+    "blocks": [
+     {
+      "paras": "88.112",
+      "n": 1,
+      "summary": "Revise the Health and Family Life Education curriculum",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No comprehensive sexuality education aligned with international guidance has been implemented.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 10 — JS1: \"no comprehensive sexuality education in line with international standards had been implemented\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.112",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Revise the Health and Family Life Education Programme curriculum in line with the United Nations technical guidelines, and train teachers to ensure effective provision of the curriculum"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: accessibility, mobility",
+    "blocks": [
+     {
+      "paras": "88.113",
+      "n": 1,
+      "summary": "Integrate children with disabilities in regular schools",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Ministry of Education is training specialist teachers and screening children to integrate them in the broader school network.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 55 — Antigua and Barbuda: \"continues to work toward integrating children with disabilities into the broader school network\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.113",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Integrate children with disabilities in regular schools by giving particular attention to the training of specialists for children with intellectual and psychological disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "88.114, 88.115",
+      "n": 2,
+      "summary": "Comprehensive sexuality education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No comprehensive sexuality education in line with international standards has been implemented.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 10 — JS1: \"no comprehensive sexuality education in line with international standards had been implemented\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.114",
+        "by": "Panama",
+        "position": "noted",
+        "text": "Ensure comprehensive sexuality education, with a view to preventing teenage pregnancies and the spread of sexually transmitted infections, in particular HIV"
+       },
+       {
+        "paragraph": "88.115",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Ensure comprehensive sexuality education, with a view to preventing teenage pregnancies and the spread of sexually transmitted infections, in particular HIV"
+       }
+      ]
+     },
+     {
+      "paras": "88.116, 88.117",
+      "n": 2,
+      "summary": "Resource education initiatives and invest in education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Public education is free, CSEC examination fees are covered (2026) and tertiary education is tuition-free; comprehensive sexuality education has not been implemented.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 68 — Antigua and Barbuda: \"have also been made tuitionfree by the Government\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/ATG/3), para. 10 — JS1: \"no comprehensive sexuality education in line with international standards had been implemented\""
+      ],
+      "position": "1 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.116",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Continue to provide adequate resources towards the initiatives that have started to help teenage mothers finish their secondary school education, in classes that can accommodate the unique challenges of being a young single mother"
+       },
+       {
+        "paragraph": "88.117",
+        "by": "China",
+        "position": "noted",
+        "text": "Further increase investment in education and improve the enrolment rate of children in schools"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & gender-based violence",
+    "blocks": [
+     {
+      "paras": "88.118, 88.132",
+      "n": 2,
+      "summary": "Strengthen laws and policies against sexual and gender-based violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Workplace Violence and Harassment (Prevention) Bill is before Parliament, a Sexual Offenders Registry was created (2022) and a model Sexual Offences Court operates; marital rape is not fully criminalised.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 78 — Antigua and Barbuda: \"Parliament is presently tabling the Workplace Violence and Harassment (Prevention) Bill\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 49 — United Nations country team: \"marital rape was not fully criminalized in all circumstances under section 3 (1) of the Sexual Offences Act\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.118",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Pass legislation explicitly defining and prohibiting sexual harassment in the public and private sectors, with protections against retaliation for those who report"
+       },
+       {
+        "paragraph": "88.132",
+        "by": "France",
+        "position": "noted",
+        "text": "Take all the necessary measures to strengthen the fight against gender-based violence, and in particular sexual violence"
+       }
+      ]
+     },
+     {
+      "paras": "88.135",
+      "n": 1,
+      "summary": "Criminalise marital rape",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Marital rape is not fully criminalised.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 49 — United Nations country team: \"marital rape was not fully criminalized in all circumstances under section 3 (1) of the Sexual Offences Act\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.135",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Step up the fight against gender-based violence and sexual violence, and classify marital rape as a crime in the Sexual Offences Act"
+       }
+      ]
+     },
+     {
+      "paras": "88.137",
+      "n": 1,
+      "summary": "Adopt a national gender policy",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Gender Equality and Social Inclusion Policy has a final draft awaiting Cabinet approval.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 64 — Antigua and Barbuda: \"A final draft of the policy document has been prepared and is expected to be presented to the Cabinet for approval\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.137",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Develop, adopt and implement, in a consultative manner, a national gender policy with measures for the prevention of sexual and gender-based violence against all women, girls, men and boys, regardless of legal or migratory status, nationality, gender identity or sexual orientation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Advancement of women",
+    "blocks": [
+     {
+      "paras": "88.120, 88.122, 88.124-88.126, 88.136",
+      "n": 6,
+      "summary": "Promote women's empowerment and participation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Women's representation rose (two women elected to the House in 2026, seven senators) and the Directorate of Gender Affairs runs empowerment programmes; a national gender equality policy is still in final draft.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 9 — Antigua and Barbuda: \"The results of the general election saw the election of two female members of the House of Representatives\"",
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 64 — Antigua and Barbuda: \"A final draft of the policy document has been prepared and is expected to be presented to the Cabinet for approval\""
+      ],
+      "position": "5 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.120",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Take further steps to promote women’s empowerment in political and public life"
+       },
+       {
+        "paragraph": "88.122",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue strengthening gender equality programmes with concrete measures to consolidate women’s empowerment"
+       },
+       {
+        "paragraph": "88.124",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Further strengthen gender mainstreaming into national development strategies, and ensure the participation of women and relevant stakeholders in programme planning and implementation"
+       },
+       {
+        "paragraph": "88.125",
+        "by": "Peru",
+        "position": "noted",
+        "text": "Intensify the measures adopted to promote the empowerment of women, by strengthening the national mechanism for women and the Directorate of Gender Affairs and developing intersectoral monitoring and coordination mechanisms for the implementation of the policies adopted"
+       },
+       {
+        "paragraph": "88.126",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Intensify efforts to enhance awareness among women of their rights under the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "88.136",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to end all forms of discrimination and violence against women and girls, enshrine gender equality and support women’s empowerment"
+       }
+      ]
+     },
+     {
+      "paras": "88.119",
+      "n": 1,
+      "summary": "Temporary special measures for women",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.119",
+        "by": "Togo",
+        "position": "noted",
+        "text": "Take temporary special measures aimed at achieving substantive equality between women and men in all areas where women are underrepresented or disadvantaged, including the political and public spheres, education, employment and health"
+       }
+      ]
+     },
+     {
+      "paras": "88.127",
+      "n": 1,
+      "summary": "Adopt a national gender policy",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Gender Equality and Social Inclusion Policy has a final draft awaiting Cabinet approval.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 64 — Antigua and Barbuda: \"A final draft of the policy document has been prepared and is expected to be presented to the Cabinet for approval\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.127",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Continue its effort to promote gender equality by pursuing the development of a national gender policy"
+       }
+      ]
+     },
+     {
+      "paras": "88.139",
+      "n": 1,
+      "summary": "Public policies against gender-based violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A GBV Action Plan (2023), the SARC and a Cabinet-approved shelter partnership advance the policy recommendation; no temporary special measures are reported.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 60 — Antigua and Barbuda: \"In 2023, the Directorate developed a new Gender Based Violence Action Plan\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.139",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Develop public policies to combat gender-based violence, in accordance with Sustainable Development Goal 5, and develop temporary special measures to achieve substantive equality, including in political and public life and in access to education, employment and health"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "88.134, 88.138",
+      "n": 2,
+      "summary": "Prevent violence against women and girls",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The SARC one-stop centre, a police Special Victims Support Unit, a 2023 GBV Action Plan and a Cabinet-approved shelter partnership exist; the national action plan was never formally endorsed and GBV remains pervasive.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 60 — Antigua and Barbuda: \"In 2023, the Directorate developed a new Gender Based Violence Action Plan\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 45 — United Nations country team: \"the plan was never formally endorsed by the relevant national authorities\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.134",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue its efforts to eliminate gender-based violence"
+       },
+       {
+        "paragraph": "88.138",
+        "by": "Barbados",
+        "position": "supported",
+        "text": "Continue to strengthen measures intended to eliminate all forms of violence and ill-treatment of girls and women, including the development of programmes and the provision of training for law enforcement officers on the areas of domestic violence and sexual violence"
+       }
+      ]
+     },
+     {
+      "paras": "88.133",
+      "n": 1,
+      "summary": "Awareness-raising on the death penalty",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on awareness-raising on the death penalty.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.133",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Take further measures to prevent violence against women and girls, including domestic violence, also through awareness-raising campaigns and increased support to victims"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: definition",
+    "blocks": [
+     {
+      "paras": "88.144-88.147, 88.149-88.151",
+      "n": 7,
+      "summary": "Prohibit corporal punishment of children",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Education Act 2008 allows corporal punishment in schools; only its use as a judicial sentence is prohibited.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 14 — UNESCO: \"the Education Act of 2008 allowed for the use of corporal punishment in schools (article 50 (2))\""
+      ],
+      "position": "7 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.144",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Explicitly repeal the common-law right to punish children and prohibit all corporal punishment enacted in all settings where adults have authority over children, as previously recommended"
+       },
+       {
+        "paragraph": "88.145",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Prohibit corporal punishment of children in all settings"
+       },
+       {
+        "paragraph": "88.146",
+        "by": "Peru",
+        "position": "noted",
+        "text": "Consider undertaking the necessary legislative reforms to prohibit corporal punishment inflicted on children, and continue to promote the use of positive discipline"
+       },
+       {
+        "paragraph": "88.147",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Carry out the necessary legislative adjustments to explicitly repeal the right to inflict corporal punishment and the sentence of life imprisonment for persons under 18 years of age, in accordance with international human rights standards and target 16.2 of the Sustainable Development Goals"
+       },
+       {
+        "paragraph": "88.149",
+        "by": "Estonia",
+        "position": "noted",
+        "text": "Prohibit corporal punishment of children in all settings"
+       },
+       {
+        "paragraph": "88.150",
+        "by": "Dominican Republic",
+        "position": "noted",
+        "text": "Strengthen measures that specifically prohibit corporal punishment of boys and girls"
+       },
+       {
+        "paragraph": "88.151",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Take steps to comprehensively address the issue of corporal punishment of children, in particular in schools"
+       }
+      ]
+     },
+     {
+      "paras": "88.140, 88.143, 88.148",
+      "n": 3,
+      "summary": "Strengthen child protection institutions and legislation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Antigua and Barbuda adopted a National Child Protection Policy (2021), reformed juvenile justice (Child Justice Act 2015, amended 2018) and reopened a rehabilitation centre (2025); corporal punishment remains lawful in schools.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 50 — United Nations country team: \"had adopted the National Child Protection Policy (2021)\"",
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 69 — Antigua and Barbuda: \"The Child Justice (Amendment) Act 2018 also brought significant reform, shifting the age of criminal responsibility from 8 to 12 years of age\"",
+       "UN Compilation (A/HRC/WG.6/53/ATG/2), para. 14 — UNESCO: \"the Education Act of 2008 allowed for the use of corporal punishment in schools (article 50 (2))\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.140",
+        "by": "Barbados",
+        "position": "supported",
+        "text": "Continue strengthening the institutions responsible for the education and protection of children, particularly those with disabilities"
+       },
+       {
+        "paragraph": "88.143",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to strengthen the legislative framework for child protection and children’s justice"
+       },
+       {
+        "paragraph": "88.148",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Implement measures to ensure that children in vulnerable areas are not marginalized"
+       }
+      ]
+     },
+     {
+      "paras": "88.141",
+      "n": 1,
+      "summary": "Children's budget and rights-monitoring mechanism",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.141",
+        "by": "Serbia",
+        "position": "noted",
+        "text": "Seek to conduct a comprehensive assessment of budgetary needs for children, and increase the allocation of financial means to social sectors, education and health to an adequate level"
+       }
+      ]
+     },
+     {
+      "paras": "88.142",
+      "n": 1,
+      "summary": "Mandate to promote and protect women's rights",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No independent mandate has been established; the Directorate of Gender Affairs is a government department.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 58 — Antigua and Barbuda: \"holds the primary mandate in Antigua and Barbuda for mainstreaming\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "88.142",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Establish an independent mechanism for monitoring children’s rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: definition, general principles",
+    "blocks": [
+     {
+      "paras": "88.154, 88.155",
+      "n": 2,
+      "summary": "Strengthen the Disabilities and Equal Opportunities Act",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Act (2017) establishes a rights framework and a complaints tribunal; the regulations are outstanding.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/ATG/1), para. 57 — Antigua and Barbuda: \"This Act sets out the rights framework for persons living with disabilities and establishes a specialised tribunal for complaints\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "88.154",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Advance efforts in the drafting of regulations regarding the Disabilities and Equal Opportunities Act"
+       },
+       {
+        "paragraph": "88.155",
+        "by": null,
+        "position": "supported",
+        "text": "Accelerate drafting of the clarifying regulations required for the Disabilities and Equal Opportunities Act (Georgia)."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "hrc": null,
+ "combined_score": 3.43
+}

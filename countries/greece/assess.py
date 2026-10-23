@@ -181,7 +181,7 @@ CLUSTERS = {
         B, "Promote child rights, child-centred budgeting and child poverty reduction",
         "Law 4837/2021 defined child abuse and created a national recording "
         "system, a 2025-2030 violence-prevention strategy was adopted and "
-        "family benefits exist; the CRC asks for time-bound goals and a "
+        "family benefits exist; the CRC calls for time-bound goals and a "
         "dedicated budget for the National Action Plan.",
         [
             ("Greece", "1", "88", "Law 4837/2021, which introduced statutory definitions of child abuse and established the National System for Recording and Monitoring relevant incidents"),
@@ -259,7 +259,7 @@ CLUSTERS = {
         "Law 5090/2024 repealed article 362 (simple defamation), a Memorandum "
         "of Understanding and Task Force on journalists' safety exist and Law "
         "5253/2025 created a National Action Plan for the Safety of "
-        "Journalists; OSCE-ODIHR asks that remaining criminal defamation and "
+        "Journalists; OSCE-ODIHR requests that remaining criminal defamation and "
         "insult provisions be replaced by civil remedies.",
         [
             ("Greece", "1", "71", "Law 5090/2024 repealed Article 362 of the Criminal Code, eliminating the offense of simple defamation"),
@@ -279,7 +279,7 @@ CLUSTERS = {
     ),
     "Business & Human Rights": (
         D, "Business and human rights legislation and national action plan",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Human rights & climate change": (
         B, "Climate action and participation",
@@ -300,7 +300,7 @@ CLUSTERS = {
     ),
     "Human rights & poverty": (
         B, "National strategy for social integration and poverty reduction; child poverty",
-        "Minimum Guaranteed Income and family benefits operate; JS2 asks that "
+        "Minimum Guaranteed Income and family benefits operate; JS2 requests that "
         "the National Strategy for Social Integration and Poverty Reduction be "
         "fully implemented and funded.",
         [
@@ -333,7 +333,7 @@ CLUSTERS = {
     "National Preventive Mechanism (NPM)": (
         B, "Operational autonomy and resources of the national preventive mechanism",
         "The Ombudsperson is the NPM under OPCAT and the national "
-        "investigation mechanism; the Human Rights Committee asks that its "
+        "investigation mechanism; the Human Rights Committee requests that its "
         "resources be adequate.",
         [("Greece", "1", "70", "The Greek Ombudsman functions both as the National Preventive Mechanism (NPM) under OPCAT and as the National Investigation Mechanism")],
     ),
@@ -349,8 +349,13 @@ CLUSTERS = {
         [("Greece", "1", "6", "The new Ministry of Social Cohesion and Family Affairs integrates policies on human rights, gender equality, child rights and vulnerable groups")],
     ),
     "Cooperation & Follow up with Treaty Bodies": (
-        D, "Open, merit-based selection of treaty-body candidates",
-        "The documents contain no information on this ask.", [],
+        C, "Open, merit-based selection of treaty-body candidates",
+        "Greece's mid-term report states that it has consistently nominated "
+        "highly qualified candidates; no open, merit-based selection process "
+        "is described.",
+        [
+            ("Greece", "M", "treaty bodies", "Greece has consistently nominated highly qualified candidates for UN treaty body elections"),
+        ],
     ),
     "Prohibition of torture & ill-treatment (including cruel, inhuman or degrading treatment)": (
         B, "Prevent inhuman and degrading treatment",
@@ -377,7 +382,7 @@ CLUSTERS = {
     ),
     "Persons with disabilities: protecting the integrity of the person": (
         D, "End involuntary hospitalisation of persons with disabilities",
-        "The documents contain no specific information on this ask.", [],
+        "The documents contain no specific information on this recommendation.", [],
     ),
     "Cultural rights": (
         C, "Equal enjoyment of culture and use of minority languages",
@@ -395,7 +400,7 @@ KEYWORDS = [
     # --- ratification-cluster specifics ---
     (r"Declaration on Children, Youth and Climate Action|article 14 of the International Convention on the Elimination of All Forms of Racial", D,
      "Sign the Declaration on Children, Youth and Climate Action / accept CERD article 14",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- asylum access / non-refoulement (regression in 2025) ---
     (r"individual (consideration|assessment)|individual refugee|opportunity to obtain an individual|collective deportations|forcible eviction|principle of non-refoulement|breaches of the principle", E,
      "Ensure individual assessment of protection claims and stop collective returns",
@@ -408,7 +413,7 @@ KEYWORDS = [
     (r"^(?=.*(refugee|migrant|asylum|pushback|border)).*(investigat|complaints|mechanism to register|public enquiry|swift and independent)", C,
      "Investigate allegations of pushbacks and ill-treatment of migrants",
      "Greece reports a three-tier complaints system, but the Human Rights "
-     "Committee asks that the independence and impartiality of monitoring "
+     "Committee requests that the independence and impartiality of monitoring "
      "mechanisms be affirmed and investigations be effective.",
      [("Greece", "1", "50", "every allegation of illtreatment, including alleged pushbacks, is investigated at internal and/or EU level"),
       ("Human Rights Committee", "2", "53", "affirm the independence and impartiality of the monitoring mechanisms involved in investigating violations of the human rights of migrants and asylumseekers at borders")]),
@@ -428,7 +433,7 @@ KEYWORDS = [
       ("JS6; JS7", "3", "7", "the punitive conditions of the alternatives to military service in Greece violated several human rights instruments")]),
     (r"mosques|Turkish Muslim|Muslim communities", C,
      "Rights of the Turkish Muslim minority in Western Thrace",
-     "Greece maintains that only a religious Muslim minority exists and Law 4964/2022 keeps State involvement in the selection of Muftis; the Turkish community asks that its schools and associations be restored.",
+     "Greece maintains that only a religious Muslim minority exists and Law 4964/2022 keeps State involvement in the selection of Muftis; the Turkish community requests that its schools and associations be restored.",
      [("ABTTF", "3", "25", "law No. 4964/2022 should be repealed, and the functioning of the mufti offices should be determined by the community itself")]),
     (r"ethnic identity", E,
      "Recognise the ethnic identity of the Turkish Muslim minority",
@@ -454,13 +459,13 @@ KEYWORDS = [
     # --- defamation ---
     (r"^Decriminalize defamation", B,
      "Decriminalise defamation",
-     "Simple defamation (article 362) was repealed in 2024; OSCE-ODIHR asks that remaining criminal defamation and insult provisions be replaced by civil remedies.",
+     "Simple defamation (article 362) was repealed in 2024; OSCE-ODIHR requests that remaining criminal defamation and insult provisions be replaced by civil remedies.",
      [("Greece", "1", "71", "Law 5090/2024 repealed Article 362 of the Criminal Code, eliminating the offense of simple defamation"),
       ("OSCE-ODIHR", "3", "12", "criminal provisions for defamation and insult be replaced by proportional civil remedies")]),
     # --- LGBTI ---
     (r"judicial process concerning gender change", D,
      "Replace the judicial gender-change process with an administrative one",
-     "The documents contain no information on this ask; JS5 asks that psychiatric evaluation for minors be abolished.", []),
+     "The documents contain no information on this recommendation; JS5 requests that psychiatric evaluation for minors be abolished.", []),
     (r"Protocol 12|Convention for the Protection of Human Rights and Fundamental Freedoms", C,
      "Ratify Protocol 12 to the European Convention",
      "ELEN recommends ratification of Protocol 12; none is reported.",
@@ -472,7 +477,7 @@ KEYWORDS = [
      [("Greece", "1", "37", "sanctioning enterprises with unjustified pay disparities exceeding 5%, to operationalize pay transparency")]),
     (r"femicide|Council of Europe Convention on Preventing and Combating Violence", B,
      "Implement the Istanbul Convention",
-     "Law 5172/2025 transposed EU standards; the GNCHR and CEDAW ask for a legal definition of femicide and a gender-killings observatory.",
+     "Law 5172/2025 transposed EU standards; the GNCHR and CEDAW call for a legal definition of femicide and a gender-killings observatory.",
      [("Greece", "1", "39", "In its report, the GNCHR stressed that an official definition of femicide and a dedicated observatory on gender-related killings should be established")]),
     (r"national action plan on gender", B,
      "Adopt the national action plan on gender equality",
@@ -480,16 +485,16 @@ KEYWORDS = [
      [("Greece", "1", "33", "The incoming Plan 2026–2030, currently under preparation with civil society input")]),
     (r"Greek national human rights institution", B,
      "Strengthen the national human rights institution's work on women's rights",
-     "The GNCHR completed its first comprehensive Report on the Status of Women in Greece in 2024; CEDAW asks that its resources be increased.",
+     "The GNCHR completed its first comprehensive Report on the Status of Women in Greece in 2024; CEDAW requests that its resources be increased.",
      [("Greece", "1", "33", "In 2024, the GNCHR completed its first comprehensive Report on the Status of Women in Greece")]),
     # --- poverty / business ---
     (r"national strategy for social integration and poverty", B,
      "Conclude the national strategy on social integration and poverty reduction",
-     "JS2 asks that the strategy be fully implemented and funded, which implies it exists.",
+     "JS2 requests that the strategy be fully implemented and funded, which implies it exists.",
      [("JS2", "3", "11", "fully implement and adequately fund the National Strategy for Social Integration and Poverty Reduction")]),
     (r"Develop a national action plan in line with the Guiding Principles", D,
      "National action plan on business and human rights",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- children / migrants ---
     (r"unaccompanied minors", B,
      "Protect unaccompanied minors",
@@ -499,7 +504,7 @@ KEYWORDS = [
      "Review the guardianship system",
      "The guardianship system was launched in 2024 and Law 5307/2026 transferred the appointment of guardians to the General Secretary.",
      [("Greece", "1", "55", "Law 5307/2026 transferred competence for the appointment of guardians from the Public Prosecutor to the General Secretary")]),
-    (r"Mercenar|mercenar", D, "Mercenaries", "The documents contain no information on this ask.", []),
+    (r"Mercenar|mercenar", D, "Mercenaries", "The documents contain no information on this recommendation.", []),
     (r"refugees and migrants in accordance|protection of refugees and migrants|human rights and dignity of refugees", C,
      "Protect refugees and migrants in accordance with international law",
      "The Human Rights Committee remains gravely concerned about pushbacks and Greece suspended asylum registration in 2025.",
@@ -509,13 +514,13 @@ KEYWORDS = [
      "The documents contain no specific information on sanitation measures.", []),
     (r"mental health policies", D,
      "Human-rights-based mental health policies",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"meaningful participation of refugee|participation of refugee", D,
      "Participation of refugee and asylum-seeking women",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"included in the national recovery and resilience", D,
      "Include migrants in the national recovery and resilience plan",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"birth registration", C,
      "Birth registration for children of migrants and Roma",
      "The Committee on the Rights of the Child recommends further facilitation of birth registration; no new measure is reported.",
@@ -526,7 +531,7 @@ KEYWORDS = [
      [("Several submissions", "3", "40", "the new online platform to apply for asylum, introduced in 2022, required a detention period of up to 25 days")]),
     (r"Roma", B,
      "National strategy for Roma social inclusion",
-     "The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner asks for faster implementation and better monitoring.",
+     "The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner calls for faster implementation and better monitoring.",
      [("Greece", "1", "23", "The National Strategy and Action Plan for Roma Social Inclusion 2021–2030")]),
     (r"^Revise its national legislation with a view to recognizing the right to conscientious", B,
      "Recognise the right to conscientious objection",

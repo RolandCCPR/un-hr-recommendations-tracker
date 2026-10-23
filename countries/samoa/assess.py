@@ -2,7 +2,7 @@
 UPR recommendations, graded against the 4th-cycle documentation (session 53):
 OHCHR Compilation A/HRC/WG.6/53/WSM/2 and Stakeholders' Summary /3. Samoa's
 National Report (/1) was not yet available at the time of assessment, so the
-evidence base is thin on the State's own account and many asks are graded D.
+evidence base is thin on the State's own account and many recommendations are graded D.
 
     python scripts/run_assess.py samoa
 
@@ -64,7 +64,7 @@ CLUSTERS = {
     "Violence against women": (
         C, "Legislate against and respond to violence against women",
         "The Crimes Act 2013 and Family Safety Act 2013 pre-date the review "
-        "period; implementation is uneven, the NHRI asks for amendment of the "
+        "period; implementation is uneven, the NHRI calls for amendment of the "
         "Family Safety Act, and survivor services remain under-funded.",
         [
             ("ICAAD", "3", "30", "the implementation of these legislative reforms had been uneven and undermined by the continued reliance on customary practices to mitigate sentences in GBV cases"),
@@ -85,7 +85,7 @@ CLUSTERS = {
     "Human rights & climate change": (
         D, "Mainstream human rights in climate action",
         "The documents contain no information on measures taken by Samoa on "
-        "this ask.",
+        "this recommendation.",
         [],
     ),
     "Discrimination against women": (
@@ -129,7 +129,7 @@ CLUSTERS = {
     ),
     "Administration of justice & fair trial": (
         D, "Judicial independence and training of law-enforcement officials",
-        "The documents contain no information on measures by Samoa on this ask; "
+        "The documents contain no information on measures by Samoa on this recommendation; "
         "the United Nations country team only recommends strengthening "
         "judicial independence.",
         [],
@@ -193,15 +193,15 @@ CLUSTERS = {
     ),
     "Inter-State cooperation and assistance": (
         D, "Seek international assistance on climate and COVID-19",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Right to development": (
         D, "Operationalize the national development plan",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Human rights & the environment": (
         D, "Human-rights-based approaches in environmental policy",
-        "The documents contain no information on measures by Samoa on this ask.", [],
+        "The documents contain no information on measures by Samoa on this recommendation.", [],
     ),
     "Right to social security": (
         B, "Establish a State-sponsored social welfare system",
@@ -214,15 +214,15 @@ CLUSTERS = {
     ),
     "Economic & political crisis, natural disasters or other emergencies": (
         D, "Rights-based approach in disaster planning",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Trade union rights": (
         D, "Guarantee workers' rights and freedom of association",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Business & Human Rights": (
         D, "Adopt a national action plan on business and human rights",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
 }
 
@@ -235,14 +235,14 @@ KEYWORDS = [
       ("CGNK", "3", "29", "regretted that Samoa still retains the death penalty in its constitution")]),
     (r"awareness-raising campaigns on the death penalty", D,
      "Awareness-raising on the death penalty",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"Optional Protocol to the Convention against Torture", C,
      "Ratify OP-CAT",
      "Several bodies recommended ratification of the OP-CAT; no ratification is reported.",
      [("Committee on the Rights of Persons with Disabilities, Committee on Enforced Disappearances and United Nations country team", "2", "2", "recommended that Samoa ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment")]),
     (r"Forced Labour Convention|Protocol of 2014", D,
      "Ratify the 2014 Protocol to the ILO Forced Labour Convention",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"Protocol to Prevent, Suppress and Punish Trafficking", C,
      "Ratify the Palermo trafficking protocol",
      "The NHRI and civil society urge ratification of the Protocol; none is reported.",
@@ -253,7 +253,7 @@ KEYWORDS = [
      [("CGNK", "3", "24", "nothing hindered the ratification of the Convention on the Prevention and Punishment of the Crime of Genocide")]),
     (r"Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women", D,
      "Ratify the Optional Protocol to CEDAW",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^Continue to implement effective measures to further promote and protect human rights", B,
      "Continue implementing measures to promote and protect human rights",
      "Samoa engaged with the CRPD and CED Committees and hosts an OHCHR Human Rights Adviser; the documents also record the ratification gaps above.",
@@ -264,7 +264,7 @@ KEYWORDS = [
      [("JS3", "3", "72", "the Crimes Act 2013 criminalized consensual same-sex relations")]),
     (r"trans persons|transgender", D,
      "Health needs of trans persons",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"abortion|voluntary interruption of pregnancy", C,
      "Decriminalize abortion",
      "Abortion remains unlawful outside narrow statutory exceptions.",
@@ -280,7 +280,7 @@ KEYWORDS = [
      "The mental health legislation remains non-compliant with the CRPD.",
      [("NOLA", "3", "46", "mental health legislation remained non-compliant with human rights standards")]),
     (r"maternal mortality", D,
-     "Reduce maternal mortality", "The documents contain no information on this ask.", []),
+     "Reduce maternal mortality", "The documents contain no information on this recommendation.", []),
     (r"national referral system|Inter-agency", C,
      "Establish a national referral system for survivors of violence",
      "A civil-society organisation reiterates the recommendation to implement the Essential Services Guide; no system is reported.",
@@ -327,15 +327,15 @@ KEYWORDS = [
      "The Office is under-resourced and the Ombudsman post has been vacant since May 2023.",
      [("OMB/NHRI", "3", "3", "the position of Ombudsman remained vacant since May 2023")]),
     (r"State of Human Rights Report", D,
-     "Follow up the State of Human Rights Report 2015", "The documents contain no information on this ask.", []),
+     "Follow up the State of Human Rights Report 2015", "The documents contain no information on this recommendation.", []),
     (r"overdue reports", B,
      "Submit overdue treaty-body reports",
      "Samoa was reviewed by the CED and the CRPD Committee; its initial CAT report is still overdue.",
      [("United Nations country team", "2", "5", "the initial report of Samoa to the Committee against Torture remained overdue")]),
     (r"independence of the judici", D,
-     "Judicial independence", "The documents contain no information on measures by Samoa on this ask.", []),
+     "Judicial independence", "The documents contain no information on measures by Samoa on this recommendation.", []),
     (r"human rights training for law enforcement", D,
-     "Human-rights training for law-enforcement officials", "The documents contain no information on this ask.", []),
+     "Human-rights training for law-enforcement officials", "The documents contain no information on this recommendation.", []),
     (r"women in rural areas|rural areas", B,
      "Improve health care in rural areas",
      "The country team notes strengthened primary health care but calls for more rural health personnel and services.",

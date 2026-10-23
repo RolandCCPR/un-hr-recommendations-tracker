@@ -2,7 +2,1897 @@
  "a3": "SUR",
  "name": "Suriname",
  "num": 740,
- "upr": null,
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "39th session (2021)",
+   "co_symbol": "A/HRC/49/6",
+   "review": "November 2026 (session 53)",
+   "sources": [
+    "**National Report** — A/HRC/WG.6/53/SUR/1",
+    "**UN Compilation** — A/HRC/WG.6/53/SUR/2",
+    "**Stakeholders' Summary** — A/HRC/WG.6/53/SUR/3"
+   ],
+   "headline": "**Partial implementation (B)** is the dominant outcome, and Suriname gives a detailed National Report: it acceded to the Convention against Torture (16 November 2021) and abolished the death penalty in its Military Criminal Code (2021, **A**), adopted the Equal Treatment in Employment Act and the Act on Violence and Sexual Harassment in Employment (2022), the Children's Ombudsperson Act (2025), a National Social Protection Strategy 2024-2030, a National Education Policy Plan 2024-2031, a Multilingual Education Programme, a National Policy Plan for Persons with Disabilities 2025-2030, a national FPIC protocol (2025) and a Land Rights Project, and introduced the General Act for Persons with Disabilities in Parliament. **No relevant action (C)** persists on the remaining optional protocols (OP-CAT, OP-CEDAW, OP-CRPD, OP-ICESCR, the Second Optional Protocol), ICPPED, the national human rights institution (draft Act only), legislation on sexual orientation and gender identity, the minimum age of marriage, corporal punishment, child labour, a standing invitation to special procedures and the Collective Rights of Indigenous and Tribal Peoples Act (still a draft).",
+   "note": "",
+   "n": 147,
+   "grade_dist": {
+    "A": 14,
+    "B": 85,
+    "C": 39,
+    "D": 9,
+    "E": 0
+   },
+   "score": 3.71
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "97.1, 97.7-97.10",
+      "n": 5,
+      "summary": "Ratify the Optional Protocols to the CRC on armed conflict and sale of children",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Suriname is a party to OP-CRC-AC and OP-CRC-SC.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 9 — Suriname: \"including the optional protocols OP-ICCPR, OP2-ICCPR, OP-CRC-AC and OP-CRC-SC\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.1",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Continue efforts to ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict"
+       },
+       {
+        "paragraph": "97.7",
+        "by": "Finland; France",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict"
+       },
+       {
+        "paragraph": "97.8",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue measures towards finalizing the ratification process of the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict"
+       },
+       {
+        "paragraph": "97.9",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Continue its ongoing efforts to ratify the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict"
+       },
+       {
+        "paragraph": "97.10",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Follow up on the efforts made to complete the procedures for ratification of the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict"
+       }
+      ]
+     },
+     {
+      "paras": "97.2-97.4",
+      "n": 4,
+      "summary": "Ratify the Convention against Torture",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Suriname acceded to the Convention against Torture on 16 November 2021.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 7 — Suriname: \"On 16 November 2021, Suriname acceded to the Convention against Torture\""
+      ],
+      "position": "3 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "97.2",
+        "by": "Denmark; Fiji; Bahamas",
+        "position": "supported",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "97.3",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Continue efforts to ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "98.3",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and its Optional Protocol"
+       },
+       {
+        "paragraph": "97.4",
+        "by": "France",
+        "position": "supported",
+        "text": "Complete the ratification of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Malawi); Complete the process of ratifying the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, which is at an advanced stage as highlighted in the national report (Morocco); Finalize the process of ratifying the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       }
+      ]
+     },
+     {
+      "paras": "98.1, 98.2, 98.4",
+      "n": 3,
+      "summary": "Ratify pending core instruments",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Suriname reports that ratification of the remaining protocols is only at the preparatory phase.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 9 — Suriname: \"Ratification of OPCAT, OP-CEDAW and OP-CRPD is currently in the preparliamentary preparatory phase\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.1",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Increase efforts to ratify the main international human rights instruments, especially the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, and the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "98.2",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Ratify the main international treaties on human rights that are still pending so as to move towards achievement of Sustainable Development Goals 5, 10 and 16"
+       },
+       {
+        "paragraph": "98.4",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Prioritize the parliamentary debates necessary for the consideration of the ratification of the International Convention for the Protection of All Persons from Enforced Disappearance"
+       }
+      ]
+     },
+     {
+      "paras": "97.5, 97.6",
+      "n": 2,
+      "summary": "Ratify the Second Optional Protocol (abolition)",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Ratification remains pending although the death penalty has been abolished.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 5 — United Nations country team: \"ratification of the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, remained pending\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.5",
+        "by": "Costa Rica; Armenia; Australia; Iceland; Mexico; Portugal; Finland; France",
+        "position": "supported",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "97.6",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Consider the possibility of acceding to the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "98.5, 98.6",
+      "n": 2,
+      "summary": "Ratify the Convention on Enforced Disappearance",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No ratification is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 2 — Committee on the Elimination of Racial Discrimination: \"encouraged Suriname to consider ratifying the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families and the International Convention for the Protection of All Persons from Enforced Disappearance\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.5",
+        "by": "France",
+        "position": "noted",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance and accept the competence of the Committee on Enforced Disappearances"
+       },
+       {
+        "paragraph": "98.6",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Consider ratifying the International Convention for the Protection of All Persons from Enforced Disappearance"
+       }
+      ]
+     },
+     {
+      "paras": "98.7, 98.9",
+      "n": 2,
+      "summary": "Ratify OP-CEDAW",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Ratification is in the pre-parliamentary preparatory phase.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 9 — Suriname: \"Ratification of OPCAT, OP-CEDAW and OP-CRPD is currently in the preparliamentary preparatory phase\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.7",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "98.9",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women and the Optional Protocol to the Convention on the Rights of the Child on a communications procedure"
+       }
+      ]
+     },
+     {
+      "paras": "98.10, 98.11",
+      "n": 2,
+      "summary": "Ratify the UNESCO Convention against Discrimination in Education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "UNESCO recommends ratification; none is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 9 — UNESCO: \"recommended that Suriname ratify the Convention against Discrimination in Education\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.10",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Ratify the United Nations Educational, Scientific and Cultural Organization Convention against Discrimination in Education"
+       },
+       {
+        "paragraph": "98.11",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Consider ratification of the United Nations Educational, Scientific and Cultural Organization Convention against Discrimination in Education"
+       }
+      ]
+     },
+     {
+      "paras": "98.8",
+      "n": 1,
+      "summary": "Ratify OP-ICESCR",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "UNESCO recommends ratification; Suriname is considering accession.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 4 — UNESCO: \"recommended that Suriname ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.8",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights and the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       }
+      ]
+     },
+     {
+      "paras": "97.11",
+      "n": 1,
+      "summary": "Ratify OP-CAT",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Suriname is only considering accession to the OP-CAT.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 7 — Suriname: \"OPCAT, OP-CEDAW, OP-CRPD and OP-ICESCR. The relevant national assessments, consultations and preparatory processes are ongoing\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 3 — Human Rights Committee: \"recommended that Suriname consider ratifying the Optional Protocol to the Convention against Torture\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.11",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Proceed to ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       }
+      ]
+     },
+     {
+      "paras": "97.12",
+      "n": 1,
+      "summary": "Request OHCHR technical support",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Suriname cooperates strategically with OHCHR, UNDP, UNICEF and other partners in capacity-strengthening.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 6 — Suriname: \"the State cooperated strategically with international partners, including OHCHR, UNDP, UNICEF, UNFPA, IOM and PAHO, in support of capacity-strengthening and data validation\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.12",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Request technical support from OHCHR to advance in the ratification of the main international human rights instruments to which the country is not yet a party, as well as to ensure the incorporation into its national legal system of the obligations deriving from ratified human rights treaties"
+       }
+      ]
+     },
+     {
+      "paras": "98.12",
+      "n": 1,
+      "summary": "Sign the Declaration on Children, Youth and Climate Action",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported-noted",
+      "recommendations": [
+       {
+        "paragraph": "98.12",
+        "by": "Panama",
+        "position": "supported_noted",
+        "text": "Sign the Declaration on Children, Youth and Climate Action and ratify the Convention on Cluster Munitions and the Treaty on the Prohibition of Nuclear Weapons"
+       }
+      ]
+     },
+     {
+      "paras": "98.13",
+      "n": 1,
+      "summary": "Ratify the Genocide Convention",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A civil-society submission recommends ratification; none is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/SUR/3), para. 6 — CGNK: \"recommended that Suriname ratify the Convention on the Prevention and the Punishment of the crime of Genocide\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.13",
+        "by": "Armenia",
+        "position": "supported",
+        "text": "Ratify the Convention on the Prevention and Punishment of the Crime of Genocide"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "97.13-97.21",
+      "n": 9,
+      "summary": "Establish and operationalise a national human rights institution",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The draft National Human Rights Institute Act is still in pre-parliamentary consultation, with an intended completion date of November 2026; no institution exists.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 7 — Suriname: \"The draft National Human Rights Institute Act is in the final pre-parliamentary consultation phase, with an intended completion date of end November 2026\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SUR/3), para. 9 — JS6: \"Suriname had persistently failed to establish and operationalize an independent national human rights institution\""
+      ],
+      "position": "9 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.13",
+        "by": "France",
+        "position": "supported",
+        "text": "Establish and operationalize a national human rights institution in accordance with the Paris Principles (Chile); Establish and operationalize, in consultation with stakeholders, in particular with human rights civil society organizations, a national human rights institution in conformity with the Paris Principles (Haiti); Step up efforts to establish and operationalize a national human rights institution as per the Paris Principles (Nepal); Establish and operationalize a national human rights institution in accordance with the Paris Principles (Ukraine); Establish and fully operationalize a national human rights institution in accordance with the Paris Principles (Australia); Create a national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "97.14",
+        "by": "India",
+        "position": "supported",
+        "text": "Consider operationalization of the National Human Rights Institute in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "97.15",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Continue the progress to establish and operationalize a national human rights institution in accordance with the Paris Principles, involving also possible bilateral and international cooperation"
+       },
+       {
+        "paragraph": "97.16",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Intensify efforts to operationalize the work of the National Human Rights Institute in line with the Paris Principles"
+       },
+       {
+        "paragraph": "97.17",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Advance the goal to establish a national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "97.18",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Take steps to operationalize the National Human Rights Institute"
+       },
+       {
+        "paragraph": "97.19",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Make further efforts to fully operationalize the National Human Rights Institute in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "97.20",
+        "by": "Slovenia",
+        "position": "supported",
+        "text": "Take dedicated measures to effectively operationalize the National Human Rights Institute, established in 2016, in compliance with the Paris Principles, with a broad mandate, including the promotion and protection of women’s rights, children’s rights and gender equality"
+       },
+       {
+        "paragraph": "98.21",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Operationalize the National Human Rights Institute by allocating sufficient human, technical and financial resources in the national budget"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Special Procedures",
+    "blocks": [
+     {
+      "paras": "98.14-98.18",
+      "n": 5,
+      "summary": "Extend a standing invitation to special procedures",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No standing invitation has been extended; the UN country team recommends considering one.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 10 — United Nations country team: \"recommended that Suriname consider issuing a standing invitation to the special procedure mandate holders\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.14",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Extend a standing invitation to the special procedures of the Human Rights Council to ensure greater coordination and guarantee cooperation with the system"
+       },
+       {
+        "paragraph": "98.15",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Consider the possibility of extending an open and standing invitation to all human rights mechanisms, as previously recommended"
+       },
+       {
+        "paragraph": "98.16",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Issue a standing invitation to Human Rights Council special procedure mandate holders"
+       },
+       {
+        "paragraph": "98.17",
+        "by": "Slovenia",
+        "position": "supported",
+        "text": "Extend a standing invitation to the special procedures of the Human Rights Council"
+       },
+       {
+        "paragraph": "98.18",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Extend a standing invitation to all special procedures of the Human Rights Council"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Mechanisms for Reporting & Follow-up (NMRF)",
+    "blocks": [
+     {
+      "paras": "98.19, 98.20",
+      "n": 2,
+      "summary": "Establish a national mechanism for implementation, reporting and follow-up",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Human Rights Bureau of the Ministry of Justice and Police coordinates reporting with ministry focal points and a National Recommendations Tracking Database.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 10 — Suriname: \"take place under the central direction of the Human Rights Bureau of the Ministry of Justice and Police\"",
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 11 — Suriname: \"the National Recommendations Tracking Database (NRTD)\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.19",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Establish a permanent national mechanism for the implementation, reporting and follow-up of human rights recommendations, considering the possibility of receiving cooperation to that end within the framework of Sustainable Development Goals 16 and 17"
+       },
+       {
+        "paragraph": "98.20",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Establish a national mechanism for implementation, reporting and follow-up of recommendations emanating from human rights bodies and mechanisms"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "98.22, 98.25-98.27",
+      "n": 4,
+      "summary": "Legislate against discrimination based on sexual orientation and gender identity",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No such legislation exists; the 2023 LGBTQ+ Needs Assessment only identified priorities.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 27 — Suriname: \"The Suriname LGBTQ+ Needs Assessment Report (2023) contributed to identifying priorities on inclusion and nondiscrimination\""
+      ],
+      "position": "4 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.22",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Take the necessary steps towards the adoption of legislative and other measures to explicitly prohibit discrimination on the basis of sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "98.25",
+        "by": "Israel",
+        "position": "noted",
+        "text": "Enact legislation that specifically addresses discrimination against lesbian, gay, bisexual and transgender persons"
+       },
+       {
+        "paragraph": "98.26",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Consider passing legislation that specifically addresses discrimination on the basis of sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "98.27",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Enact legislation to explicitly prohibit discrimination on the basis of sexual orientation and gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "97.21",
+      "n": 1,
+      "summary": "Strengthen non-discrimination legislation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Equal Treatment in Employment Act (2022) and the Act on Violence and Sexual Harassment in Employment (2022) were adopted; there is no comprehensive anti-discrimination law and no legislation on sexual orientation or gender identity.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 26 — Suriname: \"Suriname has strengthened the legal framework on non-discrimination in the labour market\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 12 — Committee on the Elimination of Racial Discrimination: \"prioritize the drafting and adoption of a comprehensive anti-discrimination law\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.21",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Pursue the efforts made previously in terms of the promotion of human rights and the protection of fundamental freedoms, particularly with regard to equality and non-discrimination"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & poverty",
+    "blocks": [
+     {
+      "paras": "97.22, 97.39-97.41",
+      "n": 4,
+      "summary": "Strengthen social protection and combat poverty",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Social Protection Strategy 2024-2030, the Moni Karta cash-transfer system and a Multisectoral Early Childhood Development Policy 2025-2035 were adopted; multidimensional poverty remains widespread.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 85 — Suriname: \"the National Social Protection Strategy (NSPS) 2024–2030\"",
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 86 — Suriname: \"In 2024, cash transfers reached 133,560 beneficiaries\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SUR/3), para. 37 — JS6: \"multidimensional poverty in Suriname affected up to 73% of large households\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.22",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to promote sustainable economic and social development, increase efforts to reduce poverty and improve people’s living standards"
+       },
+       {
+        "paragraph": "97.39",
+        "by": "China",
+        "position": "supported",
+        "text": "Further strengthen the social protection system and better protect the rights of persons in vulnerable situations"
+       },
+       {
+        "paragraph": "97.40",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue to strengthen its successful national policies for the eradication of poverty and social exclusion"
+       },
+       {
+        "paragraph": "97.41",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue taking steps to mitigate poverty and reduce socioeconomic impacts, and implement a national social security system"
+       }
+      ]
+     },
+     {
+      "paras": "98.36",
+      "n": 1,
+      "summary": "National plan against child poverty",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A General Child Allowance supports about 96,500 children and a Multisectoral Early Childhood Development Policy 2025-2035 was adopted.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 86 — Suriname: \"the General Child Allowance supports approximately 96,500 children\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.36",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Formulate public policies and a national plan to combat child poverty"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to development",
+    "blocks": [
+     {
+      "paras": "97.23",
+      "n": 1,
+      "summary": "Implement the Nairobi Summit commitments",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The SRHR Policy 2020-2030 and perinatal reforms implement the commitments.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 27 — Suriname: \"the SRHR Policy 2020–2030 are being implemented\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.23",
+        "by": "Panama",
+        "position": "supported",
+        "text": "Implement the commitment made at the Nairobi Summit on the occasion of the twenty-fifth anniversary of the International Conference on Population and Development to put in place evidence-based population policies that promote sustainable development, equality and respect for human rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to marriage & family",
+    "blocks": [
+     {
+      "paras": "98.23",
+      "n": 1,
+      "summary": "Make article 80 of the Civil Code gender neutral",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.23",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Make article 80 of the Civil Code gender neutral to guarantee the full enjoyment of the right to family life by LGBTI+ persons"
+       }
+      ]
+     },
+     {
+      "paras": "98.35",
+      "n": 1,
+      "summary": "Support the family through social policies",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The new Civil Code (in force May 2025) strengthened the legal position of families and children.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 87 — Suriname: \"The legal position of citizens and families has been further strengthened by the new Civil Code (S.B. 2024 no. 164), in force since 1 May 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.35",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Support, through economic and social policies, the institution of the family and the preservation of family values"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "97.24, 97.28, 97.29",
+      "n": 3,
+      "summary": "Climate adaptation and participation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Suriname implements its National Adaptation Plan 2020-2030 and updated NDCs.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 108 — Suriname: \"Climate and adaptation policy is anchored in the National Adaptation Plan (NAP 2020–2030)\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.24",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure the meaningful participation of women, children, persons with disabilities and local communities in the development and implementation of climate change and disaster risk reduction frameworks"
+       },
+       {
+        "paragraph": "98.28",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Take concrete and sustainable measures to fight against the negative effects of climate change"
+       },
+       {
+        "paragraph": "98.29",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Continue to adopt an inclusive and participatory approach in climate adaptation initiatives"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to name, identity & nationality",
+    "blocks": [
+     {
+      "paras": "98.24",
+      "n": 1,
+      "summary": "Review gender identity policies",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.24",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Review and make compatible with applicable law all policies and measures on gender recording in the deeds of the civil registry, to allow supplementing the registers of birth following gender and sex reassignment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Death penalty",
+    "blocks": [
+     {
+      "paras": "97.26-97.30",
+      "n": 5,
+      "summary": "Abolish the death penalty",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The death penalty was abolished in the Penal Code (2015) and in the Military Criminal Code (2021); the Second Optional Protocol remains unratified.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 7 — Suriname: \"the amendment of the Military Criminal Code (S.B. 2021 no. 117), by which the death penalty was abolished\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 5 — United Nations country team: \"Suriname had abolished the death penalty in the Penal Code in 2015 and in the Military Penal Code in 2021\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.26",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Continue its efforts towards the complete abolition of the death penalty, with the abolition of the death penalty in its Military Penal Code"
+       },
+       {
+        "paragraph": "97.27",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Abolish the use of death penalty and as a first step immediately establish an official moratorium on executions"
+       },
+       {
+        "paragraph": "97.28",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Fully abolish the death penalty"
+       },
+       {
+        "paragraph": "97.29",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Advance in the abolition of the death penalty in the Military Penal Code"
+       },
+       {
+        "paragraph": "97.30",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Abolish the death penalty"
+       }
+      ]
+     },
+     {
+      "paras": "97.25",
+      "n": 1,
+      "summary": "Abolish the death penalty in the Military Penal Code and ratify the Second Optional Protocol",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Military Criminal Code was amended in 2021 to abolish the death penalty, but the Second Optional Protocol remains unratified.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 7 — Suriname: \"the amendment of the Military Criminal Code (S.B. 2021 no. 117), by which the death penalty was abolished\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 5 — United Nations country team: \"ratification of the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, remained pending\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.25",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Step up efforts to abolish the death penalty through the revision of the Military Penal Code and consolidate this commitment through the prompt ratification of the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Conditions of detention",
+    "blocks": [
+     {
+      "paras": "98.30, 98.31, 98.34",
+      "n": 3,
+      "summary": "Improve prison and detention conditions",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Penitentiary Institutions and Remand Centres Act and Decree (2023), a Central Resocialization Department (2025), new case managers and a forensic observation facility improve conditions; international bodies still call for improvements, notably at Santa Boma prison.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 42 — Suriname: \"the Penitentiary Institutions and Remand Centres Act (S.B. 2023 no. 147) and the Penitentiary Decree (S.B. 2023 no. 148)\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 29 — Working Group of Experts on People of African Descent: \"enhance its efforts to improve the conditions in places of deprivation of liberty\""
+      ],
+      "position": "2 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.30",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Take steps to modernize Surinamese prisons to an acceptable standard of safety, capacity and sanitation"
+       },
+       {
+        "paragraph": "98.31",
+        "by": "the Nelson Mandela Rules; Denmark",
+        "position": "noted",
+        "text": "Bring its prison and detention conditions fully into line with international human rights norms and standards, including the United Nations Standard Minimum Rules for the Treatment of Prisoners"
+       },
+       {
+        "paragraph": "97.34",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Adopt comprehensive public policies aimed at ensuring the rights of persons deprived of liberty"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Prohibition of torture & ill-treatment (including cruel, inhuman or degrading treatment)",
+    "blocks": [
+     {
+      "paras": "97.31-97.33",
+      "n": 3,
+      "summary": "Investigate police ill-treatment and excessive force",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Training on public-order maintenance and community-oriented policing was introduced and the police Personnel Investigation Department oversees use of force; civil society reports no prosecutions and calls for an independent oversight body.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 38 — Suriname: \"Since 2025, the KPS has systematically moved to a community-oriented policing approach\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SUR/3), para. 13 — JS6: \"recommended that Suriname establish an independent oversight mechanism to investigate allegations of police misconduct\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.31",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Investigate allegations of excessive force used by police and hold those responsible accountable"
+       },
+       {
+        "paragraph": "97.32",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Enact comprehensive measures to address concerns of mistreatment by police, including the use of unnecessary force during arrests and beatings while in detention, this includes stopping the police from using violence or committing demeaning acts on persons found violating government curfew orders"
+       },
+       {
+        "paragraph": "97.33",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Investigate reports of mistreatment by police, including the use of excessive force during arrests and beatings while in detention, and hold accountable any officers responsible"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "98.34-98.38, 98.79",
+      "n": 6,
+      "summary": "Prevent and combat human trafficking",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Action Plan on Human Trafficking (2021-2025), a specialised police TIP unit and a strengthened National Referral Mechanism are in place and Suriname is Tier 1; convictions remain low.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 53 — Suriname: \"supported by the National Action Plan on Human Trafficking (2021–2025)\"",
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 55 — Suriname: \"the National Referral Mechanism was further strengthened for the identification, referral and protection of victims of human trafficking\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SUR/3), para. 26 — ECLJ: \"the number of convictions remained low\""
+      ],
+      "position": "1 noted, 5 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.34",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Redouble efforts to combat human trafficking in the framework of Sustainable Development Goals 5 and 16"
+       },
+       {
+        "paragraph": "97.35",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Sustain the endeavours to prevent and combat human trafficking and guarantee assistance to the victims"
+       },
+       {
+        "paragraph": "97.36",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Build the capacity of officials to improve identification and protection of victims of human trafficking"
+       },
+       {
+        "paragraph": "97.37",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to combat trafficking in persons, in accordance with the requirements of the national action plan to prevent and combat trafficking in persons"
+       },
+       {
+        "paragraph": "97.38",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Enforce legislation and provide adequate resources and training for all officials in the criminal justice system to effectively investigate and prosecute modern slavery cases"
+       },
+       {
+        "paragraph": "97.79",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Intensify its efforts to combat child trafficking and sexual exploitation"
+       }
+      ]
+     },
+     {
+      "paras": "98.32",
+      "n": 1,
+      "summary": "Shelters for victims of gender-based violence",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents report insufficient shelter capacity and no new shelters; the State does not describe measures on shelters.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/SUR/3), para. 70 — JS6: \"existing capacity was insufficient, with victims regularly being turned away\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.32",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Take additional steps to prevent and combat trafficking in persons, such as creating specific shelters for victims, with a particular focus on women and girls from Amerindian and Maroon communities"
+       }
+      ]
+     },
+     {
+      "paras": "98.33",
+      "n": 1,
+      "summary": "Prosecute traffickers more effectively",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Convictions remain low.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 44 — Human Rights Committee: \"the low number of convictions for trafficking in persons\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.33",
+        "by": "Malawi",
+        "position": "noted",
+        "text": "Enforce the Penal Code more effectively to investigate and prosecute individuals and organized groups engaged in trafficking people for sexual and labour exploitation, with the maximum penalty of life imprisonment being sought in courts for egregious cases"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & reproductive health and rights",
+    "blocks": [
+     {
+      "paras": "98.37-98.39, 98.47-98.49, 98.51",
+      "n": 7,
+      "summary": "Reduce maternal mortality and expand sexual and reproductive health services",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Suriname introduced the SIP Plus perinatal information system (2024-2025), the Maternal and Perinatal Death Surveillance model, the SRHR Policy 2020-2030 and has integrated comprehensive sexuality education into the curriculum; maternal mortality remains high.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 82 — Suriname: \"The introduction and nationwide scaling-up of the SIP Plus perinatal information system in 2024 and 2025\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SUR/3), para. 46 — JS6: \"Suriname had reduced maternal mortality over time, but the level remained high\""
+      ],
+      "position": "7 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.37",
+        "by": "Colombia",
+        "position": "supported",
+        "text": "Advance in the development and implementation of measures to guarantee access to education and medical services in the field of sexual and reproductive health appropriate for each age group"
+       },
+       {
+        "paragraph": "98.38",
+        "by": "Denmark",
+        "position": "supported",
+        "text": "Provide access to comprehensive sexuality education as part of the school curriculum"
+       },
+       {
+        "paragraph": "98.39",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Develop a comprehensive sexual and reproductive health education programme, focusing on the prevention of adolescent pregnancies and sexually transmitted diseases"
+       },
+       {
+        "paragraph": "97.47",
+        "by": "Colombia",
+        "position": "supported",
+        "text": "Advance in the implementation of measures to reduce the number of preventable maternal deaths by guaranteeing high-quality obstetric and postpartum care in health centres and universal access to care, especially for vulnerable women"
+       },
+       {
+        "paragraph": "97.48",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Strengthen its efforts against maternal mortality, develop maternal health-care policies and measures that ensure accessible care for all women"
+       },
+       {
+        "paragraph": "97.49",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Strengthen efforts to reduce the rate of maternal mortality"
+       },
+       {
+        "paragraph": "97.51",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Provide access to safe and affordable contraceptives, family planning services and adequate information on sexual and reproductive health"
+       }
+      ]
+     },
+     {
+      "paras": "98.47, 98.48",
+      "n": 2,
+      "summary": "Decriminalise abortion",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on abortion.",
+      "evidence": [],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.47",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Decriminalize abortion by revising article 309 of the Penal Code to respect, protect and fulfil women’s and girls’ human rights to health"
+       },
+       {
+        "paragraph": "98.48",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Decriminalize abortion in all circumstances and remove legal, administrative and practical barriers to accessing safe and legal abortion services in order to comply, inter alia, with article 36 (2) of the Constitution of Suriname"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: independence, inclusion",
+    "blocks": [
+     {
+      "paras": "98.40, 98.53",
+      "n": 2,
+      "summary": "Disability inclusion legislation and inclusive education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The General Act for Persons with Disabilities was introduced in the National Assembly (June 2024), a National Policy Plan 2025-2030 was adopted and an inclusive education protocol issued; accessibility barriers persist.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 66 — Suriname: \"the formal member’s bill for the General Act for Persons with Disabilities (AWMB) was submitted to the National Assembly\"",
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 67 — Suriname: \"the National Policy Plan for Persons with Disabilities Suriname 2025–2030\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.40",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Implement specific measures to promote inclusive education of children with disabilities"
+       },
+       {
+        "paragraph": "98.53",
+        "by": null,
+        "position": "supported",
+        "text": "Enact a law to prohibit discrimination against persons with physical or mental disabilities in education, services or employment, and provide equal access to buildings (United States of America)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "98.41, 98.52-98.57",
+      "n": 7,
+      "summary": "Improve access to quality education, especially in the interior",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Suriname adopted the National Education Policy Plan 2024-2031, a Multilingual Education Programme 2025-2030, school feeding, subsidised transport and a 2025 inclusive education protocol; dropout in the interior averages 21% and teacher and infrastructure gaps persist.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 71 — Suriname: \"the National Education Policy Plan Suriname 2024–2031 (NOBS)\"",
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 75 — Suriname: \"the de facto school dropout in the interior, which averages 21 per cent\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 61 — United Nations country team: \"Access to quality education remained limited, especially in the rainforest and for marginalized communities and children with disabilities\""
+      ],
+      "position": "7 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.41",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Adopt a coherent strategy to ensure universal access to education, especially in respect of girls, to reduce disparities in the level of education between rural and urban areas"
+       },
+       {
+        "paragraph": "97.52",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Further intensify efforts towards the improvement of access to education for all children"
+       },
+       {
+        "paragraph": "97.53",
+        "by": "India",
+        "position": "supported",
+        "text": "Continue with legislative and policy measures for ensuring access to education for all children"
+       },
+       {
+        "paragraph": "97.54",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Improve access to primary and secondary education for all children, including those with disabilities"
+       },
+       {
+        "paragraph": "97.55",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Continue to allocate sufficient funding to ensure universal access to education, especially for children in the rural areas"
+       },
+       {
+        "paragraph": "97.56",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Take further steps to improve access to education for all children, with a special focus on providing inclusive education for children with disabilities and indigenous children"
+       },
+       {
+        "paragraph": "97.57",
+        "by": "Serbia",
+        "position": "supported",
+        "text": "Seek to improve access to primary and secondary education for all children, including those with disabilities"
+       }
+      ]
+     },
+     {
+      "paras": "98.42",
+      "n": 1,
+      "summary": "Multilingual approach to education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Multilingual Education Program 2025-2030 was ratified in 2024 and piloted in Galibi; scale-up faces barriers.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 74 — Suriname: \"the Multilingual Education Program 2025–2030 was formally ratified in October 2024\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.42",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Take appropriate measures towards the inclusion of a multilingual approach to education in the framework of Sustainable Development Goals 5 and 10"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Safe drinking water & sanitation",
+    "blocks": [
+     {
+      "paras": "97.42",
+      "n": 1,
+      "summary": "Expand water, sanitation and hygiene programmes",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "UN WASH installed 118 rainwater tanks in 57 villages and a project for 26 rural communities is being implemented; less than 40% of people in the interior have safe drinking water.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 109 — Suriname: \"the installation of automated surface-water treatment systems and 118 rainwater tanks in 57 villages has been realized through the UN WASH programs\"",
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 109 — Suriname: \"currently less than 40% of the population in the interior has structural access to safe drinking water\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.42",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Expand the water, sanitation and hygiene programme to ensure access to improved water sources and sanitation facilities, especially for people living in the interior"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "98.43, 98.65-98.67",
+      "n": 4,
+      "summary": "Eliminate violence against women",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The 2022 Act and the Gender Vision Policy are in place and training is provided; violence remains highly prevalent.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 73 — Human Rights Committee: \"was concerned by the continued high prevalence of violence against women in Suriname\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.43",
+        "by": "Panama",
+        "position": "supported",
+        "text": "Facilitate an in-depth public debate that includes women’s organizations and trade unions to provide inputs for the current draft legislation on sexual harassment in the workplace, and simultaneously invest in raising awareness on sexual rights for specific target groups in a culturally appropriate language"
+       },
+       {
+        "paragraph": "97.65",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Continue efforts to eliminate violence against women and attain gender equality"
+       },
+       {
+        "paragraph": "97.66",
+        "by": "France",
+        "position": "supported",
+        "text": "Implement all the necessary measures to promote gender equality and fight against violence against women"
+       },
+       {
+        "paragraph": "97.67",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Strengthen efforts to curb cases of violence against women"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Labour rights and right to work",
+    "blocks": [
+     {
+      "paras": "97.43",
+      "n": 1,
+      "summary": "Deepen measures for an adequate standard of living and decent work",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Decent Work Country Programme 2023-2026 and a revised Labour Act (2023) were implemented.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 88 — Suriname: \"The Decent Work Country Program (DWCP) 2023–2026 promotes employment\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.43",
+        "by": "Barbados",
+        "position": "supported",
+        "text": "Deepen measures to ensure the enjoyment of the right to an adequate standard of living by promoting decent work"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "97.44-97.46, 97.50",
+      "n": 4,
+      "summary": "Improve access to essential health services and mental health",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Healthcare Facilities Readiness Initiative (June 2026), the Medical Mission for the interior, malaria-free certification (2025) and the National Mental Health Strategy 2025-2030 advance access; rural access, workforce and referral gaps remain.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 79 — Suriname: \"on 25 June 2026 the State launched the large-scale Healthcare Facilities Readiness Initiative\"",
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 80 — Suriname: \"in 2025 the country was officially certified malaria-free by the World Health Organization\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 57 — UNICEF: \"access to primary healthcare in remote areas was undermined by shortages of medical personnel\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.44",
+        "by": "India",
+        "position": "supported",
+        "text": "Consider further measures to ensure access to essential health services for all"
+       },
+       {
+        "paragraph": "97.45",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Continue efforts in improving health-care infrastructure, in particular access to health care for women in rural communities"
+       },
+       {
+        "paragraph": "97.46",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Continue the implementation of provisions under the national mental health plan to prevent suicides among children and adolescents"
+       },
+       {
+        "paragraph": "97.50",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Strengthen efforts to ensure adequate provision of prenatal and postnatal care to address the rates of infant, child and maternal mortality"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & gender-based violence",
+    "blocks": [
+     {
+      "paras": "98.45, 98.46, 98.64, 98.68-98.72, 98.74, 98.76",
+      "n": 10,
+      "summary": "Combat gender-based and domestic violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Suriname adopted the Act on Violence and Sexual Harassment in Employment (2022), implements the Gender Vision Policy 2021-2035, trains first responders and opened a specialised victim hearing room (March 2026); implementation of the 2009 Domestic Violence Act is weak, shelter capacity is insufficient and the 2022 Act excludes public servants.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 26 — Suriname: \"the Equal Treatment in Employment Act (S.B. 2022 no. 137) and the Act on Violence and Sexual Harassment in Employment (S.B. 2022 no. 136)\"",
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 45 — Suriname: \"a specialized hearing room was put into operation at the De Nieuwe Grond police station for the reception and questioning of victims of domestic and gender-based violence\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 73 — Human Rights Committee: \"regretted the reportedly weak implementation of its legislative framework\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SUR/3), para. 70 — JS6: \"existing capacity was insufficient, with victims regularly being turned away\""
+      ],
+      "position": "9 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "98.45",
+        "by": "Netherlands",
+        "position": "supported",
+        "text": "Implement the law on domestic violence more efficiently and provide adequate protection for victims of domestic violence, inter alia, by efficiently holding perpetrators accountable and giving victims adequate legal and psychosocial support"
+       },
+       {
+        "paragraph": "98.46",
+        "by": "Belgium",
+        "position": "noted",
+        "text": "Implement a multisectoral policy approach, aiming at enhancing and guaranteeing the provision of professional gender-based violence services, especially in rural areas"
+       },
+       {
+        "paragraph": "97.64",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Continue taking measures to eradicate all forms of violence and discrimination against women, girls and lesbian, gay, bisexual, transgender and intersex persons"
+       },
+       {
+        "paragraph": "97.68",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Strengthen the efforts to combat all forms of violence and discrimination against women and girls, children and lesbian, gay, bisexual, transgender and intersex persons"
+       },
+       {
+        "paragraph": "97.69",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Diversify national plans to strengthen gender equality policies and the fight against gender-based violence in the country"
+       },
+       {
+        "paragraph": "97.70",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue to strengthen its programmes for the empowerment of women and gender equality, especially in the area of the fight against domestic violence"
+       },
+       {
+        "paragraph": "97.71",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Take adequate measures to protect women and children from domestic violence"
+       },
+       {
+        "paragraph": "97.72",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Ensure greater stakeholder involvement in developing and implementing measures to prevent and address all forms of gender-based violence"
+       },
+       {
+        "paragraph": "97.74",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Enhance the progress made in combating domestic violence, especially against women, preventing discrimination against women and supporting gender equality in various fields"
+       },
+       {
+        "paragraph": "97.76",
+        "by": "Barbados",
+        "position": "supported",
+        "text": "Continue to address domestic violence and promote efforts to combat all forms of violence against women and girls"
+       }
+      ]
+     },
+     {
+      "paras": "98.44, 98.63, 98.73",
+      "n": 3,
+      "summary": "Shelters for victims of gender-based violence",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents report insufficient shelter capacity and no new shelters; the State does not describe measures on shelters.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/SUR/3), para. 70 — JS6: \"existing capacity was insufficient, with victims regularly being turned away\""
+      ],
+      "position": "1 noted, 2 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.44",
+        "by": "Montenegro",
+        "position": "noted",
+        "text": "Establish additional shelters for victims of gender-based violence, especially in rural areas, and ensure that legal assistance, rehabilitation and psychosocial support are provided to victims there"
+       },
+       {
+        "paragraph": "97.63",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Actively encourage use of and access to shelters for survivors of gender-based violence, as well as expand educational and outreach programmes to encourage survivors to report abuse"
+       },
+       {
+        "paragraph": "97.73",
+        "by": "Republic of Korea",
+        "position": "supported",
+        "text": "Continue its endeavours to combat gender-based violence, including domestic violence, and ensure that shelters and health-care services are accessible to all victims, especially to those from rural backgrounds"
+       }
+      ]
+     },
+     {
+      "paras": "97.75",
+      "n": 1,
+      "summary": "Legislate against discrimination based on sexual orientation and gender identity",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No such legislation exists; the 2023 LGBTQ+ Needs Assessment only identified priorities.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 27 — Suriname: \"The Suriname LGBTQ+ Needs Assessment Report (2023) contributed to identifying priorities on inclusion and nondiscrimination\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.75",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Seek training for law enforcement and judicial officers to ensure accountability for gender-based violence and discrimination against lesbian, gay, bisexual, transgender and intersex communities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: definition",
+    "blocks": [
+     {
+      "paras": "97.60, 97.77, 97.78, 97.81, 97.84",
+      "n": 5,
+      "summary": "Strengthen child-protection systems and legislation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Children's Ombudsperson Act (2025), the lowering of the age of majority to 18 and equal status for all children in the new Civil Code advance child protection; the Ombudsman institute is not yet operational and corporal punishment is not prohibited in all settings.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 60 — Suriname: \"provides for the establishment of the Children’s Ombudsman Institute Suriname (KOI)\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 18 — United Nations country team: \"it was not yet operational, its bureau had not been staffed\"",
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 61 — Suriname: \"the statutory age of majority has been lowered de jure from 21 to 18 years\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.60",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Adopt measures to eliminate all forms of discrimination and violence against children, with special attention to Amerindian and Maroon communities, migrants and children of Haitian migrants"
+       },
+       {
+        "paragraph": "97.77",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Continue to strengthen its child protection systems, including by further implementing its integrated child protection network and considering establishing specialized courts and police units for child protection"
+       },
+       {
+        "paragraph": "97.78",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Strengthen ongoing actions for the protection of children’s rights, including actions in the legislative sphere"
+       },
+       {
+        "paragraph": "97.81",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue effective measures to protect the rights of the child, including by eradicating child labour, child abuse and reducing school dropout rates"
+       },
+       {
+        "paragraph": "97.84",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Step up efforts for child protection by adopting regulatory instruments and policies and by providing the IKBeN network with adequate resources and assistance"
+       }
+      ]
+     },
+     {
+      "paras": "98.49-98.51",
+      "n": 3,
+      "summary": "Prohibit corporal punishment in all settings",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The State describes elimination of corporal punishment in education only; the Human Rights Committee requests that parents' corporal punishment also be prohibited in the Civil Code.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 85 — Human Rights Committee: \"prohibiting corporal punishment by parents in the draft New Civil Code\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.49",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Bolster measures that would provide for a complete prohibition of corporal punishment against boys and girls"
+       },
+       {
+        "paragraph": "98.50",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Amend legislation to explicitly prohibit corporal punishment in all settings, including in the family, in day-care and afterschool care facilities, schools, alternative care settings and residential care"
+       },
+       {
+        "paragraph": "98.51",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Abolish corporal punishment, in law and in practice, by enacting specific national legislation prohibiting corporal punishment in all environments"
+       }
+      ]
+     },
+     {
+      "paras": "97.82",
+      "n": 1,
+      "summary": "Eliminate child, early and forced marriage",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "UNESCO requests that the minimum age of marriage be 18 without exception; the State only states that customary law cannot override national law.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 87 — UNESCO: \"amend its legislation to ensure that the minimum age of marriage was 18 years old without exception\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.82",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Continue efforts in eliminating child, early and forced marriages, as well as sexual abuse and exploitation of children, especially girls"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: definition, general principles",
+    "blocks": [
+     {
+      "paras": "98.52",
+      "n": 1,
+      "summary": "Comprehensive legislation to protect persons with disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The General Act for Persons with Disabilities is before the National Assembly.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 66 — Suriname: \"the formal member’s bill for the General Act for Persons with Disabilities (AWMB) was submitted to the National Assembly\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "98.52",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Consider adopting comprehensive legislation to protect the rights of persons with disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Advancement of women",
+    "blocks": [
+     {
+      "paras": "97.58, 97.59, 97.62",
+      "n": 3,
+      "summary": "Promote gender equality and women's participation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Gender Vision Policy Document 2021-2035 guides training of first responders and officials; negative gender stereotypes and low representation persist.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 27 — Suriname: \"the Gender Vision Policy Document 2021–2035 and the SRHR Policy 2020–2030 are being implemented\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.58",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Continue advancing in the fight against gender stereotypes and prejudices, and for the achievement of gender equality"
+       },
+       {
+        "paragraph": "97.59",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Take necessary measures to achieve gender equality in political and public life"
+       },
+       {
+        "paragraph": "97.62",
+        "by": "Barbados",
+        "position": "supported",
+        "text": "Advance efforts to raise awareness regarding equal opportunities and responsibilities for men and women in order to abolish discrimination on the basis of gender and encourage greater representation of women in positions of responsibility"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "97.61",
+      "n": 1,
+      "summary": "Adopt legislation on equal treatment of women and men",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Equal Treatment in Employment Act (2022) was adopted; the ILO continues to call for comprehensive legislation covering all grounds.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 48 — ILO Committee of Experts: \"reiterated its request to Suriname to adopt as soon as possible comprehensive legislation that\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.61",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Adopt the draft law on equal treatment of women and men and ensure it includes a definition of discrimination against women in line with article 1 of the Convention on the Elimination of All Forms of Discrimination against Women"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: protection against exploitation",
+    "blocks": [
+     {
+      "paras": "97.80",
+      "n": 1,
+      "summary": "Protect children from economic exploitation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Youth Information Unit runs prevention programmes and the Labour Act was revised in 2023.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 64 — Suriname: \"the Youth Information Unit of the Suriname Police Force continuously carries out prevention and awareness programs\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.80",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Take measures to protect children from being economically exploited and adopt policies to effectively address child labour in both the formal and informal sectors"
+       }
+      ]
+     },
+     {
+      "paras": "97.83",
+      "n": 1,
+      "summary": "Eradicate child labour",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The ILO continues to request measures including on hazardous work in mining.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 84 — ILO Committee of Experts: \"to ensure that no child was engaged in hazardous work in mining\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.83",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Eradicate child labour"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to an adequate standard of living",
+    "blocks": [
+     {
+      "paras": "97.85, 97.87, 97.88, 97.90",
+      "n": 4,
+      "summary": "Recognise Indigenous and tribal peoples' rights",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Suriname launched a Land Rights Project 2026-2030 with UNDP, received a national FPIC protocol (October 2025) and the National Assembly approved the Act on the Protection of Residential and Living Areas of Indigenous and Tribal Peoples; the Collective Rights Act is still a draft.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 96 — Suriname: \"the Act on the Protection of the Residential and Living Areas of Indigenous and Tribal Peoples has been approved by the National Assembly\"",
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 95 — Suriname: \"formally handed over the national FPIC protocol to the Government on 14 October 2025\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 96 — Human Rights Committee: \"to expedite the adoption, within a clear time frame, of the draft law on the collective rights of Indigenous and tribal peoples\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.85",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Increase efforts to recognize indigenous peoples and demarcate their traditional territories through legislation"
+       },
+       {
+        "paragraph": "97.87",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue to boost the changes in the regulatory and the institutional framework for the promotion and protection of human rights that would lead to greater inclusion and better standards of living for indigenous peoples and communities"
+       },
+       {
+        "paragraph": "97.88",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Adopt measures to strengthen the effective exercise of the economic rights of indigenous peoples and their special protection"
+       },
+       {
+        "paragraph": "97.90",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Step up the process of legal and formal recognition of indigenous and tribal peoples in order to improve their situation and guarantee their rights"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & the environment",
+    "blocks": [
+     {
+      "paras": "97.86",
+      "n": 1,
+      "summary": "Mitigate mercury and mining pollution",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Environmental Authority is operational and Suriname implements the Minamata Convention through a 2021-2025 action plan for small-scale gold mining; contamination persists in the interior.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 108 — Suriname: \"Suriname implements the Minamata Convention on Mercury through the NAP-ASGM (2021–2025)\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 69 — Committee on the Elimination of Racial Discrimination: \"reports of ongoing pollution – mercury and other toxics – on land and in rivers\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.86",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Take actions, in follow-up to the recommendations of the second cycle, on mitigating the negative impact of mining to strengthen the legal framework for the rights of indigenous populations, respecting the right to a clean, healthy and sustainable environment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to participate in public affairs & right to vote",
+    "blocks": [
+     {
+      "paras": "97.89",
+      "n": 1,
+      "summary": "Meaningful participation of Indigenous peoples",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A national FPIC protocol was handed over and consultations were held.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 95 — Suriname: \"formally handed over the national FPIC protocol to the Government on 14 October 2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.89",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Take further steps to ensure the meaningful participation of indigenous peoples in decision-making on all matters affecting them"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rule of law & impunity",
+    "blocks": [
+     {
+      "paras": "97.91",
+      "n": 1,
+      "summary": "Platform to protect the rights of Indigenous and tribal peoples",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Consultations with traditional authorities, the FPIC protocol and an inter-ministerial commission were launched.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 95 — Suriname: \"an interministerial commission is currently studying modalities to integrate this protocol as a formal guideline for consultations in the interior\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.91",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Establish a formal platform to guarantee and protect the rights of indigenous and tribal peoples"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation with international organizations",
+    "blocks": [
+     {
+      "paras": "97.92, 97.93",
+      "n": 2,
+      "summary": "Implement the judgments of the Inter-American Court of Human Rights",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Suriname recognises remaining constitutional challenges in implementing the Moiwana, Saramaka and Kaliña and Lokono judgments; the Human Rights Committee finds them only partially implemented.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 7 — Suriname: \"recognizes the remaining constitutional challenges in the full de jure implementation of the standing judgments of the Inter-American Court of Human Rights\"",
+       "UN Compilation (A/HRC/WG.6/53/SUR/2), para. 11 — Human Rights Committee: \"had been only partially implemented\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.92",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Implement the judgment of the Inter-American Court of Human Rights regarding the Moiwana Community and Saramaka people swiftly and completely"
+       },
+       {
+        "paragraph": "97.93",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Ensure full and swift implementation of the various judgments made by the Inter-American Court of Human Rights regarding the land rights of indigenous peoples in Suriname"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Land & property rights",
+    "blocks": [
+     {
+      "paras": "97.94",
+      "n": 1,
+      "summary": "Enact a law to demarcate Indigenous lands",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Collective Rights Act is still before the National Assembly; the Act on the Protection of Residential and Living Areas was approved pending promulgation and a Land Rights Project was launched.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SUR/1), para. 94 — Suriname: \"the draft Act on the Collective Rights of Indigenous and Tribal Peoples (initiated in 2019, with renewed parliamentary treatment in 2023–2025)\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "97.94",
+        "by": null,
+        "position": "supported",
+        "text": "Enact a law that provides for demarcation of the lands of indigenous peoples and empowerment regarding decisions affecting the exploitation of natural resources on their lands (United States of America)."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
  "hrc": {
   "meta": {
    "mechanism": "hrc",
@@ -88,5 +1978,5 @@
   ],
   "history": []
  },
- "combined_score": 3.0
+ "combined_score": 3.35
 }

@@ -50,7 +50,8 @@ function uprSection(upr) {
   return `
     <h2>Universal Periodic Review — ${esc(m.cycle)} recommendations</h2>
     <p class="note">Recommendations in <strong>${esc(m.co_symbol)}</strong>, assessed against the
-      documentation for the ${esc(m.review)} review. A first-pass assessment for expert review.</p>
+      documentation for the ${esc(m.review)} review. Assessed by AI and not checked by a human expert.</p>
+    ${m.note ? `<p class="note"><strong>Note.</strong> ${esc(m.note)}</p>` : ""}
     ${m.headline ? `<p class="lead">${mdInline(m.headline)}</p>` : ""}
     <p class="note"><strong>Sources.</strong> ${m.sources.map(mdInline).join(" · ")}</p>
     ${themes}`;

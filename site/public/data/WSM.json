@@ -1,0 +1,1772 @@
+{
+ "a3": "WSM",
+ "name": "Samoa",
+ "num": 882,
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "39th session (2021)",
+   "co_symbol": "A/HRC/49/7",
+   "review": "November 2026 (session 53)",
+   "sources": [
+    "The **National Report** (A/HRC/WG.6/53/WSM/1) was not yet available at the time of assessment.",
+    "**UN Compilation** — A/HRC/WG.6/53/WSM/2",
+    "**Stakeholders' Summary** — A/HRC/WG.6/53/WSM/3"
+   ],
+   "headline": "**No relevant action (C)** is the dominant outcome, and the evidence is thin on the State's own account: Samoa's National Report was not yet available, so 22 recommendations have no information in the documents (**D**). **Partial implementation (B)** appears where the documents record a concrete measure — strengthened primary health care and the Health Sector Plan 2021-2025, the Education Sector Plan 2025-2030, higher pensions from late 2025, a legal minimum marriage age of 18 and dedicated policies against gender-based violence. **No relevant action (C)** persists on treaty ratification (ICESCR, ICERD, OP-CAT, the Second Optional Protocol), a comprehensive anti-discrimination law, decriminalisation of same-sex relations, abortion, corporal punishment, the pending Child Protection Bill and the age of criminal responsibility.",
+   "note": "No national report was available for this review when the assessment was made, so more recommendations are graded D (no information).",
+   "n": 145,
+   "grade_dist": {
+    "A": 0,
+    "B": 36,
+    "C": 87,
+    "D": 22,
+    "E": 0
+   },
+   "score": 3.1
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "106.2, 106.3, 106.5-106.15",
+      "n": 13,
+      "summary": "Ratify outstanding international instruments",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The documents show that several core treaties and protocols remain unratified (ICESCR, ICERD, ICRMW, the Optional Protocols to the ICCPR, the CAT and the CRPD) and no ratification in the review period is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 2 — Committee on Enforced Disappearances; United Nations country team: \"recommended that Samoa ratify the International Covenant on Economic, Social and Cultural Rights and the International Convention on the Elimination of All Forms of Racial Discrimination\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 2 — OMB/NHRI: \"recommended that Samoa ratify and incorporate into domestic law ICERD, ICESCR, ICRMW, ICCPR-OP 1, ICCPR-OP 2\""
+      ],
+      "position": "13 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.2",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Advance steps towards the ratification of core human rights treaties"
+       },
+       {
+        "paragraph": "106.3",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Accede to further international human rights treaties"
+       },
+       {
+        "paragraph": "106.5",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Persevere in the commitment to ratify the international human rights instruments to which Samoa is not yet party, namely the International Covenant on Economic, Social and Cultural Rights and the International Convention on the Elimination of All Forms of Racial Discrimination"
+       },
+       {
+        "paragraph": "106.6",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Join further core human rights treaties to ensure more effective protection of human rights, including the International Covenant on Economic, Social and Cultural Rights and the International Convention on the Elimination of All Forms of Racial Discrimination"
+       },
+       {
+        "paragraph": "106.7",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Increase efforts to swiftly ratify the main international human rights instruments, especially the International Convention on the Elimination of All Forms of Racial Discrimination and the International Covenant on Economic, Social and Cultural Rights"
+       },
+       {
+        "paragraph": "106.8",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Take the necessary measures to ratify the International Covenant on Economic, Social and Cultural Rights, the International Convention on the Elimination of All Forms of Racial Discrimination and the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families and enhance national capacities for the ratification, including through technical assistance cooperation with international partners"
+       },
+       {
+        "paragraph": "106.9",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Accede to the remaining core human rights treaties, including the International Convention on the Elimination of All Forms of Racial Discrimination and the International Covenant on Economic, Social and Cultural Rights and incorporate them into domestic law"
+       },
+       {
+        "paragraph": "106.10",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Consider ratifying the International Convention on the Elimination of All Forms of Racial Discrimination and the International Covenant on Economic, Social and Cultural Rights"
+       },
+       {
+        "paragraph": "106.11",
+        "by": "India",
+        "position": "supported",
+        "text": "Consider ratifying the International Convention on the Elimination of All Forms of Racial Discrimination"
+       },
+       {
+        "paragraph": "106.12",
+        "by": "Armenia; Malawi; Finland; France; Luxembourg",
+        "position": "supported",
+        "text": "Ratify the International Convention on the Elimination of All Forms of Racial Discrimination"
+       },
+       {
+        "paragraph": "106.13",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Consider ratifying the International Covenant on Economic, Social and Cultural Rights and introducing its provisions into the national legislation"
+       },
+       {
+        "paragraph": "106.14",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Consider ratifying the International Covenant on Economic, Social and Cultural Rights"
+       },
+       {
+        "paragraph": "106.15",
+        "by": "Finland; Luxembourg; Malawi",
+        "position": "supported",
+        "text": "Ratify the International Covenant on Economic, Social and Cultural Rights"
+       }
+      ]
+     },
+     {
+      "paras": "106.4, 106.19-106.21",
+      "n": 4,
+      "summary": "Abolish the death penalty / ratify the Second Optional Protocol",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Samoa has not ratified the Second Optional Protocol and the Constitution still retains the death penalty.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 23 — JS1; CGNK: \"recommended Samoa to ratify ICCPR-OP 2\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 29 — CGNK: \"regretted that Samoa still retains the death penalty in its constitution\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.4",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Consider the ratification of international instruments to which the country is not yet party, in particular, the International Convention on the Elimination of All Forms of Racial Discrimination, the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families and the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "106.19",
+        "by": "France",
+        "position": "supported",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "106.20",
+        "by": "Finland; Portugal",
+        "position": "supported",
+        "text": "Abolish the death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "106.21",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Fully abolish the death penalty by ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights"
+       }
+      ]
+     },
+     {
+      "paras": "106.16-106.18",
+      "n": 3,
+      "summary": "Ratify the Optional Protocol to CEDAW",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.16",
+        "by": "Luxembourg; Vanuatu",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "106.17",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women and proceed with its further development"
+       },
+       {
+        "paragraph": "106.18",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women without delay and develop protocols to address violence against women"
+       }
+      ]
+     },
+     {
+      "paras": "107.1, 107.2",
+      "n": 2,
+      "summary": "Ratify OP-CAT",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Several bodies recommended ratification of the OP-CAT; no ratification is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 2 — Committee on the Rights of Persons with Disabilities, Committee on Enforced Disappearances and United Nations country team: \"recommended that Samoa ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.1",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Consider ratification of the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "107.2",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       }
+      ]
+     },
+     {
+      "paras": "106.1",
+      "n": 1,
+      "summary": "Continue implementing measures to promote and protect human rights",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Samoa engaged with the CRPD and CED Committees and hosts an OHCHR Human Rights Adviser; the documents also record the ratification gaps above.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 9 — OHCHR: \"An OHCHR Human Rights Adviser has been part of the Resident Coordinator multi-country office in Samoa since 2022\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.1",
+        "by": "Uzbekistan",
+        "position": "supported",
+        "text": "Continue to implement effective measures to further promote and protect human rights in the country, including by acceding to international conventions and covenants in this area"
+       }
+      ]
+     },
+     {
+      "paras": "107.3",
+      "n": 1,
+      "summary": "Ratify the 2014 Protocol to the ILO Forced Labour Convention",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.3",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Ratify the Protocol of 2014 to the ILO Forced Labour Convention, 1930 (No.29) before its next review"
+       }
+      ]
+     },
+     {
+      "paras": "107.4",
+      "n": 1,
+      "summary": "Ratify the Palermo trafficking protocol",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The NHRI and civil society urge ratification of the Protocol; none is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 25 — ECLJ: \"urged Samoa to ratify the Protocol to Prevent, Suppress and Punish Trafficking in Persons Especially Women and Children\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.4",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Ratify the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children, supplementing the United Nations Convention against Transnational Organized Crime"
+       }
+      ]
+     },
+     {
+      "paras": "107.5",
+      "n": 1,
+      "summary": "Ratify the Genocide Convention",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A civil-society submission recommends ratification; none is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 24 — CGNK: \"nothing hindered the ratification of the Convention on the Prevention and Punishment of the Crime of Genocide\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.5",
+        "by": "Armenia",
+        "position": "noted",
+        "text": "Ratify the Convention on the Prevention and Punishment of the Crime of Genocide, as previously recommended"
+       }
+      ]
+     },
+     {
+      "paras": "106.22",
+      "n": 1,
+      "summary": "Awareness-raising on the death penalty",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.22",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Strengthen awareness-raising campaigns on the death penalty and public debates on the subject from a human rights perspective, including in its parliament, with a view to ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, as soon as possible"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "107.7, 107.9-107.11, 107.13-107.16, 107.19, 107.20",
+      "n": 10,
+      "summary": "Decriminalize consensual same-sex relations",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Crimes Act 2013 still criminalises consensual same-sex relations.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 72 — JS3: \"the Crimes Act 2013 criminalized consensual same-sex relations\""
+      ],
+      "position": "10 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.7",
+        "by": "New Zealand",
+        "position": "noted",
+        "text": "Review and strengthen anti-discrimination laws relating to same-sex relations between consenting adults, sexual orientation and gender"
+       },
+       {
+        "paragraph": "107.9",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Decriminalize consensual sexual relations between adults of the same sex and expand its anti-discrimination legislation to include a prohibition of discrimination on the basis of sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "107.10",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Decriminalize consensual adult same-sex relations"
+       },
+       {
+        "paragraph": "107.11",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Decriminalize consensual sexual relations between persons of the same sex and adopt legislation that prohibits discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "107.13",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Repeal laws that criminalize consensual same-sex sexual activity for adults and strengthen anti-discrimination laws to ensure people are not discriminated against based on their sexual orientation or gender identity"
+       },
+       {
+        "paragraph": "107.14",
+        "by": "France",
+        "position": "noted",
+        "text": "Repeal all laws criminalizing sexual relations between consenting adults of the same sex"
+       },
+       {
+        "paragraph": "107.15",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Repeal provisions that may be applied to criminalize sexual activity between consenting adults of the same sex"
+       },
+       {
+        "paragraph": "107.16",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Evaluate decriminalizing consensual sexual relations between adults of the same sex and carry out awareness-raising campaigns to combat the stigma suffered by LGBTQI+ persons"
+       },
+       {
+        "paragraph": "107.19",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Decriminalize consensual same-sex sexual conduct by repealing sections 67, 68 and 71 of the Crimes Act"
+       },
+       {
+        "paragraph": "107.20",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Decriminalize same-sex relations between consenting adults by repealing sections 67, 68 and 71 of the Crimes Act"
+       }
+      ]
+     },
+     {
+      "paras": "107.8, 107.12, 107.17, 107.25",
+      "n": 4,
+      "summary": "Health needs of trans persons",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "4 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.8",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Decriminalize consensual sexual relations between men and strengthen protections from societal violence and discrimination for lesbian, gay, bisexual, transgender, queer and intersex persons"
+       },
+       {
+        "paragraph": "107.12",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Decriminalize sexual relations between consenting adults of the same sex and take concrete measures to combat stigma and discrimination against lesbian, gay, bisexual, transgender and intersex persons"
+       },
+       {
+        "paragraph": "107.17",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Repeal laws criminalizing private sexual activities between consenting adults, including sections 67, 68 and 71 of the Crimes Act, and take steps to protect lesbian, gay, bisexual, transgender and intersex persons from discrimination"
+       },
+       {
+        "paragraph": "107.25",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Enact legislation and implement policies that prioritize the health needs of trans persons, including for the prevention and treatment of HIV and sexually transmitted infections and gender-affirmative care, and conduct awareness-raising on sexual orientation and gender identity for service providers to ensure confidentiality, empathy and respect in health-care settings"
+       }
+      ]
+     },
+     {
+      "paras": "107.6, 107.18, 107.32",
+      "n": 3,
+      "summary": "Adopt comprehensive anti-discrimination protection",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Samoa has no comprehensive constitutional or statutory prohibition of discrimination; the NHRI, a disability organisation and the CRPD Committee all call for it, and no measure is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 15 — OMB/NHRI: \"Samoa's Constitution did not include a comprehensive definition of gender equality or explicitly prohibited discrimination based on gender, sexual orientation, disability or HIV status\"",
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 14 — Committee on the Rights of Persons with Disabilities: \"recommended that Samoa explicitly recognize disability among prohibited grounds of discrimination\""
+      ],
+      "position": "2 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "107.6",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Strengthen Samoa’s commitment to the principle of non-discrimination, including through the adoption of legislation aimed at prohibiting discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "107.18",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Repeal all provisions in the Crimes Act that criminalize and punish relations between persons of the same sex and adopt the necessary measures to combat the stigma suffered by LGBTQI+ persons, which puts their physical and moral integrity at risk"
+       },
+       {
+        "paragraph": "106.32",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Take the necessary steps to combat discrimination and violence against women and children, and on the basis of sexual orientation and gender identity"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Business & Human Rights",
+    "blocks": [
+     {
+      "paras": "107.21",
+      "n": 1,
+      "summary": "Adopt a national action plan on business and human rights",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.21",
+        "by": "Japan",
+        "position": "noted",
+        "text": "Develop a national action plan in line with the Guiding Principles on Business and Human Rights, with the aim of promoting respect for human rights in the context of business activities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: juvenile justice",
+    "blocks": [
+     {
+      "paras": "107.22, 107.23",
+      "n": 2,
+      "summary": "Raise the age of criminal responsibility",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The age of criminal responsibility remains 10 years.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 11 — OMB/NHRI: \"the age of criminal responsibility was 10 years\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.22",
+        "by": "Luxembourg",
+        "position": "noted",
+        "text": "Raise the age of criminal responsibility from 10 to 18 years, in accordance with accepted international standards"
+       },
+       {
+        "paragraph": "107.23",
+        "by": "Maldives",
+        "position": "noted",
+        "text": "Raise the minimum age of criminal responsibility to 18 years, in accordance with the provisions of the Convention on the Rights of the Child"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Treaty Bodies",
+    "blocks": [
+     {
+      "paras": "106.23",
+      "n": 1,
+      "summary": "Submit overdue treaty-body reports",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Samoa was reviewed by the CED and the CRPD Committee; its initial CAT report is still overdue.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 5 — United Nations country team: \"the initial report of Samoa to the Committee against Torture remained overdue\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.23",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Submit its overdue reports to the Human Rights Committee and the Committee on Enforced Disappearances"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "107.24, 107.48",
+      "n": 2,
+      "summary": "Strengthen anti-trafficking law and enforcement",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Samoa has no stand-alone trafficking law or national action plan and there is little data; no measure is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 41 — Committee on Enforced Disappearances: \"the Crimes Act 2013 did not include comprehensive anti-trafficking provisions and the State did not have stand-alone legislation and a national action plan on trafficking in persons\""
+      ],
+      "position": "1 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "107.24",
+        "by": "Bahamas",
+        "position": "noted",
+        "text": "Strengthen the legal and policy frameworks to address trafficking in persons, including by providing legal recognition of domestic trafficking and lifting age restrictions on protection from sex and labour exploitation"
+       },
+       {
+        "paragraph": "106.48",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Enhance legislative mechanisms and enforcement to prevent, disrupt and severely punish human trafficking for sexual and labour exploitation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation with human rights mechanisms & requests for technical assistance",
+    "blocks": [
+     {
+      "paras": "106.24, 106.28, 106.29",
+      "n": 3,
+      "summary": "Cooperate with OHCHR and request technical support",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "An OHCHR Human Rights Adviser has been part of the Resident Coordinator multi-country office in Samoa since 2022, and Samoa engaged with the CRPD and CED Committees; the initial CAT report remains overdue.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 9 — OHCHR: \"An OHCHR Human Rights Adviser has been part of the Resident Coordinator multi-country office in Samoa since 2022\"",
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 5 — United Nations country team: \"the initial report of Samoa to the Committee against Torture remained overdue\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.24",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Request technical support from the Office of the United Nations High Commissioner for Human Rights to advance in the ratification of the main international human rights instruments to which the country is not yet party, and ensure the incorporation into its national legal system of the obligations deriving from ratified human rights treaties"
+       },
+       {
+        "paragraph": "106.28",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Continue to cooperate with OHCHR, in particular in identifying and developing capacity-building and technical assistance programmes"
+       },
+       {
+        "paragraph": "106.29",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Continue to work and interact with the Office of the United Nations High Commissioner for Human Rights and the mechanisms of the Human Rights Council in order to build national capacities to promote human rights in Samoa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Constitutional & legislative framework",
+    "blocks": [
+     {
+      "paras": "106.25-106.27",
+      "n": 3,
+      "summary": "Align domestic law with international commitments",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The CRPD and CED Committees find domestic law not aligned with the Conventions and the NHRI says much work remains to integrate CRPD obligations; no harmonising measure is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 19 — OMB/NHRI: \"much work remained to be done to integrate Samoa's obligations under the CRPD into domestic constitutional and legal frameworks\"",
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 11 — Committee on Enforced Disappearances: \"called upon Samoa to incorporate the International Convention for the Protection of All Persons from Enforced Disappearance into domestic legislation\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.25",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Continue to harmonize national legislation in accordance with its international commitments"
+       },
+       {
+        "paragraph": "106.26",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Increase efforts to incorporate the principles of core human rights treaties that are ratified by the country into domestic laws"
+       },
+       {
+        "paragraph": "106.27",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Apply comprehensive laws and policies, as well as effective practical measures to fully implement the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the Convention on the Rights of Persons with Disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "106.57-106.60, 106.63",
+      "n": 5,
+      "summary": "Improve health care in rural areas",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The country team notes strengthened primary health care but calls for more rural health personnel and services.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 45 — United Nations country team: \"making more health personnel available in rural areas and increasing access to services in rural areas\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.57",
+        "by": "Serbia",
+        "position": "supported",
+        "text": "Further improve health care, especially for women in rural areas"
+       },
+       {
+        "paragraph": "106.58",
+        "by": "India",
+        "position": "supported",
+        "text": "Take adequate measures to improve access to health care, particularly for women in rural areas"
+       },
+       {
+        "paragraph": "106.59",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue efforts to improve access to health care, particularly in rural areas"
+       },
+       {
+        "paragraph": "106.60",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Improve its policy and implementation in ensuring that all citizens, in particular the elderly, women, children, people with disabilities and persons living in rural areas, have access to essential health services"
+       },
+       {
+        "paragraph": "106.63",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Improve access to health care, including sexual reproductive health services, particularly for women in rural areas"
+       }
+      ]
+     },
+     {
+      "paras": "106.55, 106.56, 106.61, 106.62",
+      "n": 4,
+      "summary": "Strengthen health services and access",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Samoa strengthened primary health care, expanded surveillance and targeted immunization recovery and has a Health Sector Plan 2021-2025; however the 2025 dengue outbreak strained the system, health workers fell in number and rural access remains uneven.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 45 — United Nations country team: \"Samoa had advanced the right to health through strengthened primary healthcare, expanded surveillance and targeted immunization recovery\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 47 — JS2: \"the Samoa Health Sector Plan 2021–2025 set out a comprehensive framework to strengthen service delivery, improve access to care, and enhance health system performance\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 7 — OMB/NHRI: \"The number of doctors and nurses working in hospitals dropped between 2024–2025\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.55",
+        "by": "China",
+        "position": "supported",
+        "text": "Further develop health services and better protect people’s right to health"
+       },
+       {
+        "paragraph": "106.56",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Implement legislative reforms related to the right to health that guarantee universal access to health services"
+       },
+       {
+        "paragraph": "106.61",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Improve measures to reduce the prevalence of non-communicable diseases, including through health education, awareness and services"
+       },
+       {
+        "paragraph": "106.62",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Strengthen gender-sensitive health campaigns focused on the prevention of infectious diseases and step up efforts to expand access to primary health-care services"
+       }
+      ]
+     },
+     {
+      "paras": "107.26, 107.27",
+      "n": 2,
+      "summary": "Decriminalize abortion",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Abortion remains unlawful outside narrow statutory exceptions.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 46 — United Nations country team: \"pursuant to the Crimes Act 2013, abortion was illegal unless it was performed to preserve the mother's life, physical or mental health\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.26",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Decriminalize the voluntary interruption of pregnancy in cases of rape, incest, serious malformation of the fetus and risks to the health or life of the pregnant woman"
+       },
+       {
+        "paragraph": "107.27",
+        "by": "France",
+        "position": "noted",
+        "text": "Completely decriminalize abortion and guarantee the right to abortion"
+       }
+      ]
+     },
+     {
+      "paras": "106.64, 106.65",
+      "n": 2,
+      "summary": "Sexual and reproductive health policy and education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Family Life Education is delivered in schools and a National Sexual and Reproductive Health Policy exists, but its content has not been aligned with international technical guidance.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 48 — SFHA: \"appreciated efforts by the Ministry of Education, Sports and Culture in delivering Family Life Education in schools, but expressed concerns that its implementation and contents may have not followed the UN International Technical Guidelines on Sexuality Education\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.64",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Revise the existing family life education curriculum to align it with the international technical guidance on sexuality education"
+       },
+       {
+        "paragraph": "106.65",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Adopt a comprehensive sexual and reproductive health policy and comprehensive sexuality education for adolescents covering all aspects of prevention, including the prevention of sexually transmitted infections and early pregnancies, and eliminate the age limit for testing for HIV and other sexually transmitted infections"
+       }
+      ]
+     },
+     {
+      "paras": "107.33",
+      "n": 1,
+      "summary": "Review the Mental Health Act",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The mental health legislation remains non-compliant with the CRPD.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 46 — NOLA: \"mental health legislation remained non-compliant with human rights standards\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.33",
+        "by": null,
+        "position": "noted",
+        "text": "Review the Mental Health Act of 2007 to ensure it fully complies with the Convention on the Rights of Persons with Disabilities, and ensure it is enforced by providing adequate resources and training (United Kingdom of Great Britain and Northern Ireland)."
+       }
+      ]
+     },
+     {
+      "paras": "106.66",
+      "n": 1,
+      "summary": "Reduce maternal mortality",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.66",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Strengthen measures to reduce maternal mortality including by improving antenatal care and providing quality training for health-care workers"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "106.76, 106.79, 106.80, 106.82-106.86, 106.88, 106.90",
+      "n": 10,
+      "summary": "Legislate against and respond to violence against women",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Crimes Act 2013 and Family Safety Act 2013 pre-date the review period; implementation is uneven, the NHRI calls for amendment of the Family Safety Act, and survivor services remain under-funded.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 30 — ICAAD: \"the implementation of these legislative reforms had been uneven and undermined by the continued reliance on customary practices to mitigate sentences in GBV cases\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 17 — OMB/NHRI: \"recommended Samoa to amend the Family Safety Act 2013 to include economic violence and coercive control in the definition of violence\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 61 — JS3: \"survivors of domestic and gender-based violence faced barriers in reporting abuse and accessing protection services\""
+      ],
+      "position": "10 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.76",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Develop comprehensive legislation on gender-based violence against women"
+       },
+       {
+        "paragraph": "106.79",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Maintain the commitment to end all forms of violence and discrimination against women and girls, including violent threats, intimidation, harassment and abuse, both verbal and physical"
+       },
+       {
+        "paragraph": "106.80",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Adopt measures to eradicate violence against women and girls and persons in vulnerable situations who have been marginalized, by preventing and investigating related crimes and applying stricter sentences to perpetrators"
+       },
+       {
+        "paragraph": "106.82",
+        "by": "New Zealand",
+        "position": "supported",
+        "text": "Prioritize efforts to tackle violence against women and girls"
+       },
+       {
+        "paragraph": "106.83",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Develop comprehensive legislation against gender-based violence against women"
+       },
+       {
+        "paragraph": "106.84",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Develop comprehensive legislation on gender-based violence against women"
+       },
+       {
+        "paragraph": "106.85",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Effectively implement the Family Safety Act of 2013, especially with regard to the pressing issue of domestic and sexual violence against women and girls due to the pandemic"
+       },
+       {
+        "paragraph": "106.86",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Take action to prevent and respond to gender-based violence against women and girls by continuing to effectively implement the District Development Plan from 2017 and the findings from the Ministry of Women, Community and Social Development awareness programme in January 2021 on gender-based violence and alcohol abuse"
+       },
+       {
+        "paragraph": "106.88",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Raise the population’s awareness of domestic violence, while including Samoan customs and the role of women as guardians of the community"
+       },
+       {
+        "paragraph": "106.90",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Increase funding for quality support services for victims of gender-based violence"
+       }
+      ]
+     },
+     {
+      "paras": "107.28",
+      "n": 1,
+      "summary": "Improve health care in rural areas",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The country team notes strengthened primary health care but calls for more rural health personnel and services.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 45 — United Nations country team: \"making more health personnel available in rural areas and increasing access to services in rural areas\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.28",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Increase funding for quality support services for victims of gender-based violence and establish a community legal-aid centre to improve women’s access to justice, especially in rural areas, in line with the recommendations of the Committee on the Elimination of Discrimination against Women"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: definition",
+    "blocks": [
+     {
+      "paras": "107.32, 107.106, 107.107",
+      "n": 3,
+      "summary": "Enforce child-labour law",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A low minimum working age and the absence of laws against use of children in illicit activities persist.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 12 — OMB/NHRI: \"the low minimum working age and lack of laws prohibiting use of children in illicit activities increased vulnerability to trafficking and exploitation\""
+      ],
+      "position": "1 noted, 2 supported",
+      "recommendations": [
+       {
+        "paragraph": "107.32",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Amend existing laws to prohibit all of the worst forms of child labour and align with ILO standards on child labour and minimum age for employment"
+       },
+       {
+        "paragraph": "106.106",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Enforce existing legislation prohibiting child labour and exploitation"
+       },
+       {
+        "paragraph": "106.107",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Take further steps to implement existing legislation to eradicate child labour and guarantee the right to education of all children"
+       }
+      ]
+     },
+     {
+      "paras": "107.30, 107.102",
+      "n": 2,
+      "summary": "Prohibit corporal punishment",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Infants Ordinance 1961 still permits 'reasonable punishment' and corporal punishment is not prohibited in all settings.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 65 — CCI: \"the Infants Ordinance 1961 permitted “reasonable punishment” by parents and caregivers\""
+      ],
+      "position": "1 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "107.30",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Explicitly prohibit corporal punishment of children in all settings and circumstances"
+       },
+       {
+        "paragraph": "106.102",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Intensify efforts to fully eradicate corporal punishment against children in educational settings"
+       }
+      ]
+     },
+     {
+      "paras": "107.31, 107.104",
+      "n": 2,
+      "summary": "Adopt the Child Care and Protection Bill",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The bill's adoption remained pending.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 65 — United Nations country team: \"the adoption of the Child Protection Bill remained pending\""
+      ],
+      "position": "1 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "107.31",
+        "by": "Montenegro",
+        "position": "noted",
+        "text": "Prioritize the adoption of the Child Care and Protection Bill, ensuring that it explicitly prohibits all forms of corporal punishment in all settings, without any exception"
+       },
+       {
+        "paragraph": "106.104",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Finalize the process of adopting the Child Care and Protection Bill and allocate sufficient human and financial resources to ensure its effective implementation"
+       }
+      ]
+     },
+     {
+      "paras": "106.100, 106.105",
+      "n": 2,
+      "summary": "Strengthen child protection and legislation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Child Protection Bill remains pending, parents retain a legal right to 'reasonable punishment' and the legal definition of the child is not harmonised.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 65 — United Nations country team: \"the adoption of the Child Protection Bill remained pending\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 10 — OMB/NHRI: \"parents had a legal right to administer 'reasonable punishment' to their children\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.100",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to combat the abuse and exploitation of children, and prevent their exposure to violence and abuse, including sexual assaults"
+       },
+       {
+        "paragraph": "106.105",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Continue to strengthen efforts to further promote the rights of children, including implementation of the Samoa National Child Care and Protection Policy 2020–2030"
+       }
+      ]
+     },
+     {
+      "paras": "107.29",
+      "n": 1,
+      "summary": "Raise the age of criminal responsibility",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The age of criminal responsibility remains 10 years.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 11 — OMB/NHRI: \"the age of criminal responsibility was 10 years\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "107.29",
+        "by": "Armenia",
+        "position": "noted",
+        "text": "Make further efforts to combat violence and exploitation of children, and raise the age of criminal responsibility of children"
+       }
+      ]
+     },
+     {
+      "paras": "106.103",
+      "n": 1,
+      "summary": "Set the minimum marriage age at 18",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A legislative reform set the minimum age at 18, but marriage of minors with one parent's consent may still occur under the Marriage Ordinance 1961.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 39 — CCI: \"the legal minimum age of marriage in Samoa was 18 years for both males and females, following legislative reform\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 13 — OMB/NHRI: \"marriage of minors under 18 years may occur with the consent of one parent or guardian\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.103",
+        "by": "France",
+        "position": "supported",
+        "text": "Establish the minimum legal age for marriage as 18 years of age both for women and men"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "106.30",
+      "n": 1,
+      "summary": "Resource the Office of the Ombudsman",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Office is under-resourced and the Ombudsman post has been vacant since May 2023.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 3 — OMB/NHRI: \"the position of Ombudsman remained vacant since May 2023\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.30",
+        "by": "India",
+        "position": "supported",
+        "text": "Take measures to ensure that the Office of the Ombudsman is adequately resourced to carry out its functions effectively in accordance with the Paris Principles"
+       }
+      ]
+     },
+     {
+      "paras": "106.31",
+      "n": 1,
+      "summary": "Follow up the State of Human Rights Report 2015",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.31",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Continue to pursue the recommendations outlined in the State of Human Rights Report: 2015, particularly those related to women, children, persons with disabilities and prisoners"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to development",
+    "blocks": [
+     {
+      "paras": "106.33",
+      "n": 1,
+      "summary": "Operationalize the national development plan",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.33",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue with efforts to operationalize the national development plan and make progress towards achieving the Sustainable Development Goals"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "106.34, 106.39, 106.44",
+      "n": 3,
+      "summary": "Disaster risk reduction policy",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Disaster management rests on the pre-existing Disaster and Emergency Management Act 2007 and National Disaster Management Plan, which the CRPD Committee says are not disability-inclusive.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 59 — Committee on the Rights of Persons with Disabilities: \"mainstream disability into all climate policies and plans, including the Disaster and Emergency Management Act 2007 and the National Disaster Management Plan\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.34",
+        "by": "Slovenia",
+        "position": "supported",
+        "text": "Review its environmental policies, legislation and regulations and mainstream a human rights-based approach to climate change adaptation, mitigation and disaster risk reduction"
+       },
+       {
+        "paragraph": "106.39",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure the meaningful participation of women, children, persons with disabilities and local communities in the development and implementation of climate change and disaster risk reduction frameworks"
+       },
+       {
+        "paragraph": "106.44",
+        "by": "Vanuatu",
+        "position": "supported",
+        "text": "Establish a comprehensive policy of disaster risk reduction to protect people from extreme events caused by climate change and seek international assistance to implement a 100 per cent renewable energy goal by 2025"
+       }
+      ]
+     },
+     {
+      "paras": "106.37, 106.38, 106.42",
+      "n": 3,
+      "summary": "Mainstream human rights in climate action",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on measures taken by Samoa on this recommendation.",
+      "evidence": [],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.37",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Continue efforts to adapt to and mitigate climate change and ensure that policies and actions on these matters have a human rights approach"
+       },
+       {
+        "paragraph": "106.38",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue to consolidate national policies and programmes aimed at meeting Sustainable Development Goal 13 and the 2030 Agenda that allow for greater and more efficient adaptation of the population to the effects of climate change"
+       },
+       {
+        "paragraph": "106.42",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Strengthen the environmental and social policy legislation in order to protect human rights in the context of measures to adapt to climate change and mitigate its challenges"
+       }
+      ]
+     },
+     {
+      "paras": "106.36, 106.41",
+      "n": 2,
+      "summary": "Include vulnerable groups in climate policy",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The CRPD Committee reports limited participation of persons with disabilities in climate policymaking.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 59 — Committee on the Rights of Persons with Disabilities: \"the limited participation of persons with disabilities in climate change policymaking\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.36",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Ensure that all climate change policies consider the needs of women, children, persons with disabilities and other vulnerable groups and that they can participate in the decisions affecting them"
+       },
+       {
+        "paragraph": "106.41",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Continue to enhance the involvement of vulnerable groups and affected stakeholders in climate change adaptation and mitigation efforts"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Inter-State cooperation and assistance",
+    "blocks": [
+     {
+      "paras": "106.35",
+      "n": 1,
+      "summary": "Seek international assistance on climate and COVID-19",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.35",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Seek international assistance and support in mitigating the adverse impacts of climate change and the COVID-19 pandemic"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & the environment",
+    "blocks": [
+     {
+      "paras": "106.40",
+      "n": 1,
+      "summary": "Disaster risk reduction policy",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Disaster management rests on the pre-existing Disaster and Emergency Management Act 2007 and National Disaster Management Plan, which the CRPD Committee says are not disability-inclusive.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 59 — Committee on the Rights of Persons with Disabilities: \"mainstream disability into all climate policies and plans, including the Disaster and Emergency Management Act 2007 and the National Disaster Management Plan\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.40",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Implement human rights-based approaches in its environmental, climate change and disaster risk reduction policies, legislation and regulations allowing the comprehensive protection and enjoyment of human rights against the adverse impacts of climate change"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Economic & political crisis, natural disasters or other emergencies",
+    "blocks": [
+     {
+      "paras": "106.43",
+      "n": 1,
+      "summary": "Rights-based approach in disaster planning",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.43",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Ensure that a human rights-based approach is fully incorporated in the national plans aiming to address natural disasters, including the needs of vulnerable persons, such as women, children and persons with disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Administration of justice & fair trial",
+    "blocks": [
+     {
+      "paras": "106.45, 106.46",
+      "n": 2,
+      "summary": "Judicial independence",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on measures by Samoa on this recommendation.",
+      "evidence": [],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.45",
+        "by": "France",
+        "position": "supported",
+        "text": "Guarantee the independence of the judicial system"
+       },
+       {
+        "paragraph": "106.46",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Ensure the independence of the judiciary, including by inviting the Special Rapporteur on the independence of judges and lawyers"
+       }
+      ]
+     },
+     {
+      "paras": "106.47",
+      "n": 1,
+      "summary": "Judicial independence and training of law-enforcement officials",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on measures by Samoa on this recommendation; the United Nations country team only recommends strengthening judicial independence.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.47",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to strengthen human rights training and training programmes for law enforcement officials"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Trade union rights",
+    "blocks": [
+     {
+      "paras": "106.49",
+      "n": 1,
+      "summary": "Guarantee workers' rights and freedom of association",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.49",
+        "by": "No. 98; Mexico",
+        "position": "supported",
+        "text": "Take all necessary measures to guarantee the rights of all workers, in particular freedom of association and collective agreement, in accordance with the fundamental principles of the International Labour Organization (ILO) and the ILO Freedom of Association and Protection of the Right to Organise Convention, 1948 (No. 87) and the Right to Organise and Collective Bargaining Convention, 1949"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to an adequate standard of living",
+    "blocks": [
+     {
+      "paras": "106.50, 106.52-106.54",
+      "n": 4,
+      "summary": "Social protection and living standards",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Old-age and disability pensions were increased in late 2025, but Samoa has not established a social protection floor.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 5 — OMB/NHRI: \"Pensions were available to the elderly and persons with disabilities, both of which had increased in late 2025\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 5 — OMB/NHRI: \"Samoa had not established a social protection floor\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.50",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Maintain the priority given to the development of social protection systems and access to affordable basic services, with an emphasis on the protection of vulnerable populations and sectors"
+       },
+       {
+        "paragraph": "106.52",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to promote sustainable economic and social development, and improve people’s living standards so as to provide a solid foundation for people to enjoy various human rights"
+       },
+       {
+        "paragraph": "106.53",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue to consolidate its sound human rights policies, especially in the area of economic, social and cultural rights, with the aim of continuing to increase the quality of life of its people"
+       },
+       {
+        "paragraph": "106.54",
+        "by": "Cuba",
+        "position": "supported",
+        "text": "Continue efforts to ensure the well-being of its population, particularly women, children and persons with disabilities, especially the implementation of the Strategy for the Development of Samoa 2021–2025"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to social security",
+    "blocks": [
+     {
+      "paras": "106.51",
+      "n": 1,
+      "summary": "Improve health care in rural areas",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The country team notes strengthened primary health care but calls for more rural health personnel and services.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 45 — United Nations country team: \"making more health personnel available in rural areas and increasing access to services in rural areas\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.51",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Establish a countrywide State-sponsored social welfare system to provide social protection guarantees to all persons in the country, including those working in the informal sector and those living in rural areas"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "106.67",
+      "n": 1,
+      "summary": "Strengthen access to quality and universal education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Samoa provides free primary and secondary schooling and is implementing the Education Sector Plan 2025-2030, but hidden costs, rural disparities and the absence of an enforceable right to inclusive education persist.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 52 — JS2: \"Samoa's commitment to ensuring inclusive and equitable education, including the provision of free primary and secondary schooling and ongoing reforms under the Education Sector Plan 2025–2030\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 70 — NOLA: \"there was no enforceable legal guarantee of inclusive education in Samoa\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.67",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Continue to strengthen policies for access to quality and universal public education"
+       }
+      ]
+     },
+     {
+      "paras": "106.68",
+      "n": 1,
+      "summary": "Improve health care in rural areas",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The country team notes strengthened primary health care but calls for more rural health personnel and services.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 45 — United Nations country team: \"making more health personnel available in rural areas and increasing access to services in rural areas\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.68",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Dismantle barriers related to the hidden costs of education, in particular in rural areas, and provide an adequate budget to the education sector"
+       }
+      ]
+     },
+     {
+      "paras": "106.69",
+      "n": 1,
+      "summary": "Inclusive education for students with disabilities",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "There is no enforceable legal guarantee of inclusive education.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 70 — NOLA: \"there was no enforceable legal guarantee of inclusive education in Samoa\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.69",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Adopt a coherent strategy to ensure universal access to education, especially with regard to students with special educational needs"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "106.70-106.75, 106.77, 106.78",
+      "n": 8,
+      "summary": "Increase women's participation and equality",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Women remain under-represented in parliament, Cabinet and local governance, and village by-laws restrict access to matai titles, an eligibility requirement for Parliament.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 60 — United Nations country team: \"women remained underrepresented in the parliament, Cabinet, State-owned enterprises and local governance structures\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 18 — OMB/NHRI: \"some villages had by-laws and cultural practices that restricted women's access to matai titles\""
+      ],
+      "position": "8 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.70",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Address gender inequality by removing cultural, economic, institutional or other barriers preventing women from enjoying equal opportunities"
+       },
+       {
+        "paragraph": "106.71",
+        "by": "Netherlands",
+        "position": "supported",
+        "text": "Adopt and enforce measures to ensure equal participation, representation and remuneration of women in political processes at all levels, from local to national"
+       },
+       {
+        "paragraph": "106.72",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Improve and fully implement policies and programmes to increase women’s participation in decision-making, public life and employment at all levels"
+       },
+       {
+        "paragraph": "106.73",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Take steps to further enhance the participation of women in the political and public spheres"
+       },
+       {
+        "paragraph": "106.74",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Implement measures to increase women’s participation in entrepreneurship"
+       },
+       {
+        "paragraph": "106.75",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to eliminate all forms of discrimination and violence against women and support gender equality"
+       },
+       {
+        "paragraph": "106.77",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Consider taking additional measures to prevent and stop domestic violence against women and girls, as well as promoting equal opportunities for women in the workplace"
+       },
+       {
+        "paragraph": "106.78",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Continue efforts to end domestic violence and address gender inequalities by fully implementing all recommendations made at the end of the 2018 public inquiry into family violence in Samoa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to physical & moral integrity",
+    "blocks": [
+     {
+      "paras": "106.81, 106.89, 106.91-106.98, 106.101",
+      "n": 11,
+      "summary": "Prevent and respond to domestic and gender-based violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The NHRI commends dedicated policies and strategies against gender-based and family violence, and a national prevention framework exists, but prevention is under-resourced and unevenly implemented and violence remains pervasive.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 16 — OMB/NHRI: \"commending Samoa on implementation of dedicated policies and strategies to combat GBV and family violence\"",
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 61 — United Nations country team: \"prevention efforts were underresourced and unevenly implemented\""
+      ],
+      "position": "11 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.81",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue towards comprehensive measures to prevent and address domestic violence"
+       },
+       {
+        "paragraph": "106.89",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Initiate a comprehensive national strategy to work towards the eradication of domestic and gender-based violence, and ensure adequate resources are allocated"
+       },
+       {
+        "paragraph": "106.91",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Take concrete steps to raise awareness, prevent as well as penalize gender-based violence, especially to protect women and children"
+       },
+       {
+        "paragraph": "106.92",
+        "by": "Vanuatu",
+        "position": "supported",
+        "text": "Enforce measures to increase awareness of gender-based violence, especially against women and children, and penalize infractions adequately"
+       },
+       {
+        "paragraph": "106.93",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Take further measures to protect women and children against all forms of violence and discrimination"
+       },
+       {
+        "paragraph": "106.94",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Further strengthen mechanisms to protect women and children from all forms of violence"
+       },
+       {
+        "paragraph": "106.95",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Strengthen the legal and policy frameworks to address the high incidence of domestic, family and gender-based violence, including by tackling root causes, providing community support services for victims, and ensuring perpetrators are brought to justice"
+       },
+       {
+        "paragraph": "106.96",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Develop comprehensive legislation and strengthen community-based programmes aimed at preventing and tackling domestic violence, child abuse, sexual exploitation and neglect, and to address gender-based violence"
+       },
+       {
+        "paragraph": "106.97",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue conducting community-based programmes aimed at preventing and tackling domestic violence, child abuse and sexual exploitation"
+       },
+       {
+        "paragraph": "106.98",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Strengthen existing legal frameworks and enforcement of laws addressing sexual and gender-based violence, including the investigation and prosecution of perpetrators of sexual exploitation of children"
+       },
+       {
+        "paragraph": "106.101",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Maintain its efforts and take further steps to effectively address domestic violence, including violence against children"
+       }
+      ]
+     },
+     {
+      "paras": "106.87",
+      "n": 1,
+      "summary": "Establish a national referral system for survivors of violence",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A civil-society organisation reiterates the recommendation to implement the Essential Services Guide; no system is reported.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 50 — SFHA: \"reiterated its recommendation that Samoa should implement the “Inter-Agency Essential Services Guide” to establish a national referral system for survivors of violence\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.87",
+        "by": "Denmark",
+        "position": "supported",
+        "text": "Establish a national referral system for victims and survivors of violence, in line with the Inter-agency Essential Services Guide for Responding to Gender-Based Violence and for Child Protection"
+       }
+      ]
+     },
+     {
+      "paras": "106.99",
+      "n": 1,
+      "summary": "Adopt the Child Care and Protection Bill",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The bill's adoption remained pending.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 65 — United Nations country team: \"the adoption of the Child Protection Bill remained pending\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.99",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Take further actions towards eliminating gender-based violence and violence against children, including by adequately funding shelter and support services and actively progressing the passage and implementation of the Child Care and Protection Bill"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: definition, general principles",
+    "blocks": [
+     {
+      "paras": "106.108-106.112",
+      "n": 5,
+      "summary": "Adopt disability legislation and inclusion measures",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A disability bill is still awaited and the CRPD Committee finds no comprehensive legal and policy framework; a disability organisation reports a legal vacuum and inaccessible justice.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/WSM/2), para. 70 — Committee on the Rights of Persons with Disabilities: \"the absence of a comprehensive and coherent legal and policy framework to give full effect to the Convention on the Rights of Persons with Disabilities\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 28 — NOLA: \"Samoa lacked a comprehensive and enforceable legal framework for disability rights\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "106.108",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Continue efforts to promote the rights of persons with disabilities and their access to public places"
+       },
+       {
+        "paragraph": "106.109",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Analyse the possibility of drafting specific laws on disability, using a human rights-based approach, which guarantee equal rights and the inclusion of persons with disabilities in all aspects of life"
+       },
+       {
+        "paragraph": "106.110",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Take additional measures to improve access to justice for persons with disabilities through the implementation of accommodation within the justice process"
+       },
+       {
+        "paragraph": "106.111",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Ensure that all persons with disabilities have access to adequate health care"
+       },
+       {
+        "paragraph": "106.112",
+        "by": null,
+        "position": "supported",
+        "text": "Improve the access of persons with disabilities to health services and support and strengthen the work of health professionals and organizations dedicated to persons with disabilities (Mexico)."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "hrc": null,
+ "combined_score": 3.1
+}

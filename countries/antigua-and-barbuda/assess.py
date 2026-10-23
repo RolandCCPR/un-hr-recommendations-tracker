@@ -242,7 +242,7 @@ CLUSTERS = {
     ),
     "Cooperation & Follow up with Treaty Bodies": (
         D, "Open, merit-based selection of treaty-body candidates",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Constitutional & legislative framework": (
         C, "Repeal capital punishment from national legislation",
@@ -267,7 +267,7 @@ CLUSTERS = {
     ),
     "Rights related to marriage & family": (
         D, "Remove exceptions to the minimum age of marriage",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Human rights education, trainings & awareness raising": (
         C, "Revise the Health and Family Life Education curriculum",
@@ -276,11 +276,11 @@ CLUSTERS = {
     ),
     "National Human Rights Action Plans (or specific areas) / implementation plans": (
         D, "National human rights action plan",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Budget & resources (for human rights implementation)": (
         D, "Build capacity of duty bearers",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Economic & political crisis, natural disasters or other emergencies": (
         B, "Ensure well-being in crises and disasters",
@@ -289,7 +289,7 @@ CLUSTERS = {
     ),
     "Persons with disabilities: protection and safety in situations of risk": (
         D, "Access to information for persons with disabilities in emergencies",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
 }
 
@@ -338,10 +338,10 @@ KEYWORDS = [
      [("Antigua and Barbuda", "1", "74", "Consultation on the draft National Gender Equality and Social Inclusion Policy also includes representatives from organisations that represent the interests of LGBTQ+ persons")]),
     (r"regulatory changes to ensure the inclusion", D,
      "Regulatory inclusion of LGBTI persons",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"combat discrimination and violence against women and children|full enjoyment of human rights", B,
      "Combat discrimination and violence against women and children",
-     "A GBV Action Plan (2023), the SARC and a gender policy in final draft advance this ask.",
+     "A GBV Action Plan (2023), the SARC and a gender policy in final draft advance this recommendation.",
      [("Antigua and Barbuda", "1", "60", "In 2023, the Directorate developed a new Gender Based Violence Action Plan")]),
     (r"Disabilities and Equal Opportunities Act", B,
      "Strengthen the Disabilities and Equal Opportunities Act",
@@ -354,18 +354,18 @@ KEYWORDS = [
      [("UNESCO", "2", "14", "the Education Act of 2008 allowed for the use of corporal punishment in schools (article 50 (2))")]),
     (r"budgetary needs for children|independent mechanism for monitoring", D,
      "Children's budget and rights-monitoring mechanism",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- women ---
     (r"temporary special measures", D,
      "Temporary special measures for women",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"national gender policy", B,
      "Adopt a national gender policy",
      "A National Gender Equality and Social Inclusion Policy has a final draft awaiting Cabinet approval.",
      [("Antigua and Barbuda", "1", "64", "A final draft of the policy document has been prepared and is expected to be presented to the Cabinet for approval")]),
     (r"Repeal discriminatory provisions against women|Convention on the Elimination of All Forms of Discrimination against Women into", D,
      "Repeal discriminatory legislation / incorporate CEDAW",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"comprehensive definition of discrimination against women", C,
      "Incorporate a definition of discrimination against women",
      "There is no comprehensive statutory definition.",
@@ -377,7 +377,7 @@ KEYWORDS = [
     # --- detention ---
     (r"State report into prison conditions", D,
      "Commission a State report on prison conditions",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- trafficking ---
     (r"Implement legislation to address modern slavery", C,
      "Implement anti-slavery legislation",
@@ -400,7 +400,7 @@ KEYWORDS = [
      [("Antigua and Barbuda", "1", "80", "The country does not have a dedicated unit or mechanism for monitoring and reporting on Human Rights")]),
     (r"Special Rapporteur on the issue of human rights obligations", D,
      "Invite the Special Rapporteur on the environment",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"Harmonize the legislation on torture", C,
      "Harmonise torture legislation with the Convention",
      "The Suppression of Torture Act 1993 pre-dates the review and no reform is reported.",
@@ -415,7 +415,7 @@ KEYWORDS = [
      [("United Nations country team", "2", "10", "no formal legislative abolition had been enacted")]),
     (r"^Develop public policies to combat gender-based violence", B,
      "Public policies against gender-based violence",
-     "A GBV Action Plan (2023), the SARC and a Cabinet-approved shelter partnership advance the policy ask; no temporary special measures are reported.",
+     "A GBV Action Plan (2023), the SARC and a Cabinet-approved shelter partnership advance the policy recommendation; no temporary special measures are reported.",
      [("Antigua and Barbuda", "1", "60", "In 2023, the Directorate developed a new Gender Based Violence Action Plan")]),
 ]
 

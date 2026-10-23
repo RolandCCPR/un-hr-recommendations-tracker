@@ -30,7 +30,7 @@ CLUSTERS = {
         A, "Abolish the death penalty / establish a moratorium",
         "Parliament amended the Criminal Code to abolish the death penalty and "
         "replace it with life imprisonment (2022-2023), meeting the core of the "
-        "abolition ask; the Second Optional Protocol remains unratified.",
+        "abolition recommendation; the Second Optional Protocol remains unratified.",
         [
             ("Papua New Guinea", "1", "118", "In 2023, Parliament passed an amendment of the Criminal Code to abolish the death penalty and replace it with life imprisonment"),
             ("United Nations country team", "2", "13", "Parliament had amended the Criminal Code to repeal the death penalty and replace it with life imprisonment"),

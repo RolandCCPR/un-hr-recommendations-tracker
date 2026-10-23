@@ -99,7 +99,7 @@ CLUSTERS = {
         B, "Prevent racism and racial hate crime, and implement anti-discrimination law",
         "Police hate-crime training became mandatory, a Handbook on handling "
         "hate crimes was issued and Criminal Code section 332 was extended in "
-        "2025; stakeholders ask for vigorous prosecution and awareness "
+        "2025; stakeholders call for vigorous prosecution and awareness "
         "campaigns.",
         [
             ("Hungary", "1", "18", "were made mandatory for all police personnel"),
@@ -111,7 +111,7 @@ CLUSTERS = {
         B, "Strengthen the independence of the judiciary",
         "Act X of 2023 strengthened the National Judicial Council, made the "
         "allocation of cases in the Curia transparent and removed obstacles to "
-        "preliminary references to the CJEU; the Helsinki Committee asks for "
+        "preliminary references to the CJEU; the Helsinki Committee calls for "
         "its effective implementation.",
         [
             ("Hungary", "1", "25", "Act X of 2023 strengthened the role and powers of the National Judicial Council (OBT) in order to balance the powers of the President of the National Judicial Office (OBH)"),
@@ -155,7 +155,7 @@ CLUSTERS = {
         "strategy (prevention programmes in care institutions), earmarked HUF "
         "1 billion under the Swiss-Hungarian programme, ran a referral "
         "mechanism exercise (July 2025) and provided for guardians for "
-        "unaccompanied minors; CEDAW asks for adequate resources.",
+        "unaccompanied minors; CEDAW calls for adequate resources.",
         [
             ("Hungary", "1", "115", "introduced prevention programmes in the foster care network, children’s and group homes and juvenile correctional institutions"),
             ("Hungary", "1", "116", "1 billion HUF is earmarked for action to combat trafficking in human beings"),
@@ -177,7 +177,7 @@ CLUSTERS = {
     "Constitutional & legislative framework": (
         C, "Review legislation affecting civil society, migrants and gender recognition",
         "The National Report describes no review; UNHCR recommends amending "
-        "asylum legislation and stakeholders ask for repeal of laws "
+        "asylum legislation and stakeholders call for repeal of laws "
         "restricting civil society.",
         [
             ("UNHCR", "2", "9", "recommended that Hungary amend its national legislation to safeguard the right to seek and enjoy asylum and the prohibition of refoulement"),
@@ -211,7 +211,7 @@ CLUSTERS = {
     ),
     "Business & Human Rights": (
         D, "Business and human rights legislation and national action plan",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Rights related to marriage & family": (
         A, "Strengthen policies supporting the family",
@@ -254,7 +254,7 @@ CLUSTERS = {
     "Human rights & poverty": (
         B, "Reduce poverty, especially among minorities",
         "The National Social Inclusion Strategy 2030 and its 2025-2027 action "
-        "plan target poverty eradication and Roma inclusion; JS2 asks for "
+        "plan target poverty eradication and Roma inclusion; JS2 calls for "
         "targeted programmes on intergenerational poverty.",
         [
             ("Hungary", "1", "108", "The two fundamental objectives of the MNTFS2030 are the eradication of poverty and the promotion of the inclusion of the Roma community"),
@@ -293,7 +293,7 @@ CLUSTERS = {
     "Children: definition": (
         C, "Child-rights consultation and a single child-rights body",
         "No consultation on a child-rights framework or single child-rights "
-        "body is reported; JS2 asks for a multi-stakeholder national strategy "
+        "body is reported; JS2 calls for a multi-stakeholder national strategy "
         "on violence against children.",
         [
             ("JS2", "3", "51", "developing and implementing a multi-stakeholder national strategy to prevent and address all forms of violence against children"),
@@ -318,7 +318,7 @@ CLUSTERS = {
     ),
     "Human rights & climate change": (
         D, "Participation of women, children and persons with disabilities in climate action",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Conditions of detention": (
         C, "Reform detention with a human rights-based approach",
@@ -390,11 +390,11 @@ CLUSTERS = {
     ),
     "Sexual & reproductive health and rights": (
         D, "Sexual and reproductive health education for youth",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Rights related to name, identity & nationality": (
         D, "Nationality for children who would otherwise be stateless",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Rule of law & impunity": (
         C, "End the state of danger and preserve the rule of law",
@@ -408,7 +408,7 @@ CLUSTERS = {
     ),
     "Land & property rights": (
         D, "Resolve the issue of unclaimed Jewish property",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Advancement of women": (
         C, "National action plan on Women, Peace and Security",
@@ -447,12 +447,12 @@ KEYWORDS = [
     # --- media ---
     (r"Media Council|media independence", C,
      "Restore media independence and the independence of the Media Council",
-     "The National Report has no media section; the Special Rapporteur on freedom of expression still asks for a reformed Media Council and a framework for media independence.",
+     "The National Report has no media section; the Special Rapporteur on freedom of expression still calls for a reformed Media Council and a framework for media independence.",
      [("Special Rapporteur on freedom of expression", "2", "28", "revise the appointment procedure for the Chair of the Media Council to make it more transparent and inclusive"),
       ("Special Rapporteur on freedom of expression", "2", "29", "called for the independence, transparency and accountability of the Media Council, including through legislative reforms")]),
     (r"programmes in the Slovenian language|financing of media in minority", D,
      "Finance and broadcast minority-language media",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"Slovenian language in public life|use of minority languages|visible bilingualism", B,
      "Promote the use of minority languages in public life",
      "Official documents and declarations have been available in Slovak, Serbian, Slovenian, Croatian, German and Romanian since 2022-2023, and Rába-region offices employ Slovenian speakers.",
@@ -476,7 +476,7 @@ KEYWORDS = [
       ("Committee on the Elimination of Discrimination against Women", "2", "74", "registered partnerships were not recognized under the joint and second parent adoption scheme")]),
     (r"^Support the adoption of the Council of the European Union", D,
      "Support Council of the EU conclusions on the children's rights strategy",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"anti-paedophilia|anti-lesbian|promotion of homosexuality|legislation purporting to protect children|2020 amendments restricting adoptions|stigmatizing and discriminatory provisions|legislation that uses child protection|repealing laws that prohibit certain discussions|Abolish discriminatory legislative provisions vis|repealing any restrictive", E,
      "Repeal or revise the 'child protection'/anti-LGBTQI legislation and the adoption restrictions",
      "Hungary kept the 2021 'child protection' law, which the CJEU found to "
@@ -500,7 +500,7 @@ KEYWORDS = [
     # --- ratification-cluster specifics ---
     (r"Kampala", E,
      "Ratify the Kampala amendments to the Rome Statute",
-     "Hungary has withdrawn from the Rome Statute of the International Criminal Court, a measure contrary to the recommendation; JS10 asks it to withdraw the instrument of withdrawal.",
+     "Hungary has withdrawn from the Rome Statute of the International Criminal Court, a measure contrary to the recommendation; JS10 calls on it to withdraw the instrument of withdrawal.",
      [("JS10", "3", "3", "withdraw the withdrawal instrument, or otherwise, re-ratify the Rome Statute of the International Criminal Court")]),
     # --- women ---
     (r"senior positions", B,
@@ -522,10 +522,10 @@ KEYWORDS = [
       ("Hungary", "1", "55", "is in the final stage of preparation prior to the interministerial consultation procedure")]),
     (r"national action plan against racial discrimination", D,
      "Finalise a national action plan against racial discrimination",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^Develop a national action plan to prevent and address all forms of violence against children", B,
      "National action plan on violence against children",
-     "Stricter employment-suitability requirements for staff of child protection institutions were introduced (July 2024); no national action plan is reported, and JS2 asks for a multi-stakeholder strategy.",
+     "Stricter employment-suitability requirements for staff of child protection institutions were introduced (July 2024); no national action plan is reported, and JS2 calls for a multi-stakeholder strategy.",
      [("Hungary", "1", "63", "Since July 2024, new and more stringent employment requirements have been introduced for managers, professionals, and applicants in child protection institutions")]),
     (r"^Raise the age for marriage", C,
      "Raise the minimum age of marriage to 18 without exception",
@@ -548,7 +548,7 @@ KEYWORDS = [
       ("Hungary", "1", "3", "The previous Government of Hungary failed to conduct consultations with civil society organizations regarding the current national report")]),
     (r"^Ensure that civil society organizations operate in an enabling environment and have access to transit centres", D,
      "Civil society access to transit centres for migrants",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- law enforcement ---
     (r"^Ensure that excessive use of force", C,
      "Investigate excessive use of force and ill-treatment by law enforcement",
@@ -562,5 +562,5 @@ KEYWORDS = [
       ("Scholars at Risk", "3", "38", "urged Hungary to commit publicly to restoring academic freedom and related human rights")]),
 ]
 
-FALLBACK = (D, "No information on this ask",
-            "The documents contain no information on this ask.", [])
+FALLBACK = (D, "No information on this recommendation",
+            "The documents contain no information on this recommendation.", [])

@@ -2,7 +2,3003 @@
  "a3": "HUN",
  "name": "Hungary",
  "num": 348,
- "upr": null,
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "39th session (2021)",
+   "co_symbol": "A/HRC/49/8",
+   "review": "November 2026 (session 53)",
+   "sources": [
+    "**National Report** — A/HRC/WG.6/53/HUN/1",
+    "**UN Compilation** — A/HRC/WG.6/53/HUN/2",
+    "**Stakeholders' Summary** — A/HRC/WG.6/53/HUN/3"
+   ],
+   "headline": "**Partial implementation (B)** is the dominant outcome (142 of 267 recommendations), and Hungary gives a National Report that admits \"very limited progress\": Act X of 2023 strengthened the National Judicial Council, a preventive restraining order that outlasts imprisonment (2025) and a review of 31,139 police domestic-violence cases, hate-crime training for all police, the National Strategy against Antisemitism (2024), the 2025 action plan under the Social Inclusion Strategy 2030, a partial decriminalisation of defamation (2023) and an Act on anti-discrimination in education (2024). **No relevant action (C)** covers 93 recommendations, notably media pluralism, civil-society space, asylum and pushbacks, the Istanbul Convention and the Women, Peace and Security plan. **Contrary measures (E)** apply to 16 recommendations: the 'child protection' law kept and extended by Act III of 2025, which bans Pride and other LGBTIQ-themed assemblies (a constitutional amendment followed), and the withdrawal from the Rome Statute. Four recommendations reach **A** (support for the family, visible bilingualism in the Rába region, cooperation with special procedures).",
+   "note": "Hungary's national report covers only the term of the previous Government; measures of the Government formed on 12 May 2026 are not covered.",
+   "n": 267,
+   "grade_dist": {
+    "A": 4,
+    "B": 142,
+    "C": 93,
+    "D": 12,
+    "E": 16
+   },
+   "score": 3.4
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "128.1, 128.2, 128.6-128.9, 128.11",
+      "n": 7,
+      "summary": "Ratify outstanding international instruments",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No ratification is reported; the National Report states only that Hungary is party to most conventions, and UNESCO and stakeholders continue to recommend ratification.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 8 — Hungary: \"Hungary is State Party to the majority of international and European human rights conventions and most of their protocols\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 2 — UNESCO: \"recommended ratifying the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights\""
+      ],
+      "position": "7 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.1",
+        "by": "Paraguay",
+        "position": "noted",
+        "text": "Ratify the main international human rights treaties that are still pending in order to make progress on Sustainable Development Goals 5, 8, 10 and 16"
+       },
+       {
+        "paragraph": "128.2",
+        "by": "South Africa",
+        "position": "noted",
+        "text": "Ratify all outstanding international human rights treaties that it has committed to"
+       },
+       {
+        "paragraph": "128.6",
+        "by": "Morocco",
+        "position": "noted",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance (Armenia) (Japan) (Malawi) (Sierra Leone) (Togo); Consider ratification of the International Convention for the Protection of All Persons from Enforced Disappearance (Slovakia) (Ukraine); Continue efforts to ratify the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "128.7",
+        "by": "France",
+        "position": "noted",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance, and accept the competence of the Committee on Enforced Disappearances"
+       },
+       {
+        "paragraph": "128.8",
+        "by": "Albania",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the Convention on the Rights of the Child on a communications procedure (Maldives); Step up efforts to ratify the Optional Protocol to the Convention on the Rights of the Child on a communications procedure"
+       },
+       {
+        "paragraph": "128.9",
+        "by": "Armenia",
+        "position": "noted",
+        "text": "Ratify the International Convention against the Recruitment, Use, Financing and Training of Mercenaries"
+       },
+       {
+        "paragraph": "128.11",
+        "by": "Armenia; Portugal",
+        "position": "noted",
+        "text": "Ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights"
+       }
+      ]
+     },
+     {
+      "paras": "128.12, 128.13, 128.16-128.18",
+      "n": 5,
+      "summary": "Ratify the Istanbul Convention",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Hungary has not ratified the Istanbul Convention and the National Report does not mention it; JS9 recommends ratification.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 43 — JS9: \"recommended to ratify the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (the Istanbul Convention)\""
+      ],
+      "position": "5 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.12",
+        "by": "Istanbul Convention; Italy",
+        "position": "noted",
+        "text": "Consider ratifying the International Convention for the Protection of All Persons from Enforced Disappearance, the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights and the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence"
+       },
+       {
+        "paragraph": "128.13",
+        "by": "Istanbul Convention; Cyprus",
+        "position": "noted",
+        "text": "Further strengthen legislation to combat gender-based violence, by ratifying the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence"
+       },
+       {
+        "paragraph": "128.16",
+        "by": "Istanbul Convention; Dominican Republic",
+        "position": "noted",
+        "text": "Ratify the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (Istanbul Convention) (Luxembourg) (Namibia) (Spain); Ratify the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence the so called Istanbul Convention (Belgium); Consider the possibility of ratifying the European human rights instrument: Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence"
+       },
+       {
+        "paragraph": "128.17",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Ratify the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (Istanbul Convention) and criminalize all forms of domestic violence"
+       },
+       {
+        "paragraph": "128.18",
+        "by": "Liechtenstein",
+        "position": "noted",
+        "text": "Ratify and fully implement the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (Istanbul Convention) as an effective step towards the elimination of all forms of sexual and gender-based violence"
+       }
+      ]
+     },
+     {
+      "paras": "128.3-128.5, 128.20",
+      "n": 4,
+      "summary": "Prevent discrimination and xenophobia against migrants, refugees and asylum seekers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report contains no measure; UNHCR urges Hungary to address xenophobia against refugees, and the Special Rapporteur on freedom of religion reports anti-migrant rhetoric from high-level officials.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 12 — UNHCR: \"urged Hungary to address discrimination and xenophobia, in particular against refugees and asylum-seekers\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 78 — Special Rapporteur on freedom of religion: \"requested that Hungary confront the discriminatory anti-migrant and racist rhetoric that had marred the political and media space, had put asylum-seekers at risk of refoulement\""
+      ],
+      "position": "4 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.3",
+        "by": "Niger",
+        "position": "noted",
+        "text": "Ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (Ghana) (Rwanda); Consider ratifying the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (Algeria) (Indonesia); Proceed with the ratification of the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (Togo); Explore the possibility of ratifying the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "128.4",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "noted",
+        "text": "Assess the possibility of ratifying the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families and the Domestic Workers Convention, 2011 (No. 189) of the International Labour Organization"
+       },
+       {
+        "paragraph": "128.5",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Consider the possibility of ratifying the International Convention for the Protection of All Persons from Enforced Disappearance and the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "128.20",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Ratify the Global Compact for Migration and eliminate or suspend the restrictions that prevent or hinder access to the national asylum system"
+       }
+      ]
+     },
+     {
+      "paras": "128.10",
+      "n": 1,
+      "summary": "Ratify the Kampala amendments to the Rome Statute",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Hungary has withdrawn from the Rome Statute of the International Criminal Court, a measure contrary to the recommendation; JS10 calls on it to withdraw the instrument of withdrawal.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 3 — JS10: \"withdraw the withdrawal instrument, or otherwise, re-ratify the Rome Statute of the International Criminal Court\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.10",
+        "by": "Liechtenstein",
+        "position": "noted",
+        "text": "Ratify the Kampala amendments to the Rome Statute of the International Criminal Court on the crime of aggression"
+       }
+      ]
+     },
+     {
+      "paras": "128.19",
+      "n": 1,
+      "summary": "Strengthen the legal framework against domestic and sexual violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A preventive restraining order that extends beyond imprisonment was introduced (August 2025) and the offence of harassment was extended (March 2025); the Istanbul Convention has not been ratified.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 49 — Hungary: \"Act LXXII of 2009 was supplemented with a new type of restraining order (preventive restraining order)\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 47 — Hungary: \"supplementing it with a new basic case\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.19",
+        "by": "Istanbul Convention; Republic of Moldova",
+        "position": "noted",
+        "text": "Strengthen the legal framework for the protection of women against domestic and sexual violence and consider ratifying the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Action Plans (or specific areas) / implementation plans",
+    "blocks": [
+     {
+      "paras": "128.33, 128.137, 128.138, 128.156, 128.232, 128.236",
+      "n": 6,
+      "summary": "Implement national action plans and strategies",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Hungary adopted a 2025-2027 action plan under the National Social Inclusion Strategy 2030, an Implementation Plan 2025-2026 for the women's action plan and a new National Disability Programme (2026-2036); the National Report calls overall progress very limited.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 107 — Hungary: \"the action plan for the years 2025–2027, adopted by Government Resolution No. 1219/2025\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 89 — Hungary: \"The new NDP (2026–2036) aims to define the policy directions and identify the key areas of cross-sectoral and non-governmental cooperation\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 1 — Hungary: \"overall, represent very limited progress toward fulfilling the recommendations\""
+      ],
+      "position": "6 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.33",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Take effective steps in implementing the measures specified in targeted action plans on human rights"
+       },
+       {
+        "paragraph": "128.137",
+        "by": "Turkmenistan",
+        "position": "supported",
+        "text": "Continue its ongoing efforts to successfully implement the national social inclusion strategy"
+       },
+       {
+        "paragraph": "128.138",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Continue measures against trafficking in persons under the national anti-trafficking strategy and action plan"
+       },
+       {
+        "paragraph": "128.156",
+        "by": "Cambodia",
+        "position": "supported",
+        "text": "Intensify further efforts toward implementation of the national disability programme, increase the number of children with disabilities attending the public education system, and raise the employment rate of persons with disabilities"
+       },
+       {
+        "paragraph": "128.232",
+        "by": "Mongolia",
+        "position": "supported",
+        "text": "Effectively implement the national disability programme"
+       },
+       {
+        "paragraph": "128.236",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Enhance protection for vulnerable groups through the implementation of the social inclusion strategy and the national disability programme"
+       }
+      ]
+     },
+     {
+      "paras": "128.201-128.205",
+      "n": 5,
+      "summary": "Adopt a National Action Plan on Women, Peace and Security",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A draft National Action Plan 2024-2028 exists but is still awaiting the interministerial consultation procedure; it has not been adopted.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 55 — Hungary: \"A draft NAP covering the period 2024–2028 has been prepared by the Ministry of Defence\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 55 — Hungary: \"is in the final stage of preparation prior to the interministerial consultation procedure\""
+      ],
+      "position": "5 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.201",
+        "by": "Cambodia",
+        "position": "noted",
+        "text": "Consider further efforts toward early preparation of the national action plan based on Security Council resolution 1325 (2000) on women, peace and security"
+       },
+       {
+        "paragraph": "128.202",
+        "by": "Georgia",
+        "position": "noted",
+        "text": "Intensify preparation of the national action plan based on Security Council resolution 1325 (2000) on women, peace and security"
+       },
+       {
+        "paragraph": "128.203",
+        "by": "Iraq",
+        "position": "noted",
+        "text": "Expedite the launch of the national action plan on Security Council resolution 1325 (2000) on women, peace and security, and put the plan into effective implementation"
+       },
+       {
+        "paragraph": "128.204",
+        "by": "Lebanon",
+        "position": "noted",
+        "text": "Finalize the adoption of the national action plan based on Security Council resolution 1325 (2000) on women, peace and security"
+       },
+       {
+        "paragraph": "128.205",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Finalize the national action plan on implementation of Security Council resolution 1325 (2000) on women, peace and security"
+       }
+      ]
+     },
+     {
+      "paras": "128.14",
+      "n": 1,
+      "summary": "Ratify the Istanbul Convention",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Hungary has not ratified the Istanbul Convention and the National Report does not mention it; JS9 recommends ratification.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 43 — JS9: \"recommended to ratify the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (the Istanbul Convention)\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.14",
+        "by": "Istanbul Convention; Finland",
+        "position": "noted",
+        "text": "Adopt a national action plan for prevention and prosecution of domestic violence and for ensuring the rights of victims, and ratify the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence"
+       }
+      ]
+     },
+     {
+      "paras": "128.34",
+      "n": 1,
+      "summary": "Finalise a national action plan against racial discrimination",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.34",
+        "by": "South Africa",
+        "position": "noted",
+        "text": "Finalize its national action plan against racial discrimination"
+       }
+      ]
+     },
+     {
+      "paras": "128.224",
+      "n": 1,
+      "summary": "National action plan on violence against children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Stricter employment-suitability requirements for staff of child protection institutions were introduced (July 2024); no national action plan is reported, and JS2 calls for a multi-stakeholder strategy.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 63 — Hungary: \"Since July 2024, new and more stringent employment requirements have been introduced for managers, professionals, and applicants in child protection institutions\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.224",
+        "by": "Namibia",
+        "position": "supported",
+        "text": "Develop a national action plan to prevent and address all forms of violence against children"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "128.178, 128.180, 128.206, 128.208-128.220",
+      "n": 16,
+      "summary": "Prevent and respond to domestic and sexual violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Hungary introduced a preventive restraining order that survives release from prison (August 2025), extended victim-support rights, reviewed 31,139 police domestic-violence cases and created a network of specialised investigators, and funds 20 crisis centres; CEDAW still calls for a comprehensive law on gender-based violence.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 49 — Hungary: \"Act LXXII of 2009 was supplemented with a new type of restraining order (preventive restraining order)\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 45 — Hungary: \"a nationwide review was conducted on the handling of reports and criminal proceedings related to domestic violence by the police, covering 31139 cases\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 61 — Committee on the Elimination of Discrimination against Women: \"recommended that Hungary adopt a comprehensive law on gender-based violence against women\""
+      ],
+      "position": "4 noted, 12 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.178",
+        "by": "Burkina Faso",
+        "position": "noted",
+        "text": "Criminalize all forms of domestic violence, including when such an act is committed for the first time"
+       },
+       {
+        "paragraph": "128.180",
+        "by": "Ecuador",
+        "position": "supported",
+        "text": "Provide assistance services to victims of domestic violence"
+       },
+       {
+        "paragraph": "128.206",
+        "by": "Bhutan",
+        "position": "supported",
+        "text": "Continue its efforts in strengthening the legal framework for the protection of women against domestic violence, and continue its efforts in addressing the wage gap between women and men"
+       },
+       {
+        "paragraph": "128.208",
+        "by": "France",
+        "position": "supported",
+        "text": "Take additional measures to effectively combat violence against women, and promote their participation in political life and their integration into professional life"
+       },
+       {
+        "paragraph": "128.209",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Strengthen efforts to curb cases of domestic violence, particularly against women"
+       },
+       {
+        "paragraph": "128.210",
+        "by": "Malaysia",
+        "position": "noted",
+        "text": "Strengthen the legal frameworks to better protect women from domestic and sexual violence"
+       },
+       {
+        "paragraph": "128.211",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Take measures to ensure that cases of domestic and sexual violence against women are reported, recorded and thoroughly investigated, and that perpetrators are prosecuted and duly punished"
+       },
+       {
+        "paragraph": "128.212",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Further intensify public awareness campaigns against domestic violence and ensure provision of adequate support for victims"
+       },
+       {
+        "paragraph": "128.213",
+        "by": "Republic of Korea",
+        "position": "noted",
+        "text": "Make further efforts to strengthen the legal framework for the protection of women against domestic and sexual violence"
+       },
+       {
+        "paragraph": "128.214",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Take measures against domestic violence and ensure the protection of the rights of vulnerable groups, including women, children, persons with disabilities and the elderly"
+       },
+       {
+        "paragraph": "128.215",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Ensure that all cases of domestic violence are reported, recorded and fully investigated"
+       },
+       {
+        "paragraph": "128.216",
+        "by": "Kyrgyzstan",
+        "position": "supported",
+        "text": "Further strengthen mechanisms at the national level to prevent, and protect all victims of, domestic violence"
+       },
+       {
+        "paragraph": "128.217",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Continue to promote awareness of and wider access to the current protection mechanisms, and to strengthen the legal framework to prosecute and punish the perpetrators of domestic and sexual violence"
+       },
+       {
+        "paragraph": "128.218",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Define and criminalize all expressions of gender violence and ensure the effective protection of victims"
+       },
+       {
+        "paragraph": "128.219",
+        "by": "Cambodia",
+        "position": "supported",
+        "text": "Explore additional initiatives toward elimination of violence against women"
+       },
+       {
+        "paragraph": "128.220",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Continue taking measures to further eliminate sexual harassment"
+       }
+      ]
+     },
+     {
+      "paras": "128.15",
+      "n": 1,
+      "summary": "Ratify the Istanbul Convention",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Hungary has not ratified the Istanbul Convention and the National Report does not mention it; JS9 recommends ratification.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 43 — JS9: \"recommended to ratify the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (the Istanbul Convention)\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.15",
+        "by": "Istanbul Convention; Germany",
+        "position": "noted",
+        "text": "Act against discrimination based on sexual orientation and gender identity, and ratify the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence"
+       }
+      ]
+     },
+     {
+      "paras": "128.179",
+      "n": 1,
+      "summary": "Protect LGBTQI persons: anti-discrimination law, gender recognition, strategy and education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report cites only the pre-existing Equal Treatment Act, which already lists sexual orientation, and a police network of specialised investigators; no strategy, legal gender recognition or anti-discrimination reform is reported, and CEDAW notes unrecognised same-sex partnerships.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 101 — Hungary: \"Section 8 of Act CXXV of 2003 on Equal Treatment and the Promotion of Equal Opportunities explicitly mentions sexual orientation as prohibited grounds of discrimination\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 74 — Committee on the Elimination of Discrimination against Women: \"registered partnerships were not recognized under the joint and second parent adoption scheme\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.179",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Adopt a comprehensive strategy and action plan to counter violence, discrimination and stigmatization based on sexual orientation and gender identity"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation with human rights mechanisms & requests for technical assistance",
+    "blocks": [
+     {
+      "paras": "128.21",
+      "n": 1,
+      "summary": "Cooperate with UN human rights mechanisms",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Hungary upholds its standing invitation to special procedures, received three mandate holders and responded to all communications.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 11 — Hungary: \"Since the last UPR, Hungary received three mandate holders, and responded to all allegation letters and other communications\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.21",
+        "by": "Egypt",
+        "position": "supported",
+        "text": "Continue ongoing cooperation with United Nations human rights mechanisms"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights education, trainings & awareness raising",
+    "blocks": [
+     {
+      "paras": "128.22, 128.152",
+      "n": 2,
+      "summary": "Human rights education and awareness-raising",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report cites only the 2020 curriculum revision, which predates the review period, and no new awareness-raising programme.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 67 — Hungary: \"civic knowledge became an independent subject with its own framework curriculum and textbooks\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.22",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Strengthen programmes aimed at awareness-raising and dissemination of the Convention on the Rights of the Child, with the collaboration of various media outlets"
+       },
+       {
+        "paragraph": "128.152",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Continue to mainstream human rights education in school curricula"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & consultation with civil society",
+    "blocks": [
+     {
+      "paras": "128.23, 128.24, 128.26, 128.29",
+      "n": 4,
+      "summary": "Enable civil society and human rights defenders to work freely",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report reports no new enabling measure and admits that the previous Government did not consult civil society on the report; stakeholders point to the Transparency of Public Life bill.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 3 — Hungary: \"The previous Government of Hungary failed to conduct consultations with civil society organizations regarding the current national report\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 17 — JS5: \"formally withdraw the Transparency of Public Life bill to ensure that legislation does not restrict the lawful activities of civil society\""
+      ],
+      "position": "3 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.23",
+        "by": "New Zealand",
+        "position": "noted",
+        "text": "Recognize the important role of civil society organizations and human rights defenders in a democratic society and remove any obstacles to their effective functioning"
+       },
+       {
+        "paragraph": "128.24",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Further reinforce democracy by promoting an inclusive environment for civil society activities"
+       },
+       {
+        "paragraph": "128.26",
+        "by": "Sierra Leone",
+        "position": "noted",
+        "text": "Ease restrictions on civil society organizations that use foreign funding"
+       },
+       {
+        "paragraph": "128.29",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Establish an initial dialogue with NGOs before moving ahead with the drafting of the new law that would replace the “LexNGO”"
+       }
+      ]
+     },
+     {
+      "paras": "128.27, 128.28",
+      "n": 2,
+      "summary": "Improve consultation and dialogue with civil society",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Since 2022 ministries that omit the legally required public consultation are fined, and the Human Rights Roundtable counts 76 civil society organisations; the previous Government did not consult civil society on the UPR report.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 32 — Hungary: \"if the government audit body reveals that an omission has occurred in relation to the consultation process\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 3 — Hungary: \"The previous Government of Hungary failed to conduct consultations with civil society organizations regarding the current national report\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.27",
+        "by": "Dominican Republic",
+        "position": "supported",
+        "text": "Broaden the scope of actions aimed at strengthening cooperation with civil society organizations, as contained in the Public Participation Act"
+       },
+       {
+        "paragraph": "128.28",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Improve both formal and informal dialogue and public consultation between the Government and civil society. Foster sharing of information and best practices between civil society and the Commissioner for Fundamental Rights"
+       }
+      ]
+     },
+     {
+      "paras": "128.252",
+      "n": 1,
+      "summary": "Civil society access to transit centres for migrants",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.252",
+        "by": "Ecuador",
+        "position": "noted",
+        "text": "Ensure that civil society organizations operate in an enabling environment and have access to transit centres for migrants"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Constitutional & legislative framework",
+    "blocks": [
+     {
+      "paras": "128.25",
+      "n": 1,
+      "summary": "Review legislation affecting civil society, migrants and gender recognition",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report describes no review; UNHCR recommends amending asylum legislation and stakeholders call for repeal of laws restricting civil society.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 9 — UNHCR: \"recommended that Hungary amend its national legislation to safeguard the right to seek and enjoy asylum and the prohibition of refoulement\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 17 — JS5: \"formally withdraw the Transparency of Public Life bill to ensure that legislation does not restrict the lawful activities of civil society\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.25",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Create an enabling environment for civil society by removing all legislation which affects organizations’ abilities to operate effectively, including over restrictive rules and oversight"
+       }
+      ]
+     },
+     {
+      "paras": "128.31",
+      "n": 1,
+      "summary": "Decriminalise defamation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A June 2023 amendment excludes liability for defamation and insult in the free discussion of public affairs in the press and media; the Special Rapporteur still recommends repealing criminal defamation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 24 — Hungary: \"As of June 2023, an amendment to the Criminal Code introduced decriminalization with regard to offenses committed through press products or media services\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 19 — Special Rapporteur on freedom of expression: \"repeal the provision in the Criminal Code relating to defamation as a criminal offence\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.31",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Decriminalize defamation, frequently used against journalists, defenders and civil society organizations"
+       }
+      ]
+     },
+     {
+      "paras": "128.94",
+      "n": 1,
+      "summary": "Protect LGBTQI persons: anti-discrimination law, gender recognition, strategy and education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report cites only the pre-existing Equal Treatment Act, which already lists sexual orientation, and a police network of specialised investigators; no strategy, legal gender recognition or anti-discrimination reform is reported, and CEDAW notes unrecognised same-sex partnerships.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 101 — Hungary: \"Section 8 of Act CXXV of 2003 on Equal Treatment and the Promotion of Equal Opportunities explicitly mentions sexual orientation as prohibited grounds of discrimination\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 74 — Committee on the Elimination of Discrimination against Women: \"registered partnerships were not recognized under the joint and second parent adoption scheme\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.94",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Reform legislation that denies the right to legal recognition of gender change and criminalize all forms of domestic violence"
+       }
+      ]
+     },
+     {
+      "paras": "128.245",
+      "n": 1,
+      "summary": "Prevent discrimination and xenophobia against migrants, refugees and asylum seekers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report contains no measure; UNHCR urges Hungary to address xenophobia against refugees, and the Special Rapporteur on freedom of religion reports anti-migrant rhetoric from high-level officials.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 12 — UNHCR: \"urged Hungary to address discrimination and xenophobia, in particular against refugees and asylum-seekers\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 78 — Special Rapporteur on freedom of religion: \"requested that Hungary confront the discriminatory anti-migrant and racist rhetoric that had marred the political and media space, had put asylum-seekers at risk of refoulement\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.245",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Review national legislation on migration and refugees to ensure that it is consistent with the norms and standards of international law and avoids approaches focused solely on border security"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rule of law & impunity",
+    "blocks": [
+     {
+      "paras": "128.30",
+      "n": 1,
+      "summary": "End the state of danger and preserve the rule of law",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No end to the emergency regime is reported; stakeholders refer to an 'ongoing emergency regime' and a state of crisis due to mass migration.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 25 — EUROMIL: \"under the ongoing emergency regime\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 67 — JS4: \"called to end the state of crisis due to mass migration\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.30",
+        "by": "Marshall Islands",
+        "position": "noted",
+        "text": "Abolish the government bill declaring a “state of danger” in response to the COVID-19 pandemic and preserve the rule of law"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Legal & institutional reform",
+    "blocks": [
+     {
+      "paras": "128.32, 128.247",
+      "n": 2,
+      "summary": "Strengthen the institutional human rights infrastructure",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Human Rights Working Group monitors implementation of accepted UPR recommendations and a Human Rights Roundtable counts 76 civil society organisations.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 17 — Hungary: \"monitors the implementation of the fully or partially accepted recommendations\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 17 — Hungary: \"Human Rights Roundtable currently has 76 civil society organizations as members\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.32",
+        "by": "Turkmenistan",
+        "position": "supported",
+        "text": "Pursue implementing practical steps aimed at the development of the institutional and human rights infrastructure to fulfil its human rights obligations"
+       },
+       {
+        "paragraph": "128.247",
+        "by": "Russian Federation",
+        "position": "supported",
+        "text": "Implement measures to effectively coordinate the work of institutions in the face of growing migration flows"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "128.35-128.39",
+      "n": 5,
+      "summary": "Strengthen the Commissioner for Fundamental Rights",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Commissioner's budget rose from HUF 2.134 billion in 2021 to HUF 3.369 billion in 2026; however, the Commissioner was downgraded to B status by GANHRI in 2021 and the Special Rapporteur advises a thorough review of its functioning.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 16 — Hungary: \"Its budget increased from 2,134 billion HUF in 2021 to 3,369 billion HUF in 2026\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 3 — Special Rapporteur on freedom of religion: \"had been downgraded to B status in 2021\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.35",
+        "by": "Uzbekistan",
+        "position": "supported",
+        "text": "Consider further improvement in the activities of the Commissioner for Fundamental Rights"
+       },
+       {
+        "paragraph": "128.36",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Continue to strengthen national institutions engaged in advancing human rights, through increased resources and other support"
+       },
+       {
+        "paragraph": "128.37",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue to further strengthen the Office of the Commissioner for Human Rights, by providing additional financial and administrative resources"
+       },
+       {
+        "paragraph": "128.38",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Provide sufficient financial and other resources necessary for the Commissioner for Fundamental Rights to implement its mandate independently and effectively"
+       },
+       {
+        "paragraph": "128.39",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Ensure financial and other resources necessary to the Office of the Commissioner for Fundamental Rights to implement its mandate efficiently and independently"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Mechanisms for Reporting & Follow-up (NMRF)",
+    "blocks": [
+     {
+      "paras": "128.40",
+      "n": 1,
+      "summary": "Permanent national mechanism for follow-up",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A Human Rights Working Group and Human Rights Roundtable monitor implementation of accepted recommendations; the National Report does not date the mechanism.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 17 — Hungary: \"monitors the implementation of the fully or partially accepted recommendations\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.40",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Establish a permanent national mechanism for the implementation of follow-up reports on human rights recommendations, considering the possibility of receiving cooperation for that end, within the framework of Sustainable Development Goals 16 and 17"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Racial discrimination",
+    "blocks": [
+     {
+      "paras": "128.41, 128.61-128.64, 128.71, 128.81, 128.82, 128.88, 128.89, 128.99",
+      "n": 11,
+      "summary": "Prevent racism and racial hate crime, and implement anti-discrimination law",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Police hate-crime training became mandatory, a Handbook on handling hate crimes was issued and Criminal Code section 332 was extended in 2025; stakeholders call for vigorous prosecution and awareness campaigns.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 18 — Hungary: \"were made mandatory for all police personnel\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 21 — Hungary: \"The Hungarian media law expressly prohibits publishing press and media content that incites hatred\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 5 — JS2: \"recommended to take effective measures to prevent and combat hate speech, racial discrimination, and violence against Roma\""
+      ],
+      "position": "4 noted, 7 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.41",
+        "by": "State of Palestine",
+        "position": "noted",
+        "text": "Take concrete measures to end racist hate speech and incitement to violence, including by strengthening relevant legislation and to investigate and prosecute incidents of racist hate speech"
+       },
+       {
+        "paragraph": "128.61",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Redouble efforts to effectively combat racial discrimination and racial hate crimes"
+       },
+       {
+        "paragraph": "128.62",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Conduct a widespread public awareness campaign to address the prevalence of racist and xenophobic hate speech"
+       },
+       {
+        "paragraph": "128.63",
+        "by": "Burkina Faso",
+        "position": "supported",
+        "text": "Take immediate measures to prevent racial hate crimes and racist violence and to ensure that all reported hate crimes are effectively recorded and are properly investigated and prosecuted"
+       },
+       {
+        "paragraph": "128.64",
+        "by": "Ecuador",
+        "position": "noted",
+        "text": "Redouble efforts to put an end to racist hate rhetoric and incitement to violence"
+       },
+       {
+        "paragraph": "128.71",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue measures to ensure the full and effective implementation of existing legal provisions prohibiting racial discrimination"
+       },
+       {
+        "paragraph": "128.81",
+        "by": "Togo",
+        "position": "noted",
+        "text": "Adopt legislation to prevent and punish incitement to racial hatred, hate crimes and racial violence"
+       },
+       {
+        "paragraph": "128.82",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Strengthen the full and effective application of legislative provisions prohibiting racial discrimination"
+       },
+       {
+        "paragraph": "128.88",
+        "by": "Eswatini",
+        "position": "noted",
+        "text": "Take effective measures to ensure full and effective implementation of existing legal provisions prohibiting racial discrimination, thus facilitating access to justice, and provide appropriate remedies for all victims of racial discrimination"
+       },
+       {
+        "paragraph": "128.89",
+        "by": "Turkmenistan",
+        "position": "supported",
+        "text": "Take effective measures to ensure the full and effective implementation of existing legal provisions prohibiting racial discrimination, and facilitate effective access to justice"
+       },
+       {
+        "paragraph": "128.99",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Take measures to prevent and eliminate racism, racial discrimination and xenophobia and to bring the perpetrators to justice"
+       }
+      ]
+     },
+     {
+      "paras": "128.66",
+      "n": 1,
+      "summary": "Combat discrimination against Roma and promote their inclusion",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Social Inclusion Strategy 2030 (action plan 2025-2027), the Opportunity Kindergarten/School/Workshop programmes and Roma police dialogue events were launched or continued; the Special Rapporteur reports that 51% of Roma children drop out of compulsory school and that segregation is increasing.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 110 — Hungary: \"Complex Settlement Programmes, reaching 80 segregated localities, contribute to reducing territorial inequalities and residential segregation\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 68 — Special Rapporteur on freedom of religion: \"51 per cent of Roma children dropping out while still in compulsory school\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.66",
+        "by": "Peru",
+        "position": "noted",
+        "text": "Strengthen actions to eradicate hate speech of all kinds, especially against Roma and other minority groups"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "128.57, 128.59, 128.60, 128.65, 128.67-128.70, 128.73, 128.74, 128.79, 128.80, 128.86, 128.92, 128.93, 128.98, 128.100, 128.101, 128.172, 128.175, 128.177, 128.181, 128.187, 128.195, 128.207, 128.234, 128.235, 128.259, 128.267",
+      "n": 29,
+      "summary": "Combat hate speech, hate crime and discrimination",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Hungary criminalised online aggression (January 2025) and denial or trivialisation of crimes against humanity (March 2025), made hate-crime training mandatory for all police and adopted a National Strategy against Antisemitism (June 2024); the Special Rapporteur on freedom of religion reports that anti-Muslim hatred remains widespread.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 19 — Hungary: \"Section 332 of the Criminal Code was supplemented with a new paragraph (2)\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 18 — Hungary: \"The curriculum consists of four modules: hate crimes, indicators of discrimination, victims and intersectionality, and law enforcement duties\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 23 — Hungary: \"In June 2024 Hungary adopted its National Strategy against Antisemitism\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 15 — Special Rapporteur on freedom of religion: \"anti-Muslim hatred, or Islamophobia, and discrimination against Muslims remained widespread in Hungarian society\""
+      ],
+      "position": "21 supported, 8 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.57",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Continue its work on tackling hate speech directed towards religious and racial minorities and lesbian, gay, bisexual and transgender persons"
+       },
+       {
+        "paragraph": "128.59",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Further improve interfaith and intercultural understanding in society and ensure access to justice for victims of hatred or racial violence"
+       },
+       {
+        "paragraph": "128.60",
+        "by": "Azerbaijan",
+        "position": "supported",
+        "text": "Continue taking steps to provide uniform, effective and professional law enforcement responses to hate crimes, including through conducting training for police forces"
+       },
+       {
+        "paragraph": "128.65",
+        "by": "Eswatini",
+        "position": "supported",
+        "text": "Improve the reporting, investigation, prosecution and punishment of hate crimes and criminal hate speech"
+       },
+       {
+        "paragraph": "128.67",
+        "by": "France",
+        "position": "noted",
+        "text": "Take the necessary measures to strengthen the efforts to combat discrimination based on origin, gender, sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "128.68",
+        "by": "Indonesia",
+        "position": "noted",
+        "text": "Take further steps to counter the rise in hate speech against religious minorities, especially against Muslims"
+       },
+       {
+        "paragraph": "128.69",
+        "by": "Libya",
+        "position": "supported",
+        "text": "Take all measures to prevent hate speech and all forms of discrimination, especially based on race, colour, religion and nationality"
+       },
+       {
+        "paragraph": "128.70",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Adequately tackle hate speech and incitement of hatred, especially against minorities, including religious minorities"
+       },
+       {
+        "paragraph": "128.73",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Take steps to counter racist discourse, hate speech and incitement to violence, and ensure effective investigation and prosecution of those responsible"
+       },
+       {
+        "paragraph": "128.74",
+        "by": "Republic of Moldova",
+        "position": "noted",
+        "text": "Undertake steps in order to effectively prevent and combat racist hate speech and racial discrimination"
+       },
+       {
+        "paragraph": "128.79",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Guarantee compliance with the rules against discrimination and violence against lesbian, gay, bisexual, transgender and intersex people"
+       },
+       {
+        "paragraph": "128.80",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Continue promoting tolerance and understanding on cultural diversity and eliminate prejudice and discrimination based on religion or belief in order to achieve Sustainable Development Goal 16"
+       },
+       {
+        "paragraph": "128.86",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Take concrete measures to combat all forms of discrimination, including when based on religion or belief, ethnicity and sexual orientation, in compliance with international and European obligations. Consider revising legislative provisions that could result in discrimination"
+       },
+       {
+        "paragraph": "128.92",
+        "by": "Liechtenstein",
+        "position": "noted",
+        "text": "Take effective steps to eliminate abusive language and incitement to hate, discrimination, hostility or violence against persons and communities based on their race, ethnicity, sexual orientation or gender identity, in particular in the public sphere"
+       },
+       {
+        "paragraph": "128.93",
+        "by": "Marshall Islands",
+        "position": "noted",
+        "text": "Strengthen legislation and policies protecting against any forms of discrimination, especially discrimination against ethnic and sexual minorities as well as women"
+       },
+       {
+        "paragraph": "128.98",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Improve the protection of the human rights of all individuals, including immigrants, refugees and other displaced persons, by strengthening democratic institutions, in particular the Office of the Commissioner for Fundamental Rights, in order to ensure equality of treatment and to combat all forms of discrimination"
+       },
+       {
+        "paragraph": "128.100",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Intensify its efforts to combat all forms of discrimination, xenophobia and intolerance, including by taking action against hate speech and hate crimes against minority and vulnerable groups"
+       },
+       {
+        "paragraph": "128.101",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue its efforts to combat manifestations of hatred against vulnerable groups and to punish perpetrators"
+       },
+       {
+        "paragraph": "128.172",
+        "by": "Egypt",
+        "position": "supported",
+        "text": "Continue to promote gender equality"
+       },
+       {
+        "paragraph": "128.175",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Fully implement the national strategy for the promotion of gender equality and give full effect to the constitutional guarantee of equality between women and men"
+       },
+       {
+        "paragraph": "128.177",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Fully implement the empowering women in the family and society action plan 2021–2030 with a view towards decreasing the pay gap between women and men"
+       },
+       {
+        "paragraph": "128.181",
+        "by": "India",
+        "position": "supported",
+        "text": "Redouble efforts towards combating the stereotypical division of gender roles in family and society"
+       },
+       {
+        "paragraph": "128.187",
+        "by": "Viet Nam",
+        "position": "supported",
+        "text": "Step up efforts to prevent discrimination against women and improve their life conditions"
+       },
+       {
+        "paragraph": "128.195",
+        "by": "Peru",
+        "position": "supported",
+        "text": "Continue combating stereotypes and discrimination against women and foster greater representation of women in the country’s political life"
+       },
+       {
+        "paragraph": "128.207",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Take the necessary steps to combat discrimination and violence against women and children, and on the basis of sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "128.234",
+        "by": "Azerbaijan",
+        "position": "supported",
+        "text": "Continue efforts in promoting and protecting human rights of vulnerable groups, including women, children and persons with disabilities"
+       },
+       {
+        "paragraph": "128.235",
+        "by": "Uzbekistan",
+        "position": "supported",
+        "text": "Take further active steps to ensure the rights of women, children and youth, with a particular focus on the inclusion of persons with disabilities"
+       },
+       {
+        "paragraph": "128.259",
+        "by": "Nigeria",
+        "position": "supported",
+        "text": "Sustain and scale up its efforts in eliminating racial discrimination and combating hate speech and other hate crimes"
+       },
+       {
+        "paragraph": "128.267",
+        "by": null,
+        "position": "supported",
+        "text": "Increase efforts to raise public awareness on tolerance and vigorously prosecute all hate crimes to prevent discrimination and protect the human rights of all people (Malawi)."
+       }
+      ]
+     },
+     {
+      "paras": "128.44, 128.53, 128.55, 128.76, 128.77, 128.96, 128.97, 128.161, 128.168, 128.171, 128.174, 128.229, 128.238, 128.239, 128.248, 128.251",
+      "n": 16,
+      "summary": "Combat discrimination against Roma and promote their inclusion",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Social Inclusion Strategy 2030 (action plan 2025-2027), the Opportunity Kindergarten/School/Workshop programmes and Roma police dialogue events were launched or continued; the Special Rapporteur reports that 51% of Roma children drop out of compulsory school and that segregation is increasing.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 110 — Hungary: \"Complex Settlement Programmes, reaching 80 segregated localities, contribute to reducing territorial inequalities and residential segregation\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 68 — Special Rapporteur on freedom of religion: \"51 per cent of Roma children dropping out while still in compulsory school\""
+      ],
+      "position": "7 noted, 9 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.44",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Combat intolerance and discrimination against members of vulnerable groups, including refugees, asylum seekers, migrants, women and girls, Roma, Muslims, Jews and LGBTQI+ persons. This effort should include discouraging intolerant rhetoric and repealing laws that ban public depictions of LGBTQI+ persons in the media and that refuse to legally recognize trans individuals’ gender identity"
+       },
+       {
+        "paragraph": "128.53",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Improve the systems for the prevention, reporting, investigation and prosecution of hate crimes, incitement to violence and discrimination against migrants, refugees, Roma and lesbian, gay, bisexual and transgender people"
+       },
+       {
+        "paragraph": "128.55",
+        "by": "Norway",
+        "position": "noted",
+        "text": "Strengthen measures to combat hate speech and hate crime, especially when targeted towards lesbian, gay, bisexual, transgender and intersex persons, asylum seekers, migrants and Roma"
+       },
+       {
+        "paragraph": "128.76",
+        "by": "Russian Federation",
+        "position": "noted",
+        "text": "Activate efforts to prevent and eliminate all manifestations of intolerance on national basis, also decisively condemn any hate speech, including against Roma"
+       },
+       {
+        "paragraph": "128.77",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Strengthen efforts to promote non-discriminatory access of members of the Roma community to existing social services"
+       },
+       {
+        "paragraph": "128.96",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Take measures to combat discrimination and the spreading of hate speech against migrants and refugees, especially Roma"
+       },
+       {
+        "paragraph": "128.97",
+        "by": "South Africa",
+        "position": "noted",
+        "text": "Strengthen measures to prevent racial hate crimes, the incitement of violence, and related discriminatory behaviour against refugees, migrants, Roma and other ethnic and sexual minorities, including by State officials, and ensure the effective registration, investigation and prosecution of all reported hate crimes"
+       },
+       {
+        "paragraph": "128.161",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Take further steps to eliminate discrimination against the Roma population, especially in the fields of education, health and employment"
+       },
+       {
+        "paragraph": "128.168",
+        "by": "Austria",
+        "position": "supported",
+        "text": "Step up efforts to address discrimination and social exclusion faced by Roma with particular emphasis on integrated schooling"
+       },
+       {
+        "paragraph": "128.171",
+        "by": "Thailand",
+        "position": "supported",
+        "text": "Further ensure that the Roma can access social services, including health care, education and employment, without discrimination"
+       },
+       {
+        "paragraph": "128.174",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue to step up actions to increase the employment rate and conditions for women, with a focus on Roma women"
+       },
+       {
+        "paragraph": "128.229",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Strengthen measures to eliminate discrimination against Roma children"
+       },
+       {
+        "paragraph": "128.238",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Continue efforts to better integrate the Roma community into society"
+       },
+       {
+        "paragraph": "128.239",
+        "by": "Brazil",
+        "position": "supported",
+        "text": "Continue to combat discrimination against the Roma community, particularly women and children, and promote their full social integration into the community"
+       },
+       {
+        "paragraph": "128.248",
+        "by": "Paraguay",
+        "position": "supported",
+        "text": "Redouble efforts to combat all forms of discrimination against groups in vulnerable situations, such as Roma, refugees and migrants, within the framework of Sustainable Development Goal 10"
+       },
+       {
+        "paragraph": "128.251",
+        "by": "Eswatini",
+        "position": "noted",
+        "text": "Strengthen laws to eradicate stereotyping and discrimination against migrants, refugees, Jews and Roma"
+       }
+      ]
+     },
+     {
+      "paras": "128.42, 128.45, 128.46, 128.49, 128.50, 128.54, 128.56, 128.83, 128.84, 128.87, 128.90, 128.221",
+      "n": 12,
+      "summary": "Repeal or revise the 'child protection'/anti-LGBTQI legislation and the adoption restrictions",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "Hungary kept the 2021 'child protection' law, which the CJEU found to breach Article 2 TEU, and in March 2025 extended it through Act III of 2025, which bans LGBTIQ-themed assemblies, followed by a constitutional amendment: measures contrary to the recommendation. Special procedures and OHCHR urged repeal.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 101 — Hungary: \"the Court of Justice of the European Union found, among other things, a violation of Article 2 of the TEU due to the homophobic nature of the so-called “child protection” law\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 71 — Several special procedure mandate holders: \"reiterated strong concerns about the legislative amendments introduced in March 2025, which effectively banned LGBTIQ-themed assemblies in Hungary\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 64 — JS5: \"immediately repeal the amendments introduced by Act LXXIX of 2021\""
+      ],
+      "position": "12 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.42",
+        "by": "Switzerland",
+        "position": "noted",
+        "text": "Promote and fully respect the rights of lesbian, gay, bisexual, transgender and intersex people and the removal of stigmatizing and discriminatory provisions against them"
+       },
+       {
+        "paragraph": "128.45",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Review anti-paedophilia legislation in accordance with its international human rights obligations to ensure that it focuses on combating this serious problem, including by removing provisions contrary to the human rights of the lesbian, gay, bisexual, transgender and intersex population"
+       },
+       {
+        "paragraph": "128.46",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Prevent discrimination against lesbian, gay, bisexual, transgender and intersex persons by repealing laws that prohibit certain discussions about sexual orientation and gender identity with those under the age of 18 years"
+       },
+       {
+        "paragraph": "128.49",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Abolish discriminatory legislative provisions vis-à-vis LGBTQI persons"
+       },
+       {
+        "paragraph": "128.50",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Take all the necessary steps to end stigmatization of and discrimination against the LGBTI+ community, including by repealing legislation that uses child protection as a pretext for further marginalizing LGBTI+ persons"
+       },
+       {
+        "paragraph": "128.54",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Take effective measures to prevent and prohibit discrimination against lesbian, gay, bisexual, transgender and intersex people, including by revoking the anti-lesbian, gay, bisexual, transgender and intersex provisions of the anti-paedophilia law and re-establishing the Equal Treatment Authority"
+       },
+       {
+        "paragraph": "128.56",
+        "by": "Norway",
+        "position": "noted",
+        "text": "Repeal the legislation banning the “promotion of homosexuality” among minors, and enact legislation to protect lesbian, gay, bisexual, transgender and intersex persons from discriminatory practices"
+       },
+       {
+        "paragraph": "128.83",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Repeal discriminatory legislation, including the 2020 amendments restricting adoptions for same-sex couples"
+       },
+       {
+        "paragraph": "128.84",
+        "by": "Liechtenstein",
+        "position": "noted",
+        "text": "Revoke discriminatory provisions in the anti-paedophilia law, and actively promote tolerance and respect for persons with diverse sexual orientations and gender identities"
+       },
+       {
+        "paragraph": "128.87",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Repeal the articles of the \"Anti-Paedophilia Law\" that prohibit the representation of gender identity other than the sex of birth, the change of sex and homosexuality"
+       },
+       {
+        "paragraph": "128.90",
+        "by": "New Zealand",
+        "position": "noted",
+        "text": "Adopt a comprehensive strategy and plan of action, including repealing any restrictive or discriminatory legislation, to ensure and uphold the equality and dignity of all human beings irrespective of their sexual orientation or gender identity"
+       },
+       {
+        "paragraph": "128.221",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Revoke the new legislation purporting to protect children, which stigmatizes and discriminates against persons based on their sexual orientation and gender identity and establishes inadmissible links between homosexuality and paedophilia"
+       }
+      ]
+     },
+     {
+      "paras": "128.47, 128.48, 128.52, 128.58, 128.85, 128.91, 128.226",
+      "n": 7,
+      "summary": "Protect LGBTQI persons: anti-discrimination law, gender recognition, strategy and education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report cites only the pre-existing Equal Treatment Act, which already lists sexual orientation, and a police network of specialised investigators; no strategy, legal gender recognition or anti-discrimination reform is reported, and CEDAW notes unrecognised same-sex partnerships.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 101 — Hungary: \"Section 8 of Act CXXV of 2003 on Equal Treatment and the Promotion of Equal Opportunities explicitly mentions sexual orientation as prohibited grounds of discrimination\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 74 — Committee on the Elimination of Discrimination against Women: \"registered partnerships were not recognized under the joint and second parent adoption scheme\""
+      ],
+      "position": "7 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.47",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Take steps to protect the rights of lesbian, gay, bisexual, transgender and intersex persons, in particular allowing authorities to change the designation of the gender of individuals in official documents to reflect their gender identity"
+       },
+       {
+        "paragraph": "128.48",
+        "by": "Dominican Republic",
+        "position": "noted",
+        "text": "Implement additional measures aimed at the promotion of equal rights considering the law on lesbian, gay, bisexual, transgender and intersex persons"
+       },
+       {
+        "paragraph": "128.52",
+        "by": "Malta",
+        "position": "noted",
+        "text": "Take concrete measures to prevent and prohibit discrimination against LGBTQI people, and specifically same-sex couples and their children, in the fields of employment, education, health care and access to social benefits"
+       },
+       {
+        "paragraph": "128.58",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Develop a national action plan to combat discrimination based on sexual orientation and gender identity and promote awareness-raising campaigns to combat stigmatization and bullying against lesbian, gay, bisexual, transgender and intersex persons"
+       },
+       {
+        "paragraph": "128.85",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Make progress in the development of anti-discrimination legislation so that it specifically includes discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "128.91",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Revert the current ban on legal gender recognition and develop a procedure for recognition based on personal autonomy and self-identification"
+       },
+       {
+        "paragraph": "128.226",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Guarantee the right of children to comprehensive sexuality education, including on the full diversity of sexual orientations, gender identities and sex characteristics"
+       }
+      ]
+     },
+     {
+      "paras": "128.151, 128.255-128.257, 128.265",
+      "n": 5,
+      "summary": "Prevent discrimination and xenophobia against migrants, refugees and asylum seekers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report contains no measure; UNHCR urges Hungary to address xenophobia against refugees, and the Special Rapporteur on freedom of religion reports anti-migrant rhetoric from high-level officials.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 12 — UNHCR: \"urged Hungary to address discrimination and xenophobia, in particular against refugees and asylum-seekers\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 78 — Special Rapporteur on freedom of religion: \"requested that Hungary confront the discriminatory anti-migrant and racist rhetoric that had marred the political and media space, had put asylum-seekers at risk of refoulement\""
+      ],
+      "position": "5 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.151",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Take concrete measures to ensure that migrants, refugees and asylum seekers can enjoy the rights to education, to health and to legal aid without discrimination"
+       },
+       {
+        "paragraph": "128.255",
+        "by": "Belarus",
+        "position": "noted",
+        "text": "Intensify efforts to eliminate stereotypes and discrimination against migrants, refugees and national minorities"
+       },
+       {
+        "paragraph": "128.256",
+        "by": "Algeria",
+        "position": "noted",
+        "text": "Continue to take specific measures to prevent and eliminate racism, racial discrimination, xenophobia and intolerance against migrants, refugees and asylum seekers"
+       },
+       {
+        "paragraph": "128.257",
+        "by": "Uganda",
+        "position": "noted",
+        "text": "Strengthen and implement relevant legislation to eliminate discrimination against migrant workers, refugees and asylum seekers"
+       },
+       {
+        "paragraph": "128.265",
+        "by": "Uruguay",
+        "position": "noted",
+        "text": "Adopt measures to ensure that asylum seekers and refugees do not suffer discrimination and xenophobia"
+       }
+      ]
+     },
+     {
+      "paras": "128.75, 128.243",
+      "n": 2,
+      "summary": "Promote the use of minority languages in public life",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Official documents and declarations have been available in Slovak, Serbian, Slovenian, Croatian, German and Romanian since 2022-2023, and Rába-region offices employ Slovenian speakers.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 106 — Hungary: \"In the Rába Region all municipal offices have Slovenian-speaking staff\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.75",
+        "by": "Romania",
+        "position": "noted",
+        "text": "Promote the use of minority languages in the public sphere and encourage their use in relations with administrative authorities"
+       },
+       {
+        "paragraph": "128.243",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Promote of the use of the Slovenian language in public life"
+       }
+      ]
+     },
+     {
+      "paras": "128.241, 128.242",
+      "n": 2,
+      "summary": "Finance and broadcast minority-language media",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.241",
+        "by": "Romania",
+        "position": "noted",
+        "text": "Ensure proper financing of media in minority languages and extend the duration of television programmes in order to properly promote the minority languages"
+       },
+       {
+        "paragraph": "128.242",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Increase the scope and frequency of radio and television programmes in the Slovenian language"
+       }
+      ]
+     },
+     {
+      "paras": "128.43",
+      "n": 1,
+      "summary": "Restore media independence and the independence of the Media Council",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report has no media section; the Special Rapporteur on freedom of expression still calls for a reformed Media Council and a framework for media independence.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 28 — Special Rapporteur on freedom of expression: \"revise the appointment procedure for the Chair of the Media Council to make it more transparent and inclusive\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 29 — Special Rapporteur on freedom of expression: \"called for the independence, transparency and accountability of the Media Council, including through legislative reforms\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.43",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Increase media independence by eliminating political bias in the National Media Council, allocating State advertising funds equitably to all outlets, and restoring the independence of the public broadcaster"
+       }
+      ]
+     },
+     {
+      "paras": "128.51",
+      "n": 1,
+      "summary": "Support Council of the EU conclusions on the children's rights strategy",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.51",
+        "by": "Luxembourg",
+        "position": "noted",
+        "text": "Support the adoption of the Council of the European Union conclusions on the new European Union strategy on children’s rights, and ensure, at national level, that all textbooks and other teaching materials address sexual orientation and gender identity in an objective way and promote tolerance and respect for LGBTI+ people"
+       }
+      ]
+     },
+     {
+      "paras": "128.95",
+      "n": 1,
+      "summary": "Re-establish the Equal Treatment Authority",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report states that equal-treatment procedures are handled by the Commissioner for Fundamental Rights; the Authority was not re-established.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 16 — Hungary: \"The activities of the Commissioner for Fundamental Rights include responsibilities related to equal treatment, within which administrative authority procedures may be conducted and sanctions imposed\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.95",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Re-establish the Equal Treatment Authority, and adopt a comprehensive strategy and action plan to tackle discrimination based on sexual orientation and gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "128.196",
+      "n": 1,
+      "summary": "Increase women's representation in senior positions",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A bill on gender balance among directors of listed companies (EU Directive 2022/2381) was submitted to the National Assembly on 29 October 2024; no measure on political representation is reported.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 35 — Hungary: \"a draft law was submitted to the National Assembly on 29 October 2024\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.196",
+        "by": "Republic of Moldova",
+        "position": "supported",
+        "text": "Increase women’s representation in political life and in senior positions in the public administration, as well as to prevent and combat women’s stereotyping and discrimination, including sexist rhetoric"
+       }
+      ]
+     },
+     {
+      "paras": "128.260",
+      "n": 1,
+      "summary": "Guarantee the right of asylum",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report is silent on asylum; stakeholders report continuing pushbacks.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 68 — JS4: \"ending the practice of pushbacks at Hungary’s borders\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.260",
+        "by": "France",
+        "position": "noted",
+        "text": "Take concrete measures to ensure effective exercise of the right of asylum and adopt a strategy to combat violence linked to racial discrimination, hate crimes and hate speech"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of association",
+    "blocks": [
+     {
+      "paras": "128.118, 128.132, 128.133",
+      "n": 3,
+      "summary": "Protect freedom of association, peaceful assembly and expression",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "In 2025 Parliament adopted Act III of 2025 amending the Right of Assembly Act, which effectively bans Pride and other assemblies deemed to violate the 'child protection' laws, with fines for participants and criminal liability for organisers, later reinforced by a constitutional amendment: a measure contrary to the recommendation.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 14 — JS4: \"Hungary’s Parliament adopted, under an accelerated procedure and without meaningful consultation, Act III of 2025, amending Act LV of 2018 on the right of assembly\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 73 — OHCHR: \"legislation passed that had resulted in arbitrary and discriminatory restrictions on the rights of LGBTIQ+ individuals to freedom of expression, peaceful assembly and privacy\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.118",
+        "by": "Timor-Leste",
+        "position": "supported",
+        "text": "Strengthen its efforts to protect and facilitate the rights to freedom of association, peaceful assembly and expression"
+       },
+       {
+        "paragraph": "128.132",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Ensure the protection and promotion of the rights to freedom of association, peaceful assembly and expression, and ensure that the exercise of these rights does not bring prejudice"
+       },
+       {
+        "paragraph": "128.133",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Redouble efforts to ensure full respect for the rights to freedom of association, peaceful assembly and expression, including the protection of civil society and academia"
+       }
+      ]
+     },
+     {
+      "paras": "128.72",
+      "n": 1,
+      "summary": "Allow civil society organisations to operate freely",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report describes the existing framework only; stakeholders point to the Transparency of Public Life bill.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 17 — JS5: \"formally withdraw the Transparency of Public Life bill to ensure that legislation does not restrict the lawful activities of civil society\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.72",
+        "by": "Norway",
+        "position": "noted",
+        "text": "Ensure that civil society organizations can operate freely, without discrimination or undue restriction"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Economic, social & cultural rights - general measures of implementation",
+    "blocks": [
+     {
+      "paras": "128.78",
+      "n": 1,
+      "summary": "Visible bilingualism in the Rába region",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Bilingual signage appears on public institutions throughout the Rába region and municipal offices have Slovenian-speaking staff.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 106 — Hungary: \"Bilingual signage appears on public institutions throughout the region\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.78",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Fully implement visible bilingualism in the Raba region"
+       }
+      ]
+     },
+     {
+      "paras": "128.145",
+      "n": 1,
+      "summary": "Sustainable development and youth employment",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Youth Guarantee Plus and a programme for jobseekers over 30 were launched to raise employment.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 87 — Hungary: \"Policies that have been adopted to further improve the employment rate include the Youth Guarantee Plus Programme\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.145",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to promote sustainable economic and social development and to further promote employment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Business & Human Rights",
+    "blocks": [
+     {
+      "paras": "128.102-128.104",
+      "n": 3,
+      "summary": "Business and human rights legislation and national action plan",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "2 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.102",
+        "by": "State of Palestine",
+        "position": "supported",
+        "text": "Enact legislation to conflict-affected areas and provide guidance and advice for business enterprises on ensuring respect for human rights, and prevent and address the heightened risk of corporate involvement in gross human right violations in conflict-affected areas, including situations of foreign occupation"
+       },
+       {
+        "paragraph": "128.103",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Develop a national action plan in line with the Guiding Principles on Business and Human Rights"
+       },
+       {
+        "paragraph": "128.104",
+        "by": "Romania",
+        "position": "noted",
+        "text": "Ensure that, in the context of the new legislation adopted in 2020, the so-called “ethno-business” phenomenon will be tackled in an efficient way and that the self-governments are true representatives of the interests of persons belonging to national minorities on whose behalf they act"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Conditions of detention",
+    "blocks": [
+     {
+      "paras": "128.105",
+      "n": 1,
+      "summary": "Reform detention with a human rights-based approach",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report reports no detention reform; the CPT found continued ill-treatment in Tiszalök prison and pending investigations.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 10 — European Committee for the Prevention of Torture: \"physical ill-treatment at Tiszalök prison had continued despite the Committee’s (CPT) 2023 findings\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 11 — European Committee for the Prevention of Torture: \"Criminal investigations into alleged prison staff misconduct, some dating back to 2020–2021, were still pending at the pre-trial stage\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.105",
+        "by": "Colombia",
+        "position": "supported",
+        "text": "Make progress in the comprehensive reform of detention centres, through a human rights-based approach, and in compliance with the recommendations of the Committee against Torture"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Prohibition of torture & ill-treatment (including cruel, inhuman or degrading treatment)",
+    "blocks": [
+     {
+      "paras": "128.106",
+      "n": 1,
+      "summary": "Investigate excessive use of force and ill-treatment by law enforcement",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report is silent; the CPT reports continued allegations and slow investigations.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 11 — European Committee for the Prevention of Torture: \"Criminal investigations into alleged prison staff misconduct, some dating back to 2020–2021, were still pending at the pre-trial stage\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.106",
+        "by": "Fiji",
+        "position": "noted",
+        "text": "Ensure that excessive use of force, including ill-treatment and torture by law enforcement officials at the time of arrest and during interrogations, is investigated and prosecuted, and perpetrators convicted and held accountable"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Good governance & corruption",
+    "blocks": [
+     {
+      "paras": "128.107-128.117",
+      "n": 11,
+      "summary": "Strengthen the independence of the judiciary",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Act X of 2023 strengthened the National Judicial Council, made the allocation of cases in the Curia transparent and removed obstacles to preliminary references to the CJEU; the Helsinki Committee calls for its effective implementation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 25 — Hungary: \"Act X of 2023 strengthened the role and powers of the National Judicial Council (OBT) in order to balance the powers of the President of the National Judicial Office (OBH)\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 12 — Hungary Helsinki Committee: \"requested the effective implementation of the prerogatives of the National Judicial Council introduced by the 2023 judicial reform\""
+      ],
+      "position": "10 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.107",
+        "by": "Pakistan",
+        "position": "noted",
+        "text": "Take measures to protect the full independence and impartiality of the judiciary"
+       },
+       {
+        "paragraph": "128.108",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Implement measures to guarantee the independence of the judiciary"
+       },
+       {
+        "paragraph": "128.109",
+        "by": "Sweden",
+        "position": "noted",
+        "text": "Safeguard and guarantee full and effective independence of the judiciary, including when it comes to the appointment of judges to the Supreme Court"
+       },
+       {
+        "paragraph": "128.110",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Reverse the politicization of the judicial system by strengthening the National Judicial Council’s powers, instituting the random allocation of cases, and protecting judges from political pressure, criticism or retribution"
+       },
+       {
+        "paragraph": "128.111",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Strengthen judicial independence, including by implementing the Basic Principles on the Independence of the Judiciary and strengthening the role of the National Judiciary Council"
+       },
+       {
+        "paragraph": "128.112",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Take action to protect judicial independence by bringing the selection and appointment procedures of court presidents into line with international standards"
+       },
+       {
+        "paragraph": "128.113",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Ensure judicial independence, including by reinforcing the National Judicial Council in line with recommendations of the Venice Commission and the Council of Europe, and fully comply with the decisions of the European Court of Human Rights and the European Court of Justice"
+       },
+       {
+        "paragraph": "128.114",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Take measures to ensure the independence of the judiciary, including by implementing the Venice Commission’s recommendations to strengthen the national judicial council and the national judicial office and its president"
+       },
+       {
+        "paragraph": "128.115",
+        "by": "Peru",
+        "position": "noted",
+        "text": "Consider taking measures to strengthen the full independence, impartiality and effectiveness of the judiciary"
+       },
+       {
+        "paragraph": "128.116",
+        "by": "Liechtenstein",
+        "position": "noted",
+        "text": "Take effective steps to guarantee and protect full independence and impartiality of the judiciary as well as the separation of powers"
+       },
+       {
+        "paragraph": "128.117",
+        "by": "Marshall Islands",
+        "position": "supported",
+        "text": "Fully respect the separation of powers to ensure work will be exercised in an impartial and independent manner"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of opinion and expression & access to information",
+    "blocks": [
+     {
+      "paras": "128.119-128.123, 128.126-128.130",
+      "n": 10,
+      "summary": "Protect media freedom and pluralism, and academic freedom",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report has no section on media pluralism or media regulation; the Special Rapporteur on freedom of expression still calls for a legal framework on media independence and a reformed Media Council, and the Special Rapporteur on the right to education reports an erosion of academic freedom.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 26 — Special Rapporteur on freedom of expression: \"recommended that Hungary adopt a legal and policy framework, through an inclusive multi-stakeholder process, to promote media independence and pluralism\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 29 — Special Rapporteur on freedom of expression: \"called for the independence, transparency and accountability of the Media Council, including through legislative reforms\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 38 — Scholars at Risk: \"urged Hungary to commit publicly to restoring academic freedom and related human rights\""
+      ],
+      "position": "10 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.119",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Take concrete initiatives – also at a legislative level – to ensure actual press freedom and freedom of expression"
+       },
+       {
+        "paragraph": "128.120",
+        "by": "France",
+        "position": "noted",
+        "text": "Take effective measures to ensure the promotion of media pluralism and freedom of expression"
+       },
+       {
+        "paragraph": "128.121",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Increase efforts to ensure the freedom and independence of the media and the full right to freedom of expression"
+       },
+       {
+        "paragraph": "128.122",
+        "by": "Sweden",
+        "position": "noted",
+        "text": "Ensure a level playing field for media by enabling editorial pluralism through independent media outlets, including the public broadcaster, and an independent media regulator"
+       },
+       {
+        "paragraph": "128.123",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Establish more transparent appointment procedures for the Media Authority to enhance its independence"
+       },
+       {
+        "paragraph": "128.126",
+        "by": "Austria",
+        "position": "noted",
+        "text": "Restore media pluralism and independence and ensure freedom of expression by refraining from obstruction and intimidation of independent media outlets and journalists"
+       },
+       {
+        "paragraph": "128.127",
+        "by": "Belgium",
+        "position": "noted",
+        "text": "Ensure independent media and media-regulating bodies, and reinforce media plurality and an enabling environment for their operation, free from undue influence, interference or intimidation"
+       },
+       {
+        "paragraph": "128.128",
+        "by": "Czechia",
+        "position": "noted",
+        "text": "Take concrete steps to guarantee the freedom of the media and their independent work, and promote a pluralist, transparent and participatory media environment, both offline and online, including steps to ensure the independence of the media regulator"
+       },
+       {
+        "paragraph": "128.129",
+        "by": "Luxembourg",
+        "position": "noted",
+        "text": "Protect civil and political rights, and repeal laws that place undue restrictions on civic space and the media"
+       },
+       {
+        "paragraph": "128.130",
+        "by": "Norway",
+        "position": "noted",
+        "text": "Take steps to protect freedom of expression through media pluralism, including by promoting the political independence of the media regulatory authority"
+       }
+      ]
+     },
+     {
+      "paras": "128.134-128.136",
+      "n": 3,
+      "summary": "Protect academic freedom and university autonomy",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Act XCI of 2024 on HUN-REN states the principle of scientific freedom, but the research network was institutionally altered several times and the Special Rapporteur on the right to education and Scholars at Risk report an erosion of academic freedom.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 80 — Hungary: \"the Hungarian Research Network stipulates that HUNREN pursues its scientific research and innovation activities in research institutions, in accordance with the principle of scientific freedom\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 38 — Scholars at Risk: \"urged Hungary to commit publicly to restoring academic freedom and related human rights\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.134",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Ensure protection of the scientific freedom and autonomy of universities and research institutes, including autonomy in determining curricula, teaching, research and management in line with its international obligations regarding academic freedom"
+       },
+       {
+        "paragraph": "128.135",
+        "by": "Liechtenstein",
+        "position": "supported",
+        "text": "Take effective steps to protect freedom of expression, including of civil society actors and scholars, protect academic freedom, and ensure the autonomy of universities"
+       },
+       {
+        "paragraph": "128.136",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Take measures to effectively protect university autonomy in line with international human rights standards relating to academic freedom"
+       }
+      ]
+     },
+     {
+      "paras": "128.124",
+      "n": 1,
+      "summary": "Restore media independence and the independence of the Media Council",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report has no media section; the Special Rapporteur on freedom of expression still calls for a reformed Media Council and a framework for media independence.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 28 — Special Rapporteur on freedom of expression: \"revise the appointment procedure for the Chair of the Media Council to make it more transparent and inclusive\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 29 — Special Rapporteur on freedom of expression: \"called for the independence, transparency and accountability of the Media Council, including through legislative reforms\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.124",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Introduce legal safeguards to make the Media Council more pluralistic and free from political interference"
+       }
+      ]
+     },
+     {
+      "paras": "128.125",
+      "n": 1,
+      "summary": "Allow civil society organisations to operate freely",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report describes the existing framework only; stakeholders point to the Transparency of Public Life bill.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 17 — JS5: \"formally withdraw the Transparency of Public Life bill to ensure that legislation does not restrict the lawful activities of civil society\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.125",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Strengthen freedom of expression and association by enacting regulations that enable licensing of media outlets and ensuring civil society organizations can operate freely without interference"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to participate in public affairs & right to vote",
+    "blocks": [
+     {
+      "paras": "128.131",
+      "n": 1,
+      "summary": "Public consultation on legislation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Since 2022 the government audit body fines ministries that omit the legally required public consultation; the 8-day minimum consultation period predates the review.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 32 — Hungary: \"if the government audit body reveals that an omission has occurred in relation to the consultation process\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.131",
+        "by": "Switzerland",
+        "position": "supported",
+        "text": "Ensure holding consultation processes when drafting new laws, in order to allow for a timely public debate and inclusive interaction with non-State actors and free media, in accordance with target 16.7 of the Sustainable Development Goals"
+       }
+      ]
+     },
+     {
+      "paras": "128.194",
+      "n": 1,
+      "summary": "Promote gender equality and women's representation",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report reports statistics on women in leadership but no measure to ensure representation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 36 — Hungary: \"women accounted for 40% of leaders in Hungary in 2024\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.194",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Continue measures to promote gender equality and ensure the representation of ethnic minorities in political and public life"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "128.139-128.143",
+      "n": 5,
+      "summary": "Combat trafficking in persons and protect victims",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Hungary implemented an action plan under the 2020-2023 national strategy (prevention programmes in care institutions), earmarked HUF 1 billion under the Swiss-Hungarian programme, ran a referral mechanism exercise (July 2025) and provided for guardians for unaccompanied minors; CEDAW calls for adequate resources.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 115 — Hungary: \"introduced prevention programmes in the foster care network, children’s and group homes and juvenile correctional institutions\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 116 — Hungary: \"1 billion HUF is earmarked for action to combat trafficking in human beings\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 38 — Committee on the Elimination of Discrimination against Women: \"recommended that Hungary ensure sufficient human, technical and financial resources for the effective implementation and monitoring of the National Strategy against Trafficking in Human Beings for 2020–2023\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.139",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Create a specialized framework for identifying and assisting child victims of human trafficking"
+       },
+       {
+        "paragraph": "128.140",
+        "by": "Kyrgyzstan",
+        "position": "supported",
+        "text": "Continue its support in strengthening its mechanisms in protecting all persons, including children, from human trafficking"
+       },
+       {
+        "paragraph": "128.141",
+        "by": "Lebanon",
+        "position": "supported",
+        "text": "Pursue the efforts made in protecting minorities and combating human trafficking"
+       },
+       {
+        "paragraph": "128.142",
+        "by": "Libya",
+        "position": "supported",
+        "text": "Continue efforts to implement the national strategy to combat human trafficking for the period 2020–2023"
+       },
+       {
+        "paragraph": "128.143",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Ensure an inclusive and multi-stakeholder approach to implementing measures to prevent and address anti-trafficking in persons"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "128.144",
+      "n": 1,
+      "summary": "Promote gender equality in the labour market and implement CEDAW",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The pay gap narrowed and an implementation plan for 2025-2026 was adopted; CEDAW is deeply concerned about retrogressive movements and an equality policy based on the family role of women.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 38 — Hungary: \"Government Decision No. 393/2024 (XII.12.) promulgated the Implementation Plan for the years 2025–2026\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 59 — Committee on the Elimination of Discrimination against Women: \"was deeply concerned about retrogressive movements seeking to exclude reference to gender from the political, educational and social discourse\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.144",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to support gender equality in the labour market and to reduce the wage gap between men and women"
+       }
+      ]
+     },
+     {
+      "paras": "128.173",
+      "n": 1,
+      "summary": "Comply with the provisions of CEDAW",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CEDAW advises adopting comprehensive anti-discrimination legislation and is concerned about retrogressive movements; no such legislation is reported.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 7 — Committee on the Elimination of Discrimination against Women: \"advised Hungary to adopt, with a clear time frame, comprehensive anti-discrimination legislation\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.173",
+        "by": "Argentina",
+        "position": "supported",
+        "text": "Adopt measures to effectively comply with the provisions of the Convention on the Elimination of All Forms of Discrimination against Women"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & poverty",
+    "blocks": [
+     {
+      "paras": "128.146, 128.237",
+      "n": 2,
+      "summary": "Reduce poverty, especially among minorities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Social Inclusion Strategy 2030 and its 2025-2027 action plan target poverty eradication and Roma inclusion; JS2 calls for targeted programmes on intergenerational poverty.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 108 — Hungary: \"The two fundamental objectives of the MNTFS2030 are the eradication of poverty and the promotion of the inclusion of the Roma community\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 55 — JS2: \"recommended the development of targeted programs to reduce intergenerational poverty\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.146",
+        "by": "Sierra Leone",
+        "position": "supported",
+        "text": "Take concrete measures to end poverty"
+       },
+       {
+        "paragraph": "128.237",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Strengthen policies to end poverty, especially for minorities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "128.147, 128.149, 128.150, 128.153, 128.154, 128.157-128.159",
+      "n": 8,
+      "summary": "Equal access to quality education, including for Roma and minority children",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Hungary adopted Act XCII of 2023 on anti-discrimination measures in public education (from January 2024), supports about 700 underperforming or segregated schools, runs a dropout early-warning system and 112 minority-run institutions; the Special Rapporteur on the right to education warns of widening inequality and Roma segregation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 69 — Hungary: \"Act XCII of 2023 on anti-discrimination measures applicable in the field of public education entered into force on 1 January 2024\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 78 — Hungary: \"provides methodological support to approximately 700 underperforming or segregated institutions\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 44 — Special Rapporteur on the right to education: \"expressing serious concern about widening inequalities, curriculum rigidity, the marginalization of Roma students and the erosion of academic freedom\""
+      ],
+      "position": "7 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.147",
+        "by": "Viet Nam",
+        "position": "supported",
+        "text": "Adopt more policies and allocate more resources specifically directed towards equal education for all children"
+       },
+       {
+        "paragraph": "128.149",
+        "by": "Slovakia",
+        "position": "supported",
+        "text": "Ensure that children belonging to national minorities have access to education in their mother tongue"
+       },
+       {
+        "paragraph": "128.150",
+        "by": "Romania",
+        "position": "supported",
+        "text": "Ensure an effective and qualitative education in minority languages at all levels of education, including by providing teachers able to teach subjects in minority languages"
+       },
+       {
+        "paragraph": "128.153",
+        "by": "Lao People’s Democratic Republic",
+        "position": "supported",
+        "text": "Pursue its efforts in promoting the right to education to ensure access to quality and inclusive education for all, including vulnerable and marginalized groups"
+       },
+       {
+        "paragraph": "128.154",
+        "by": "Eswatini",
+        "position": "supported",
+        "text": "Ensure that education is provided to all children on a non-discriminatory basis"
+       },
+       {
+        "paragraph": "128.157",
+        "by": "Bulgaria",
+        "position": "supported",
+        "text": "Take further steps to strengthen access to quality early childhood education and improve educational outcomes"
+       },
+       {
+        "paragraph": "128.158",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Address challenges in the realization of the right to education, including in the context of the high number of students leaving school early"
+       },
+       {
+        "paragraph": "128.159",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to improve the quality of education and increase access to quality, inclusive and general education"
+       }
+      ]
+     },
+     {
+      "paras": "128.160, 128.162-128.167, 128.169",
+      "n": 8,
+      "summary": "Combat discrimination against Roma and promote their inclusion",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Social Inclusion Strategy 2030 (action plan 2025-2027), the Opportunity Kindergarten/School/Workshop programmes and Roma police dialogue events were launched or continued; the Special Rapporteur reports that 51% of Roma children drop out of compulsory school and that segregation is increasing.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 110 — Hungary: \"Complex Settlement Programmes, reaching 80 segregated localities, contribute to reducing territorial inequalities and residential segregation\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 68 — Special Rapporteur on freedom of religion: \"51 per cent of Roma children dropping out while still in compulsory school\""
+      ],
+      "position": "8 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.160",
+        "by": "Japan",
+        "position": "supported",
+        "text": "Take further measures to improve access to education of Roma children"
+       },
+       {
+        "paragraph": "128.162",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue measures aimed at improving education outcomes and access to quality, inclusive and mainstream education for Roma children"
+       },
+       {
+        "paragraph": "128.163",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Guarantee equal access to education for Roma children and end their segregation in schools"
+       },
+       {
+        "paragraph": "128.164",
+        "by": "Czechia",
+        "position": "supported",
+        "text": "Strengthen efforts to provide access to non-discriminatory and inclusive education for Roma children and take steps to improve their educational opportunities"
+       },
+       {
+        "paragraph": "128.165",
+        "by": "Cyprus",
+        "position": "supported",
+        "text": "Take measures to increase school attendance of Roma children and eradicate their discrimination in schools"
+       },
+       {
+        "paragraph": "128.166",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Take further steps to improve education, housing and social protection of Roma, in particular children, including by addressing cases of school segregation"
+       },
+       {
+        "paragraph": "128.167",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Prioritize initiatives to eliminate discrimination against and segregation of Roma children in schools, and take prompt measures to reduce the educational attainment gap between Roma and non-Roma children, particularly in primary education"
+       },
+       {
+        "paragraph": "128.169",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue to foster the necessary measures to ensure access to education for Roma children and the elimination of segregation"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "128.148",
+      "n": 1,
+      "summary": "Prevent discrimination and xenophobia against migrants, refugees and asylum seekers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report contains no measure; UNHCR urges Hungary to address xenophobia against refugees, and the Special Rapporteur on freedom of religion reports anti-migrant rhetoric from high-level officials.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 12 — UNHCR: \"urged Hungary to address discrimination and xenophobia, in particular against refugees and asylum-seekers\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 78 — Special Rapporteur on freedom of religion: \"requested that Hungary confront the discriminatory anti-migrant and racist rhetoric that had marred the political and media space, had put asylum-seekers at risk of refoulement\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.148",
+        "by": "Timor-Leste",
+        "position": "noted",
+        "text": "Take further measures to ensure that all citizens, including migrants, refugees, asylum seekers, elderly, children and marginalized women, benefit from adequate health, education and other basic needs services"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & reproductive health and rights",
+    "blocks": [
+     {
+      "paras": "128.155",
+      "n": 1,
+      "summary": "Sexual and reproductive health education for youth",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.155",
+        "by": "Cyprus",
+        "position": "noted",
+        "text": "Streamline gender equality policies by providing education to youth in sexual and reproductive health rights and improving access to relevant services"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Economic, social & cultural rights",
+    "blocks": [
+     {
+      "paras": "128.170",
+      "n": 1,
+      "summary": "Combat discrimination against Roma and promote their inclusion",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Social Inclusion Strategy 2030 (action plan 2025-2027), the Opportunity Kindergarten/School/Workshop programmes and Roma police dialogue events were launched or continued; the Special Rapporteur reports that 51% of Roma children drop out of compulsory school and that segregation is increasing.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 110 — Hungary: \"Complex Settlement Programmes, reaching 80 segregated localities, contribute to reducing territorial inequalities and residential segregation\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 68 — Special Rapporteur on freedom of religion: \"51 per cent of Roma children dropping out while still in compulsory school\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.170",
+        "by": "Turkey",
+        "position": "supported",
+        "text": "Continue its efforts to fully eliminate the disadvantages of the Roma population, especially in the areas of education, health, employment, housing and access to services"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: family environment & alternative care",
+    "blocks": [
+     {
+      "paras": "128.176",
+      "n": 1,
+      "summary": "Support for the family and child care",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Hungary expanded nursery places (55,000 to 71,000 since 2022) and family benefits; nothing is reported on sharing its experience.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 73 — Hungary: \"Since 2022 the number of places providing nursery care has increased from 55000 to 71000\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.176",
+        "by": "Belarus",
+        "position": "supported",
+        "text": "Share its national experience in supporting and strengthening the institution of the family as the natural and fundamental unit of society"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Labour rights and right to work",
+    "blocks": [
+     {
+      "paras": "128.182-128.186",
+      "n": 5,
+      "summary": "Narrow the gender pay gap and improve women's employment",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The net gender pay gap fell from 15.1% (2021) to 13% (2025), wages rose in female-dominated public sectors and a working group was created to prepare transposition of the EU Pay Transparency Directive; transposition is not completed.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 56 — Hungary: \"The difference between the net average earnings of full-time employed men and women was 15,1% in 2021 and 13% in 2025\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 56 — Hungary: \"including the creation of a working group to prepare transposition proposals\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 57 — Hungary: \"The employer may not terminate the employment relationship by notice during the period of paternity leave, parental leave or carer worktime allowance\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.182",
+        "by": "Uganda",
+        "position": "supported",
+        "text": "Continue to implement the policies and legal framework to eliminate discrimination of women in the labour market and reduce the gender pay gap"
+       },
+       {
+        "paragraph": "128.183",
+        "by": "Iceland",
+        "position": "supported",
+        "text": "Enforce the principle of equal pay for work of equal value to eliminate the gender pay gap"
+       },
+       {
+        "paragraph": "128.184",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Continue efforts to bridge the wage gap between women and men in the labour market"
+       },
+       {
+        "paragraph": "128.185",
+        "by": "Malta",
+        "position": "supported",
+        "text": "Take further steps to promote women’s rights and gender equality in the workplace and take effective measures to tackle the gender pay gap"
+       },
+       {
+        "paragraph": "128.186",
+        "by": "Mongolia",
+        "position": "supported",
+        "text": "Advance its efforts to reduce the pay gap between men and women"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Participation of women in political & public life",
+    "blocks": [
+     {
+      "paras": "128.188-128.193, 128.197, 128.199",
+      "n": 8,
+      "summary": "Increase women's participation in political and public life",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Hungary reports statistics (women are 40% of leaders) and a draft law on gender balance among directors of listed companies, but no measure to raise women's political representation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 36 — Hungary: \"women accounted for 40% of leaders in Hungary in 2024\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 35 — Hungary: \"a draft law was submitted to the National Assembly on 29 October 2024\""
+      ],
+      "position": "7 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.188",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Take specific measures to combat stereotypes regarding the role of women in society and increase the representation of women in upper management positions in the public administration"
+       },
+       {
+        "paragraph": "128.189",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Take measures to increase women’s participation in political and public life and to eradicate all forms of violence and discrimination based on sexual orientation, gender identity or gender expression"
+       },
+       {
+        "paragraph": "128.190",
+        "by": "Israel",
+        "position": "supported",
+        "text": "Continue to take measures to increase the number of women involved in the public sector"
+       },
+       {
+        "paragraph": "128.191",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Take special measures to eliminate all forms of discrimination against women, by creating an enabling environment for women to participate in politics and public affairs"
+       },
+       {
+        "paragraph": "128.192",
+        "by": "Albania",
+        "position": "supported",
+        "text": "Consider measures on increasing the representation of women in the country’s political life"
+       },
+       {
+        "paragraph": "128.193",
+        "by": "Mongolia",
+        "position": "supported",
+        "text": "Promote women’s participation in public and political life"
+       },
+       {
+        "paragraph": "128.197",
+        "by": "Lao People’s Democratic Republic",
+        "position": "supported",
+        "text": "Continue to promote the rights of women, gender equality and their participation in both public and political sectors, including through the implementation of the empowering women in the family and society action plan 2021–2030"
+       },
+       {
+        "paragraph": "128.199",
+        "by": "Sierra Leone",
+        "position": "supported",
+        "text": "Promulgate laws aimed at increasing women’s participation in governance"
+       }
+      ]
+     },
+     {
+      "paras": "128.198",
+      "n": 1,
+      "summary": "Increase women's representation in senior positions",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A bill on gender balance among directors of listed companies (EU Directive 2022/2381) was submitted to the National Assembly on 29 October 2024; no measure on political representation is reported.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 35 — Hungary: \"a draft law was submitted to the National Assembly on 29 October 2024\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.198",
+        "by": "Rwanda",
+        "position": "supported",
+        "text": "Increase the representation of women in political decision-making and in senior positions in the public administration"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Advancement of women",
+    "blocks": [
+     {
+      "paras": "128.200",
+      "n": 1,
+      "summary": "Adopt a National Action Plan on Women, Peace and Security",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "A draft National Action Plan 2024-2028 exists but is still awaiting the interministerial consultation procedure; it has not been adopted.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 55 — Hungary: \"A draft NAP covering the period 2024–2028 has been prepared by the Ministry of Defence\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 55 — Hungary: \"is in the final stage of preparation prior to the interministerial consultation procedure\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.200",
+        "by": "Tunisia",
+        "position": "noted",
+        "text": "Continue efforts to complete the national action plan on women, peace and security"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: definition",
+    "blocks": [
+     {
+      "paras": "128.222, 128.223",
+      "n": 2,
+      "summary": "Child-rights consultation and a single child-rights body",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No consultation on a child-rights framework or single child-rights body is reported; JS2 calls for a multi-stakeholder national strategy on violence against children.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 51 — JS2: \"developing and implementing a multi-stakeholder national strategy to prevent and address all forms of violence against children\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.222",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Engage in a multi-stakeholder consultation to develop a comprehensive and robust national strategy to prevent and address all forms of violence against children"
+       },
+       {
+        "paragraph": "128.223",
+        "by": "Poland",
+        "position": "supported",
+        "text": "Consider establishing a single body responsible for children’s rights with a clear mandate and sufficient authority"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to marriage & family",
+    "blocks": [
+     {
+      "paras": "128.227, 128.228",
+      "n": 2,
+      "summary": "Strengthen policies supporting the family",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Hungary doubled the family tax benefit (2025), exempted mothers of three children from personal income tax (October 2025) and raised the infant-care benefit to 100% of earnings (July 2021).",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 60 — Hungary: \"The amount of family tax benefit doubled in 2025\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 61 — Hungary: \"As of July 2021, the amount of the infant care benefit increased from 70% to 100% of the eligible gross earnings\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.227",
+        "by": "Egypt",
+        "position": "supported",
+        "text": "Strengthen policies to support the family as the natural and fundamental unit of society"
+       },
+       {
+        "paragraph": "128.228",
+        "by": "China",
+        "position": "supported",
+        "text": "Continue to strengthen the protection of the family and further protect the rights of women and children"
+       }
+      ]
+     },
+     {
+      "paras": "128.225",
+      "n": 1,
+      "summary": "Raise the minimum age of marriage to 18 without exception",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No change is reported; UNESCO and CEDAW recommend removing all exceptions.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 36 — Committee on the Elimination of Discrimination against Women: \"recommended that Hungary review the Civil Code to remove all exceptions to the legal minimum age of marriage of 18 years for both women and men\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.225",
+        "by": "Malawi",
+        "position": "noted",
+        "text": "Raise the age for marriage to 18 years for men and women without exception"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: independence, inclusion",
+    "blocks": [
+     {
+      "paras": "128.230, 128.231",
+      "n": 2,
+      "summary": "Inclusion and independent living of persons with disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Hungary established a State Secretariat for Disability Affairs (September 2024) and a Disability Coordination Committee, created 682 supported-living places and is preparing a National Disability Programme 2026-2036.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 91 — Hungary: \"In September 2024 the State Secretariat for Disability Affairs was established\"",
+       "National Report (A/HRC/WG.6/53/HUN/1), para. 98 — Hungary: \"resulting in the establishment of 682 supported living places by December 2023\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.230",
+        "by": "Thailand",
+        "position": "supported",
+        "text": "Intensify its efforts to include children with disabilities in the public education system and ensure that they receive education in an inclusive methodological framework"
+       },
+       {
+        "paragraph": "128.231",
+        "by": "Poland",
+        "position": "supported",
+        "text": "Strengthen efforts to recognize the right of all persons with disabilities to live independently and be included in the community as an individual"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "128.233",
+      "n": 1,
+      "summary": "Participation of women, children and persons with disabilities in climate action",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "128.233",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure the meaningful participation of women, children, persons with disabilities and local communities in the development and implementation of climate change and disaster risk reduction frameworks"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Land & property rights",
+    "blocks": [
+     {
+      "paras": "128.240",
+      "n": 1,
+      "summary": "Resolve the issue of unclaimed Jewish property",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.240",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Commit to resolving the issue of unclaimed Jewish property in Hungary with the World Jewish Restitution Organization among other stakeholders"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to an adequate standard of living",
+    "blocks": [
+     {
+      "paras": "128.244",
+      "n": 1,
+      "summary": "Prevent discrimination and xenophobia against migrants, refugees and asylum seekers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report contains no measure; UNHCR urges Hungary to address xenophobia against refugees, and the Special Rapporteur on freedom of religion reports anti-migrant rhetoric from high-level officials.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 12 — UNHCR: \"urged Hungary to address discrimination and xenophobia, in particular against refugees and asylum-seekers\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 78 — Special Rapporteur on freedom of religion: \"requested that Hungary confront the discriminatory anti-migrant and racist rhetoric that had marred the political and media space, had put asylum-seekers at risk of refoulement\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.244",
+        "by": "New Zealand",
+        "position": "noted",
+        "text": "Ensure that all relevant international conventions and protocols relating to refugees and migrants are respected, and that refugees and migrants are afforded access to basic services and are housed in suitable conditions"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Scope of international obligations",
+    "blocks": [
+     {
+      "paras": "128.261, 128.262",
+      "n": 2,
+      "summary": "Prevent discrimination and xenophobia against migrants, refugees and asylum seekers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report contains no measure; UNHCR urges Hungary to address xenophobia against refugees, and the Special Rapporteur on freedom of religion reports anti-migrant rhetoric from high-level officials.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 12 — UNHCR: \"urged Hungary to address discrimination and xenophobia, in particular against refugees and asylum-seekers\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 78 — Special Rapporteur on freedom of religion: \"requested that Hungary confront the discriminatory anti-migrant and racist rhetoric that had marred the political and media space, had put asylum-seekers at risk of refoulement\""
+      ],
+      "position": "2 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.261",
+        "by": "Finland",
+        "position": "noted",
+        "text": "Fulfil and protect the rights of asylum seekers, including by complying with decisions of the European Court of Human Rights and the Court of Justice of the European Union"
+       },
+       {
+        "paragraph": "128.262",
+        "by": "Sweden",
+        "position": "noted",
+        "text": "Ensure the right to seek asylum and comply with related judgments and decisions of the European Court of Human Rights and the Court of Justice of the European Union"
+       }
+      ]
+     },
+     {
+      "paras": "128.246",
+      "n": 1,
+      "summary": "Respect asylum, non-refoulement and international judgments",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No measure is reported; UNHCR and stakeholders call for access to asylum and an end to pushbacks.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/HUN/3), para. 68 — JS4: \"ending the practice of pushbacks at Hungary’s borders\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 9 — UNHCR: \"recommended that Hungary amend its national legislation to safeguard the right to seek and enjoy asylum and the prohibition of refoulement\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.246",
+        "by": "Indonesia",
+        "position": "noted",
+        "text": "Endorse and implement the Global Compact for Safe, Orderly and Regular Migration"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Migrants",
+    "blocks": [
+     {
+      "paras": "128.249, 128.250, 128.253, 128.254",
+      "n": 4,
+      "summary": "Prevent discrimination and xenophobia against migrants, refugees and asylum seekers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report contains no measure; UNHCR urges Hungary to address xenophobia against refugees, and the Special Rapporteur on freedom of religion reports anti-migrant rhetoric from high-level officials.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 12 — UNHCR: \"urged Hungary to address discrimination and xenophobia, in particular against refugees and asylum-seekers\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 78 — Special Rapporteur on freedom of religion: \"requested that Hungary confront the discriminatory anti-migrant and racist rhetoric that had marred the political and media space, had put asylum-seekers at risk of refoulement\""
+      ],
+      "position": "4 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.249",
+        "by": "Nigeria",
+        "position": "noted",
+        "text": "Strengthen efforts to protect the rights of migrants and members of their families"
+       },
+       {
+        "paragraph": "128.250",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Ensure that the rights of refugees and migrants are not being violated by pushback, and the principle of non-refoulement is respected at all times"
+       },
+       {
+        "paragraph": "128.253",
+        "by": "Ecuador",
+        "position": "noted",
+        "text": "Ensure that access to asylum is open, accessible and fair, and that migration governance has a human rights approach and fully respects the principle of non-refoulement"
+       },
+       {
+        "paragraph": "128.254",
+        "by": "Brazil",
+        "position": "noted",
+        "text": "Take additional measures to address the humanitarian challenges of migrants and asylum seekers, including with regard to their integration in society"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Refugees & asylum seekers",
+    "blocks": [
+     {
+      "paras": "128.258, 128.263, 128.264",
+      "n": 3,
+      "summary": "Prevent discrimination and xenophobia against migrants, refugees and asylum seekers",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report contains no measure; UNHCR urges Hungary to address xenophobia against refugees, and the Special Rapporteur on freedom of religion reports anti-migrant rhetoric from high-level officials.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 12 — UNHCR: \"urged Hungary to address discrimination and xenophobia, in particular against refugees and asylum-seekers\"",
+       "UN Compilation (A/HRC/WG.6/53/HUN/2), para. 78 — Special Rapporteur on freedom of religion: \"requested that Hungary confront the discriminatory anti-migrant and racist rhetoric that had marred the political and media space, had put asylum-seekers at risk of refoulement\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.258",
+        "by": "Republic of Korea",
+        "position": "noted",
+        "text": "Continue to take necessary measures to fully respect the principle of non-refoulement to ensure the human rights of refugees and asylum seekers"
+       },
+       {
+        "paragraph": "128.263",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Review its procedures for the treatment of asylum applications, ending the automatic confinement of all applicants"
+       },
+       {
+        "paragraph": "128.264",
+        "by": "Afghanistan",
+        "position": "noted",
+        "text": "Adopt measures to ensure that an individual assessment is carried out for each case of asylum, deportation or expulsion, with full respect for the principle of non-refoulement"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to name, identity & nationality",
+    "blocks": [
+     {
+      "paras": "128.266",
+      "n": 1,
+      "summary": "Nationality for children who would otherwise be stateless",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "128.266",
+        "by": "Afghanistan",
+        "position": "noted",
+        "text": "Adopt measures to ensure the rights of every child to acquire nationality, with particular attention to those children who would otherwise be stateless"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
  "hrc": {
   "meta": {
    "mechanism": "hrc",
@@ -101,5 +3097,5 @@
    }
   ]
  },
- "combined_score": 3.5
+ "combined_score": 3.45
 }

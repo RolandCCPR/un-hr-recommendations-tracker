@@ -407,7 +407,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/PNG/1), para. 118 — Papua New Guinea: "In 2023, Parliament passed an amendment of the Criminal Code to abolish the death penalty and replace it with life imprisonment"
 - UN Compilation (A/HRC/WG.6/53/PNG/2), para. 13 — United Nations country team: "Parliament had amended the Criminal Code to repeal the death penalty and replace it with life imprisonment"
 
-**Assessment:** Parliament amended the Criminal Code to abolish the death penalty and replace it with life imprisonment (2022-2023), meeting the core of the abolition ask; the Second Optional Protocol remains unratified.
+**Assessment:** Parliament amended the Criminal Code to abolish the death penalty and replace it with life imprisonment (2022-2023), meeting the core of the abolition recommendation; the Second Optional Protocol remains unratified.
 
 ### Recommendation 144.69 (Awareness-raising on the death penalty)
 

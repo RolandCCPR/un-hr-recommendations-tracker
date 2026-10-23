@@ -24,7 +24,7 @@ CLUSTERS = {
         "prosecuted since 2014 for expression and assembly, FLD reports "
         "cumulative sentences, and the UN country team reports prosecutions "
         "under the Public Assembly Act. Thailand reports only anti-SLAPP "
-        "measures (see separate asks).",
+        "measures (see separate recommendations).",
         [
             ("HRW", "3", "34", "at least 1,997 people had been prosecuted in Thailand for exercising their rights to free expression and peaceful assembly"),
             ("FLD", "3", "35", "the issuance of cumulative sentences by the courts had significantly closed civic space"),
@@ -34,7 +34,7 @@ CLUSTERS = {
     "Death penalty": (
         C, "Move towards abolition of the death penalty or a formal moratorium",
         "The National Report is silent on the death penalty; courts continue to "
-        "impose it, including for drug offences, and the NHRCT asks for a "
+        "impose it, including for drug offences, and the NHRCT calls for a "
         "time-bound abolition plan.",
         [
             ("Committee against Torture", "2", "16", "courts continued to impose the death penalty, including for drug-related and other offences"),
@@ -84,7 +84,7 @@ CLUSTERS = {
         "'30 Baht Treats Everywhere' model, a health insurance system for "
         "non-Thai persons (HINT) was developed with WHO, and telemedicine and "
         "village health volunteer services were expanded; the UN country team "
-        "still asks for equitable access for migrants and stateless persons.",
+        "still calls for equitable access for migrants and stateless persons.",
         [
             ("Thailand", "1", "32", "Health Insurance for Non-Thai People System (HINT)"),
             ("Thailand", "1", "31", "integrated medical innovations to enhance access to health services, including telemedicine, telepharmacy, and digital health data management"),
@@ -139,14 +139,21 @@ CLUSTERS = {
         ],
     ),
     "Freedom of association": (
-        D, "Revise the draft law on non-profit organisations",
-        "The documents contain no information on this ask.", [],
+        B, "Revise or withdraw the draft law on non-profit organisations",
+        "Thailand's mid-term report states that the Government noted the "
+        "concerns, held public consultations and conducted an impact "
+        "assessment, and that under the new Government the Bill has not been "
+        "re-submitted to Cabinet; no revised text exists.",
+        [
+            ("Thailand", "M", "3.10.1", "held several public consultations and conducted an impact assessment"),
+            ("Thailand", "M", "3.10.1", "the said Bill has so far not been re-submitted to cabinet for consideration"),
+        ],
     ),
     "National Human Rights Action Plans (or specific areas) / implementation plans": (
         B, "Develop and implement national plans",
         "The 5th National Human Rights Plan (2023-2027), the UPR National "
         "Action Plan (Cabinet, 20 December 2022) and sectoral plans were "
-        "adopted; the UN country team asks for updated, resourced plans.",
+        "adopted; the UN country team calls for updated, resourced plans.",
         [
             ("Thailand", "1", "9", "Approved by the Cabinet on 20 December 2022"),
             ("Committee against Torture", "2", "14", "welcomed the adoption of the Fifth National Human Rights Plan (2023–2027)"),
@@ -415,7 +422,7 @@ CLUSTERS = {
     ),
     "Cooperation & Follow up with Treaty Bodies": (
         D, "Adopt an open, merit-based process for national candidates to treaty bodies",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Racial discrimination": (
         B, "Eliminate racial discrimination",
@@ -547,12 +554,12 @@ KEYWORDS = [
     # --- torture legislation ---
     (r"^(Adopt national legislation criminalizing torture and enforced disappearance|Enact legislation that criminalizes torture|Enact legislation criminalizing torture|Expedite the process of the legislation outlawing torture)", A,
      "Enact legislation criminalising torture and enforced disappearance",
-     "The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023; the Committee against Torture asks for fuller conformity with the Convention.",
+     "The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023; the Committee against Torture calls for fuller conformity with the Convention.",
      [("Thailand", "1", "89", "enacted the Prevention and Suppression of Torture and Enforced Disappearance Act, B.E. 2565 (2022), which entered into force on 26 February 2023"),
       ("Committee against Torture", "2", "11", "welcomed the adoption of the Prevention and Suppression of Torture and Enforced Disappearance Act B.E. 2565 (2022)")]),
     (r"^(Align the draft prevention and suppression of torture|Adopt legislation to implement Thailand)", B,
      "Align torture and enforced disappearance legislation with international obligations and prosecute alleged cases",
-     "The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023; the Committee against Torture asks that the list of torture purposes be illustrative and superior responsibility and amnesty exemptions be clarified, and reports credible investigations are rare.",
+     "The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023; the Committee against Torture requests that the list of torture purposes be illustrative and superior responsibility and amnesty exemptions be clarified, and reports credible investigations are rare.",
      [("Thailand", "1", "89", "enacted the Prevention and Suppression of Torture and Enforced Disappearance Act, B.E. 2565 (2022), which entered into force on 26 February 2023"),
       ("Committee against Torture", "2", "11", "ensuring that the list of purposes for torture contained in the Act was established as illustrative, rather than exhaustive"),
       ("Committee against Torture", "2", "17", "authorities routinely failed to carry out credible investigations except in a few high-profile cases that received media attention")]),
@@ -583,7 +590,7 @@ KEYWORDS = [
     # --- death penalty ---
     (r"^Conduct awareness-raising campaigns with the aim of educating the public|^Strengthen public awareness campaigns on the death penalty", D,
      "Public awareness campaigns on alternatives to the death penalty",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- LGBTIQ+ and marriage ---
     (r"same-sex marriage|equality in marriage", A,
      "Recognise same-sex marriage",
@@ -600,7 +607,7 @@ KEYWORDS = [
       ("Thailand", "1", "77", "has regularly convened dialogues across various provinces nationwide to foster respect for the rights and appropriate treatment of LGBTIQ+ persons among law enforcement officers")]),
     (r"^(Train education personnel, both in public and private institutions|Include the right to non-discrimination of people of diverse sexual orientations)", D,
      "Educate on diversity and non-discrimination of LGBTIQ+ persons",
-     "The documents contain no information on this ask; CEDAW's Working Group reports bullying of LBTIQ+ students.",
+     "The documents contain no information on this recommendation; CEDAW's Working Group reports bullying of LBTIQ+ students.",
      []),
     (r"^(Review the law on gender equality|Improve the gender equality law)", C,
      "Review the gender equality law",
@@ -617,7 +624,7 @@ KEYWORDS = [
      [("Thailand", "1", "74", "adjusts the minimum legal age for marriage to 18 years")]),
     (r"^Continue the gradual expansion of the child support grant", D,
      "Expand the child support grant scheme",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- women ---
     (r"^Develop a national plan against sexual and gender-based violence", A,
      "Develop a national plan against sexual and gender-based violence",
@@ -626,7 +633,7 @@ KEYWORDS = [
       ("Thailand", "1", "61", "Formulation of the Action Plan on Women, Peace and Security")]),
     (r"genital circumcision", D,
      "Abolish female genital circumcision",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"Security council resolution 1325", A,
      "Increase women's representation in public life under Security Council resolution 1325",
      "A National Action Plan on Women, Peace and Security (2025-2027) was formulated.",
@@ -637,7 +644,7 @@ KEYWORDS = [
      [("Committee on the Elimination of Discrimination against Women", "2", "42", "the underrepresentation of women among scientists and policymakers supporting the country’s efforts to address climate change")]),
     (r"^Ensure in national legislation the effective participation of civil society, especially women", D,
      "Civil society participation in climate change policy",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- children and strategy ---
     (r"strategy to combat stereotypes against children with disabilities|Adopt a strategy to combat stereotypes", B,
      "Strategy against stereotypes about children with disabilities",
@@ -676,21 +683,21 @@ KEYWORDS = [
     # --- health ---
     (r"^(Continue its inclusive COVID-19 vaccination policy|Continue to uphold human rights in the design and provision of COVID-19|Uphold the approach of prioritizing the mental health|Guarantee the right to access an adequate standard of health services for all, including sex workers|Provide health-care services to migrants, refugees and asylum seekers in detention centres)", D,
      "COVID-19 response, mental health, sex workers and detained migrants' health",
-     "The documents contain no information on this ask; JS50 reports structural limits in mental health services.",
+     "The documents contain no information on this recommendation; JS50 reports structural limits in mental health services.",
      []),
     (r"^Develop a national plan to guarantee access to comprehensive sexual and reproductive health services", D,
      "National plan for access to sexual and reproductive health services",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- misc ---
     (r"^Adopt an open, merit-based process", D,
      "Open, merit-based selection of treaty body candidates",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^Ensure the effective implementation of the 20-year National Strategy", D,
      "Implement the 20-year National Strategy",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^Train public and educational institutions on human rights, with emphasis on the elimination of violence", D,
      "Human rights training for public and educational institutions",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^Fully implement and consider renewing the 2018", A,
      "Implement and renew the plan for coexistence in a multicultural society",
      "An Action Plan on the Promotion of Peaceful Coexistence in a Multicultural Society 2023-2027 was adopted as national policy.",
@@ -709,10 +716,10 @@ KEYWORDS = [
      [("NHRCT", "3", "4", "no concrete progress had been made toward the ratification of ILO Conventions Nos. 87 and 98")]),
     (r"^Strengthen efforts to abolish the continued practice of genital circumcision", D,
      "Abolish female genital circumcision",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^Ensure Thai women have the right to pass on their citizenship|^Ensure that Thai women have the right to pass on their citizenship", D,
      "Equal right of Thai women to pass nationality to spouses and children",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^Undertake actions to strengthen women.s access to justice", C,
      "Women's access to justice",
      "The National Report describes general online justice services but nothing specific for rural, Indigenous or disabled women.",
@@ -728,5 +735,5 @@ KEYWORDS = [
      [("Thailand", "1", "26", "serves as the National Mechanism for Implementation, Reporting and Follow-up (NMIRF)")]),
 ]
 
-FALLBACK = (D, "No information on this ask",
-            "The documents contain no information on this ask.", [])
+FALLBACK = (D, "No information on this recommendation",
+            "The documents contain no information on this recommendation.", [])

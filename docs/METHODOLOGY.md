@@ -12,9 +12,11 @@ Two things, on the same A–E scale:
 
 - **Human Rights Committee follow-up gradings** for **114 countries** — the
   Committee's *own* grades, copied out of its reports.
-- **A Universal Periodic Review (UPR) implementation assessment** for **4
-  countries** (United States, Denmark, Namibia, Paraguay) — our assessment,
-  produced with AI from the UN reports.
+- **A Universal Periodic Review (UPR) implementation assessment** for **17
+  countries** (United States, Denmark, Namibia, Paraguay, Antigua and Barbuda,
+  Eswatini, Greece, Hungary, Ireland, Papua New Guinea, Samoa, Saint Vincent and
+  the Grenadines, Suriname, Tajikistan, Tanzania, Thailand, and Trinidad and
+  Tobago) — our assessment, produced with AI from the UN reports.
 
 Everything feeds one database, one score per country, and one world map.
 
@@ -33,11 +35,13 @@ Human Rights (OHCHR).
   the reports from the 109th session (2013) on are used, because that is when the
   Committee began grading A–E in a table (before then it wrote "reply
   satisfactory / not satisfactory" in prose).
-- **UPR (4 countries):** each country's OHCHR UPR page. We took the country's
+- **UPR (17 countries):** each country's OHCHR UPR page. We took the country's
   3rd-cycle recommendations from its OHCHR *"Thematic List of Recommendations"*
   Word file, and the three pre-sessional reports prepared for its 4th-cycle
   review: the **National Report** (…/1), the **OHCHR Compilation of UN
   information** (…/2) and the **Summary of Stakeholders' submissions** (…/3).
+  Where a State submitted a mid-term report on its third-cycle recommendations,
+  we read it as well, and each country's page lists it among its sources.
 
 The downloaded text of every report is kept in the project
 (`training/ccpr_followup/reports/`, `countries/*/evidence/`) so anyone can
@@ -122,12 +126,12 @@ repeatable. Here is what it does, in order.
 
 ---
 
-## 4. The UPR implementation assessment (4 countries)
+## 4. The UPR implementation assessment (17 countries)
 
 This part **is** our assessment. For each country:
 
 1. We took every 3rd-cycle recommendation and **grouped them by theme** (using
-   OHCHR's own thematic labels), because most are near-duplicate asks from
+   OHCHR's own thematic labels), because most are near-duplicate recommendations from
    different States. Number ranges are collapsed for readability.
 2. For each theme we **read the three 4th-cycle reports** for what the State
    actually did since the last review.
@@ -136,7 +140,7 @@ This part **is** our assessment. For each country:
    - **A** — the core of the recommendation is essentially done (a law is in
      force, a treaty is ratified, the thing asked for exists).
    - **B** — a concrete, on-point measure was adopted in the review period but
-     it is incomplete (not yet in force, no results yet, only part of the ask).
+     it is incomplete (not yet in force, no results yet, only part of the recommendation).
    - **C** — only the pre-existing framework, a stalled or rejected bill, or no
      action.
    - **D** — the reports say nothing on this point.
@@ -145,8 +149,7 @@ This part **is** our assessment. For each country:
 4. Every grade is backed by **verbatim quotations** from the reports, with the
    UN body or organisation named, shown on the country page and in the database.
 
-The UPR grading is a **first-pass assessment for expert review**, not a final
-verdict.
+The UPR grading is assessed by AI and not checked by a human expert.
 
 ---
 
@@ -195,10 +198,8 @@ new staff member would learn by reading past files.
    two-thirds of the time; and where **no NGO submitted** anything, the
    Committee's grades tend to sit slightly higher because it has less with which
    to test the State's own account.
-8. We rewrote the rule in section 4 accordingly and **re-ran all four UPR
-   assessments**. Denmark, Namibia and Paraguay moved from mostly-C to mostly-B;
-   the United States stayed mostly C and E, because its record for the period is
-   genuine inaction plus measures (in 2025) that run against the recommendations.
+8. We rewrote the rule in section 4 accordingly and applied it to every UPR
+   assessment on this site.
 
 The full working notes are in
 `training/CCPR_followup_grading_calibration.md` and
@@ -227,20 +228,20 @@ the country-by-country comparison are recorded there.
 
 ## 7. The database, map and website
 
-1. One script (`site/build.py`) reads the four UPR databases and the Human Rights
+1. One script (`site/build.py`) reads the UPR databases and the Human Rights
    Committee data and writes a single SQLite file (`site/assessments.db`) with a
    row for every graded recommendation, plus a set of JSON files.
 2. The website (`site/public/`) is a plain static site: a world map coloured by
    the scores, a sortable country table, and one page per country showing every
    grade with its verbatim recommendation and the Committee's wording (or, for
-   the four UPR countries, our reasoning and quotations).
+   the UPR countries, our reasoning and quotations).
 
 ---
 
 ## 8. Things to be careful about
 
-- **UPR:** only 4 countries; our assessment, AI-produced; a first pass for
-  expert review; depends on what the UN and NGO reports happened to mention.
+- **UPR:** only 17 countries; our assessment, AI-produced and not checked by a
+  human expert; depends on what the UN and NGO reports happened to mention.
 - **Human Rights Committee:** the Committee grades only 2–4 *priority*
   recommendations per country, not the whole record — a low score means those
   specific recommendations were not carried out, not an overall rating. We show
@@ -284,7 +285,7 @@ the months in the calendar (fourth cycle) or predicted from the session month
 and session lists. The next dialogue is set in this order: (1) if the Committee
 has adopted a list of issues prior to reporting (LOIPR) since the last
 dialogue, two years after that LOIPR; (2) otherwise the year stated in the last
-concluding observations; (3) otherwise the date the concluding observations ask
+concluding observations; (3) otherwise the date the concluding observations request
 for the State's next report, plus one year. The LOIPR is placed two years
 before the dialogue and the State's report one year before it, in the session
 month of the last dialogue (March, June or October; the summer session counts

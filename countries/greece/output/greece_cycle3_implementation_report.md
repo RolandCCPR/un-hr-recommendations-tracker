@@ -7,6 +7,7 @@ Assessment of Greece's implementation of the 239 recommendations received in the
 - **National Report** — A/HRC/WG.6/53/GRC/1
 - **UN Compilation** — A/HRC/WG.6/53/GRC/2, OHCHR
 - **Stakeholders' Summary** — A/HRC/WG.6/53/GRC/3, OHCHR
+- **State mid-term report** — Greece, UPR third-cycle mid-term report, OHCHR website
 
 Grades: **A** largely satisfactory · **B** partially satisfactory · **C** not satisfactory / no relevant action · **D** no information · **E** measures contrary to, or rejection of, the recommendation.
 
@@ -18,8 +19,8 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 |---|---:|---:|
 | **A** — Largely implemented / action largely satisfactory | 2 | 1% |
 | **B** — Partially implemented / steps taken, further action needed | 180 | 75% |
-| **C** — Not implemented / no relevant action taken | 37 | 15% |
-| **D** — No information available on implementation | 13 | 5% |
+| **C** — Not implemented / no relevant action taken | 38 | 16% |
+| **D** — No information available on implementation | 12 | 5% |
 | **E** — Contrary measures taken, or recommendation rejected | 7 | 3% |
 | **Total** | 239 | 100% |
 
@@ -50,7 +51,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -60,12 +61,12 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 
 *1 of 239 — position: 1 supported.*
 
-**Grade: D — No cooperation with the Committee**
+**Grade: C — Information/action not satisfactory**
 
 **Evidence:**
-- *No specific information in the evidence base.*
+- State mid-term report (mid-term report), para. treaty bodies — Greece: "Greece has consistently nominated highly qualified candidates for UN treaty body elections"
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** Greece's mid-term report states that it has consistently nominated highly qualified candidates; no open, merit-based selection process is described.
 
 ---
 
@@ -92,7 +93,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -120,7 +121,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/GRC/1), para. 23 — Greece: "The National Strategy and Action Plan for Roma Social Inclusion 2021–2030"
 
-**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner asks for faster implementation and better monitoring.
+**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner calls for faster implementation and better monitoring.
 
 ### Recommendation 130.44 (Replace the judicial gender-change process with an administrative one)
 
@@ -131,7 +132,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask; JS5 asks that psychiatric evaluation for minors be abolished.
+**Assessment:** The documents contain no information on this recommendation; JS5 requests that psychiatric evaluation for minors be abolished.
 
 ### Recommendation 130.45 (Ratify Protocol 12 to the European Convention)
 
@@ -170,7 +171,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/GRC/1), para. 23 — Greece: "The National Strategy and Action Plan for Roma Social Inclusion 2021–2030"
 
-**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner asks for faster implementation and better monitoring.
+**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner calls for faster implementation and better monitoring.
 
 ---
 
@@ -185,7 +186,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 130.53 (National action plan on business and human rights)
 
@@ -196,7 +197,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -239,7 +240,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/GRC/1), para. 50 — Greece: "every allegation of illtreatment, including alleged pushbacks, is investigated at internal and/or EU level"
 - UN Compilation (A/HRC/WG.6/53/GRC/2), para. 53 — Human Rights Committee: "affirm the independence and impartiality of the monitoring mechanisms involved in investigating violations of the human rights of migrants and asylumseekers at borders"
 
-**Assessment:** Greece reports a three-tier complaints system, but the Human Rights Committee asks that the independence and impartiality of monitoring mechanisms be affirmed and investigations be effective.
+**Assessment:** Greece reports a three-tier complaints system, but the Human Rights Committee requests that the independence and impartiality of monitoring mechanisms be affirmed and investigations be effective.
 
 ---
 
@@ -254,7 +255,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/GRC/1), para. 70 — Greece: "The Greek Ombudsman functions both as the National Preventive Mechanism (NPM) under OPCAT and as the National Investigation Mechanism"
 
-**Assessment:** The Ombudsperson is the NPM under OPCAT and the national investigation mechanism; the Human Rights Committee asks that its resources be adequate.
+**Assessment:** The Ombudsperson is the NPM under OPCAT and the national investigation mechanism; the Human Rights Committee requests that its resources be adequate.
 
 ---
 
@@ -299,7 +300,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/GRC/1), para. 50 — Greece: "every allegation of illtreatment, including alleged pushbacks, is investigated at internal and/or EU level"
 - UN Compilation (A/HRC/WG.6/53/GRC/2), para. 53 — Human Rights Committee: "affirm the independence and impartiality of the monitoring mechanisms involved in investigating violations of the human rights of migrants and asylumseekers at borders"
 
-**Assessment:** Greece reports a three-tier complaints system, but the Human Rights Committee asks that the independence and impartiality of monitoring mechanisms be affirmed and investigations be effective.
+**Assessment:** Greece reports a three-tier complaints system, but the Human Rights Committee requests that the independence and impartiality of monitoring mechanisms be affirmed and investigations be effective.
 
 ### Recommendations 130.59, 130.72, 130.74, 130.234 (Investigate pushbacks, ensure individual assessment and access to asylum)
 
@@ -372,7 +373,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/GRC/1), para. 23 — Greece: "The National Strategy and Action Plan for Roma Social Inclusion 2021–2030"
 
-**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner asks for faster implementation and better monitoring.
+**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner calls for faster implementation and better monitoring.
 
 ---
 
@@ -425,7 +426,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -440,7 +441,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - Stakeholders' Summary (A/HRC/WG.6/53/GRC/3), para. 25 — ABTTF: "law No. 4964/2022 should be repealed, and the functioning of the mufti offices should be determined by the community itself"
 
-**Assessment:** Greece maintains that only a religious Muslim minority exists and Law 4964/2022 keeps State involvement in the selection of Muftis; the Turkish community asks that its schools and associations be restored.
+**Assessment:** Greece maintains that only a religious Muslim minority exists and Law 4964/2022 keeps State involvement in the selection of Muftis; the Turkish community requests that its schools and associations be restored.
 
 ### Recommendation 130.76 (Recognise the right to conscientious objection)
 
@@ -491,7 +492,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/GRC/1), para. 71 — Greece: "Law 5090/2024 repealed Article 362 of the Criminal Code, eliminating the offense of simple defamation"
 - Stakeholders' Summary (A/HRC/WG.6/53/GRC/3), para. 12 — OSCE-ODIHR: "criminal provisions for defamation and insult be replaced by proportional civil remedies"
 
-**Assessment:** Law 5090/2024 repealed article 362 (simple defamation), a Memorandum of Understanding and Task Force on journalists' safety exist and Law 5253/2025 created a National Action Plan for the Safety of Journalists; OSCE-ODIHR asks that remaining criminal defamation and insult provisions be replaced by civil remedies.
+**Assessment:** Law 5090/2024 repealed article 362 (simple defamation), a Memorandum of Understanding and Task Force on journalists' safety exist and Law 5253/2025 created a National Action Plan for the Safety of Journalists; OSCE-ODIHR requests that remaining criminal defamation and insult provisions be replaced by civil remedies.
 
 ### Recommendation 130.83 (Decriminalise defamation)
 
@@ -503,7 +504,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/GRC/1), para. 71 — Greece: "Law 5090/2024 repealed Article 362 of the Criminal Code, eliminating the offense of simple defamation"
 - Stakeholders' Summary (A/HRC/WG.6/53/GRC/3), para. 12 — OSCE-ODIHR: "criminal provisions for defamation and insult be replaced by proportional civil remedies"
 
-**Assessment:** Simple defamation (article 362) was repealed in 2024; OSCE-ODIHR asks that remaining criminal defamation and insult provisions be replaced by civil remedies.
+**Assessment:** Simple defamation (article 362) was repealed in 2024; OSCE-ODIHR requests that remaining criminal defamation and insult provisions be replaced by civil remedies.
 
 ---
 
@@ -653,7 +654,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/GRC/1), para. 23 — Greece: "The National Strategy and Action Plan for Roma Social Inclusion 2021–2030"
 
-**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner asks for faster implementation and better monitoring.
+**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner calls for faster implementation and better monitoring.
 
 ### Recommendation 130.221 (Participation of refugee and asylum-seeking women)
 
@@ -664,7 +665,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -694,7 +695,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - Stakeholders' Summary (A/HRC/WG.6/53/GRC/3), para. 11 — JS2: "fully implement and adequately fund the National Strategy for Social Integration and Poverty Reduction"
 
-**Assessment:** JS2 asks that the strategy be fully implemented and funded, which implies it exists.
+**Assessment:** JS2 requests that the strategy be fully implemented and funded, which implies it exists.
 
 ### Recommendation 130.134 (National strategy for Roma social inclusion)
 
@@ -705,7 +706,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/GRC/1), para. 23 — Greece: "The National Strategy and Action Plan for Roma Social Inclusion 2021–2030"
 
-**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner asks for faster implementation and better monitoring.
+**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner calls for faster implementation and better monitoring.
 
 ---
 
@@ -743,7 +744,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -758,7 +759,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no specific information on this ask.
+**Assessment:** The documents contain no specific information on this recommendation.
 
 ---
 
@@ -785,7 +786,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/GRC/1), para. 23 — Greece: "The National Strategy and Action Plan for Roma Social Inclusion 2021–2030"
 
-**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner asks for faster implementation and better monitoring.
+**Assessment:** The National Strategy and Action Plan for Roma Social Inclusion 2021-2030 is being implemented with a Roma Forum; the Council of Europe Commissioner calls for faster implementation and better monitoring.
 
 ### Recommendation 130.149 (Protect unaccompanied minors)
 
@@ -860,7 +861,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/GRC/1), para. 33 — Greece: "In 2024, the GNCHR completed its first comprehensive Report on the Status of Women in Greece"
 
-**Assessment:** The GNCHR completed its first comprehensive Report on the Status of Women in Greece in 2024; CEDAW asks that its resources be increased.
+**Assessment:** The GNCHR completed its first comprehensive Report on the Status of Women in Greece in 2024; CEDAW requests that its resources be increased.
 
 ### Recommendation 130.167 (Adopt the national action plan on gender equality)
 
@@ -899,7 +900,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/GRC/1), para. 39 — Greece: "In its report, the GNCHR stressed that an official definition of femicide and a dedicated observatory on gender-related killings should be established"
 
-**Assessment:** Law 5172/2025 transposed EU standards; the GNCHR and CEDAW ask for a legal definition of femicide and a gender-killings observatory.
+**Assessment:** Law 5172/2025 transposed EU standards; the GNCHR and CEDAW call for a legal definition of femicide and a gender-killings observatory.
 
 ---
 
@@ -1047,7 +1048,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/GRC/1), para. 88 — Greece: "Law 4837/2021, which introduced statutory definitions of child abuse and established the National System for Recording and Monitoring relevant incidents"
 - UN Compilation (A/HRC/WG.6/53/GRC/2), para. 13 — Committee on the Rights of the Child: "recommended that Greece equip the National Action Plan with time-bound and measurable goals and a dedicated budget for its implementation"
 
-**Assessment:** Law 4837/2021 defined child abuse and created a national recording system, a 2025-2030 violence-prevention strategy was adopted and family benefits exist; the CRC asks for time-bound goals and a dedicated budget for the National Action Plan.
+**Assessment:** Law 4837/2021 defined child abuse and created a national recording system, a 2025-2030 violence-prevention strategy was adopted and family benefits exist; the CRC calls for time-bound goals and a dedicated budget for the National Action Plan.
 
 ### Recommendations 130.229, 130.236 (Protect unaccompanied minors)
 
@@ -1073,7 +1074,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - Stakeholders' Summary (A/HRC/WG.6/53/GRC/3), para. 25 — ABTTF: "law No. 4964/2022 should be repealed, and the functioning of the mufti offices should be determined by the community itself"
 
-**Assessment:** Greece maintains that only a religious Muslim minority exists and Law 4964/2022 keeps State involvement in the selection of Muftis; the Turkish community asks that its schools and associations be restored.
+**Assessment:** Greece maintains that only a religious Muslim minority exists and Law 4964/2022 keeps State involvement in the selection of Muftis; the Turkish community requests that its schools and associations be restored.
 
 ---
 

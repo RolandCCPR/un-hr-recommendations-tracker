@@ -119,7 +119,7 @@ CLUSTERS = {
         B, "Strengthen the Commissioner for Human Rights in line with the Paris Principles",
         "The Commissioner's budget rose 92% (2022-2025), staff reached 58 and "
         "its regional offices moved to the national budget; the institution "
-        "remains at B status and the UN country team asks for revision of "
+        "remains at B status and the UN country team calls for revision of "
         "its law.",
         [
             ("Tajikistan", "1", "11", "Its budget has almost doubled, increasing by 92%, from 1,987,864 somoni in 2022 to 3,821,662 somoni in 2025"),
@@ -131,7 +131,7 @@ CLUSTERS = {
         B, "Improve prison conditions and allow independent monitoring",
         "The Commissioner's monitoring group was enlarged to 30 members "
         "including civil society, and a Penal Correction System Reform "
-        "Strategy to 2030 is being implemented; JS1 asks for access for all "
+        "Strategy to 2030 is being implemented; JS1 calls for access for all "
         "independent monitors.",
         [
             ("Tajikistan", "1", "85", "Since 2025, the group’s membership has been increased to 30 people to include representatives from civil society"),
@@ -217,7 +217,7 @@ CLUSTERS = {
         B, "Strengthen the justice system, access to justice and independence of lawyers",
         "The Legal Aid Centre moved to full State funding (2024), the Bar "
         "and Advocacy Act was amended (January 2024) and judicial training "
-        "was expanded; JS3 asks for judicial independence from the "
+        "was expanded; JS3 calls for judicial independence from the "
         "executive.",
         [
             ("Tajikistan", "1", "93", "The Centre has gradually transitioned to full State funding (60% in 2022 and 100% by 2024)"),
@@ -289,7 +289,7 @@ CLUSTERS = {
         "A Social Entrepreneurship Act entered into force (January 2025), "
         "targeted social assistance covers more than 15% of households and "
         "day-care centres for persons with disabilities reached 59; CESCR "
-        "asks for universal coverage.",
+        "calls for universal coverage.",
         [
             ("Tajikistan", "1", "138", "More than 15% of households are covered by the programme"),
             ("Committee on Economic, Social and Cultural Rights", "2", "58", "develop a social security system that ensured universal coverage"),
@@ -307,7 +307,7 @@ CLUSTERS = {
         B, "Align counter-terrorism and counter-extremism rules with the ICCPR",
         "New counter-terrorism and counter-extremism acts, a 2026 strategy "
         "and the May 2025 amendments were adopted; the UN country team and "
-        "Special Rapporteurs still ask for a review of definitions.",
+        "Special Rapporteurs still call for a review of definitions.",
         [
             ("Tajikistan", "1", "62", "New versions of the Counter-Terrorism Act of December 2021"),
             ("United Nations country team", "2", "31", "review counter-terrorism legislation to align with international standards"),
@@ -407,7 +407,7 @@ CLUSTERS = {
     ),
     "Refugees & asylum seekers": (
         C, "Regulations on refugee status determination",
-        "No such regulation is reported; the UN country team asks for quality "
+        "No such regulation is reported; the UN country team calls for quality "
         "refugee status determination and fair access to the territory.",
         [
             ("United Nations country team", "2", "98", "ensure quality refugee status determination"),
@@ -416,7 +416,7 @@ CLUSTERS = {
     ),
     "Liberty & security of the person": (
         C, "End transnational repression and forced repatriation",
-        "No measure is reported; JS3 asks to end extrajudicial expulsions.",
+        "No measure is reported; JS3 calls to end extrajudicial expulsions.",
         [
             ("JS3", "3", "97", "put an end to the practice of extrajudicial expulsions"),
         ],
@@ -427,7 +427,7 @@ KEYWORDS = [
     # --- ratification ---
     (r"Second Optional Protocol", C,
      "Ratify the Second Optional Protocol to the ICCPR",
-     "Tajikistan has not ratified the Protocol; it keeps its moratorium and an inter-departmental working group on abolition; JS2 asks for a timeline.",
+     "Tajikistan has not ratified the Protocol; it keeps its moratorium and an inter-departmental working group on abolition; JS2 calls for a timeline.",
      [("United Nations country team", "2", "2", "the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"),
       ("Tajikistan", "1", "72", "An interdepartmental working group tasked with examining the social and legal aspects of the abolition of the death penalty continues its work")]),
     (r"^(Abolish the death penalty and ratify|Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights and fully abolish|Adopt the necessary measures to move towards the abolition)", B,
@@ -447,14 +447,14 @@ KEYWORDS = [
      [("Tajikistan", "1", "72", "An indefinite moratorium on the use of the death penalty has been in place in Tajikistan since 2004")]),
     (r"timeline with concrete steps", C,
      "Set a timeline for abolition of the death penalty",
-     "No timeline is reported; JS2 asks for one with completion no later than 2027.",
+     "No timeline is reported; JS2 calls for one with completion no later than 2027.",
      [("JS2", "3", "18", "publicize a timeline for abolishing the death penalty")]),
     (r"awareness-raising campaigns on the death penalty", D,
      "Awareness-raising and public debate on the death penalty",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^(Ratify|Consider acceding to) the International Convention for the Protection of All Persons", D,
      "Ratify the Convention on Enforced Disappearance",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"Convention on the Rights of Persons with Disabilities", B,
      "Ratify the Convention on the Rights of Persons with Disabilities",
      "Tajikistan signed the CRPD in 2018, prepared ratification through a national road map and adopted a CRPD-aligned disability law in June 2026, but has not ratified the Convention.",
@@ -471,7 +471,7 @@ KEYWORDS = [
      [("Tajikistan", "1", "26", "an interdepartmental working group on accession to the 1954 Convention relating to the Status of Stateless Persons and the 1961 Convention on the Reduction of Statelessness commenced its work")]),
     (r"^Request technical support from the Office", D,
      "Request OHCHR technical support for ratification",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- anti-discrimination law ---
     (r"^Adopt a comprehensive anti-discrimination law that provides|^Introduce comprehensive anti-discrimination legislation and legal framework|ratify the bill on equality", A,
      "Adopt comprehensive anti-discrimination legislation",
@@ -501,7 +501,7 @@ KEYWORDS = [
       ("JS5", "3", "71", "domestic violence has yet to be recognized as a criminal offence in Tajikistan")]),
     (r"^Criminalize child, early and forced marriage", D,
      "Criminalise child, early and forced marriage",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^Implement fully the law on the prevention of domestic violence|^(Develop an action plan to eliminate all forms of gender-based|Develop a comprehensive strategy and action plan)|^Address domestic violence and guarantee|^Sustain efforts to prevent domestic violence|^Strengthen the legal framework to prevent domestic violence|^Criminalize domestic and intimate partner violence|measures to criminalize such actions", B,
      "Prevent and respond to domestic violence",
      "The Domestic Violence Act was amended (2024) to broaden the definition of violence, a State Programme 2025-2030 and an Interdepartmental Council (February 2025) were created, support centres expanded and 21 prevention-officer posts introduced; the offence is not yet in the Criminal Code.",
@@ -515,7 +515,7 @@ KEYWORDS = [
      [("Tajikistan", "1", "76", "The definition of torture in article 143 (1) of the Criminal Code has been brought fully into line with article 1 of the Convention against Torture")]),
     (r"^Revise the Criminal Code to include the criminalization of enforced disappearance", D,
      "Criminalise enforced disappearance",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"investigated and prosecuted and perpetrators convicted|thorough and impartial investigations|systematic investigations into any allegation", C,
      "Investigate and prosecute torture and ill-treatment",
      "The UN country team reports that victims do not receive effective remedies and courts have no established practice of excluding evidence obtained by torture; JS10 reports that judges rarely order investigations.",
@@ -530,13 +530,13 @@ KEYWORDS = [
     # --- religion ---
     (r"freedom of religion or belief|law on freedom of conscience|religious organizations", C,
      "Review laws affecting freedom of religion or belief",
-     "The 2022 amendments to the Freedom of Conscience and Religious Associations Act restrict founders and staff; the Special Rapporteur and civil society ask for review and report raids on minority churches.",
+     "The 2022 amendments to the Freedom of Conscience and Religious Associations Act restrict founders and staff; the Special Rapporteur and civil society call for review and report raids on minority churches.",
      [("Tajikistan", "1", "99", "In July 2022, amendments were made to the Freedom of Conscience and Religious Associations Act"),
       ("Special Rapporteur on freedom of religion or belief", "2", "14", "review the Freedom of Conscience and Religious Associations Act and the Act on Regulating Traditions, Celebrations and Rituals with a view to bringing them into compliance with international standards"),
       ("ECLJ", "3", "63", "Baptist, Evangelical, and Pentecostal churches being raided, threatened, fined, and their members arrested")]),
     (r"alternative to military service", C,
      "Alternative service for conscientious objectors",
-     "No alternative service is reported; JS6 asks for legislation recognising conscientious objection.",
+     "No alternative service is reported; JS6 calls for legislation recognising conscientious objection.",
      [("JS6", "3", "12", "promptly adopt legislation recognizing the right to conscientious objection to military service")]),
     (r"promoting tolerance, protecting religious rights", B,
      "Promote tolerance and religious diversity",
@@ -582,7 +582,7 @@ KEYWORDS = [
       ("HFHR PCP", "3", "50", "an ongoing narrowing of civic space marked by growing restrictions on freedom of expression, association and assembly")]),
     (r"accreditation schemes", D,
      "Refrain from accreditation schemes that undermine independent media",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"^Ensure that lawyers are guaranteed full independence", B,
      "Guarantee the independence and safety of lawyers",
      "The Bar and Advocacy Act was amended in January 2024 to strengthen the legal status and independence of lawyers; L4L reports continuing harassment.",
@@ -604,11 +604,11 @@ KEYWORDS = [
      [("Tajikistan", "1", "190", "the adoption in June 2026 of the National Programme on the Protection of Children’s Rights for the period 2026–2030")]),
     (r"Guiding Principles on Business and Human Rights", D,
      "National action plan on business and human rights",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- children / other ---
     (r"awareness campaigns on the harmful effects of child, early", D,
      "Awareness campaigns on child, early and forced marriage",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"registered at birth", B,
      "Register all children at birth",
      "A new Civil Registry Act (January 2025) simplified birth registration, more than 249,000 children were registered free of charge and a 2025 law removed time limits for late registration.",
@@ -628,5 +628,5 @@ KEYWORDS = [
       ("Tajikistan", "1", "9", "has been accredited with category B status")]),
 ]
 
-FALLBACK = (D, "No information on this ask",
-            "The documents contain no information on this ask.", [])
+FALLBACK = (D, "No information on this recommendation",
+            "The documents contain no information on this recommendation.", [])

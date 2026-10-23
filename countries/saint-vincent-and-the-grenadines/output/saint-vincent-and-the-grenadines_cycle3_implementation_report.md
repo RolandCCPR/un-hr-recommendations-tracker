@@ -22,7 +22,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 | **D** — No information available on implementation | 24 | 15% |
 | **Total** | 156 | 100% |
 
-**No relevant action (C)** is the dominant outcome, with a thin evidence base on the State's own account because its National Report was not yet available. **Partial implementation (B)** appears where the documents record concrete measures: the 2023 amendment of the Prevention of Trafficking in Persons Act and a 2021-2025 action plan, a National Task Force on Gender-Based Violence (2024), a National Child Protection Policy, the national climate and adaptation framework, expanded social protection after the 2021 volcanic eruption and the new Belle Isle detention facility. **No relevant action (C)** persists on ICPPED, OP-CAT and the other unratified protocols, a comprehensive anti-discrimination law, decriminalisation of same-sex conduct (sections 146 and 148), the death penalty (a de facto moratorium since 1995 but one person on death row), the minimum age of marriage, a national human rights institution, the pending Sexual Offences Bill and criminalisation of marital rape and sexual harassment, and corporal punishment. Many asks have no information in the documents (**D**).
+**No relevant action (C)** is the dominant outcome, with a thin evidence base on the State's own account because its National Report was not yet available. **Partial implementation (B)** appears where the documents record concrete measures: the 2023 amendment of the Prevention of Trafficking in Persons Act and a 2021-2025 action plan, a National Task Force on Gender-Based Violence (2024), a National Child Protection Policy, the national climate and adaptation framework, expanded social protection after the 2021 volcanic eruption and the new Belle Isle detention facility. **No relevant action (C)** persists on ICPPED, OP-CAT and the other unratified protocols, a comprehensive anti-discrimination law, decriminalisation of same-sex conduct (sections 146 and 148), the death penalty (a de facto moratorium since 1995 but one person on death row), the minimum age of marriage, a national human rights institution, the pending Sexual Offences Bill and criminalisation of marital rape and sexual harassment, and corporal punishment. Many recommendations have no information in the documents (**D**).
 
 ## Assessment by theme
 
@@ -60,7 +60,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -224,7 +224,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 81.111 (Anti-discrimination protection for people with HIV)
 
@@ -235,7 +235,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 81.134 (Criminalise marital rape, sexual harassment and domestic violence)
 
@@ -278,7 +278,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -309,7 +309,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -363,7 +363,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendations 81.143, 81.146 (Protect children from violence and sexual exploitation)
 
@@ -406,7 +406,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no specific information on measures on this ask.
+**Assessment:** The documents contain no specific information on measures on this recommendation.
 
 ### Recommendations 81.117, 81.118 (Revise family life and comprehensive sexuality education)
 
@@ -556,7 +556,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no specific information on measures on this ask.
+**Assessment:** The documents contain no specific information on measures on this recommendation.
 
 ---
 
@@ -621,7 +621,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no specific information on this ask.
+**Assessment:** The documents contain no specific information on this recommendation.
 
 ---
 
@@ -652,7 +652,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no specific information on measures on this ask.
+**Assessment:** The documents contain no specific information on measures on this recommendation.
 
 ---
 
@@ -682,7 +682,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -697,7 +697,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -712,7 +712,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 

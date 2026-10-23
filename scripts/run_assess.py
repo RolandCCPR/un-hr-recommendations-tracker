@@ -53,6 +53,8 @@ def verify(slug: str) -> int:
         if not f.exists():
             f = cfg["evidence_dir"] / f"A_HRC_WG.6_52_{cfg['code']}_{k}-EN.txt"
         texts[k] = norm(f.read_text(encoding="utf-8")) if f.exists() else None
+    mt = cfg["evidence_dir"] / "midterm_report.txt"
+    texts["M"] = norm(mt.read_text(encoding="utf-8")) if mt.exists() else None
     bad = 0
     n = 0
     for where, (org, doc, para, text) in quotes(mod):

@@ -23,7 +23,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 | **E** — Contrary measures taken, or recommendation rejected | 14 | 6% |
 | **Total** | 252 | 100% |
 
-**Partial implementation (B)** is the dominant outcome (143 of 252 asks), and Tanzania gives a detailed National Report on socio-economic and service measures: health financing (TZS 1.31 to 3.104 trillion), school construction and a Re-Entry Guideline for pregnant girls, the Second National Plan of Action on violence against women and children (2024/25-2028/29), a National Action Plan on persons with albinism, the Mama Samia legal aid campaign and amendments to the Media Services Act and related laws. **Fully implemented (A)** are the ban on expelling pregnant schoolgirls, birth registration, older persons, climate participation and rural communication infrastructure. **No relevant action (C)** persists on ratifying the Convention against Torture and other treaties, the death penalty (a de facto moratorium only), child marriage (the Law of Marriage Act is still only under consultation), decriminalisation of same-sex relations, corporal punishment and the second National Human Rights Action Plan. **Contrary measures (E)** apply to 14 asks on freedom of expression, assembly, political participation and indigenous peoples: the nationwide internet shutdown after the 29 October 2025 elections, the shutdown of more than 80,000 websites (May 2025), reported lethal force, arrests and enforced disappearances (which the State rejects), disqualification of opposition candidates and the position that no group is indigenous.
+**Partial implementation (B)** is the dominant outcome (143 of 252 recommendations), and Tanzania gives a detailed National Report on socio-economic and service measures: health financing (TZS 1.31 to 3.104 trillion), school construction and a Re-Entry Guideline for pregnant girls, the Second National Plan of Action on violence against women and children (2024/25-2028/29), a National Action Plan on persons with albinism, the Mama Samia legal aid campaign and amendments to the Media Services Act and related laws. **Fully implemented (A)** are the ban on expelling pregnant schoolgirls, birth registration, older persons, climate participation and rural communication infrastructure. **No relevant action (C)** persists on ratifying the Convention against Torture and other treaties, the death penalty (a de facto moratorium only), child marriage (the Law of Marriage Act is still only under consultation), decriminalisation of same-sex relations, corporal punishment and the second National Human Rights Action Plan. **Contrary measures (E)** apply to 14 recommendations on freedom of expression, assembly, political participation and indigenous peoples: the nationwide internet shutdown after the 29 October 2025 elections, the shutdown of more than 80,000 websites (May 2025), reported lethal force, arrests and enforced disappearances (which the State rejects), disqualification of opposition candidates and the position that no group is indigenous.
 
 ## Assessment by theme
 
@@ -320,7 +320,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - National Report (A/HRC/WG.6/53/TZA/1), para. 99 — United Republic of Tanzania: "National HIV Prevention Road Map (2023/24–2026/27)"
 
-**Assessment:** The National HIV Prevention Road Map (2023/24-2026/27) expands youth-friendly services; the UN country team asks to expand youth-focused HIV prevention.
+**Assessment:** The National HIV Prevention Road Map (2023/24-2026/27) expands youth-friendly services; the UN country team calls to expand youth-focused HIV prevention.
 
 ---
 
@@ -474,7 +474,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/TZA/1), para. 36 — United Republic of Tanzania: "the National Action Plan for the Rights and Welfare of Persons with Albinism (2024/25–2028/29) was developed"
 - UN Compilation (A/HRC/WG.6/53/TZA/2), para. 12 — United Nations country team: "fully implement the judgment of the African Court on Human and Peoples’ Rights"
 
-**Assessment:** The National Action Plan for Persons with Albinism (2024/25-2028/29) was adopted and 71 attack cases were prosecuted; the UN country team asks for stronger implementation and for the African Court judgment to be implemented.
+**Assessment:** The National Action Plan for Persons with Albinism (2024/25-2028/29) was adopted and 71 attack cases were prosecuted; the UN country team calls for stronger implementation and for the African Court judgment to be implemented.
 
 ### Recommendation 145.28 (Adopt a national strategy against radicalisation and violent extremism)
 
@@ -874,7 +874,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -1269,7 +1269,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/TZA/1), para. 63 — United Republic of Tanzania: "Tanzania hosted 164,901 refugees in partnership with UNHCR and their country of origin"
 - UN Compilation (A/HRC/WG.6/53/TZA/2), para. 56 — United Nations country team: "comply with the principle of non-refoulement in the implementation of the tripartite agreement on the repatriation of Burundian refugees"
 
-**Assessment:** Tanzania hosts 164,901 refugees with UNHCR; the UN country team asks that non-refoulement be respected in the Burundi tripartite repatriation.
+**Assessment:** Tanzania hosts 164,901 refugees with UNHCR; the UN country team recommendations that non-refoulement be respected in the Burundi tripartite repatriation.
 
 ---
 

@@ -7,6 +7,7 @@ Assessment of Thailand's implementation of the 278 recommendations received in t
 - **National Report** — A/HRC/WG.6/53/THA/1
 - **UN Compilation** — A/HRC/WG.6/53/THA/2, OHCHR
 - **Stakeholders' Summary** — A/HRC/WG.6/53/THA/3, OHCHR
+- **State mid-term report** — Thailand, mid-term update 2022 - May 2024, OHCHR website
 
 Grades: **A** largely satisfactory · **B** partially satisfactory · **C** not satisfactory / no relevant action · **D** no information · **E** measures contrary to, or rejection of, the recommendation.
 
@@ -17,13 +18,13 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 | Grade | Count | Share |
 |---|---:|---:|
 | **A** — Largely implemented / action largely satisfactory | 28 | 10% |
-| **B** — Partially implemented / steps taken, further action needed | 141 | 51% |
+| **B** — Partially implemented / steps taken, further action needed | 150 | 54% |
 | **C** — Not implemented / no relevant action taken | 82 | 29% |
-| **D** — No information available on implementation | 26 | 9% |
+| **D** — No information available on implementation | 17 | 6% |
 | **E** — Contrary measures taken, or recommendation rejected | 1 | 0% |
 | **Total** | 278 | 100% |
 
-**Partial implementation (B)** is the dominant outcome (141 of 278 asks), and Thailand adopted the largest number of new laws and plans of the 13 countries: the Marriage Equality Act (in force 23 January 2025, which also raised the marriage age to 18, **A**), the Prevention and Suppression of Torture and Enforced Disappearance Act (2023, **A**), ratification of the Convention on Enforced Disappearance (2024, **A**), a complete ban on corporal punishment of children in all settings (March 2025, **A**), restoration of the NHRCT to A status (2022, **A**), the Personal Data Protection Act (**A**), criminalisation of sexual harassment (December 2025), the Ethnic Groups Act (September 2025), a stateless-persons fast-track (121,471 granted status) and a National Referral Mechanism for trafficking. **No relevant action (C)** persists on lèse-majesté, sedition, defamation and computer-crime laws (HRW counts at least 1,997 people prosecuted since 2014), the death penalty, OP-CAT and ILO Conventions 87 and 98, refugee law, an anti-discrimination law (still a draft) and the Anti-SLAPP bill (still a draft). 26 asks are **D**, including all asks on the non-profit organisations bill, COVID-19 measures and sexual education. The one **contrary measure (E)** is the continued return of refugees: a mass expulsion of asylum-seekers to Myanmar on 25 June 2024 and the return of 40 Uyghur men in February 2025.
+**Partial implementation (B)** is the dominant outcome (141 of 278 recommendations), and Thailand adopted the largest number of new laws and plans of the 13 countries: the Marriage Equality Act (in force 23 January 2025, which also raised the marriage age to 18, **A**), the Prevention and Suppression of Torture and Enforced Disappearance Act (2023, **A**), ratification of the Convention on Enforced Disappearance (2024, **A**), a complete ban on corporal punishment of children in all settings (March 2025, **A**), restoration of the NHRCT to A status (2022, **A**), the Personal Data Protection Act (**A**), criminalisation of sexual harassment (December 2025), the Ethnic Groups Act (September 2025), a stateless-persons fast-track (121,471 granted status) and a National Referral Mechanism for trafficking. **No relevant action (C)** persists on lèse-majesté, sedition, defamation and computer-crime laws (HRW counts at least 1,997 people prosecuted since 2014), the death penalty, OP-CAT and ILO Conventions 87 and 98, refugee law, an anti-discrimination law (still a draft) and the Anti-SLAPP bill (still a draft). 26 recommendations are **D**, including all recommendations on the non-profit organisations bill, COVID-19 measures and sexual education. The one **contrary measure (E)** is the continued return of refugees: a mass expulsion of asylum-seekers to Myanmar on 25 June 2024 and the return of 40 Uyghur men in February 2025.
 
 ## Assessment by theme
 
@@ -115,7 +116,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/THA/1), para. 89 — Thailand: "enacted the Prevention and Suppression of Torture and Enforced Disappearance Act, B.E. 2565 (2022), which entered into force on 26 February 2023"
 - UN Compilation (A/HRC/WG.6/53/THA/2), para. 11 — Committee against Torture: "welcomed the adoption of the Prevention and Suppression of Torture and Enforced Disappearance Act B.E. 2565 (2022)"
 
-**Assessment:** The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023; the Committee against Torture asks for fuller conformity with the Convention.
+**Assessment:** The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023; the Committee against Torture calls for fuller conformity with the Convention.
 
 ### Recommendations 51.3, 51.73 (Criminalise torture and enforced disappearance and prevent ill-treatment)
 
@@ -153,7 +154,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - UN Compilation (A/HRC/WG.6/53/THA/2), para. 11 — Committee against Torture: "ensuring that the list of purposes for torture contained in the Act was established as illustrative, rather than exhaustive"
 - UN Compilation (A/HRC/WG.6/53/THA/2), para. 17 — Committee against Torture: "authorities routinely failed to carry out credible investigations except in a few high-profile cases that received media attention"
 
-**Assessment:** The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023; the Committee against Torture asks that the list of torture purposes be illustrative and superior responsibility and amnesty exemptions be clarified, and reports credible investigations are rare.
+**Assessment:** The Prevention and Suppression of Torture and Enforced Disappearance Act entered into force on 26 February 2023; the Committee against Torture requests that the list of torture purposes be illustrative and superior responsibility and amnesty exemptions be clarified, and reports credible investigations are rare.
 
 ### Recommendation 51.9 (Ratify OP-CAT and legislate against torture and enforced disappearance)
 
@@ -375,16 +376,17 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 
 ## Freedom of association
 
-### Recommendations 52.18-52.26 (Revise the draft law on non-profit organisations)
+### Recommendations 52.18-52.26 (Revise or withdraw the draft law on non-profit organisations)
 
 *9 of 278 — position: 8 supported, 1 noted.*
 
-**Grade: D — No cooperation with the Committee**
+**Grade: B — Information/action partially satisfactory**
 
 **Evidence:**
-- *No specific information in the evidence base.*
+- State mid-term report (mid-term report), para. 3.10.1 — Thailand: "held several public consultations and conducted an impact assessment"
+- State mid-term report (mid-term report), para. 3.10.1 — Thailand: "the said Bill has so far not been re-submitted to cabinet for consideration"
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** Thailand's mid-term report states that the Government noted the concerns, held public consultations and conducted an impact assessment, and that under the new Government the Bill has not been re-submitted to Cabinet; no revised text exists.
 
 ---
 
@@ -399,7 +401,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -445,7 +447,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 52.77 (Draft and implement the Ethnic Groups Act in line with international standards)
 
@@ -508,7 +510,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask; CEDAW's Working Group reports bullying of LBTIQ+ students.
+**Assessment:** The documents contain no information on this recommendation; CEDAW's Working Group reports bullying of LBTIQ+ students.
 
 ### Recommendation 52.29 (Enact a gender identity, gender expression and sex characteristics act)
 
@@ -547,7 +549,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/THA/1), para. 9 — Thailand: "Approved by the Cabinet on 20 December 2022"
 - UN Compilation (A/HRC/WG.6/53/THA/2), para. 14 — Committee against Torture: "welcomed the adoption of the Fifth National Human Rights Plan (2023–2027)"
 
-**Assessment:** The 5th National Human Rights Plan (2023-2027), the UPR National Action Plan (Cabinet, 20 December 2022) and sectoral plans were adopted; the UN country team asks for updated, resourced plans.
+**Assessment:** The 5th National Human Rights Plan (2023-2027), the UPR National Action Plan (Cabinet, 20 December 2022) and sectoral plans were adopted; the UN country team calls for updated, resourced plans.
 
 ### Recommendation 51.30 (Implement and renew the plan for coexistence in a multicultural society)
 
@@ -569,7 +571,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -612,7 +614,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - UN Compilation (A/HRC/WG.6/53/THA/2), para. 16 — Committee against Torture: "courts continued to impose the death penalty, including for drug-related and other offences"
 - Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 6 — NHRCT: "adopt a time-bound action plan with clear targets and measurable indicators to advance the gradual abolition of the death penalty"
 
-**Assessment:** The National Report is silent on the death penalty; courts continue to impose it, including for drug offences, and the NHRCT asks for a time-bound abolition plan.
+**Assessment:** The National Report is silent on the death penalty; courts continue to impose it, including for drug offences, and the NHRCT calls for a time-bound abolition plan.
 
 ### Recommendations 52.35, 52.71 (Public awareness campaigns on alternatives to the death penalty)
 
@@ -623,7 +625,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -661,7 +663,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -678,7 +680,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - Stakeholders' Summary (A/HRC/WG.6/53/THA/3), para. 35 — FLD: "the issuance of cumulative sentences by the courts had significantly closed civic space"
 - UN Compilation (A/HRC/WG.6/53/THA/2), para. 24 — United Nations country team: "restrictions on freedom of peaceful assembly, particularly under the Public Assembly Act"
 
-**Assessment:** No amendment of sections 112, 116, defamation provisions or the Computer Crime Act is reported; HRW counts at least 1,997 people prosecuted since 2014 for expression and assembly, FLD reports cumulative sentences, and the UN country team reports prosecutions under the Public Assembly Act. Thailand reports only anti-SLAPP measures (see separate asks).
+**Assessment:** No amendment of sections 112, 116, defamation provisions or the Computer Crime Act is reported; HRW counts at least 1,997 people prosecuted since 2014 for expression and assembly, FLD reports cumulative sentences, and the UN country team reports prosecutions under the Public Assembly Act. Thailand reports only anti-SLAPP measures (see separate recommendations).
 
 ---
 
@@ -811,7 +813,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/THA/1), para. 31 — Thailand: "integrated medical innovations to enhance access to health services, including telemedicine, telepharmacy, and digital health data management"
 - UN Compilation (A/HRC/WG.6/53/THA/2), para. 36 — United Nations country team: "ensure equitable access to affordable, quality healthcare for migrants, displaced persons, stateless persons and persons under screening in the national screening mechanism"
 
-**Assessment:** The universal health coverage scheme was extended to the '30 Baht Treats Everywhere' model, a health insurance system for non-Thai persons (HINT) was developed with WHO, and telemedicine and village health volunteer services were expanded; the UN country team still asks for equitable access for migrants and stateless persons.
+**Assessment:** The universal health coverage scheme was extended to the '30 Baht Treats Everywhere' model, a health insurance system for non-Thai persons (HINT) was developed with WHO, and telemedicine and village health volunteer services were expanded; the UN country team still calls for equitable access for migrants and stateless persons.
 
 ### Recommendations 52.69, 52.70, 52.119, 52.120, 52.122 (COVID-19 response, mental health, sex workers and detained migrants' health)
 
@@ -822,7 +824,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask; JS50 reports structural limits in mental health services.
+**Assessment:** The documents contain no information on this recommendation; JS50 reports structural limits in mental health services.
 
 ---
 
@@ -837,7 +839,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 51.124 (Access to sexual and reproductive health services, including for migrant workers)
 
@@ -892,7 +894,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -920,7 +922,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 51.144 (Develop a national plan against sexual and gender-based violence)
 
@@ -1020,7 +1022,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 

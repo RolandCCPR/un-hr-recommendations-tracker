@@ -23,7 +23,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 | **E** — Contrary measures taken, or recommendation rejected | 16 | 7% |
 | **Total** | 234 | 100% |
 
-**Partial implementation (B)** is the dominant outcome (145 of 234 asks), and Tajikistan gives a detailed National Report: the Equality and Elimination of All Forms of Discrimination Act (2022, **A**), the National Human Rights Strategy to 2038 (2023, **A**), a National Programme on the Protection of Children's Rights 2026-2030 (**A**), a complete ban on corporal punishment (2024), a new disability-rights Act (June 2026), a 92% budget increase for the Commissioner for Human Rights, amendments to the Domestic Violence Act and a State Programme 2025-2030, trafficking and child-labour plans, and amendments to the Criminal Code on online expression (May 2025). **No relevant action (C)** persists on criminalising domestic violence (still in the draft Criminal Code), the Convention on the Rights of Persons with Disabilities and other ratifications, torture investigations, religious freedom, LGBTI protection and a standing invitation to special procedures. **Contrary measures (E)** apply to 16 asks on civil society, media and political prisoners: the UN reports 700 NGOs liquidated in 18 months, about 20 journalists and bloggers imprisoned since 2022 and websites blocked.
+**Partial implementation (B)** is the dominant outcome (145 of 234 recommendations), and Tajikistan gives a detailed National Report: the Equality and Elimination of All Forms of Discrimination Act (2022, **A**), the National Human Rights Strategy to 2038 (2023, **A**), a National Programme on the Protection of Children's Rights 2026-2030 (**A**), a complete ban on corporal punishment (2024), a new disability-rights Act (June 2026), a 92% budget increase for the Commissioner for Human Rights, amendments to the Domestic Violence Act and a State Programme 2025-2030, trafficking and child-labour plans, and amendments to the Criminal Code on online expression (May 2025). **No relevant action (C)** persists on criminalising domestic violence (still in the draft Criminal Code), the Convention on the Rights of Persons with Disabilities and other ratifications, torture investigations, religious freedom, LGBTI protection and a standing invitation to special procedures. **Contrary measures (E)** apply to 16 recommendations on civil society, media and political prisoners: the UN reports 700 NGOs liquidated in 18 months, about 20 journalists and bloggers imprisoned since 2022 and websites blocked.
 
 ## Assessment by theme
 
@@ -39,7 +39,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/TJK/1), para. 62 — Tajikistan: "New versions of the Counter-Terrorism Act of December 2021"
 - UN Compilation (A/HRC/WG.6/53/TJK/2), para. 31 — United Nations country team: "review counter-terrorism legislation to align with international standards"
 
-**Assessment:** New counter-terrorism and counter-extremism acts, a 2026 strategy and the May 2025 amendments were adopted; the UN country team and Special Rapporteurs still ask for a review of definitions.
+**Assessment:** New counter-terrorism and counter-extremism acts, a 2026 strategy and the May 2025 amendments were adopted; the UN country team and Special Rapporteurs still call for a review of definitions.
 
 ---
 
@@ -121,7 +121,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - UN Compilation (A/HRC/WG.6/53/TJK/2), para. 14 — Special Rapporteur on freedom of religion or belief: "review the Freedom of Conscience and Religious Associations Act and the Act on Regulating Traditions, Celebrations and Rituals with a view to bringing them into compliance with international standards"
 - Stakeholders' Summary (A/HRC/WG.6/53/TJK/3), para. 63 — ECLJ: "Baptist, Evangelical, and Pentecostal churches being raided, threatened, fined, and their members arrested"
 
-**Assessment:** The 2022 amendments to the Freedom of Conscience and Religious Associations Act restrict founders and staff; the Special Rapporteur and civil society ask for review and report raids on minority churches.
+**Assessment:** The 2022 amendments to the Freedom of Conscience and Religious Associations Act restrict founders and staff; the Special Rapporteur and civil society call for review and report raids on minority churches.
 
 ### Recommendations 123.55, 123.74, 123.114 (Prevent and respond to domestic violence)
 
@@ -216,7 +216,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 123.54 (Address persecution of dissent and lawyers)
 
@@ -239,7 +239,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - Stakeholders' Summary (A/HRC/WG.6/53/TJK/3), para. 12 — JS6: "promptly adopt legislation recognizing the right to conscientious objection to military service"
 
-**Assessment:** No alternative service is reported; JS6 asks for legislation recognising conscientious objection.
+**Assessment:** No alternative service is reported; JS6 calls for legislation recognising conscientious objection.
 
 ### Recommendation 123.72 (Strengthen the Office of the Commissioner for Human Rights)
 
@@ -286,7 +286,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -339,7 +339,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - UN Compilation (A/HRC/WG.6/53/TJK/2), para. 2 — United Nations country team: "the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
 - National Report (A/HRC/WG.6/53/TJK/1), para. 72 — Tajikistan: "An interdepartmental working group tasked with examining the social and legal aspects of the abolition of the death penalty continues its work"
 
-**Assessment:** Tajikistan has not ratified the Protocol; it keeps its moratorium and an inter-departmental working group on abolition; JS2 asks for a timeline.
+**Assessment:** Tajikistan has not ratified the Protocol; it keeps its moratorium and an inter-departmental working group on abolition; JS2 calls for a timeline.
 
 ### Recommendations 123.42-123.44 (Ratify outstanding international instruments)
 
@@ -373,7 +373,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 123.26 (Investigate and prosecute torture and ill-treatment)
 
@@ -396,7 +396,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - Stakeholders' Summary (A/HRC/WG.6/53/TJK/3), para. 18 — JS2: "publicize a timeline for abolishing the death penalty"
 
-**Assessment:** No timeline is reported; JS2 asks for one with completion no later than 2027.
+**Assessment:** No timeline is reported; JS2 calls for one with completion no later than 2027.
 
 ### Recommendation 123.41 (Ratify the Convention on Enforced Disappearance)
 
@@ -407,7 +407,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 123.131 (Awareness-raising and public debate on the death penalty)
 
@@ -418,7 +418,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -515,7 +515,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 123.99 (Prevent and respond to domestic violence)
 
@@ -572,7 +572,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/TJK/1), para. 92 — Tajikistan: "amendments were made to the Bar and Advocacy Act to strengthen the legal status and independence of lawyers"
 - Stakeholders' Summary (A/HRC/WG.6/53/TJK/3), para. 47 — JS3: "ensure the independence of the judicial system and judges from the executive branch"
 
-**Assessment:** The Legal Aid Centre moved to full State funding (2024), the Bar and Advocacy Act was amended (January 2024) and judicial training was expanded; JS3 asks for judicial independence from the executive.
+**Assessment:** The Legal Aid Centre moved to full State funding (2024), the Bar and Advocacy Act was amended (January 2024) and judicial training was expanded; JS3 calls for judicial independence from the executive.
 
 ---
 
@@ -589,7 +589,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/TJK/1), para. 9 — Tajikistan: "has been accredited with category B status"
 - UN Compilation (A/HRC/WG.6/53/TJK/2), para. 10 — United Nations country team: "revise the Law on the Commissioner for Human Rights to ensure full compliance with the principles relating to the status of national institutions"
 
-**Assessment:** The Commissioner's budget rose 92% (2022-2025), staff reached 58 and its regional offices moved to the national budget; the institution remains at B status and the UN country team asks for revision of its law.
+**Assessment:** The Commissioner's budget rose 92% (2022-2025), staff reached 58 and its regional offices moved to the national budget; the institution remains at B status and the UN country team calls for revision of its law.
 
 ### Recommendation 123.82 (Strengthen the Office of the Commissioner for Human Rights)
 
@@ -643,7 +643,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - UN Compilation (A/HRC/WG.6/53/TJK/2), para. 14 — Special Rapporteur on freedom of religion or belief: "review the Freedom of Conscience and Religious Associations Act and the Act on Regulating Traditions, Celebrations and Rituals with a view to bringing them into compliance with international standards"
 - Stakeholders' Summary (A/HRC/WG.6/53/TJK/3), para. 63 — ECLJ: "Baptist, Evangelical, and Pentecostal churches being raided, threatened, fined, and their members arrested"
 
-**Assessment:** The 2022 amendments to the Freedom of Conscience and Religious Associations Act restrict founders and staff; the Special Rapporteur and civil society ask for review and report raids on minority churches.
+**Assessment:** The 2022 amendments to the Freedom of Conscience and Religious Associations Act restrict founders and staff; the Special Rapporteur and civil society call for review and report raids on minority churches.
 
 ### Recommendation 123.90 (Adopt comprehensive anti-discrimination legislation)
 
@@ -865,7 +865,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/TJK/1), para. 82 — Tajikistan: "The Penal Correction System Reform Strategy in the period up to 2030 is being implemented"
 - Stakeholders' Summary (A/HRC/WG.6/53/TJK/3), para. 34 — JS1: "advised the government to allow independent monitoring of all detention facilities"
 
-**Assessment:** The Commissioner's monitoring group was enlarged to 30 members including civil society, and a Penal Correction System Reform Strategy to 2030 is being implemented; JS1 asks for access for all independent monitors.
+**Assessment:** The Commissioner's monitoring group was enlarged to 30 members including civil society, and a Penal Correction System Reform Strategy to 2030 is being implemented; JS1 calls for access for all independent monitors.
 
 ### Recommendation 123.119 (Dialogue with civil society on prison reform)
 
@@ -1009,7 +1009,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 123.164 (Review counter-extremism legislation)
 
@@ -1064,7 +1064,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - Stakeholders' Summary (A/HRC/WG.6/53/TJK/3), para. 97 — JS3: "put an end to the practice of extrajudicial expulsions"
 
-**Assessment:** No measure is reported; JS3 asks to end extrajudicial expulsions.
+**Assessment:** No measure is reported; JS3 calls to end extrajudicial expulsions.
 
 ---
 
@@ -1128,7 +1128,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - National Report (A/HRC/WG.6/53/TJK/1), para. 138 — Tajikistan: "More than 15% of households are covered by the programme"
 - UN Compilation (A/HRC/WG.6/53/TJK/2), para. 58 — Committee on Economic, Social and Cultural Rights: "develop a social security system that ensured universal coverage"
 
-**Assessment:** A Social Entrepreneurship Act entered into force (January 2025), targeted social assistance covers more than 15% of households and day-care centres for persons with disabilities reached 59; CESCR asks for universal coverage.
+**Assessment:** A Social Entrepreneurship Act entered into force (January 2025), targeted social assistance covers more than 15% of households and day-care centres for persons with disabilities reached 59; CESCR calls for universal coverage.
 
 ---
 
@@ -1313,7 +1313,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 123.224 (Register all children at birth)
 
@@ -1358,7 +1358,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - UN Compilation (A/HRC/WG.6/53/TJK/2), para. 98 — United Nations country team: "ensure quality refugee status determination"
 - National Report (A/HRC/WG.6/53/TJK/1), para. 204 — Tajikistan: "the repeal of the provision in article 499 of the Code of Administrative Offences on the mandatory expulsion of refugees"
 
-**Assessment:** No such regulation is reported; the UN country team asks for quality refugee status determination and fair access to the territory.
+**Assessment:** No such regulation is reported; the UN country team calls for quality refugee status determination and fair access to the territory.
 
 ---
 

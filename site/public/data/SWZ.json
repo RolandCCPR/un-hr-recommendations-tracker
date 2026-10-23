@@ -2,7 +2,2574 @@
  "a3": "SWZ",
  "name": "Eswatini",
  "num": 748,
- "upr": null,
+ "upr": {
+  "meta": {
+   "mechanism": "upr",
+   "cycle": "39th session (2021)",
+   "co_symbol": "A/HRC/49/14",
+   "review": "November 2026 (session 53)",
+   "sources": [
+    "**National Report** — A/HRC/WG.6/53/SWZ/1",
+    "**UN Compilation** — A/HRC/WG.6/53/SWZ/2",
+    "**Stakeholders' Summary** — A/HRC/WG.6/53/SWZ/3",
+    "**State mid-term report** for the third cycle (2022-2024)"
+   ],
+   "headline": "**Partial implementation (B)** is the dominant outcome (110 of 222 recommendations) alongside a large block of **No relevant action (C)** (93 recommendations). B reflects concrete measures in the National Report: the Commission on Human Rights and Public Administration Bill introduced in Parliament (2026), the Legal Aid Act (2025), a reconstituted Judicial Service Commission, the National Disability Plan of Action 2024-2028 and a National Disability Advisory Council, a GBV Coordination Mechanism, the Sexual, Reproductive, Maternal, Newborn, Child, Adolescent Health and Nutrition Strategy 2024-2028, education reforms (primary dropout down from 6.5% to 4.8%) and higher social grants. C persists on ratification (OP-CAT, OP-CEDAW, the Second Optional Protocol and others), the death penalty, same-sex relations and anti-discrimination law for sexual orientation and gender identity, corporal punishment, the Family Law Bills (the Marriages Bill is still not enacted, so the marriage age stays at 16), political parties, torture and accountability for the 2021 unrest and the killing of Thulani Maseko. **Contrary measures (E)** apply to seven recommendations: the Government obtained a Supreme Court judgment (August 2024) upholding the Suppression of Terrorism Act and the Sedition and Subversive Activities Act and made no reform, and the UN reports excessive force against protests. The National Report refers water and sanitation, gender-based violence and inclusive education to the State mid-term report (2022-2024), which was also used: it records rural water schemes, solar-powered pumps and disability-accessible water facilities (**B** on water and sanitation).",
+   "note": "",
+   "n": 222,
+   "grade_dist": {
+    "A": 5,
+    "B": 110,
+    "C": 93,
+    "D": 7,
+    "E": 7
+   },
+   "score": 3.45
+  },
+  "themes": [
+   {
+    "theme": "Ratification of & accession to international instruments",
+    "blocks": [
+     {
+      "paras": "118.1-118.20, 118.22-118.26, 118.28-118.31",
+      "n": 29,
+      "summary": "Ratify outstanding international instruments",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report states that ratification of OP-CAT, OP-CEDAW and the Genocide Convention 'remain under active consideration'; no ratification is reported and Amnesty confirms the instruments are unratified.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 10 — Eswatini: \"ratification and accession to outstanding treaties remain under active consideration within the national consultative framework\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 2 — Amnesty International: \"Eswatini had still not ratified OP-CAT, the ICCPR-OP 2, the OP-CEDAW, and the ICRMW\""
+      ],
+      "position": "16 noted, 13 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.1",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": "Ratify the remaining core international human rights treaties"
+       },
+       {
+        "paragraph": "118.2",
+        "by": "Luxembourg",
+        "position": "noted",
+        "text": "Ratify the optional protocols to the two main international human rights covenants, as well as the Rome Statute of the International Criminal Court"
+       },
+       {
+        "paragraph": "118.3",
+        "by": "Malawi",
+        "position": "noted",
+        "text": "Progressively ratify key and relevant international human rights instruments"
+       },
+       {
+        "paragraph": "118.4",
+        "by": "Nepal",
+        "position": "noted",
+        "text": "Consider the ratification of the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty (Chile); Consider ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "118.5",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Consider the possibility of ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, establishing deadlines in this regard"
+       },
+       {
+        "paragraph": "118.6",
+        "by": "Zambia",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, as recommended and accepted by Eswatini at its second universal periodic review"
+       },
+       {
+        "paragraph": "118.7",
+        "by": "Argentina; Côte d’Ivoire; Namibia; Togo",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "118.8",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, and commute death sentences to prison sentences"
+       },
+       {
+        "paragraph": "118.9",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty, and take all necessary measures to abolish the death penalty"
+       },
+       {
+        "paragraph": "118.10",
+        "by": "Portugal",
+        "position": "noted",
+        "text": "Abolish the death penalty and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "118.11",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Consider the ratification of the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "118.12",
+        "by": "South Sudan",
+        "position": "supported",
+        "text": "Finalize the ratification of the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women (Democratic Republic of the Congo); Speed up the process of the ratification to the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "118.13",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Intensify efforts to ratify outstanding international treaties and protocols, including the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "118.14",
+        "by": "Mozambique",
+        "position": "supported",
+        "text": "Accelerate the ongoing national process to ratify the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "118.15",
+        "by": "Costa Rica; Finland; Namibia",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "118.16",
+        "by": "Bahamas; Nigeria",
+        "position": "supported",
+        "text": "Ratify the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "118.17",
+        "by": "Chile",
+        "position": "supported",
+        "text": ". Consider the ratification of the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "118.18",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Finalize the ratification of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Democratic Republic of the Congo); Speed up the process of the ratification of the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (South Sudan); Accelerate the ratification of the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "118.19",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Intensify efforts to ratify outstanding international treaties and protocols, including the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "118.20",
+        "by": "Burkina Faso; Costa Rica; Czechia; Denmark; Kenya; Mali; Niger; Sierra Leone; Zambia",
+        "position": "supported",
+        "text": "Ratify the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       },
+       {
+        "paragraph": "118.22",
+        "by": "Mauritania",
+        "position": "noted",
+        "text": "Consider ratifying the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "118.23",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families"
+       },
+       {
+        "paragraph": "118.24",
+        "by": "Armenia",
+        "position": "noted",
+        "text": "Consider accession to the International Convention for the Protection of All Persons from Enforced Disappearance"
+       },
+       {
+        "paragraph": "118.25",
+        "by": "France",
+        "position": "noted",
+        "text": "Ratify the International Convention for the Protection of All Persons from Enforced Disappearance, signed in 2007"
+       },
+       {
+        "paragraph": "118.26",
+        "by": "Armenia",
+        "position": "supported",
+        "text": "Consider accession to the Convention on the Prevention and Punishment of the Crime of Genocide"
+       },
+       {
+        "paragraph": "118.28",
+        "by": "Rwanda",
+        "position": "supported",
+        "text": "Ratify the Convention on the Prevention and Punishment of the Crime of Genocide"
+       },
+       {
+        "paragraph": "118.29",
+        "by": "Estonia",
+        "position": "noted",
+        "text": "Accede to the Rome Statute of the International Criminal Court and implement it into national legislation"
+       },
+       {
+        "paragraph": "118.30",
+        "by": "Maputo Protocol; Sierra Leone",
+        "position": "supported",
+        "text": "Ratify the Protocol to the African Charter on Human and Peoples’ Rights on the Rights of Women in Africa"
+       },
+       {
+        "paragraph": "118.31",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Ratify and fully align its national legislation with all the obligations under the Rome Statute of the International Criminal Court, as previously recommended"
+       }
+      ]
+     },
+     {
+      "paras": "118.27",
+      "n": 1,
+      "summary": "Ratify the statelessness conventions",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.27",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Ratify the Convention relating to the Status of Stateless Persons and the Convention on the Reduction of Statelessness"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Prohibition of torture & ill-treatment (including cruel, inhuman or degrading treatment)",
+    "blocks": [
+     {
+      "paras": "118.21, 118.89",
+      "n": 2,
+      "summary": "Prevent torture by law enforcement: training and complaints",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "CHRPA trained more than 2,000 security personnel, the Police Academy trained 353 officers and 1,189 officers received human-rights refresher courses; OP-CAT is still not ratified and investigations are internal.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 16 — Eswatini: \"The CHRPA trained more than 2,000 security personnel on human rights-compliant policing\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 36 — Eswatini: \"1,189 officers received refresher courses with human rights components\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 2 — Amnesty International: \"Eswatini had still not ratified OP-CAT, the ICCPR-OP 2, the OP-CEDAW, and the ICRMW\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.21",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Accede to the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and take the necessary steps to prevent torture and other human rights violations by law enforcement and security services, including by ensuring impartial investigations of all allegations, prosecuting perpetrators and implementing human rights training programmes"
+       },
+       {
+        "paragraph": "118.89",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Ensure that impartial investigations are carried out, that the perpetrators are prosecuted and that human rights training is provided, in accordance with Eswatini’s obligations under the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment"
+       }
+      ]
+     },
+     {
+      "paras": "118.79, 118.88",
+      "n": 2,
+      "summary": "Investigate torture and deaths in custody; adopt a torture law",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Eswatini has no specific torture law and relies on internal complaints units (38 complaints against police, 2021-2025); JS3 and Amnesty report alleged torture of detainees held for political expression.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 32 — Eswatini: \"Eswatini does not have a specific torture law\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 25 — JS3: \"incidents of alleged torture and other cruel, inhuman or degrading treatment of detainees, particularly of those held for expressing political opinions or linked to protest activity\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.79",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure that all deaths in custody and cases of torture and ill-treatment are promptly investigated, with the perpetrators prosecuted, convicted and held to account"
+       },
+       {
+        "paragraph": "118.88",
+        "by": "France",
+        "position": "supported",
+        "text": "Adopt a specific law to prohibit torture and other cruel, inhuman or degrading treatment or punishment that is in accordance with the provisions of international law on the subject"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation with human rights mechanisms & requests for technical assistance",
+    "blocks": [
+     {
+      "paras": "118.32, 118.37",
+      "n": 2,
+      "summary": "Engage with human rights mechanisms and request OHCHR technical support",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Eswatini received OHCHR and UNCO technical assistance for its NMRF, hosted the African Commission and the African Committee of Experts on the Rights of the Child and benefited from the UPR Voluntary Fund.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 11 — Eswatini: \"Eswatini received technical assistance from the OHCHR in collaboration with the UNCO to strengthen its capacity to deliver on its mandate\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 13 — Eswatini: \"hosted a Promotion Mission of the African Committee of Experts on the Rights and Welfare of the Child in July 2023, the African Commission on Human and Peoples' Rights in July 2025\""
+      ],
+      "position": "2 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.32",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Request technical support from the Office of the United Nations High Commissioner for Human Rights to advance in the ratification of the main international human rights instruments to which the country is not yet a party, and ensure the alignment of its national legal system with the obligations derived from the ratified human rights treaties"
+       },
+       {
+        "paragraph": "118.37",
+        "by": "Niger",
+        "position": "supported",
+        "text": "Pursue collaborative efforts with human rights mechanisms"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Treaty Bodies",
+    "blocks": [
+     {
+      "paras": "118.33",
+      "n": 1,
+      "summary": "Submit reports to treaty bodies",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Eswatini submitted its outstanding initial reports under ICESCR and CAT and is working on the CERD periodic report.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 11 — Eswatini: \"Submitted outstanding initial reports under the ICESCR and CAT and is currently working on the periodic report on CERD\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.33",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Intensify efforts to submit and discuss human rights reports to treaty bodies"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Cooperation & Follow up with Special Procedures",
+    "blocks": [
+     {
+      "paras": "118.34-118.36",
+      "n": 3,
+      "summary": "Extend a standing invitation to special procedures",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.34",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Consider extending a standing invitation to all the special procedure mandate holders of the Human Rights Council, as previously recommended"
+       },
+       {
+        "paragraph": "118.35",
+        "by": "Montenegro",
+        "position": "noted",
+        "text": "Issue a standing invitation to the special procedure mandate holders"
+       },
+       {
+        "paragraph": "118.36",
+        "by": "Ukraine",
+        "position": "noted",
+        "text": ". Extend a standing invitation to the special procedures of the Human Rights Council"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Scope of international obligations",
+    "blocks": [
+     {
+      "paras": "118.38, 118.39, 118.44",
+      "n": 3,
+      "summary": "Domesticate international instruments and align the human rights framework",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Eswatini enacted the Computer Crime and Data Protection Acts (2022), the Disaster Risk Management Act (2025) and the Legal Aid Act (2025), and received Commonwealth support on domestication.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 12 — Eswatini: \"Eswatini further received technical assistance from the Commonwealth on better cooperation with international human rights mechanisms, domestication of treaties\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.38",
+        "by": "Egypt",
+        "position": "supported",
+        "text": "Continue efforts to incorporate the international instruments ratified by Eswatini into domestic laws"
+       },
+       {
+        "paragraph": "118.39",
+        "by": "Mozambique",
+        "position": "supported",
+        "text": "Take measures to guarantee the implementation of all enacted legislation which domesticates the various human rights conventions ratified by the country"
+       },
+       {
+        "paragraph": "118.44",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Continue to take measures to bring the national human rights framework into line with the international human rights obligations of Eswatini"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "2030 Agenda & other voluntary commitments",
+    "blocks": [
+     {
+      "paras": "118.40",
+      "n": 1,
+      "summary": "Implement human rights mechanisms' recommendations related to the SDGs",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Recommendations were aligned with the SDGs, the National Development Plan and the Government Programme of Action, and Eswatini presented its third Voluntary National Review (July 2025).",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 14 — Eswatini: \"Eswatini aligned the recommendations emanating from the human rights mechanisms with the relevant Sustainable Development Goals\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.40",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Take into account and adopt concrete measures to implement the recommendations of the human rights mechanisms related to the Sustainable Development Goals"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Action Plans (or specific areas) / implementation plans",
+    "blocks": [
+     {
+      "paras": "118.41",
+      "n": 1,
+      "summary": "Approve the national strategy and plan of action on positive parenting",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "The National Strategy and Plan of Action on Positive Parenting 2023-2027 is the national roadmap and is being implemented.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 125 — Eswatini: \"National Strategy and Plan of Action on Positive Parenting 2023–2027\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.41",
+        "by": "Democratic Republic of the Congo",
+        "position": "supported",
+        "text": "Finalize the approval process for the national strategy and the action plan on positive parenting"
+       }
+      ]
+     },
+     {
+      "paras": "118.42",
+      "n": 1,
+      "summary": "Adopt national strategies and plans",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Strategy and Plan of Action on Positive Parenting 2023-2027 and the Government Programme of Action and National Development Plan 2023-2028 were adopted.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 125 — Eswatini: \"National Strategy and Plan of Action on Positive Parenting 2023–2027\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.42",
+        "by": "Mauritania",
+        "position": "supported",
+        "text": "Continue efforts within the framework of the strategic road map for the period 2018–2023 aimed at reviving the economy and achieving inclusive growth"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & poverty",
+    "blocks": [
+     {
+      "paras": "118.43, 118.132-118.135",
+      "n": 5,
+      "summary": "Reduce poverty, especially in rural areas",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The national poverty rate fell from 58.9% to 53.5%; the Regional Development Fund, the Agricultural Development Fund and youth funds were launched.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 74 — Eswatini: \"national poverty rate declined from 58.9% (2016/17) to 53.5%\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 76 — Eswatini: \"the Regional Development Fund (RDF) supported 107 agricultural projects to enhance productivity and food security\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.43",
+        "by": "Mozambique",
+        "position": "supported",
+        "text": "Continue with the efforts to promote and protect human rights for the population, particularly for vulnerable groups"
+       },
+       {
+        "paragraph": "118.132",
+        "by": "India",
+        "position": "supported",
+        "text": "Take concrete steps to address poverty with particular focus on people living in rural areas"
+       },
+       {
+        "paragraph": "118.133",
+        "by": "Libya",
+        "position": "supported",
+        "text": "Continue efforts to reduce poverty, combat hunger, and seek economic recovery and inclusive growth in line with the Sustainable Development Goals"
+       },
+       {
+        "paragraph": "118.134",
+        "by": "Sierra Leone",
+        "position": "supported",
+        "text": "Take steps to end extreme poverty, particularly in rural areas"
+       },
+       {
+        "paragraph": "118.135",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Take concrete steps to address poverty with particular focus on people living in rural areas"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "National Human Rights Institution (NHRI)",
+    "blocks": [
+     {
+      "paras": "118.45, 118.48-118.54, 118.56",
+      "n": 9,
+      "summary": "Establish an independent national human rights institution in line with the Paris Principles",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Commission on Human Rights and Public Administration Bill 2025 was introduced in Parliament (March 2026), but the Commission still lacks full independence and the Bill has gaps.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 15 — Eswatini: \"The Government is expediting efforts towards the enactment of the Commission on Human Rights and Public Administration Bill 2025\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 14 — El Hak: \"still lacked full functional and financial independence\""
+      ],
+      "position": "9 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.45",
+        "by": "the Paris Principles; Ukraine",
+        "position": "supported",
+        "text": "Establish an independent national human rights institution in line with the principles relating to the status of national institutions for the promotion and protection of human rights"
+       },
+       {
+        "paragraph": "118.48",
+        "by": "Djibouti",
+        "position": "supported",
+        "text": "Pursue the efforts to ensure the adequate functioning and full independence of the Commission on Human Rights and Public Administration, in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "118.49",
+        "by": "Haiti",
+        "position": "supported",
+        "text": "Take steps to fully operationalize the Commission on Human Rights and Public Administration with adequate financial resources and in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "118.50",
+        "by": "Montenegro",
+        "position": "supported",
+        "text": "Provide the Commission on Human Rights and Public Administration with sufficient independence and human and financial resources to fulfil its mandate, and establish an effective complaints mechanism, with reparation to victims"
+       },
+       {
+        "paragraph": "118.51",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Pursue the efforts already made, particularly by strengthening the Commission on Human Rights and Public Administration, its prerogatives and the resources allocated to it"
+       },
+       {
+        "paragraph": "118.52",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Consider implementing measures to upgrade the Commission on Human Rights and Public Administration to an A category institution in line with the Paris Principles"
+       },
+       {
+        "paragraph": "118.53",
+        "by": "Pakistan",
+        "position": "supported",
+        "text": "Expedite efforts for the finalization of the human rights and public administration bill, which should further strengthen the Commission on Human Rights and Public Administration"
+       },
+       {
+        "paragraph": "118.54",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Establish a national human rights institution in accordance with the Paris Principles"
+       },
+       {
+        "paragraph": "118.56",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Establish an independent and impartial national human rights institution, in accordance with the Paris Principles"
+       }
+      ]
+     },
+     {
+      "paras": "118.55",
+      "n": 1,
+      "summary": "Human rights in the law reform commission's work",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Law Reform Unit updated statutes (2023-2025) and researched constitutional provisions on estates and succession.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 17 — Eswatini: \"The Law Reform Unit has updated and revised statutes for the period 2023–2025\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.55",
+        "by": "United Arab Emirates",
+        "position": "supported",
+        "text": "Include human rights in the work of the commission to reform legislation, which is due to be established, according to paragraph 13 of the national report"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Legal & institutional reform",
+    "blocks": [
+     {
+      "paras": "118.46",
+      "n": 1,
+      "summary": "Strengthen national human rights mechanisms through the proposed law",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Commission on Human Rights and Public Administration Bill was introduced in Parliament in March 2026.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 15 — Eswatini: \"The Bills were introduced for debate in Parliament in March 2026 and April 2025, respectively.\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.46",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Continue to strengthen national human rights mechanisms, including through the proposed law on human rights and public administration"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Data collection & research",
+    "blocks": [
+     {
+      "paras": "118.47",
+      "n": 1,
+      "summary": "Strengthen national data systems",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A revised Statistics Bill and the ESDS 2026-2028 were prepared and phase 1 of the 2027 census was completed.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 82 — Eswatini: \"adopted the Eswatini Strategy for the Development of Statistics (ESDS) 2026-2028\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.47",
+        "by": "Burkina Faso",
+        "position": "supported",
+        "text": "Strengthen national data systems to support the National Strategy for Sustainable Development and Inclusive Growth as well as the 2030 Agenda"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Business & Human Rights",
+    "blocks": [
+     {
+      "paras": "118.57",
+      "n": 1,
+      "summary": "National action plan on human rights, including business",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.57",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Consider developing a national action plan on human rights, including on the business sector"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Good governance & corruption",
+    "blocks": [
+     {
+      "paras": "118.58",
+      "n": 1,
+      "summary": "Fund the Anti-Corruption Commission",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report states that efforts to mobilise adequate resources 'remain ongoing'; JS3 reports no significant arrests and no whistleblower protection law.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 20 — Eswatini: \"efforts to mobilise adequate resources remain ongoing\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 53 — JS3: \"no significant arrests had been made, signalling a persistent lack of political will to empower the Anti-Corruption Commission\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.58",
+        "by": "Lesotho",
+        "position": "supported",
+        "text": "Continue efforts to solicit funds for the functioning of the Anti-corruption Commission"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Equality & non-discrimination",
+    "blocks": [
+     {
+      "paras": "118.60, 118.62, 118.64, 118.66, 118.68, 118.69",
+      "n": 6,
+      "summary": "Decriminalise same-sex relations and prohibit discrimination based on sexual orientation and gender identity",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report says equality before the law applies to all and denies any case of abuse on these grounds; colonial-era common-law offences still criminalise same-sex conduct and there is no anti-discrimination law covering these grounds.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 28 — Eswatini: \"There have been no reported cases of people being violated or abused on the basis of their sexual orientation\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 98 — JS8: \"consensual same-sex conduct remained effectively criminalized in Eswatini through the continued existence of colonial-era common law offences\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 97 — JS8: \"there was no comprehensive anti-discrimination legislation explicitly prohibiting discrimination based on sexual orientation and gender identity\""
+      ],
+      "position": "6 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.60",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Decriminalize same-sex conduct between consenting adults"
+       },
+       {
+        "paragraph": "118.62",
+        "by": "Brazil",
+        "position": "noted",
+        "text": "Consider adopting legal and policy measures to prohibit discrimination based on sexual orientation and gender identity, including by decriminalizing same-sex relations"
+       },
+       {
+        "paragraph": "118.64",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Adopt comprehensive anti-discrimination legislation clearly prohibiting discrimination on the basis of sexual orientation and gender identity and effectively investigate all acts of violence against LGBTI+ persons"
+       },
+       {
+        "paragraph": "118.66",
+        "by": "Luxembourg",
+        "position": "noted",
+        "text": "Prohibit discrimination based on sexual orientation and gender identity and decriminalize same-sex relationships"
+       },
+       {
+        "paragraph": "118.68",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Prohibit discrimination based on sexual orientation and/or gender identity and decriminalize homosexual behaviour between consenting adults"
+       },
+       {
+        "paragraph": "118.69",
+        "by": "Chile",
+        "position": "noted",
+        "text": "Consider carrying out the relevant policies and procedures to prohibit all types of discrimination, based on sexual orientation or gender identity"
+       }
+      ]
+     },
+     {
+      "paras": "118.59, 118.71-118.73, 118.76",
+      "n": 5,
+      "summary": "Combat discrimination and violence against persons with albinism and people living with HIV",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Disability Plan of Action 2024-2028, the Persons with Disabilities Act, awareness days and skin-health clinics protect persons with albinism, and the HIV Stigma Index is run; JS1 reports persisting barriers and low access to remedies.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 25 — Eswatini: \"the National Disability Plan of Action (NDPA) 2024–2028\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 17 — JS1: \"persons with albinism continued to experience significant barriers to the enjoyment of their fundamental rights\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.59",
+        "by": "United Republic of Tanzania",
+        "position": "supported",
+        "text": "Continue its efforts to ensure the protection of persons with albinism, including by ensuring they have access to education and medical services"
+       },
+       {
+        "paragraph": "118.71",
+        "by": "Congo",
+        "position": "supported",
+        "text": "Fight effectively against negative beliefs and stereotypes associated with albinism"
+       },
+       {
+        "paragraph": "118.72",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Ensure protection, in law and in practice, against all forms of violence and discrimination against persons with albinism"
+       },
+       {
+        "paragraph": "118.73",
+        "by": "Ukraine",
+        "position": "supported",
+        "text": "Redouble efforts to combat HIV/AIDS-related stigma and discrimination"
+       },
+       {
+        "paragraph": "118.76",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Take specific measures to fight against discrimination and violence against persons with albinism"
+       }
+      ]
+     },
+     {
+      "paras": "118.61",
+      "n": 1,
+      "summary": "Combat discrimination and violence against women and children (and on grounds of sexual orientation)",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Measures on violence against women and children exist; nothing is reported on sexual orientation and gender identity.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 58 — Eswatini: \"The DPMO has adopted a formalised Gender-Based Violence (GBV) Coordination Mechanism\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 28 — Eswatini: \"There have been no reported cases of people being violated or abused on the basis of their sexual orientation\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.61",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Take the necessary steps to combat discrimination and violence against women and children, and on the basis of sexual orientation and gender identity"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & gender-based violence",
+    "blocks": [
+     {
+      "paras": "118.65, 118.67, 118.70, 118.74, 118.75, 118.77, 118.78",
+      "n": 7,
+      "summary": "Decriminalise same-sex relations and prohibit discrimination based on sexual orientation and gender identity",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report says equality before the law applies to all and denies any case of abuse on these grounds; colonial-era common-law offences still criminalise same-sex conduct and there is no anti-discrimination law covering these grounds.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 28 — Eswatini: \"There have been no reported cases of people being violated or abused on the basis of their sexual orientation\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 98 — JS8: \"consensual same-sex conduct remained effectively criminalized in Eswatini through the continued existence of colonial-era common law offences\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 97 — JS8: \"there was no comprehensive anti-discrimination legislation explicitly prohibiting discrimination based on sexual orientation and gender identity\""
+      ],
+      "position": "7 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.65",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Decriminalize consensual adult same-sex relations and combat discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.67",
+        "by": "Mexico",
+        "position": "noted",
+        "text": "Incorporate into national legislation the prohibition of discrimination based on sexual orientation and gender identity and repeal laws that criminalize consensual sexual relations between same-sex persons"
+       },
+       {
+        "paragraph": "118.70",
+        "by": "Spain",
+        "position": "noted",
+        "text": "Prohibit clearly in legislation discrimination based on sexual orientation or gender identity, guarantee the effective investigation of all acts of violence against lesbian, gay, bisexual, transgender and intersex persons, and consider decriminalizing consensual relationships between adults of the same sex"
+       },
+       {
+        "paragraph": "118.74",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "noted",
+        "text": "Decriminalize consensual same-sex sexual conduct and take measures to eliminate discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.75",
+        "by": "Costa Rica",
+        "position": "noted",
+        "text": "Decriminalize consenting same-sex relations and ensure the elimination of all forms of discrimination based on sexual orientation and gender identity"
+       },
+       {
+        "paragraph": "118.77",
+        "by": "Argentina",
+        "position": "noted",
+        "text": "Enact laws that expressly prohibit crimes motivated by prejudices against lesbian, gay, bisexual, transgender and intersex persons"
+       },
+       {
+        "paragraph": "118.78",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Repeal or amend laws discriminating against lesbian, gay, bisexual, transgender and intersex persons and other minority groups, including those that criminalize consensual same-sex acts between adults"
+       }
+      ]
+     },
+     {
+      "paras": "118.63, 118.179, 118.181, 118.191, 118.194, 118.195",
+      "n": 6,
+      "summary": "Strengthen multisectoral response to gender-based violence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A multisectoral coordination structure, one-stop centres, referral pathways, specialised courts and training for responders exist; SNL reports a 91% case withdrawal rate in Lubombo.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 60 — Eswatini: \"Victim support services have been expanded through the establishment of one-stop centres and referral pathways\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 92 — SNL: \"the 91% case withdrawal rate documented in Lubombo\""
+      ],
+      "position": "1 noted, 5 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.63",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Decriminalize consensual sexual relations between adults of the same sex"
+       },
+       {
+        "paragraph": "118.179",
+        "by": "Canada",
+        "position": "supported",
+        "text": "Accelerate the implementation of a multisectoral approach aimed at eradicating gender-based violence, including training for law enforcement, educators and medical personnel, as well as victim support services and accountability of perpetrators of violence"
+       },
+       {
+        "paragraph": "118.181",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Redouble efforts to conduct public awareness campaigns and capacity-building programmes for duty bearers on gender-based violence and violence against children"
+       },
+       {
+        "paragraph": "118.191",
+        "by": "United Republic of Tanzania",
+        "position": "supported",
+        "text": "Continue to enhance efforts to protect women facing gender-based violence by increasing the number of safe houses for victims"
+       },
+       {
+        "paragraph": "118.194",
+        "by": "Australia",
+        "position": "supported",
+        "text": "Continue reforms that prioritize women’s empowerment and gender equality, including by working with law enforcement authorities, the judiciary, communities and traditional leaders to implement the Sexual Offences and Domestic Violence Act, 2018"
+       },
+       {
+        "paragraph": "118.195",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Implement a public education programme, including at the community level, to combat domestic violence and raise awareness of the Sexual Offences and Domestic Violence Act, 2018"
+       }
+      ]
+     },
+     {
+      "paras": "118.180",
+      "n": 1,
+      "summary": "Prevent forced and child marriage",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Civil registration officials were trained to detect forced and child marriages, customary-marriage observers (umgijimi) check age and consent, and child marriage is prohibited by the Children's Protection and Welfare Act 2012; the minimum age of marriage is not yet 18.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 122 — Eswatini: \"has trained officials to detect potential forced or child marriages during the registration process of marriages\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 124 — Eswatini: \"child marriage is explicitly prohibited under the Children’s Protection and Welfare Act of 2012\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.180",
+        "by": "Mozambique",
+        "position": "supported",
+        "text": "Take further measures to prevent early and forced marriages and gender-based violence"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Death penalty",
+    "blocks": [
+     {
+      "paras": "118.80-118.83, 118.85-118.87",
+      "n": 7,
+      "summary": "Abolish the death penalty or adopt a moratorium",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report is silent; JS5 recommends abolition and a de jure moratorium, indicating the penalty remains in law.",
+      "evidence": [
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 24 — JS5: \"recommended that Eswatini abolish the death penalty\""
+      ],
+      "position": "7 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.80",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Adopt a de jure moratorium on capital executions and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty"
+       },
+       {
+        "paragraph": "118.81",
+        "by": "Latvia",
+        "position": "noted",
+        "text": "Establish a moratorium on the death penalty with a view to its eventual abolition, and consider ratifying the Second Optional Protocol to the International Covenant on Civil and Political Rights"
+       },
+       {
+        "paragraph": "118.82",
+        "by": "Luxembourg",
+        "position": "noted",
+        "text": "Provide concrete measures for the abolition of the death penalty"
+       },
+       {
+        "paragraph": "118.83",
+        "by": "Rwanda",
+        "position": "noted",
+        "text": ". Abolish the death penalty"
+       },
+       {
+        "paragraph": "118.85",
+        "by": "Costa Rica",
+        "position": "noted",
+        "text": "Abolish the death penalty"
+       },
+       {
+        "paragraph": "118.86",
+        "by": "Angola",
+        "position": "noted",
+        "text": "Abolish the death penalty"
+       },
+       {
+        "paragraph": "118.87",
+        "by": "Australia",
+        "position": "noted",
+        "text": "Establish an immediate formal moratorium on the death penalty with the view to its ultimate abolition, and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights"
+       }
+      ]
+     },
+     {
+      "paras": "118.84",
+      "n": 1,
+      "summary": "Awareness-raising and public debate on the death penalty",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.84",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Strengthen awareness-raising campaigns and public debates on the death penalty from a human rights perspective, including in its Parliament, with a view to realizing its definitive abolition, and ratify the Second Optional Protocol to the International Covenant on Civil and Political Rights as soon as possible"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human trafficking & contemporary forms of slavery",
+    "blocks": [
+     {
+      "paras": "118.90-118.92",
+      "n": 3,
+      "summary": "Resource the anti-trafficking plan and task force",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National Strategic Framework and Action Plan 2019-2023 was funded and the multi-agency Task Force strengthened with a Protection Committee and Tripartite Mechanism.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 50 — Eswatini: \"implement the National Strategic Framework and Action Plan to Combat People Trafficking 2019-2023\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 51 — Eswatini: \"The Task Force against Trafficking in Persons has been strengthened through enhanced multi-agency coordination\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.90",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Ensure the allocation of sufficient resources to programmes on combating trafficking in persons and provide adequate services to victims to support their reintegration and rehabilitation"
+       },
+       {
+        "paragraph": "118.91",
+        "by": "Uganda",
+        "position": "supported",
+        "text": "Strengthen the task force against human trafficking to adequately address cases of trafficking and forced child labour"
+       },
+       {
+        "paragraph": "118.92",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Fully fund and implement the anti-trafficking national action plan, and allow the anti-trafficking taskforce to lead these efforts"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Arbitrary arrest & detention",
+    "blocks": [
+     {
+      "paras": "118.93",
+      "n": 1,
+      "summary": "Combat arbitrary arrests and guarantee fair trials",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report cites existing constitutional and procedural guarantees; the UN country team reports prolonged pre-trial detention under the Terrorism Act and Amnesty reports limited judicial oversight.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 45 — Eswatini: \"Section 16 of the Constitution prohibits arbitrary arrest and detention\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 19 — United Nations country team: \"persons charged under that Act had reportedly been subjected to prolonged pretrial detention\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.93",
+        "by": "France",
+        "position": "supported",
+        "text": "Take all measures to combat arbitrary arrests and detentions and to guarantee fair trials"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Conditions of detention",
+    "blocks": [
+     {
+      "paras": "118.94-118.96",
+      "n": 3,
+      "summary": "Improve prison conditions and reduce overcrowding",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Matsapha Correctional Centre is being refurbished, extra-mural employment and non-custodial sentences were expanded and more than 400 offenders were released by mercy in 2025; facilities hold 4,458 inmates for 3,090 places.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 40 — Eswatini: \"Matsapha Correctional Centre is undergoing major refurbishment\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 41 — Eswatini: \"in 2025 the Prerogative of Mercy released more than 400 offenders\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 127 — Eswatini: \"correctional facilities continue to operate at capacity significantly exceeding approved limits\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.94",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Continue efforts to improve prison conditions and the treatment of people in detention, involving also possible bilateral international cooperation"
+       },
+       {
+        "paragraph": "118.95",
+        "by": "Lesotho",
+        "position": "supported",
+        "text": "Beef up measures to address overcrowding in detention centres"
+       },
+       {
+        "paragraph": "118.96",
+        "by": "the Nelson Mandela Rules; Maldives",
+        "position": "supported",
+        "text": "Improve conditions in detention facilities and bring the regulations governing prison conditions in line with international standards such as the United Nations Standard Minimum Rules for the Treatment of Prisoners"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to peaceful assembly",
+    "blocks": [
+     {
+      "paras": "118.110, 118.114, 118.222",
+      "n": 3,
+      "summary": "Dialogue with demonstrators and prevention of excessive force",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Eswatini convened the Sibaya national dialogue (23 October-3 November 2023), trained more than 2,000 security personnel on lawful use of force and 353 police officers with CHRPA; investigations of the 2021 unrest were internal and the UN country team reports ongoing excessive force.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 48 — Eswatini: \"Eswatini convened Sibaya on 23 October–3 November 2023, a national dialogue that is inclusive of all stakeholders, including those critical of the Government policies and actions\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 16 — Eswatini: \"The CHRPA trained more than 2,000 security personnel on human rights-compliant policing\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 39 — United Nations country team: \"participants in peaceful assemblies had been met with excessive force, arbitrary arrests, prolonged detention and serious injuries\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.110",
+        "by": "Belgium",
+        "position": "supported",
+        "text": "Take steps to prevent excessive use of force by law enforcement against peaceful protesters and ensure that allegations of excessive use of force are promptly, independently and transparently investigated"
+       },
+       {
+        "paragraph": "118.114",
+        "by": "Germany",
+        "position": "supported",
+        "text": "Enter into a genuine, inclusive and comprehensive dialogue with demonstrators"
+       },
+       {
+        "paragraph": "118.222",
+        "by": null,
+        "position": "supported",
+        "text": "Create an environment that facilitates inclusive, productive dialogue that ensures respect for human rights, including the right to freedom of peaceful assembly and association (Australia)."
+       }
+      ]
+     },
+     {
+      "paras": "118.97",
+      "n": 1,
+      "summary": "Ensure the right to peaceful assembly and investigate violations",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The State's review of the June 2021 unrest found no unlawful conduct by police; the UN country team reports excessive force against peaceful assemblies and stalled investigations.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 39 — Eswatini: \"The outcome of these reviews did not reveal evidence of unlawful conduct on the part of police officers in the discharge of their duties\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 39 — United Nations country team: \"participants in peaceful assemblies had been met with excessive force, arbitrary arrests, prolonged detention and serious injuries\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.97",
+        "by": "Estonia",
+        "position": "supported",
+        "text": "Ensure the freedom of assembly, association and expression, including media freedom, online and offline"
+       }
+      ]
+     },
+     {
+      "paras": "118.102",
+      "n": 1,
+      "summary": "End law enforcement violence against peaceful assemblies",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The ILO reports that more than 80 people were reported to have lost their lives in police crackdowns on protests in 2022-2023 and the UN country team reports excessive force against peaceful assemblies; the State maintains the force used was necessary and proportionate.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 52 — ILO Committee of Experts: \"more than 80 people were reported to have lost their lives because of police crackdowns on protests\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 39 — Eswatini: \"The outcome of these reviews did not reveal evidence of unlawful conduct on the part of police officers in the discharge of their duties\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.102",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Immediately end law enforcement violence and other restrictions against people exercising their rights to freedom of peaceful assembly and to freedom of association"
+       }
+      ]
+     },
+     {
+      "paras": "118.108",
+      "n": 1,
+      "summary": "Investigate violations by security forces against protesters in 2021 and ensure accountability",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The State's internal reviews found no unlawful conduct; the UN country team reports that investigations have stalled and ICJ and Amnesty call for an independent mechanism.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 38 — Eswatini: \"the REPS undertook internal investigations and reviews of incidents involving the use of force during the unrest\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 24 — United Nations country team: \"investigations had stalled in relation to the perpetrators of the 2021–2023 violence in which protestors, including a prominent human rights lawyer, had been killed\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.108",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Investigate allegations of human rights violations by security forces against protesters between May and July 2021 and ensure accountability"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Freedom of opinion and expression & access to information",
+    "blocks": [
+     {
+      "paras": "118.98-118.101, 118.104, 118.105, 118.107, 118.111, 118.112",
+      "n": 9,
+      "summary": "Protect freedom of expression, association and assembly",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report cites the Constitution and the Sibaya dialogue (2023) and states that no one is targeted; the UN country team and ICJ report that the Sedition, Terrorism and Public Order Acts are used to restrict dissent and internet services are shut down during protests.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 46 — Eswatini: \"Eswatini provides a safe environment for exercising civic space rights, with no individuals targeted\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 34 — United Nations country team: \"restricted debate and dissent through broad discretionary powers and criminal sanctions\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 70 — El Hak: \"Eswatini recurrently resorted to completely shutting down internet services to block information during protests\""
+      ],
+      "position": "6 supported, 3 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.98",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Respect, protect and fulfil the rights to freedom of expression, association and peaceful assembly, including by ensuring that representatives of political parties, the media and the civil society are not prohibited from exercising these rights"
+       },
+       {
+        "paragraph": "118.99",
+        "by": "Ireland",
+        "position": "noted",
+        "text": "Develop legislation to protect the rights to freedom of expression, association and peaceful assembly, including by allowing political parties to register and contest elections"
+       },
+       {
+        "paragraph": "118.100",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Urgently adopt all necessary measures to remove the restrictions which prevent the enjoyment of the rights to freedom of expression and association, as well as media freedom"
+       },
+       {
+        "paragraph": "118.101",
+        "by": "Latvia",
+        "position": "supported",
+        "text": "Promote and protect the right to freedom of expression and media freedom"
+       },
+       {
+        "paragraph": "118.104",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Amend the Public Order Act of 2017 so that it fully protects the rights to freedom of expression and to peaceful association and assembly, and allow all people to express their views without fear of reprisals"
+       },
+       {
+        "paragraph": "118.105",
+        "by": "Sierra Leone",
+        "position": "supported",
+        "text": "Take concrete measures to guarantee civil and political rights, including civil society space and press freedom"
+       },
+       {
+        "paragraph": "118.107",
+        "by": "United Kingdom of Great Britain and Northern Ireland",
+        "position": "supported",
+        "text": "Amend legislation which restricts freedoms of expression, association and peaceful assembly, and take steps to guarantee space for civil society actors and journalists to operate without fear of reprisals"
+       },
+       {
+        "paragraph": "118.111",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Continue to reinforce relevant measures to promote and protect the right to freedom of expression and the right to peaceful assembly"
+       },
+       {
+        "paragraph": "118.112",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Strengthen efforts to ensure the implementation of the right to freedom of expression and peaceful assembly"
+       }
+      ]
+     },
+     {
+      "paras": "118.220",
+      "n": 1,
+      "summary": "Repeal the 1938 Sedition and Subversive Activities Act",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The Supreme Court upheld the Act and the Suppression of Terrorism Act in August 2024 and Eswatini cites the judgment as affirming that rights are subject to lawful limitations; the Act continues to be applied against dissent.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 47 — Eswatini: \"the Supreme Court upheld the Sedition and Subversive Activities Act 46 of 1938 and Suppression of Terrorism Act 3 of 2028 as consistent with constitutional guarantees\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 34 — United Nations country team: \"restricted debate and dissent through broad discretionary powers and criminal sanctions\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.220",
+        "by": "United States of America",
+        "position": "supported",
+        "text": "Repeal the 1938 Sedition and Subversive Activities Act, which has been used to silence journalists, human right defenders, and political activists"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & counter-terrorism",
+    "blocks": [
+     {
+      "paras": "118.103, 118.106, 118.109, 118.113",
+      "n": 4,
+      "summary": "Reform or repeal the Suppression of Terrorism Act and the Sedition and Subversive Activities Act",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The Prime Minister, as appellant, obtained an August 2024 Supreme Court judgment upholding both Acts and the National Report cites it as affirming that rights are subject to lawful limitations; no reform was undertaken and the Acts continue to be applied against dissent: a position contrary to the recommendation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 47 — Eswatini: \"the Supreme Court upheld the Sedition and Subversive Activities Act 46 of 1938 and Suppression of Terrorism Act 3 of 2028 as consistent with constitutional guarantees\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 38 — Amnesty International: \"Eswatini had neither taken adequate steps to bring the Suppression of Terrorism Act into line with international standards\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 18 — United Nations country team: \"the Suppression of Terrorism Act, 2008, was applied in ways that conflated terrorism with political dissent\""
+      ],
+      "position": "3 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.103",
+        "by": "Canada",
+        "position": "noted",
+        "text": "Modify or repeal the laws which unduly restrict civil and political rights, including the Public Order Act and certain elements of the Suppression of Terrorism Act, in order to bring laws into conformity with international law relating to human rights"
+       },
+       {
+        "paragraph": "118.106",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Reform, in accordance with international human rights standards, all legislation that unduly restricts freedom of expression and association, in particular, the Suppression of Terrorism Act and the Suppression of Sedition and Subversive Activities Act"
+       },
+       {
+        "paragraph": "118.109",
+        "by": "Belgium",
+        "position": "noted",
+        "text": "Repeal the Suppression of Terrorism Act, 2008 as amended in 2017, to bring it in line with Eswatini’s Constitution as well as the country’s obligations under international and regional human rights law"
+       },
+       {
+        "paragraph": "118.113",
+        "by": "Czechia",
+        "position": "noted",
+        "text": "Reform expeditiously the Suppression of Terrorism Act and the Sedition and Subversive Activities Act so that they cannot be used to undermine the rights to freedom of expression, association and peaceful assembly"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Administration of justice & fair trial",
+    "blocks": [
+     {
+      "paras": "118.115, 118.116, 118.118",
+      "n": 3,
+      "summary": "Reform the judiciary and strengthen its independence",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Judicial Service Commission was reconstituted by Legal Notice (2025) and additional judges and magistrates were appointed; ICJ and El Hak report executive interference and low public confidence.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 18 — Eswatini: \"members of the Judicial Service Commission were appointed through Legal Notice of 2025\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 40 — ICJ: \"public confidence in the judiciary in Eswatini was very low\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.115",
+        "by": "Estonia",
+        "position": "supported",
+        "text": "Intensify the reform of the judicial system"
+       },
+       {
+        "paragraph": "118.116",
+        "by": "Estonia",
+        "position": "supported",
+        "text": "Implement constitutional protections to ensure the independence of the judiciary and Parliament"
+       },
+       {
+        "paragraph": "118.118",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Fully implement Constitutional provisions in order to ensure the enjoyment of the right to freedom of expression and the independence of the judiciary and the Parliament"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rule of law & impunity",
+    "blocks": [
+     {
+      "paras": "118.117",
+      "n": 1,
+      "summary": "Fight impunity of security forces",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The State's internal reviews of the June 2021 unrest found no unlawful police conduct; the UN country team and Amnesty report stalled investigations and impunity.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 39 — Eswatini: \"The outcome of these reviews did not reveal evidence of unlawful conduct on the part of police officers in the discharge of their duties\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 43 — Amnesty International: \"failures to investigate unlawful killings such as the killing of human rights lawyer Thulani Maseko\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.117",
+        "by": "France",
+        "position": "supported",
+        "text": "Strengthen the fight against impunity of members of the security forces in the event of manifest violations of human rights and fundamental freedoms"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to participate in public affairs & right to vote",
+    "blocks": [
+     {
+      "paras": "118.119-118.124, 118.126",
+      "n": 7,
+      "summary": "Allow political parties and reform the electoral system",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report describes only the Elections and Boundaries Commission and civic education; political parties remain banned and the People's United Democratic Movement was designated a terrorist organisation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 52 — Eswatini: \"The Elections and Boundaries Commission (EBC) is established by Section 90 of the Constitution and the Elections and Boundaries Commission Act No. 3 of 2013\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 72 — JS6: \"the continued legal and practical ban on political parties exemplified Eswatini’s entrenched resistance to pluralism\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 73 — JS6: \"the political formation the People’s United Democratic Movement had been designated as a terrorist organization by the authorities\""
+      ],
+      "position": "6 noted, 1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.119",
+        "by": "France",
+        "position": "noted",
+        "text": "Lift the ban on the registration of political parties"
+       },
+       {
+        "paragraph": "118.120",
+        "by": "Italy",
+        "position": "noted",
+        "text": "Revise the electoral system in order to allow political parties to participate in elections"
+       },
+       {
+        "paragraph": "118.121",
+        "by": "Maldives",
+        "position": "supported",
+        "text": "Guarantee free and fair elections by ensuring the independence of bodies responsible for elections and anti-corruption"
+       },
+       {
+        "paragraph": "118.122",
+        "by": "Sierra Leone",
+        "position": "noted",
+        "text": "Consider reviewing the King’s Decree on political parties"
+       },
+       {
+        "paragraph": "118.123",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Revoke the decree banning political parties, and allow the registration and operation of political parties"
+       },
+       {
+        "paragraph": "118.124",
+        "by": "United States of America",
+        "position": "noted",
+        "text": "Formally declare to the people of Eswatini that the 2005 Constitution revoked the ban on political parties under the 1973 Decree, and work with civil society to draft regulations to the Elections Act that clarify how political parties and party-affiliated candidates are permitted to participate in the electoral space"
+       },
+       {
+        "paragraph": "118.126",
+        "by": "Czechia",
+        "position": "noted",
+        "text": "Revise the Constitution and other laws and policies by its next universal periodic review in order to allow forming of political parties and facilitating all forms of participation in political and public life in line with the International Covenant on Civil and Political Rights"
+       }
+      ]
+     },
+     {
+      "paras": "118.125",
+      "n": 1,
+      "summary": "Youth participation in political decision-making",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Elections and Boundaries Commission runs civic and voter education for young people through social media and national events.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 53 — Eswatini: \"thereby expanding access to information, particularly among young people\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.125",
+        "by": "Angola",
+        "position": "supported",
+        "text": "Strengthen the participation of young people in political decision-making processes"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to health",
+    "blocks": [
+     {
+      "paras": "118.127, 118.139-118.142, 118.144, 118.145, 118.152",
+      "n": 8,
+      "summary": "Strengthen health services and HIV response",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Eswatini provides free long-acting PrEP, runs the HIV Stigma Index and adopted an NCD and mental health plan 2024-2028; life expectancy rose from 58.2 to 64.5 years; the Committee on the Rights of the Child notes scarce rural facilities and medicine stock-outs.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 90 — Eswatini: \"life expectancy rates have increased to 64.5 years (2026) for both sexes combined from 58.2 years in 2021\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 91 — Eswatini: \"National Non Communicable Diseases, Injuries and Mental Health (NCDIMH) Sector operational plan 2024-2028\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 62 — Committee on the Rights of the Child: \"remained concerned about the scarcity of healthcare facilities, particularly in rural areas\""
+      ],
+      "position": "8 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.127",
+        "by": "Uruguay",
+        "position": "supported",
+        "text": "Make efforts to promote the enjoyment of the right to health, guaranteeing access to quality health services, including for the treatment of HIV/AIDS, and investing in awareness-raising campaigns to ensure that all people are duly informed about the risks of transmission of this disease, as well as to combat the stigmatization associated with it"
+       },
+       {
+        "paragraph": "118.139",
+        "by": "Libya",
+        "position": "supported",
+        "text": "Take measures that will strengthen the health sector and provide the necessary health care and ways to reach all areas and vulnerable groups in the country"
+       },
+       {
+        "paragraph": "118.140",
+        "by": "Mauritius",
+        "position": "supported",
+        "text": "Implement measures to ensure free, universal access to health for all"
+       },
+       {
+        "paragraph": "118.141",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Continue to enhance access to health care and programmes to address non-communicable diseases"
+       },
+       {
+        "paragraph": "118.142",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Further intensify efforts to reduce HIV/AIDS infections"
+       },
+       {
+        "paragraph": "118.144",
+        "by": "Iraq",
+        "position": "supported",
+        "text": "Continue its efforts to reduce the spread of HIV/AIDS"
+       },
+       {
+        "paragraph": "118.145",
+        "by": "Ireland",
+        "position": "supported",
+        "text": "Raise public awareness about the dangers of HIV infection, including the harm associated with the stigmatization of HIV patients"
+       },
+       {
+        "paragraph": "118.152",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Continue to respond to the challenges posed by HIV/AIDS in the country"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to an adequate standard of living",
+    "blocks": [
+     {
+      "paras": "118.128",
+      "n": 1,
+      "summary": "Promote social policies for the most vulnerable",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Elderly and disability grants were increased, food assistance reached 263,090 people and a decent shelter programme built 204 houses.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 73 — Eswatini: \"Elderly Grant increased by 20 per cent from E500 (USD31.25) to E600 (USD37.50) per month\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.128",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue promoting its successful social policies to increase the quality of life of its people, in particular of the most vulnerable sectors"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Economic, social & cultural rights - general measures of implementation",
+    "blocks": [
+     {
+      "paras": "118.129",
+      "n": 1,
+      "summary": "Implement economic and social development programmes",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Government Programme of Action, National Development Plan 2023-2028 and regional agricultural funds target disparities.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 75 — Eswatini: \"The NDP prioritises poverty reduction, food security, and inclusive economic growth\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.129",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Continue the implementation of economic and social development programmes in order to reduce disparities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Land & property rights",
+    "blocks": [
+     {
+      "paras": "118.130",
+      "n": 1,
+      "summary": "Agricultural productivity and women's access to land",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Regional Development Fund and Agricultural Development Fund financed 107 projects (60% women beneficiaries); JS3 notes dual tenure still restricts women's land rights.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 76 — Eswatini: \"the Regional Development Fund (RDF) supported 107 agricultural projects to enhance productivity and food security\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 93 — JS3: \"dual tenure (Title Deed Land and Swazi Nation Land) and customary allocation practices continued to restrict women’s tenure rights\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.130",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Prioritize measures to promote agricultural productivity and food security, including by ensuring women’s equitable access to land"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to social security",
+    "blocks": [
+     {
+      "paras": "118.131",
+      "n": 1,
+      "summary": "Strengthen social protection floors",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The Social Security Inquiry tool (2024/25), the Eswatini National Pension Fund Bill (2025) and increased grants extend protection; only 29% of the population is covered.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 69 — Eswatini: \"the Eswatini National Pension Fund (ENPF) Bill, introducing a comprehensive National Pension Scheme\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 57 — United Nations country team: \"social protection coverage remained limited, with only 29% of the population covered\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.131",
+        "by": "Zimbabwe",
+        "position": "supported",
+        "text": "Strengthen social protection floors catering for the vulnerable and marginalized groups in society"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Safe drinking water & sanitation",
+    "blocks": [
+     {
+      "paras": "118.136-118.138",
+      "n": 3,
+      "summary": "Improve access to safe drinking water and sanitation",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Report refers water and sanitation to Eswatini's mid-term report, which records rural water schemes, a solar-powered pump pilot, disability-accessible water facilities and a sanitation project; the proportion with safely managed drinking water rose from 75% to 81.2% (2022-2023). The Committee on the Rights of the Child notes children in informal settlements without water.",
+      "evidence": [
+       "State mid-term report (mid-term report), para. 36 — Eswatini: \"The proportion of the national population which has access to safely managed clean drinking water increased from 75% in 2022 to 81.2% in 2023\"",
+       "State mid-term report (mid-term report), para. 37 — Eswatini: \"introducing solar- powered pumps as a renewable energy solution\"",
+       "State mid-term report (mid-term report), para. 38 — Eswatini: \"New facility designs now accommodate persons with disabilities (PWDs)\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 61 — Committee on the Rights of the Child: \"many children lived in informal settlements without access to water or sanitation\""
+      ],
+      "position": "3 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.136",
+        "by": "India",
+        "position": "supported",
+        "text": "Continue to take the necessary measures to improve access to safe and clean drinking water and sanitation facilities to the vulnerable population"
+       },
+       {
+        "paragraph": "118.137",
+        "by": "Senegal",
+        "position": "supported",
+        "text": "Increase, significantly, investments in rural areas to fight inequalities and improve access to drinking water while addressing sanitation deficiencies in the country"
+       },
+       {
+        "paragraph": "118.138",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Continue the initiatives Eswatini has implemented with the support of development partners to improve potable water supply and sanitation, especially in rural areas"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Sexual & reproductive health and rights",
+    "blocks": [
+     {
+      "paras": "118.143, 118.149, 118.151, 118.154",
+      "n": 4,
+      "summary": "Decriminalise abortion and provide comprehensive sexuality education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report states that abortion is not criminalised in cases of rape, incest, fetal malformation or risk to health or life, without citing a legal change; the CRC recommends comprehensive sexuality education in the compulsory curriculum.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 104 — Eswatini: \"Eswatini does not criminalise abortion in cases of rape, incest, serious fetal malformation, or risks to the health or life of the pregnant woman\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 69 — Committee on the Rights of the Child: \"ensure that comprehensive sexual and reproductive health education was part of the compulsory school curriculum\""
+      ],
+      "position": "4 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.143",
+        "by": "Iceland",
+        "position": "noted",
+        "text": "Decriminalize abortion and guarantee the provision of, and access to, comprehensive sexual and reproductive health services and goods, including safe abortion and post-abortion care, and modern contraceptives"
+       },
+       {
+        "paragraph": "118.149",
+        "by": "Netherlands",
+        "position": "noted",
+        "text": "Decriminalize abortion and guarantee the provision of, and access to, comprehensive sexual and reproductive health services and goods, including safe abortion and post-abortion care, and modern contraceptives"
+       },
+       {
+        "paragraph": "118.151",
+        "by": "South Africa",
+        "position": "noted",
+        "text": "Repeal laws that do not allow safe abortions, affordable contraceptives, or reproductive rights"
+       },
+       {
+        "paragraph": "118.154",
+        "by": "Denmark",
+        "position": "noted",
+        "text": "Provide access to comprehensive sexuality education as part of the school curriculum"
+       }
+      ]
+     },
+     {
+      "paras": "118.146-118.148, 118.150",
+      "n": 4,
+      "summary": "Reduce maternal mortality and improve sexual and reproductive health",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The SRMNCAH&N Strategy 2024-2028 rolled out emergency obstetric care to all maternity facilities and skilled birth attendance rose to 93.4%; UNFPA notes maternal mortality remains high.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 101 — Eswatini: \"Sexual Reproductive Maternal & Newborn Child, Adolescent Health & Nutrition (SRMNCAH&N) Strategy (2024–2028)\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 65 — UNFPA: \"maternal mortality remained high\""
+      ],
+      "position": "3 supported, 1 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.146",
+        "by": "Burkina Faso",
+        "position": "supported",
+        "text": "Allocate additional resources to end preventable maternal mortality and morbidity"
+       },
+       {
+        "paragraph": "118.147",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Decriminalize the voluntary interruption of pregnancy in cases of rape, incest, serious malformation of the fetus or risks to the health or life of the pregnant woman, and guarantee access to sexual and reproductive health services"
+       },
+       {
+        "paragraph": "118.148",
+        "by": "Nepal",
+        "position": "supported",
+        "text": "Accelerate efforts to reduce maternal and neonatal mortality rates, improving the quality of maternal and newborn care in health facilities"
+       },
+       {
+        "paragraph": "118.150",
+        "by": "Slovenia",
+        "position": "noted",
+        "text": "Implement commitments made at the Nairobi Summit, held to celebrate the twenty-fifth anniversary of the International Conference on Population and Development, to deliver quality health services, in particular maternal and neonatal care services, at all levels of care by improving the supply-chain management for reproductive health commodities in both public and private health facilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Right to education",
+    "blocks": [
+     {
+      "paras": "118.153, 118.156, 118.159, 118.160, 118.162",
+      "n": 5,
+      "summary": "Improve access to quality education, retention and completion",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Eswatini is implementing the Education Sector Strategic Plan 2022-2034 and competency-based curriculum reform, school feeding reaches 355,478 learners and the primary dropout rate fell from 6.5% to 4.8%; free secondary education is not yet provided.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 105 — Eswatini: \"Education Sector Strategic Plan (ESSP) 2022–2034\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 117 — Eswatini: \"a reduction in the national primary school dropout rate from 6.5% to 4.8%\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 114 — Eswatini: \"Due to resource constraints, Eswatini is not yet ready to provide free secondary education\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.153",
+        "by": "Botswana",
+        "position": "supported",
+        "text": "Prioritize effective coordination and investment in primary, secondary, vocational and tertiary education to ensure access and quality outcomes"
+       },
+       {
+        "paragraph": "118.156",
+        "by": "Malawi",
+        "position": "supported",
+        "text": "Increase investment in the education sector to enhance quality and accessibility of education to all"
+       },
+       {
+        "paragraph": "118.159",
+        "by": "South Africa",
+        "position": "supported",
+        "text": "Continue taking measures to improve the functioning of the education system, allowing pregnant girls access to education, and make education free and compulsory for 12 years of schooling"
+       },
+       {
+        "paragraph": "118.160",
+        "by": "Sri Lanka",
+        "position": "supported",
+        "text": "Further promote the right to education of children through the implementation of national programmes to address dropout rates"
+       },
+       {
+        "paragraph": "118.162",
+        "by": "Bahamas",
+        "position": "supported",
+        "text": "Advance efforts to finalize the draft strategy to address the increasing school dropout rates"
+       }
+      ]
+     },
+     {
+      "paras": "118.155, 118.157, 118.161",
+      "n": 3,
+      "summary": "Introduce free secondary education",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report states that Eswatini is not yet ready to provide free secondary education; a task team is studying standardised fees.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 114 — Eswatini: \"Due to resource constraints, Eswatini is not yet ready to provide free secondary education\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 118 — Eswatini: \"MOET commissioned an Education Sector Transformation Task Team to develop innovative means for standardising secondary school fees\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.155",
+        "by": "Egypt",
+        "position": "noted",
+        "text": "Continue national efforts related to the reopening of schools and consider ensuring free education from the eighth to twelfth grades"
+       },
+       {
+        "paragraph": "118.157",
+        "by": "Mauritius",
+        "position": "noted",
+        "text": "Adopt a coherent strategy to ensure compulsory free education up to the age of 16 to ensure that there are fewer dropouts"
+       },
+       {
+        "paragraph": "118.161",
+        "by": "United Republic of Tanzania",
+        "position": "noted",
+        "text": "Continue enhancing its efforts towards pursuing rights to education and consider introducing a free education policy at the secondary school level"
+       }
+      ]
+     },
+     {
+      "paras": "118.158",
+      "n": 1,
+      "summary": "Maintain access to education during the COVID-19 pandemic",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "Radio, television, print and blended learning reached about 70% of enrolled learners, all public schools reopened under health protocols and a Learning Passport platform was introduced.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 111 — Eswatini: \"These interventions reached approximately 70 % of enrolled learners\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 112 — Eswatini: \"MoET introduced the Learning Passport, a digital platform providing continuous access to curriculum-based learning during emergencies\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.158",
+        "by": "Morocco",
+        "position": "supported",
+        "text": "Study ways to improve children’s continued access to education in the context of the COVID-19 pandemic, to maintain the country’s development course"
+       }
+      ]
+     },
+     {
+      "paras": "118.206",
+      "n": 1,
+      "summary": "Menstrual hygiene management to combat school dropout",
+      "grade": "D",
+      "meaning": "No cooperation with the Committee",
+      "rationale": "The documents contain no information on this recommendation.",
+      "evidence": [],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.206",
+        "by": "Gabon",
+        "position": "supported",
+        "text": "Pursue its efforts to combat school dropout by ensuring sound menstrual hygiene management for girls in vulnerable situations"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Advancement of women",
+    "blocks": [
+     {
+      "paras": "118.163, 118.184, 118.200, 118.203, 118.204",
+      "n": 5,
+      "summary": "Women's economic empowerment and shelters",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "A National MSME Policy 2024-2029 and the Citizen Economic Empowerment Act 2023 support women's enterprises; shelters remain privately operated.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 65 — Eswatini: \"The National MSME Policy 2024–2029 promotes the formalisation of informal enterprises\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 64 — Eswatini: \"the Government is making efforts to establish a state-owned gender-based violence shelter\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.163",
+        "by": "Georgia",
+        "position": "supported",
+        "text": "Continue to promote the rights of women and girls"
+       },
+       {
+        "paragraph": "118.184",
+        "by": "Serbia",
+        "position": "supported",
+        "text": "Invest in additional efforts to improve the system of protection of women in need by establishing shelters or temporary accommodation and educational centres for women in need, and in their economic empowerment"
+       },
+       {
+        "paragraph": "118.200",
+        "by": "Philippines",
+        "position": "supported",
+        "text": "Further strengthen economic empowerment initiatives, especially for women and youth"
+       },
+       {
+        "paragraph": "118.203",
+        "by": "United Arab Emirates",
+        "position": "supported",
+        "text": "Continue to support the economic emancipation of women while expanding its scope to cover all development spheres in accordance with the strategic road map of the Government for the period 2019 to 2022"
+       },
+       {
+        "paragraph": "118.204",
+        "by": "Zimbabwe",
+        "position": "supported",
+        "text": "Continue to implement the women-driven economic empowerment initiatives under the auspices of the Strategic Roadmap 2019–2023"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Discrimination against women",
+    "blocks": [
+     {
+      "paras": "118.164, 118.165, 118.168, 118.169",
+      "n": 4,
+      "summary": "Align legislation with CEDAW and combat gender stereotypes",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "All ministries were directed to review legislation for CEDAW compliance under the Programme of Action and ILO Conventions 100 and 111 were ratified; the Family Law Bills have not been enacted and customary law still entrenches inequality.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 22 — Eswatini: \"all government ministries are directed to review their respective pieces of legislation to promote the objects and purposes of CEDAW\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 24 — Eswatini: \"Eswatini ratified ILO Conventions Nos. 100 and 111\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 79 — United Nations country team: \"customary law entrenched gender inequality in inheritance and property rights\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.164",
+        "by": "Indonesia",
+        "position": "supported",
+        "text": "Take further measures to implement the Convention on the Elimination of All Forms of Discrimination against Women, in particular to curb discrimination and violence against women"
+       },
+       {
+        "paragraph": "118.165",
+        "by": "Mexico",
+        "position": "supported",
+        "text": "Repeal all legal provisions that perpetuate gender stereotypes and discrimination against women"
+       },
+       {
+        "paragraph": "118.168",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Adopt the necessary measures to combat occupational segregation and gender stereotypes in the working world"
+       },
+       {
+        "paragraph": "118.169",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to end all forms of discrimination and violence against women and girls"
+       }
+      ]
+     },
+     {
+      "paras": "118.166, 118.170, 118.171, 118.192",
+      "n": 4,
+      "summary": "Domesticate CEDAW and align family and succession laws",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "CEDAW is not incorporated into domestic law and the Marriages Bill 8 of 2022 and Matrimonial Property Bill 9 of 2022 are still not enacted; the Government itself requests support for the Family Law Bills.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 21 — Eswatini: \"While CEDAW has not yet been fully incorporated into domestic law, the Government is progressively aligning national laws with the Convention’s provisions\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 128 — Eswatini: \"The Government requires technical and financial support for the full operationalisation of the Legal Aid Act, the Commission on Human Rights and Public Administration Bill, and the comprehensive Family Law Bills\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.166",
+        "by": "Nigeria",
+        "position": "supported",
+        "text": "Establish the legal framework for the domestication of the Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "118.170",
+        "by": "Armenia",
+        "position": "supported",
+        "text": "Make further efforts to bring the legislation into compliance with the Convention on the Elimination of All Forms of Discrimination against Women, to enable women’s enjoyment of fundamental human rights, such as the right to property and inheritance"
+       },
+       {
+        "paragraph": "118.171",
+        "by": "Ghana",
+        "position": "supported",
+        "text": "Take action to align all laws and policies with the principle of equality and non-discrimination, as stated in the Constitution and in accordance with Convention on the Elimination of All Forms of Discrimination against Women"
+       },
+       {
+        "paragraph": "118.192",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Ensure that the national legislation is in line with the international and regional instruments, particularly concerning the elimination of discrimination against women"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Rights related to name, identity & nationality",
+    "blocks": [
+     {
+      "paras": "118.167",
+      "n": 1,
+      "summary": "Equal rights of mothers and fathers to transmit nationality",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No reform is reported; the UN country team recommends amending section 43 of the Constitution and the Citizenship Act.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 111 — United Nations country team: \"amend section 43 of the Constitution on citizenship by birth and the Citizenship Act, 1992, to remove gender-discriminatory provisions\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.167",
+        "by": "Congo",
+        "position": "noted",
+        "text": "Guarantee, through appropriate legislative measures, equal rights to fathers and mothers with regard to the transmission of nationality to children"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Violence against women",
+    "blocks": [
+     {
+      "paras": "118.173, 118.174, 118.176-118.178, 118.182, 118.183, 118.185-118.190, 118.193",
+      "n": 14,
+      "summary": "Combat violence against women and implement the Sexual Offences and Domestic Violence Act",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Eswatini adopted a GBV Coordination Mechanism, trained frontline responders, expanded one-stop centres and runs five (privately operated) safe houses; the UN country team and civil society report persistently high GBV and weak enforcement.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 58 — Eswatini: \"The DPMO has adopted a formalised Gender-Based Violence (GBV) Coordination Mechanism\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 64 — Eswatini: \"five safe houses are operational across the country, all of which are privately operated\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 80 — United Nations country team: \"high rates of gender-based violence persisted due to weak enforcement, cultural barriers and limited funding\""
+      ],
+      "position": "14 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.173",
+        "by": "Finland",
+        "position": "supported",
+        "text": "Make further efforts, including by raising public awareness, to enforce the Sexual Offences and Domestic Violence Act of July 2018 to protect women’s rights and to end violence against women and girls"
+       },
+       {
+        "paragraph": "118.174",
+        "by": "Gabon",
+        "position": "supported",
+        "text": "Redouble efforts to combat violence against women by developing legislation in this area"
+       },
+       {
+        "paragraph": "118.176",
+        "by": "Latvia",
+        "position": "supported",
+        "text": "Take all necessary measures, both in law and in practice, to combat violence against women"
+       },
+       {
+        "paragraph": "118.177",
+        "by": "Libya",
+        "position": "supported",
+        "text": "Continue efforts to combat violence in all its forms and intensify awareness campaigns against practices that are harmful to children and women or that prevent their full upbringing"
+       },
+       {
+        "paragraph": "118.178",
+        "by": "2017–2022; Malaysia",
+        "position": "supported",
+        "text": "Continue its strategies and approaches in ending all forms of discrimination and violence against women and girls through effective implementation of the National Strategy and Action Plan to End Violence"
+       },
+       {
+        "paragraph": "118.182",
+        "by": "Chile",
+        "position": "supported",
+        "text": "Increase the necessary efforts to end all forms of violence against women and children, in particular sexual and domestic violence"
+       },
+       {
+        "paragraph": "118.183",
+        "by": "Portugal",
+        "position": "supported",
+        "text": "Implement the Sexual Offences and Domestic Violence Act, 2018, and adopt regulations to eliminate gender-based and domestic violence"
+       },
+       {
+        "paragraph": "118.185",
+        "by": "South Africa",
+        "position": "supported",
+        "text": "Accelerate the implementation of the Sexual Offences and Domestic Violence Act to ensure substantive protection of women from sexual and domestic violence, particularly in the context of COVID-19"
+       },
+       {
+        "paragraph": "118.186",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Effectively apply the Sexual Offences and Domestic Violence Act, 2018, fulfilling its commitment made at the Nairobi summit in 2019"
+       },
+       {
+        "paragraph": "118.187",
+        "by": "Congo",
+        "position": "supported",
+        "text": "Ensure better protection of women and girls against sexual violence"
+       },
+       {
+        "paragraph": "118.188",
+        "by": "Togo",
+        "position": "supported",
+        "text": "Strengthen the coordination of public authorities in the protection of women and children against sexual violence"
+       },
+       {
+        "paragraph": "118.189",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to combat sexual crimes and domestic violence"
+       },
+       {
+        "paragraph": "118.190",
+        "by": "Uganda",
+        "position": "supported",
+        "text": "Strengthen the implementation of the policies and the legal framework to eradicate harmful traditional practices that discriminate against women and the girl child"
+       },
+       {
+        "paragraph": "118.193",
+        "by": "Zambia",
+        "position": "supported",
+        "text": "Adopt legislation which will effectively criminalize and combat sexual offences and domestic violence"
+       }
+      ]
+     },
+     {
+      "paras": "118.172",
+      "n": 1,
+      "summary": "Review nationality laws to guarantee women equal rights",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "No reform is reported; the UN country team recommends amending section 43 of the Constitution and the Citizenship Act.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 111 — United Nations country team: \"amend section 43 of the Constitution on citizenship by birth and the Citizenship Act, 1992, to remove gender-discriminatory provisions\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.172",
+        "by": "Côte d’Ivoire",
+        "position": "noted",
+        "text": "Review the Constitution and law on nationality in order to guarantee women equal rights as men"
+       }
+      ]
+     },
+     {
+      "paras": "118.175",
+      "n": 1,
+      "summary": "Prevent forced and child marriage",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Civil registration officials were trained to detect forced and child marriages, customary-marriage observers (umgijimi) check age and consent, and child marriage is prohibited by the Children's Protection and Welfare Act 2012; the minimum age of marriage is not yet 18.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 122 — Eswatini: \"has trained officials to detect potential forced or child marriages during the registration process of marriages\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 124 — Eswatini: \"child marriage is explicitly prohibited under the Children’s Protection and Welfare Act of 2012\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.175",
+        "by": "Kenya",
+        "position": "supported",
+        "text": "Continue to ensure the full protection of young girls against harmful practices and forced marriages"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Participation of women in political & public life",
+    "blocks": [
+     {
+      "paras": "118.196, 118.198, 118.199, 118.201, 118.202",
+      "n": 5,
+      "summary": "Increase women's participation in decision-making",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Women hold 29% of parliamentary seats after the 2023 elections (four elected under the Election of Women Members Act 2018) and 25% of Cabinet.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 54 — Eswatini: \"women holding 29 per cent of seats in the Parliament, with 25% held in the Cabinet\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.196",
+        "by": "Djibouti",
+        "position": "supported",
+        "text": "Pursue the policy of eliminating inequalities between men and women by taking additional measures to increase the participation of women in political and public life, in particular in decision-making positions"
+       },
+       {
+        "paragraph": "118.198",
+        "by": "Gabon",
+        "position": "supported",
+        "text": "Continue to combat the unequal representation of women in decision-making positions"
+       },
+       {
+        "paragraph": "118.199",
+        "by": "Kenya",
+        "position": "supported",
+        "text": "Redouble efforts in promoting women’s participation and representation in politics and decision-making processes"
+       },
+       {
+        "paragraph": "118.201",
+        "by": "Rwanda",
+        "position": "supported",
+        "text": "Intensify efforts to increase the participation of women in political decision-making positions"
+       },
+       {
+        "paragraph": "118.202",
+        "by": "South Sudan",
+        "position": "supported",
+        "text": "Implement a minimum quota of 30 per cent for the representation of women in the House of Assembly, to ensure the representation of the women in decision-making process"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights & climate change",
+    "blocks": [
+     {
+      "paras": "118.197",
+      "n": 1,
+      "summary": "Participation of women, children, persons with disabilities and local communities in climate frameworks",
+      "grade": "A",
+      "meaning": "Information/action largely satisfactory",
+      "rationale": "NDC 3.0 sets dedicated targets for women, youth and persons with disabilities in climate governance bodies, a youth consultation forum was held and the Disaster Risk Management Act (2025) was enacted through multi-sectoral consultation.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 29 — Eswatini: \"3.0 adopts an inclusivity and Just Transition approach, with dedicated targets for women, youth, and PWDs in climate governance bodies\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 30 — Eswatini: \"The Disaster Risk Management Act 16 of 2025 was enacted through multi-sectoral stakeholder consultations\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.197",
+        "by": "Fiji",
+        "position": "supported",
+        "text": "Ensure the meaningful participation of women, children, persons with disabilities, and local communities in the development and implementation of climate change and disaster risk reduction frameworks"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: family environment & alternative care",
+    "blocks": [
+     {
+      "paras": "118.205, 118.207, 118.209",
+      "n": 3,
+      "summary": "Prohibit corporal punishment in all settings",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "Corporal punishment remains lawful in the home, alternative care, day care, schools and penal institutions.",
+      "evidence": [
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 17 — Committee on the Rights of the Child: \"was seriously concerned that corporal punishment was still lawful in the home, in alternative care settings, in day care, in schools and in penal institutions\""
+      ],
+      "position": "3 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.205",
+        "by": "Estonia",
+        "position": "noted",
+        "text": "Prohibit all corporal punishment at home, in alternative care settings, day care, schools and penal institutions"
+       },
+       {
+        "paragraph": "118.207",
+        "by": "Brazil",
+        "position": "noted",
+        "text": "Take practical steps, including through legislative measures, to put an end to corporal punishment in all settings, especially against children"
+       },
+       {
+        "paragraph": "118.209",
+        "by": "Zambia",
+        "position": "noted",
+        "text": "Enact legislation that explicitly prohibits corporal punishment of children in every setting"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Children: definition",
+    "blocks": [
+     {
+      "paras": "118.208",
+      "n": 1,
+      "summary": "Raise the minimum age of marriage to 18",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The Marriages Bill 8 of 2022 has not been enacted; the Committee on the Rights of the Child urges its adoption.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 23 — Eswatini: \"the Government has prioritised the enactment of a suite of Family Law Bills\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 89 — Committee on the Rights of the Child: \"urged Eswatini to revise its legislation, including by amending the Marriage Act and adopting the marriage bill, in order to ensure that the minimum age of marriage was established at 18 for both girls and boys\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.208",
+        "by": "South Africa",
+        "position": "supported",
+        "text": "Finalize the review of the Marriage Act which will raise the marriageable age to 18 from 16 for both males and females"
+       }
+      ]
+     },
+     {
+      "paras": "118.210",
+      "n": 1,
+      "summary": "Child-protection systems and free education",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "Additional social workers and community child protection committees were deployed and free primary education guaranteed; the CRC finds no integrated child protection system.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 120 — Eswatini: \"The DPMO has reinforced additional social workers and community child protection committees\""
+      ],
+      "position": "1 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.210",
+        "by": "Armenia",
+        "position": "supported",
+        "text": "Centre recovery efforts, among others, on child-protection systems, to step up the fight against violence against children and guarantee access to free education"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Persons with disabilities: definition, general principles",
+    "blocks": [
+     {
+      "paras": "118.211-118.215",
+      "n": 5,
+      "summary": "Protect the rights and education of persons with disabilities",
+      "grade": "B",
+      "meaning": "Information/action partially satisfactory",
+      "rationale": "The National Disability Advisory Council was established (2023), the NDPA 2024-2028 adopted and disability grant beneficiaries rose to 17,193; the UN country team notes accessibility gaps and a resourcing need.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 9 — Eswatini: \"The establishment of the National Disability Advisory Council in 2023\"",
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 73 — Eswatini: \"The Disability Grant beneficiaries increased from 5 019 in 2021 to 17,193 in 2025\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 97 — United Nations country team: \"accessibility gaps persisted in buildings, transport and information\""
+      ],
+      "position": "5 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.211",
+        "by": "India",
+        "position": "supported",
+        "text": "Continue to take measures to ensure an adequate standard of living for persons with disabilities"
+       },
+       {
+        "paragraph": "118.212",
+        "by": "Malaysia",
+        "position": "supported",
+        "text": "Allocate adequate resources and funding for the full implementation of the relevant legislative framework to protect the rights of persons with disabilities"
+       },
+       {
+        "paragraph": "118.213",
+        "by": "Tunisia",
+        "position": "supported",
+        "text": "Continue efforts to protect the rights of persons with disabilities, and to eliminate any discrimination against them"
+       },
+       {
+        "paragraph": "118.214",
+        "by": "Bolivarian Republic of Venezuela",
+        "position": "supported",
+        "text": "Continue consolidating its successful policies to guarantee the right to education for persons with disabilities"
+       },
+       {
+        "paragraph": "118.215",
+        "by": "Algeria",
+        "position": "supported",
+        "text": "Accelerate and improve access to education for children with disabilities"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "theme": "Human rights defenders",
+    "blocks": [
+     {
+      "paras": "118.217-118.219, 118.221",
+      "n": 4,
+      "summary": "Protect human rights defenders, journalists and activists",
+      "grade": "C",
+      "meaning": "Information/action not satisfactory",
+      "rationale": "The National Report says no one is targeted; investigations into the killing of lawyer Thulani Maseko have stalled and Eswatini has no legal framework for the protection of defenders.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 46 — Eswatini: \"Eswatini provides a safe environment for exercising civic space rights, with no individuals targeted\"",
+       "UN Compilation (A/HRC/WG.6/53/SWZ/2), para. 24 — United Nations country team: \"investigations had stalled in relation to the perpetrators of the 2021–2023 violence in which protestors, including a prominent human rights lawyer, had been killed\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 66 — JS5: \"Eswatini did not have a comprehensive legal framework for the protection of human rights defenders\""
+      ],
+      "position": "4 supported",
+      "recommendations": [
+       {
+        "paragraph": "118.217",
+        "by": "Italy",
+        "position": "supported",
+        "text": "Prevent and ensure accountability for attacks, repression and intimidation against journalists, human rights defenders and peaceful protesters"
+       },
+       {
+        "paragraph": "118.218",
+        "by": "Luxembourg",
+        "position": "supported",
+        "text": "Protect human rights defenders, journalists and all social activists"
+       },
+       {
+        "paragraph": "118.219",
+        "by": "Spain",
+        "position": "supported",
+        "text": "Guarantee de jure and de facto the free exercise of the legitimate work of political opponents, human rights defenders and journalists"
+       },
+       {
+        "paragraph": "118.221",
+        "by": "Costa Rica",
+        "position": "supported",
+        "text": "Ensure the protection of human rights defenders and journalists so that they can carry out their work without any type of reprisals and ensure respect of freedom of expression, association and peaceful protests"
+       }
+      ]
+     },
+     {
+      "paras": "118.216",
+      "n": 1,
+      "summary": "Withdraw charges against defenders under the Suppression of Terrorism Act and repeal the Act",
+      "grade": "E",
+      "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation",
+      "rationale": "The Act was upheld by the Supreme Court (August 2024) and continues to be used; Amnesty and El Hak call for charges to be dropped.",
+      "evidence": [
+       "National Report (A/HRC/WG.6/53/SWZ/1), para. 47 — Eswatini: \"the Supreme Court upheld the Sedition and Subversive Activities Act 46 of 1938 and Suppression of Terrorism Act 3 of 2028 as consistent with constitutional guarantees\"",
+       "Stakeholders' Summary (A/HRC/WG.6/53/SWZ/3), para. 58 — Amnesty International: \"withdraw all charges brought solely under the Suppression of Terrorism Act that related to the peaceful exercise of the rights to freedom of expression, association and peaceful assembly\""
+      ],
+      "position": "1 noted",
+      "recommendations": [
+       {
+        "paragraph": "118.216",
+        "by": "Germany",
+        "position": "noted",
+        "text": "Withdraw all criminal charges brought against human rights defenders and political opponents under the Suppression of Terrorism Act of 2008, and repeal or amend this act"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
  "hrc": {
   "meta": {
    "mechanism": "hrc",
@@ -94,5 +2661,5 @@
   ],
   "history": []
  },
- "combined_score": 3.5
+ "combined_score": 3.48
 }

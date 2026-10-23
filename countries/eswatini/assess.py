@@ -271,12 +271,18 @@ CLUSTERS = {
         ],
     ),
     "Safe drinking water & sanitation": (
-        D, "Improve access to safe drinking water and sanitation",
-        "The National Report refers water and sanitation to the mid-term "
-        "report and gives no information; the UN country team notes children "
-        "in informal settlements without water.",
+        B, "Improve access to safe drinking water and sanitation",
+        "The National Report refers water and sanitation to Eswatini's mid-term "
+        "report, which records rural water schemes, a solar-powered pump "
+        "pilot, disability-accessible water facilities and a sanitation "
+        "project; the proportion with safely managed drinking water rose from "
+        "75% to 81.2% (2022-2023). The Committee on the Rights of the Child "
+        "notes children in informal settlements without water.",
         [
-            ("Eswatini", "1", "2", "These recommendations include curbing gender-based violence, improving access to clean water, sanitation and hygiene, and ensuring inclusive access to education"),
+            ("Eswatini", "M", "36", "The proportion of the national population which has access to safely managed clean drinking water increased from 75% in 2022 to 81.2% in 2023"),
+            ("Eswatini", "M", "37", "introducing solar- powered pumps as a renewable energy solution"),
+            ("Eswatini", "M", "38", "New facility designs now accommodate persons with disabilities (PWDs)"),
+            ("Committee on the Rights of the Child", "2", "61", "many children lived in informal settlements without access to water or sanitation"),
         ],
     ),
     "Scope of international obligations": (
@@ -298,7 +304,7 @@ CLUSTERS = {
     ),
     "Cooperation & Follow up with Special Procedures": (
         D, "Extend a standing invitation to special procedures",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Children: definition": (
         C, "Raise the minimum age of marriage to 18",
@@ -346,7 +352,7 @@ CLUSTERS = {
     ),
     "Business & Human Rights": (
         D, "National action plan on human rights, including business",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
     "Human rights & climate change": (
         A, "Participation of women, children, persons with disabilities and local communities in climate frameworks",
@@ -456,7 +462,7 @@ KEYWORDS = [
     # --- ratification specifics ---
     (r"Convention relating to the Status of Stateless Persons", D,
      "Ratify the statelessness conventions",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- LGBTI ---
     (r"same-sex|sexual orientation|gender identity|lesbian, gay|homosexual", C,
      "Decriminalise same-sex relations and prohibit discrimination based on sexual orientation and gender identity",
@@ -516,7 +522,7 @@ KEYWORDS = [
     # --- death penalty ---
     (r"^Strengthen awareness-raising campaigns and public debates on the death penalty", D,
      "Awareness-raising and public debate on the death penalty",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- education ---
     (r"COVID-19 pandemic", A,
      "Maintain access to education during the COVID-19 pandemic",
@@ -525,7 +531,7 @@ KEYWORDS = [
       ("Eswatini", "1", "112", "MoET introduced the Learning Passport, a digital platform providing continuous access to curriculum-based learning during emergencies")]),
     (r"menstrual hygiene", D,
      "Menstrual hygiene management to combat school dropout",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"free education from the eighth|compulsory free education up to|free education policy at the secondary", C,
      "Introduce free secondary education",
      "The National Report states that Eswatini is not yet ready to provide free secondary education; a task team is studying standardised fees.",
@@ -563,5 +569,5 @@ KEYWORDS = [
      [("Eswatini", "1", "17", "The Law Reform Unit has updated and revised statutes for the period 2023–2025")]),
 ]
 
-FALLBACK = (D, "No information on this ask",
-            "The documents contain no information on this ask.", [])
+FALLBACK = (D, "No information on this recommendation",
+            "The documents contain no information on this recommendation.", [])

@@ -1,13 +1,26 @@
 {
  "generated": "2026-10-23",
- "n_assessed": 114,
+ "n_assessed": 120,
  "n_hrc": 114,
- "n_upr": 4,
+ "n_upr": 17,
  "upr_countries": [
+  "Antigua and Barbuda",
   "Denmark",
+  "Greece",
+  "Hungary",
+  "Ireland",
   "Namibia",
+  "Papua New Guinea",
   "Paraguay",
-  "United States of America"
+  "Suriname",
+  "Eswatini",
+  "Thailand",
+  "Tajikistan",
+  "Trinidad and Tobago",
+  "Tanzania, United Republic of",
+  "United States of America",
+  "Saint Vincent and the Grenadines",
+  "Samoa"
  ],
  "hrc_year_range": [
   2014,
@@ -21,7 +34,7 @@
  "mechanisms": {
   "upr": {
    "name": "Universal Periodic Review",
-   "what": "A peer review of every UN member State's whole human rights record, every ~4.5 years, by the other States. This site assesses how four countries implemented the recommendations they received in the 3rd cycle, judged against the UN and civil-society reports prepared for their 4th-cycle review."
+   "what": "A peer review of every UN member State's whole human rights record, every ~4.5 years, by the other States. This site assesses how 17 countries implemented the recommendations they received in the 3rd cycle, judged against the State's national report and the UN and civil-society reports prepared for their 4th-cycle review."
   },
   "hrc": {
    "name": "Human Rights Committee follow-up",
@@ -60,5 +73,5 @@
    "meaning": "Information or measures taken are contrary to, or reflect rejection of, the recommendation"
   }
  ],
- "methodology": "Each A–E grade is worth points (E=1, D=2, C=3, B=4, A=5); a country's score for a mechanism is the average of those points across its graded items, between 1 and 5, and the map shades red (1) to green (5). The “All (combined)” view averages a country's UPR and Human Rights Committee scores where both exist. The Human Rights Committee gradings are the Committee's own, taken verbatim from the Special Rapporteur's follow-up reports; topic titles for evaluations before 2019 are added by us for navigation because the documents of that period did not include them. The UPR gradings (four countries) are a first-pass assessment for expert review, built with AI from the UN compilation and stakeholder reports: a concrete on-point measure adopted in the review period scores B, a completed measure meeting the core ask scores A, only pre-existing framework or no action scores C, a new contrary measure or explicit rejection scores E, and no information scores D."
+ "methodology": "Each A–E grade is worth points (E=1, D=2, C=3, B=4, A=5); a country's score for a mechanism is the average of those points across its graded items, between 1 and 5, and the map shades red (1) to green (5). The “All (combined)” view averages a country's UPR and Human Rights Committee scores where both exist. The Human Rights Committee gradings are the Committee's own, taken verbatim from the Special Rapporteur's follow-up reports; topic titles for evaluations before 2019 are added by us for navigation because the documents of that period did not include them. The UPR gradings (17 countries) are assessed by AI, from the State's national report, the UN compilation and the stakeholders' summary and not checked by a human expert. Each grade shows the quotations it rests on, so anyone can check it. A concrete on-point measure adopted in the review period scores B, a completed measure meeting the core recommendation scores A, only pre-existing framework or no action scores C, a new contrary measure or explicit rejection scores E, and no information scores D."
 }

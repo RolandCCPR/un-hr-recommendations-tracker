@@ -1,8 +1,7 @@
 """Build the static-site data layer.
 
 Sources:
-  * the four per-country UPR assessment databases (United States, Denmark,
-    Namibia, Paraguay);
+  * the per-country UPR assessment databases (see SLUG_A3 below);
   * site/data/hrc_all.json - the Human Rights Committee's follow-up gradings for
     every country (~114), produced by scripts/hrc_extract.py from the Special
     Rapporteur's reports (sessions 109-145).
@@ -42,7 +41,27 @@ ASSETS = PUBLIC / "assets"
 HRC_ALL = HERE / "data" / "hrc_all.json"
 
 SLUG_A3 = {"united-states": "USA", "denmark": "DNK", "namibia": "NAM",
-           "paraguay": "PRY"}
+           "paraguay": "PRY", "suriname": "SUR", "greece": "GRC",
+           "samoa": "WSM", "saint-vincent-and-the-grenadines": "VCT",
+           "hungary": "HUN", "papua-new-guinea": "PNG", "tajikistan": "TJK",
+           "tanzania": "TZA", "antigua-and-barbuda": "ATG", "eswatini": "SWZ",
+           "trinidad-and-tobago": "TTO", "thailand": "THA", "ireland": "IRL"}
+
+# Per-country caveats shown on the country page under the UPR heading.
+_NO_NATIONAL_REPORT = (
+    "No national report was available for this review when the assessment was "
+    "made, so more recommendations are graded D (no information)."
+)
+UPR_NOTES = {
+    "samoa": _NO_NATIONAL_REPORT,
+    "saint-vincent-and-the-grenadines": _NO_NATIONAL_REPORT,
+    "trinidad-and-tobago": _NO_NATIONAL_REPORT,
+    "hungary": (
+        "Hungary's national report covers only the term of the previous "
+        "Government; measures of the Government formed on 12 May 2026 are not "
+        "covered."
+    ),
+}
 
 # Grade -> points on a 1-5 ordinal scale (E=1 .. A=5).
 GRADE_SCORE = {"A": 5, "B": 4, "C": 3, "D": 2, "E": 1}
@@ -147,6 +166,7 @@ def upr_detail(slug: str):
         "review": cfg["cycle4_review"],
         "sources": cfg["sources"],
         "headline": cfg.get("headline", ""),
+        "note": UPR_NOTES.get(slug, ""),
         "n": total,
         "grade_dist": dist,
         "score": _score(dist),
@@ -408,10 +428,11 @@ def main():
                 "name": "Universal Periodic Review",
                 "what": "A peer review of every UN member State's whole human "
                         "rights record, every ~4.5 years, by the other States. "
-                        "This site assesses how four countries implemented the "
+                        "This site assesses how 17 countries implemented the "
                         "recommendations they received in the 3rd cycle, judged "
-                        "against the UN and civil-society reports prepared for "
-                        "their 4th-cycle review.",
+                        "against the State's national report and the UN and "
+                        "civil-society reports prepared for their 4th-cycle "
+                        "review.",
             },
             "hrc": {
                 "name": "Human Rights Committee follow-up",
@@ -447,10 +468,12 @@ def main():
             "verbatim from the Special Rapporteur's follow-up reports; topic "
             "titles for evaluations before 2019 are added by us for navigation "
             "because the documents of that period did not include them. The UPR "
-            "gradings (four countries) are a first-pass assessment for expert "
-            "review, built with AI from the UN compilation and stakeholder "
-            "reports: a concrete on-point measure adopted in the review period "
-            "scores B, a completed measure meeting the core ask scores A, only "
+            "gradings (17 countries) are assessed by AI, from the State's "
+            "national report, the UN compilation and the stakeholders' summary "
+            "and not checked by a human expert. Each grade shows the "
+            "quotations it rests on, so anyone can check it. A concrete "
+            "on-point measure adopted in the review period "
+            "scores B, a completed measure meeting the core recommendation scores A, only "
             "pre-existing framework or no action scores C, a new contrary "
             "measure or explicit rejection scores E, and no information scores D."
         ),
@@ -467,7 +490,8 @@ def main():
     for a3 in sorted(SLUG_A3.values()):
         s = summaries[a3]
         u = s["upr"]["score"] if s["upr"] else None
-        print(f"  {a3}: UPR {u}/5   HRC {s['hrc']['score']}/5   combined {s['combined']}/5")
+        h = s["hrc"]["score"] if s["hrc"] else None
+        print(f"  {a3}: UPR {u}/5   HRC {h}/5   combined {s['combined']}/5")
     print(f"data written to {DATA.relative_to(ROOT)}")
 
 

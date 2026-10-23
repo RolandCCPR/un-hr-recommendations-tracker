@@ -21,7 +21,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 | **D** — No information available on implementation | 22 | 15% |
 | **Total** | 145 | 100% |
 
-**No relevant action (C)** is the dominant outcome, and the evidence is thin on the State's own account: Samoa's National Report was not yet available, so 22 asks have no information in the documents (**D**). **Partial implementation (B)** appears where the documents record a concrete measure — strengthened primary health care and the Health Sector Plan 2021-2025, the Education Sector Plan 2025-2030, higher pensions from late 2025, a legal minimum marriage age of 18 and dedicated policies against gender-based violence. **No relevant action (C)** persists on treaty ratification (ICESCR, ICERD, OP-CAT, the Second Optional Protocol), a comprehensive anti-discrimination law, decriminalisation of same-sex relations, abortion, corporal punishment, the pending Child Protection Bill and the age of criminal responsibility.
+**No relevant action (C)** is the dominant outcome, and the evidence is thin on the State's own account: Samoa's National Report was not yet available, so 22 recommendations have no information in the documents (**D**). **Partial implementation (B)** appears where the documents record a concrete measure — strengthened primary health care and the Health Sector Plan 2021-2025, the Education Sector Plan 2025-2030, higher pensions from late 2025, a legal minimum marriage age of 18 and dedicated policies against gender-based violence. **No relevant action (C)** persists on treaty ratification (ICESCR, ICERD, OP-CAT, the Second Optional Protocol), a comprehensive anti-discrimination law, decriminalisation of same-sex relations, abortion, corporal punishment, the pending Child Protection Bill and the age of criminal responsibility.
 
 ## Assessment by theme
 
@@ -60,7 +60,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendations 107.1, 107.2 (Ratify OP-CAT)
 
@@ -93,7 +93,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendation 107.4 (Ratify the Palermo trafficking protocol)
 
@@ -126,7 +126,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -152,7 +152,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ### Recommendations 107.6, 107.18, 107.32 (Adopt comprehensive anti-discrimination protection)
 
@@ -179,7 +179,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -328,7 +328,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -345,7 +345,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 - Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 17 — OMB/NHRI: "recommended Samoa to amend the Family Safety Act 2013 to include economic violence and coercive control in the definition of violence"
 - Stakeholders' Summary (A/HRC/WG.6/53/WSM/3), para. 61 — JS3: "survivors of domestic and gender-based violence faced barriers in reporting abuse and accessing protection services"
 
-**Assessment:** The Crimes Act 2013 and Family Safety Act 2013 pre-date the review period; implementation is uneven, the NHRI asks for amendment of the Family Safety Act, and survivor services remain under-funded.
+**Assessment:** The Crimes Act 2013 and Family Safety Act 2013 pre-date the review period; implementation is uneven, the NHRI calls for amendment of the Family Safety Act, and survivor services remain under-funded.
 
 ### Recommendation 107.28 (Improve health care in rural areas)
 
@@ -454,7 +454,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -469,7 +469,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -495,7 +495,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on measures taken by Samoa on this ask.
+**Assessment:** The documents contain no information on measures taken by Samoa on this recommendation.
 
 ### Recommendations 106.36, 106.41 (Include vulnerable groups in climate policy)
 
@@ -521,7 +521,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -551,7 +551,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 
@@ -566,7 +566,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on measures by Samoa on this ask.
+**Assessment:** The documents contain no information on measures by Samoa on this recommendation.
 
 ### Recommendation 106.47 (Judicial independence and training of law-enforcement officials)
 
@@ -577,7 +577,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on measures by Samoa on this ask; the United Nations country team only recommends strengthening judicial independence.
+**Assessment:** The documents contain no information on measures by Samoa on this recommendation; the United Nations country team only recommends strengthening judicial independence.
 
 ---
 
@@ -592,7 +592,7 @@ This is a **first-pass assessment for expert review**. Recommendations are group
 **Evidence:**
 - *No specific information in the evidence base.*
 
-**Assessment:** The documents contain no information on this ask.
+**Assessment:** The documents contain no information on this recommendation.
 
 ---
 

@@ -274,7 +274,7 @@ CLUSTERS = {
     "Discrimination against women": (
         B, "Adopt legislation on equal treatment of women and men",
         "The Equal Treatment in Employment Act (2022) was adopted; the ILO "
-        "continues to ask for comprehensive legislation covering all grounds.",
+        "continues to call for comprehensive legislation covering all grounds.",
         [("ILO Committee of Experts", "2", "48", "reiterated its request to Suriname to adopt as soon as possible comprehensive legislation that")],
     ),
     "Rule of law & impunity": (
@@ -302,7 +302,7 @@ CLUSTERS = {
     ),
     "Rights related to name, identity & nationality": (
         D, "Review gender identity policies",
-        "The documents contain no information on this ask.", [],
+        "The documents contain no information on this recommendation.", [],
     ),
 }
 
@@ -347,7 +347,7 @@ KEYWORDS = [
      [("CGNK", "3", "6", "recommended that Suriname ratify the Convention on the Prevention and the Punishment of the crime of Genocide")]),
     (r"Declaration on Children, Youth and Climate Action", D,
      "Sign the Declaration on Children, Youth and Climate Action",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     (r"Request technical support from OHCHR", B,
      "Request OHCHR technical support",
      "Suriname cooperates strategically with OHCHR, UNDP, UNICEF and other partners in capacity-strengthening.",
@@ -364,11 +364,11 @@ KEYWORDS = [
     # --- children ---
     (r"corporal punishment", C,
      "Prohibit corporal punishment in all settings",
-     "The State describes elimination of corporal punishment in education only; the Human Rights Committee asks that parents' corporal punishment also be prohibited in the Civil Code.",
+     "The State describes elimination of corporal punishment in education only; the Human Rights Committee requests that parents' corporal punishment also be prohibited in the Civil Code.",
      [("Human Rights Committee", "2", "85", "prohibiting corporal punishment by parents in the draft New Civil Code")]),
     (r"child, early and forced marriage|child marriage", C,
      "Eliminate child, early and forced marriage",
-     "UNESCO asks that the minimum age of marriage be 18 without exception; the State only states that customary law cannot override national law.",
+     "UNESCO requests that the minimum age of marriage be 18 without exception; the State only states that customary law cannot override national law.",
      [("UNESCO", "2", "87", "amend its legislation to ensure that the minimum age of marriage was 18 years old without exception")]),
     # --- trafficking ---
     (r"Enforce the Penal Code more effectively", C,
@@ -385,7 +385,7 @@ KEYWORDS = [
      [("Suriname", "1", "27", "The Suriname LGBTQ+ Needs Assessment Report (2023) contributed to identifying priorities on inclusion and nondiscrimination")]),
     (r"Make article 80 of the Civil Code gender neutral", D,
      "Make article 80 of the Civil Code gender neutral",
-     "The documents contain no information on this ask.", []),
+     "The documents contain no information on this recommendation.", []),
     # --- child poverty ---
     (r"child poverty", B,
      "National plan against child poverty",
