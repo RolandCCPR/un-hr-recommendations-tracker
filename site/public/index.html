@@ -27,6 +27,15 @@
       on the follow-up to Concluding Observations.
     </p>
 
+    <section id="next-section">
+      <h2>When is my country next?</h2>
+      <p class="lead intro">Choose a country to find out when it is next reviewed at the Universal Periodic Review and the Human Rights Committee</p>
+      <label for="next-country" class="sr">Country</label>
+      <select id="next-country"><option value="">Select a country</option></select>
+      <div id="next-result" aria-live="polite"></div>
+      <p class="note" id="next-note"></p>
+    </section>
+
     <div class="controls">
       <span class="note">Map shading:</span>
       <span class="seg" role="group" aria-label="Mechanism">
@@ -86,5 +95,6 @@
 <script src="assets/vendor/d3.v7.min.js"></script>
 <script src="assets/vendor/topojson-client.v3.min.js"></script>
 <script type="module" src="assets/index.js"></script>
+<script type="module" src="assets/next.js"></script>
 </body>
 </html>

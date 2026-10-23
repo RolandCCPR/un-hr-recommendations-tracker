@@ -11,6 +11,7 @@ Emits:
   site/public/data/countries.json     - every country + per-mechanism summary
   site/public/data/<A3>.json          - full detail for each assessed country
   site/public/data/meta.json          - scale, methodology, generated date
+  site/public/data/calendar.json      - 'When is my country next?' (scripts/build_review_calendar.py)
   site/public/assets/iso-numeric-a3.json - numeric id -> alpha-3 (for the map)
   site/assessments.db                 - consolidated SQLite (the "database")
 
@@ -456,6 +457,7 @@ def main():
 
     build_sqlite(details)
     render_methodology(meta["generated"])
+    build_calendar()
 
     print(f"countries.json : {len(countries)} rows, {len(details)} assessed "
           f"({len(upr)} with UPR, {len(hrc_all)} with HR Committee)")
@@ -464,6 +466,14 @@ def main():
         u = s["upr"]["score"] if s["upr"] else None
         print(f"  {a3}: UPR {u}/5   HRC {s['hrc']['score']}/5   combined {s['combined']}/5")
     print(f"data written to {DATA.relative_to(ROOT)}")
+
+
+def build_calendar():
+    """'When is my country next?' data: site/data/review_calendar.json -> public/data/calendar.json."""
+    from scripts import build_review_calendar as brc
+    brc.main()
+    src = ROOT / "site" / "data" / "review_calendar.json"
+    (DATA / "calendar.json").write_text(src.read_text(encoding="utf-8"), encoding="utf-8")
 
 
 def build_sqlite(details):

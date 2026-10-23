@@ -1,0 +1,40 @@
+# Human Rights Committee sessions, copied from the OHCHR Treaty Body Database
+# (tbinternet.ohchr.org SessionsList, treaty CCPR) on 2026-10-22.
+# One line per session: number, start, end, then the lists of States per heading.
+# "STATES PARTIES REPORTS" = periodic report examined (the review);
+# "LISTS OF ISSUES" / "TASK FORCES (FOR ADOPTION OF LIST OF ISSUES)" = list of issues adopted;
+# "LISTS OF ISSUES PRIOR TO REPORTING" / "TASK FORCE (FOR ADOPTION OF LIST OF ISSUES PRIOR TO REPORTING)" = LOIPR adopted.
+# Individual-communications lists omitted. Session 2025-10-13..11-07 was cancelled (UN liquidity crisis).
+Future Sessions (no date, "SessionID=804") Australia, Costa Rica, Denmark, Dominican Republic, Jordan, Liechtenstein, Monaco, Mozambique, New Zealand, Poland, Samoa, Sweden
+146 19 Oct 2026 06 Nov 2026 STATES PARTIES REPORTS Austria, Cameroon, Jamaica, Rwanda LISTS OF ISSUES PRIOR TO REPORTING Bahrain, Czech Republic, Democratic Republic of the Congo, Dominica, El Salvador, Lithuania, Portugal, Romania, Thailand, Tunisia, Uzbekistan
+145 02 Mar 2026 19 Mar 2026 STATES PARTIES REPORTS Andorra, Canada, Chad, Republic of Moldova, Slovakia LISTS OF ISSUES Rwanda LISTS OF ISSUES PRIOR TO REPORTING Belgium, Bosnia and Herzegovina, Hungary, Mexico, Senegal
+Cancelled 13 Oct 2025 07 Nov 2025
+144 23 Jun 2025 17 Jul 2025 STATES PARTIES REPORTS Guinea-Bissau, Haiti, Kazakhstan, Latvia, North Macedonia, Spain, Viet Nam LISTS OF ISSUES PRIOR TO REPORTING Argentina, Australia, Bahamas, Denmark, Ghana, Liechtenstein, Morocco, Sweden, Switzerland
+143 03 Mar 2025 28 Mar 2025 STATES PARTIES REPORTS Albania, Burkina Faso, Mongolia, Montenegro, Zimbabwe LISTS OF ISSUES Chad LISTS OF ISSUES PRIOR TO REPORTING Antigua and Barbuda, Barbados, Dominican Republic, Jordan, Mauritius, New Zealand, Samoa
+142 14 Oct 2024 07 Nov 2024 STATES PARTIES REPORTS Ecuador, France, Greece, Iceland, Pakistan, Türkiye LISTS OF ISSUES Latvia LISTS OF ISSUES PRIOR TO REPORTING Benin, Cameroon, Monaco, Poland, Slovenia, South Africa
+141 01 Jul 2024 23 Jul 2024 STATES PARTIES REPORTS Croatia, Honduras, India, Maldives, Malta, Suriname, Syrian Arab Republic LISTS OF ISSUES PRIOR TO REPORTING Austria, Costa Rica, Côte d'Ivoire, Sierra Leone
+140 04 Mar 2024 28 Mar 2024 STATES PARTIES REPORTS Chile, Guyana, Indonesia, Namibia, Serbia, Somalia, United Kingdom of Great Britain and Northern Ireland LISTS OF ISSUES Mongolia, Viet Nam LISTS OF ISSUES PRIOR TO REPORTING Andorra, Azerbaijan, Djibouti, Mali
+139 09 Oct 2023 03 Nov 2023 STATES PARTIES REPORTS Iran (Islamic Republic of), Kuwait, Republic of Korea, Trinidad and Tobago, United States of America, Venezuela (Bolivarian Republic of) LISTS OF ISSUES Pakistan LISTS OF ISSUES PRIOR TO REPORTING San Marino, Slovakia
+138 26 Jun 2023 26 Jul 2023 STATES PARTIES REPORTS Brazil, Burundi, Colombia, Cyprus, Lesotho, State of Palestine, Uganda LISTS OF ISSUES Honduras, Suriname LISTS OF ISSUES PRIOR TO REPORTING Jamaica, Republic of Moldova
+137 27 Feb 2023 24 Mar 2023 STATES PARTIES REPORTS Egypt, Panama, Peru, Sri Lanka, Turkmenistan, Zambia LISTS OF ISSUES Namibia, Serbia, Syrian Arab Republic LISTS OF ISSUES PRIOR TO REPORTING Kazakhstan
+136 10 Oct 2022 04 Nov 2022 STATES PARTIES REPORTS Ethiopia, Japan, Kyrgyzstan, Nicaragua, Philippines, Russian Federation LISTS OF ISSUES Iran (Islamic Republic of), Kuwait, Venezuela (Bolivarian Republic of)
+135 27 Jun 2022 27 Jul 2022 STATES PARTIES REPORTS China (Hong Kong), China (Macau), Georgia, Ireland, Luxembourg, Uruguay LISTS OF ISSUES Colombia, State of Palestine, Uganda
+134 28 Feb 2022 25 Mar 2022 STATES PARTIES REPORTS Bolivia (Plurinational State of), Cambodia, Iraq, Israel, Qatar LISTS OF ISSUES Brazil, Egypt, Turkmenistan
+133 11 Oct 2021 05 Nov 2021 STATES PARTIES REPORTS Armenia, Botswana, Germany, Ukraine LISTS OF ISSUES PRIOR TO REPORTING Greece, North Macedonia
+132 28 Jun 2021 23 Jul 2021 STATES PARTIES REPORTS Togo LISTS OF ISSUES Burundi LISTS OF ISSUES PRIOR TO REPORTING Albania, Canada, Ecuador, France, Mozambique, Timor-Leste, Türkiye
+131 01 Mar 2021 26 Mar 2021 STATES PARTIES REPORTS Finland, Kenya LISTS OF ISSUES PRIOR TO REPORTING Democratic People's Republic of Korea, Fiji, Grenada, Iceland, Malawi, Nepal, Sao Tome and Principe, Seychelles, United Republic of Tanzania
+130 12 Oct 2020 06 Nov 2020 LISTS OF ISSUES Ethiopia, Georgia, Ireland, Kyrgyzstan, Luxembourg, Zambia LISTS OF ISSUES PRIOR TO REPORTING Guinea-Bissau, Libya, Maldives, Malta, Yemen, Zimbabwe
+129 29 Jun 2020 24 Jul 2020 LISTS OF ISSUES Armenia, Cambodia, China (Hong Kong), China (Macau), Iraq, Panama, Qatar, Russian Federation LISTS OF ISSUES PRIOR TO REPORTING Burkina Faso, Congo, Gabon, Guyana, Indonesia
+128 02 Mar 2020 27 Mar 2020 STATES PARTIES REPORTS Central African Republic, Portugal, Tunisia, Uzbekistan NON REPORTING STATE Dominica LISTS OF ISSUES Haiti, Kenya, Philippines, Sri Lanka LISTS OF ISSUES PRIOR TO REPORTING Montenegro, Somalia, United Kingdom of Great Britain and Northern Ireland
+127 14 Oct 2019 08 Nov 2019 STATES PARTIES REPORTS Belgium, Cabo Verde, Czech Republic, Mexico, Senegal LISTS OF ISSUES Bolivia (Plurinational State of), Nicaragua, Ukraine LISTS OF ISSUES PRIOR TO REPORTING Afghanistan, Croatia, Spain
+126 01 Jul 2019 26 Jul 2019 STATES PARTIES REPORTS Mauritania, Netherlands, Paraguay, Tajikistan NON REPORTING STATE Equatorial Guinea, Nigeria LISTS OF ISSUES Portugal, Uzbekistan LISTS OF ISSUES PRIOR TO REPORTING Chile, Cyprus, India, Republic of Korea
+125 04 Mar 2019 29 Mar 2019 STATES PARTIES REPORTS Angola, Estonia, Niger, Viet Nam NON REPORTING STATE Dominica (List of issues), Eritrea, Saint Vincent and the Grenadines LISTS OF ISSUES Cabo Verde, Central African Republic, Senegal LISTS OF ISSUES PRIOR TO REPORTING Finland, Lesotho, United States of America
+124 08 Oct 2018 02 Nov 2018 STATES PARTIES REPORTS Belarus, Belize, Bulgaria, Guinea, Sudan NON REPORTING STATE Equatorial Guinea, Nigeria LISTS OF ISSUES Mauritania, Tajikistan LISTS OF ISSUES PRIOR TO REPORTING Trinidad and Tobago
+123 02 Jul 2018 27 Jul 2018 STATES PARTIES REPORTS Algeria, Bahrain, Lao People's Democratic Republic, Liberia, Lithuania NON REPORTING STATE Eritrea, Gambia LISTS OF ISSUES Angola, Niger, Viet Nam LISTS OF ISSUES PRIOR TO REPORTING Germany, Israel
+122 12 Mar 2018 06 Apr 2018 STATES PARTIES REPORTS El Salvador, Guatemala, Hungary, Lebanon, Norway LISTS OF ISSUES Belize, Guinea, Sudan LISTS OF ISSUES PRIOR TO REPORTING Botswana, Tunisia, Uruguay
+121 16 Oct 2017 10 Nov 2017 STATES PARTIES REPORTS Australia, Cameroon, Democratic Republic of the Congo, Dominican Republic, Jordan, Mauritius, Romania NON REPORTING STATE Gambia, Saint Vincent and the Grenadines LISTS OF ISSUES Algeria, Bahrain, Lao People's Democratic Republic LISTS OF ISSUES PRIOR TO REPORTING Japan
+120 03 Jul 2017 28 Jul 2017 STATES PARTIES REPORTS Honduras, Liechtenstein, Madagascar, Mongolia, Pakistan, Switzerland NON REPORTING STATE Eswatini LISTS OF ISSUES Lebanon, Liberia LISTS OF ISSUES PRIOR TO REPORTING Chad, Czech Republic, Peru
+119 06 Mar 2017 29 Mar 2017 STATES PARTIES REPORTS Bangladesh, Bosnia and Herzegovina, Italy, Serbia, Thailand, Turkmenistan NON REPORTING STATE Eswatini LISTS OF ISSUES Democratic Republic of the Congo, Dominican Republic, Jordan, Mauritius LISTS OF ISSUES PRIOR TO REPORTING Netherlands
+118 17 Oct 2016 04 Nov 2016 STATES PARTIES REPORTS Azerbaijan, Colombia, Jamaica, Morocco, Poland, Republic of Moldova, Slovakia LISTS OF ISSUES Honduras, Liechtenstein, Madagascar, Mongolia, Pakistan LISTS OF ISSUES PRIOR TO REPORTING Paraguay, Togo
+117 20 Jun 2016 15 Jul 2016 STATES PARTIES REPORTS Argentina, Burkina Faso, Denmark, Ecuador, Ghana, Kazakhstan, Kuwait LISTS OF ISSUES Italy, Serbia, Thailand, Turkmenistan LISTS OF ISSUES PRIOR TO REPORTING Belgium, Lithuania, Norway
+116 07 Mar 2016 31 Mar 2016 STATES PARTIES REPORTS Costa Rica, Namibia, New Zealand, Rwanda, Slovenia, South Africa, Sweden LISTS OF ISSUES Azerbaijan, Bangladesh, Colombia, Jamaica, Morocco, Slovakia LISTS OF ISSUES PRIOR TO REPORTING Estonia

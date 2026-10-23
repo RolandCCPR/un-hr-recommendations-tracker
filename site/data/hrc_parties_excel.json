@@ -1,0 +1,1145 @@
+[
+{
+"name": "Afghanistan",
+"years": []
+},
+{
+"name": "Albania",
+"years": [
+2013,
+2025
+]
+},
+{
+"name": "Algeria",
+"years": [
+2007,
+2018
+]
+},
+{
+"name": "Andorra",
+"years": []
+},
+{
+"name": "Angola",
+"years": [
+2013,
+2019
+]
+},
+{
+"name": "Antigua and Barbuda",
+"years": []
+},
+{
+"name": "Argentina",
+"years": [
+2010,
+2016
+]
+},
+{
+"name": "Armenia",
+"years": [
+2012,
+2021
+]
+},
+{
+"name": "Australia",
+"years": [
+2009,
+2017
+]
+},
+{
+"name": "Austria",
+"years": [
+2007,
+2015
+]
+},
+{
+"name": "Azerbaijan",
+"years": [
+2009,
+2016
+]
+},
+{
+"name": "Bahamas, The",
+"years": []
+},
+{
+"name": "Bahrain",
+"years": [
+2018
+]
+},
+{
+"name": "Bangladesh",
+"years": [
+2017
+]
+},
+{
+"name": "Barbados",
+"years": [
+2007
+]
+},
+{
+"name": "Belarus",
+"years": [
+2018
+]
+},
+{
+"name": "Belgium",
+"years": [
+2010,
+2019
+]
+},
+{
+"name": "Belize",
+"years": [
+2018
+]
+},
+{
+"name": "Benin",
+"years": [
+2015
+]
+},
+{
+"name": "Bolivia",
+"years": [
+2013,
+2022
+]
+},
+{
+"name": "Bosnia and Herzegovina",
+"years": [
+2006,
+2012,
+2017
+]
+},
+{
+"name": "Botswana",
+"years": [
+2008,
+2021
+]
+},
+{
+"name": "Brazil",
+"years": [
+2023
+]
+},
+{
+"name": "Bulgaria",
+"years": [
+2011,
+2018
+]
+},
+{
+"name": "Burkina Faso",
+"years": [
+2016,
+2025
+]
+},
+{
+"name": "Burundi",
+"years": [
+2014,
+2023
+]
+},
+{
+"name": "Cambodia",
+"years": [
+2015,
+2022
+]
+},
+{
+"name": "Cameroon",
+"years": [
+2010,
+2017
+]
+},
+{
+"name": "Canada",
+"years": [
+2015
+]
+},
+{
+"name": "Cape Verde",
+"years": [
+2019
+]
+},
+{
+"name": "Central African Republic",
+"years": [
+2006,
+2020
+]
+},
+{
+"name": "Chad",
+"years": [
+2009,
+2014
+]
+},
+{
+"name": "Chile",
+"years": [
+2007,
+2014,
+2024
+]
+},
+{
+"name": "China (Hong Kong)",
+"years": [
+2006,
+2013,
+2022
+]
+},
+{
+"name": "China (Macau)",
+"years": [
+2013,
+2022
+]
+},
+{
+"name": "Colombia",
+"years": [
+2010,
+2016,
+2023
+]
+},
+{
+"name": "Congo, Democratic Republic of the",
+"years": [
+2006,
+2017
+]
+},
+{
+"name": "Congo, Republic of the",
+"years": []
+},
+{
+"name": "Costa Rica",
+"years": [
+2007,
+2016
+]
+},
+{
+"name": "Côte d'Ivoire",
+"years": [
+2015
+]
+},
+{
+"name": "Croatia",
+"years": [
+2009,
+2015,
+2024
+]
+},
+{
+"name": "Cyprus",
+"years": [
+2015,
+2023
+]
+},
+{
+"name": "Czech Republic",
+"years": [
+2007,
+2013,
+2019
+]
+},
+{
+"name": "Denmark",
+"years": [
+2008,
+2016
+]
+},
+{
+"name": "Djibouti",
+"years": [
+2013
+]
+},
+{
+"name": "Dominica",
+"years": []
+},
+{
+"name": "Dominican Republic",
+"years": [
+2012,
+2017
+]
+},
+{
+"name": "East Timor",
+"years": []
+},
+{
+"name": "Ecuador",
+"years": [
+2009,
+2016,
+2024
+]
+},
+{
+"name": "Egypt",
+"years": [
+2023
+]
+},
+{
+"name": "El Salvador",
+"years": [
+2010,
+2018
+]
+},
+{
+"name": "Equatorial Guinea",
+"years": []
+},
+{
+"name": "Eritrea",
+"years": []
+},
+{
+"name": "Estonia",
+"years": [
+2010,
+2019
+]
+},
+{
+"name": "Ethiopia",
+"years": [
+2011,
+2022
+]
+},
+{
+"name": "Fiji",
+"years": []
+},
+{
+"name": "Finland",
+"years": [
+2013,
+2021
+]
+},
+{
+"name": "France",
+"years": [
+2008,
+2015,
+2024
+]
+},
+{
+"name": "Gabon",
+"years": []
+},
+{
+"name": "Gambia, The",
+"years": []
+},
+{
+"name": "Georgia",
+"years": [
+2007,
+2014,
+2022
+]
+},
+{
+"name": "Germany",
+"years": [
+2012,
+2021
+]
+},
+{
+"name": "Ghana",
+"years": [
+2016
+]
+},
+{
+"name": "Greece",
+"years": [
+2015,
+2024
+]
+},
+{
+"name": "Grenada",
+"years": []
+},
+{
+"name": "Guatemala",
+"years": [
+2012,
+2018
+]
+},
+{
+"name": "Guinea",
+"years": [
+2018
+]
+},
+{
+"name": "Guinea-Bissau",
+"years": [
+2025
+]
+},
+{
+"name": "Guyana",
+"years": [
+2024
+]
+},
+{
+"name": "Haiti",
+"years": [
+2014,
+2025
+]
+},
+{
+"name": "Honduras",
+"years": [
+2006,
+2017,
+2024
+]
+},
+{
+"name": "Hungary",
+"years": [
+2010,
+2018
+]
+},
+{
+"name": "Iceland",
+"years": [
+2012,
+2024
+]
+},
+{
+"name": "India",
+"years": [
+2024
+]
+},
+{
+"name": "Indonesia",
+"years": [
+2013,
+2024
+]
+},
+{
+"name": "Iran",
+"years": [
+2011,
+2023
+]
+},
+{
+"name": "Iraq",
+"years": [
+2015,
+2022
+]
+},
+{
+"name": "Ireland",
+"years": [
+2008,
+2014,
+2022
+]
+},
+{
+"name": "Israel",
+"years": [
+2010,
+2014,
+2022
+]
+},
+{
+"name": "Italy",
+"years": [
+2017
+]
+},
+{
+"name": "Jamaica",
+"years": [
+2011,
+2016
+]
+},
+{
+"name": "Japan",
+"years": [
+2008,
+2014,
+2022
+]
+},
+{
+"name": "Jordan",
+"years": [
+2010,
+2017
+]
+},
+{
+"name": "Kazakhstan",
+"years": [
+2011,
+2016,
+2025
+]
+},
+{
+"name": "Kenya",
+"years": [
+2012,
+2021
+]
+},
+{
+"name": "Korea, DPR",
+"years": []
+},
+{
+"name": "Korea, Republic of",
+"years": [
+2006,
+2015,
+2023
+]
+},
+{
+"name": "Kuwait",
+"years": [
+2011,
+2016,
+2023
+]
+},
+{
+"name": "Kyrgyzstan",
+"years": [
+2014,
+2022
+]
+},
+{
+"name": "Laos",
+"years": [
+2018
+]
+},
+{
+"name": "Latvia",
+"years": [
+2014,
+2025
+]
+},
+{
+"name": "Lebanon",
+"years": [
+2018
+]
+},
+{
+"name": "Lesotho",
+"years": [
+2023
+]
+},
+{
+"name": "Liberia",
+"years": [
+2018
+]
+},
+{
+"name": "Libya",
+"years": [
+2007
+]
+},
+{
+"name": "Liechtenstein",
+"years": [
+2017
+]
+},
+{
+"name": "Lithuania",
+"years": [
+2012,
+2018
+]
+},
+{
+"name": "Luxembourg",
+"years": [
+2022
+]
+},
+{
+"name": "Madagascar",
+"years": [
+2007,
+2017
+]
+},
+{
+"name": "Malawi",
+"years": [
+2014
+]
+},
+{
+"name": "Maldives",
+"years": [
+2012,
+2024
+]
+},
+{
+"name": "Mali",
+"years": []
+},
+{
+"name": "Malta",
+"years": [
+2014,
+2024
+]
+},
+{
+"name": "Marshall Islands",
+"years": []
+},
+{
+"name": "Mauritania",
+"years": [
+2013,
+2019
+]
+},
+{
+"name": "Mauritius",
+"years": [
+2017
+]
+},
+{
+"name": "Mexico",
+"years": [
+2010,
+2019
+]
+},
+{
+"name": "Moldova",
+"years": [
+2009,
+2016
+]
+},
+{
+"name": "Monaco",
+"years": [
+2008,
+2015
+]
+},
+{
+"name": "Mongolia",
+"years": [
+2011,
+2017,
+2025
+]
+},
+{
+"name": "Montenegro",
+"years": [
+2014,
+2025
+]
+},
+{
+"name": "Morocco",
+"years": [
+2016
+]
+},
+{
+"name": "Mozambique",
+"years": [
+2013
+]
+},
+{
+"name": "Namibia",
+"years": [
+2016,
+2024
+]
+},
+{
+"name": "Nepal",
+"years": [
+2014
+]
+},
+{
+"name": "Netherlands",
+"years": [
+2009,
+2019
+]
+},
+{
+"name": "New Zealand",
+"years": [
+2010,
+2016
+]
+},
+{
+"name": "Nicaragua",
+"years": [
+2008,
+2022
+]
+},
+{
+"name": "Niger",
+"years": [
+2019
+]
+},
+{
+"name": "Nigeria",
+"years": []
+},
+{
+"name": "North Macedonia",
+"years": [
+2008,
+2015,
+2025
+]
+},
+{
+"name": "Norway",
+"years": [
+2006,
+2011,
+2018
+]
+},
+{
+"name": "Oman",
+"years": []
+},
+{
+"name": "Pakistan",
+"years": [
+2017,
+2024
+]
+},
+{
+"name": "Palestine",
+"years": [
+2023
+]
+},
+{
+"name": "Panama",
+"years": [
+2008,
+2023
+]
+},
+{
+"name": "Papua New Guinea",
+"years": []
+},
+{
+"name": "Paraguay",
+"years": [
+2013,
+2019
+]
+},
+{
+"name": "Peru",
+"years": [
+2013,
+2023
+]
+},
+{
+"name": "Philippines",
+"years": [
+2012,
+2022
+]
+},
+{
+"name": "Poland",
+"years": [
+2010,
+2016
+]
+},
+{
+"name": "Portugal",
+"years": [
+2012,
+2020
+]
+},
+{
+"name": "Qatar",
+"years": [
+2022
+]
+},
+{
+"name": "Romania",
+"years": [
+2017
+]
+},
+{
+"name": "Russia",
+"years": [
+2009,
+2015,
+2022
+]
+},
+{
+"name": "Rwanda",
+"years": [
+2009,
+2016
+]
+},
+{
+"name": "Saint Vincent and the Grenadines",
+"years": []
+},
+{
+"name": "Samoa",
+"years": []
+},
+{
+"name": "San Marino",
+"years": [
+2008,
+2015
+]
+},
+{
+"name": "São Tomé and Príncipe",
+"years": []
+},
+{
+"name": "Senegal",
+"years": [
+2019
+]
+},
+{
+"name": "Serbia",
+"years": [
+2011,
+2017,
+2024
+]
+},
+{
+"name": "Seychelles",
+"years": []
+},
+{
+"name": "Sierra Leone",
+"years": [
+2014
+]
+},
+{
+"name": "Slovakia",
+"years": [
+2011,
+2016
+]
+},
+{
+"name": "Slovenia",
+"years": [
+2016
+]
+},
+{
+"name": "Somalia",
+"years": [
+2024
+]
+},
+{
+"name": "South Africa",
+"years": [
+2016
+]
+},
+{
+"name": "South Sudan",
+"years": []
+},
+{
+"name": "Spain",
+"years": [
+2008,
+2015,
+2025
+]
+},
+{
+"name": "Sri Lanka",
+"years": [
+2014,
+2023
+]
+},
+{
+"name": "Sudan",
+"years": [
+2007,
+2014,
+2018
+]
+},
+{
+"name": "Suriname",
+"years": [
+2015,
+2024
+]
+},
+{
+"name": "Swaziland",
+"years": []
+},
+{
+"name": "Sweden",
+"years": [
+2009,
+2016
+]
+},
+{
+"name": "Switzerland",
+"years": [
+2009,
+2017
+]
+},
+{
+"name": "Syria",
+"years": [
+2024
+]
+},
+{
+"name": "Tajikistan",
+"years": [
+2013,
+2019
+]
+},
+{
+"name": "Tanzania",
+"years": [
+2009
+]
+},
+{
+"name": "Thailand",
+"years": [
+2017
+]
+},
+{
+"name": "Togo",
+"years": [
+2011,
+2021
+]
+},
+{
+"name": "Trinidad and Tobago",
+"years": [
+2023
+]
+},
+{
+"name": "Tunisia",
+"years": [
+2008,
+2020
+]
+},
+{
+"name": "Turkey",
+"years": [
+2012,
+2024
+]
+},
+{
+"name": "Turkmenistan",
+"years": [
+2012,
+2017,
+2023
+]
+},
+{
+"name": "Uganda",
+"years": [
+2023
+]
+},
+{
+"name": "Ukraine",
+"years": [
+2006,
+2013,
+2021
+]
+},
+{
+"name": "United Kingdom",
+"years": [
+2008,
+2015,
+2024
+]
+},
+{
+"name": "United States",
+"years": [
+2006,
+2014,
+2023
+]
+},
+{
+"name": "Uruguay",
+"years": [
+2013,
+2022
+]
+},
+{
+"name": "Uzbekistan",
+"years": [
+2010,
+2015,
+2020
+]
+},
+{
+"name": "Vanuatu",
+"years": []
+},
+{
+"name": "Venezuela",
+"years": [
+2015,
+2023
+]
+},
+{
+"name": "Vietnam",
+"years": [
+2019,
+2025
+]
+},
+{
+"name": "Yemen",
+"years": [
+2012
+]
+},
+{
+"name": "Zambia",
+"years": [
+2007,
+2023
+]
+},
+{
+"name": "Zimbabwe",
+"years": [
+2025
+]
+}
+]
