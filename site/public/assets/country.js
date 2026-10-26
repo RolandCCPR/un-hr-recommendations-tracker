@@ -104,6 +104,15 @@ function hrcSection(hrc) {
 
 /* --------------------------------------------------------------- render --- */
 (async function () {
+  // country picker: lets a visitor switch country on a shared link
+  try {
+    const list = (await loadJSON("data/countries.json")).filter((c) => c.assessed)
+      .sort((x, y) => x.name.localeCompare(y.name));
+    const pick = $("#country-pick");
+    pick.innerHTML = (a3 ? "" : `<option value="" selected disabled>Choose a country</option>`) +
+      list.map((c) => `<option value="${esc(c.a3)}"${c.a3 === a3 ? " selected" : ""}>${esc(c.name)}</option>`).join("");
+    pick.addEventListener("change", () => { location.href = `country.html?c=${encodeURIComponent(pick.value)}`; });
+  } catch (e) { /* the page still works without the picker */ }
   if (!a3) {
     $("#content").innerHTML = "<p>No country selected. <a href='index.html'>Back to the map</a>.</p>";
     return;
