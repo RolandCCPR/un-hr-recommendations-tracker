@@ -1,11 +1,11 @@
 # Human Rights Committee sessions, copied from the OHCHR Treaty Body Database
-# (tbinternet.ohchr.org SessionsList, treaty CCPR) on 2026-10-22.
+# (tbinternet.ohchr.org SessionsList, treaty CCPR) on 2026-10-26 (the "Future Sessions" line refreshed).
 # One line per session: number, start, end, then the lists of States per heading.
 # "STATES PARTIES REPORTS" = periodic report examined (the review);
 # "LISTS OF ISSUES" / "TASK FORCES (FOR ADOPTION OF LIST OF ISSUES)" = list of issues adopted;
 # "LISTS OF ISSUES PRIOR TO REPORTING" / "TASK FORCE (FOR ADOPTION OF LIST OF ISSUES PRIOR TO REPORTING)" = LOIPR adopted.
 # Individual-communications lists omitted. Session 2025-10-13..11-07 was cancelled (UN liquidity crisis).
-Future Sessions (no date, "SessionID=804") Australia, Costa Rica, Denmark, Dominican Republic, Jordan, Liechtenstein, Monaco, Mozambique, New Zealand, Poland, Samoa, Sweden
+Future Sessions (no date, "SessionID=804") Australia, Costa Rica, Denmark, Dominican Republic, Guinea, Jordan, Liechtenstein, Mauritius, Monaco, Mozambique, New Zealand, Poland, Samoa, Sweden
 146 19 Oct 2026 06 Nov 2026 STATES PARTIES REPORTS Austria, Cameroon, Jamaica, Rwanda LISTS OF ISSUES PRIOR TO REPORTING Bahrain, Czech Republic, Democratic Republic of the Congo, Dominica, El Salvador, Lithuania, Portugal, Romania, Thailand, Tunisia, Uzbekistan
 145 02 Mar 2026 19 Mar 2026 STATES PARTIES REPORTS Andorra, Canada, Chad, Republic of Moldova, Slovakia LISTS OF ISSUES Rwanda LISTS OF ISSUES PRIOR TO REPORTING Belgium, Bosnia and Herzegovina, Hungary, Mexico, Senegal
 Cancelled 13 Oct 2025 07 Nov 2025

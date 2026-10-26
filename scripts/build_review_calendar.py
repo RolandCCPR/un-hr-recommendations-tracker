@@ -241,6 +241,19 @@ def parse_sessions() -> tuple[dict, dict]:
     return loipr, pending
 
 
+def parse_future_list() -> set[str]:
+    """States on the Committee's undated 'Future Sessions' entry (scheduled, no date set)."""
+    out: set[str] = set()
+    for line in (DATA / "hrc_sessions_raw.txt").read_text(encoding="utf-8").splitlines():
+        m = re.match(r'Future Sessions \(no date[^)]*\) (.*)', line)
+        if m:
+            for nm in m.group(1).split(", "):
+                a3 = a3_of(nm.strip())
+                if a3:
+                    out.add(a3)
+    return out
+
+
 def month_name(m: int) -> str:
     return ["", "January", "February", "March", "April", "May", "June", "July",
             "August", "September", "October", "November", "December"][m]
@@ -249,6 +262,7 @@ def month_name(m: int) -> str:
 def build_hrc() -> dict[str, dict]:
     raw = json.loads((DATA / "hrc_calendar_raw.json").read_text(encoding="utf-8"))
     loipr, pending = parse_sessions()
+    future_list = parse_future_list()
     excel = json.loads((DATA / "hrc_parties_excel.json").read_text(encoding="utf-8"))
     parties = set(raw) - {"HKG", "MAC"}  # Hong Kong / Macau appear as CHN-HKG / CHN-MAC
     for r in excel:
@@ -335,6 +349,8 @@ def build_hrc() -> dict[str, dict]:
             }
             if date(Y, M, 28) < TODAY:
                 rec["next"]["overdue"] = True
+            if a3 in future_list:
+                rec["next"]["on_future_list"] = True
             if any(r["no_state_report"] for r in reviews[-1:]):
                 rec["next"]["note"] = "last dialogue took place without a State report"
         res[a3] = rec

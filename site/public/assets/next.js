@@ -74,9 +74,9 @@ function uprEvents(u) {
   return { ev, lead: [last, next].filter(Boolean), rows };
 }
 
-function hrcEvents(h) {
+function hrcEvents(h, countryName) {
   const ev = [], rows = [];
-  let last = null, next = null;
+  let last = null, next = null, note = null;
   if (!h.reviews.length) {
     last = { label: "Last dialogue", strong: "No dialogue over the last 10 years", rest: "" };
   }
@@ -104,14 +104,26 @@ function hrcEvents(h) {
     ev.push({ t: lo.t, kind: "loipr", tent: !loAdopted, tip: `LOIPR: ${loAdopted ? "adopted " + lo.text : expected(lo, true)}` });
     ev.push({ t: sr.t, kind: "report", tent: !stated, tip: `State report due: ${stated ? sr.text : expected(sr, n.state_report_source === "calculated" || n.state_report_source === "stated_year")}` });
     ev.push({ t: ngoD.t, kind: "ngo", tent: true, tip: `NGO deadline for the dialogue: ${expected(ngoD, true)}` });
-    ev.push({ t: dlg.t, kind: "review", tent: true, label: `${SHORT[dlg.m - 1]} ${dlg.y}`, tip: `HRCttee dialogue: ${expected(dlg, true, true)}` });
+    const onList = !!n.on_future_list;  // on the Committee's undated "Future Sessions" list
+    const noDate = (x) => (onList ? x.replace(", not yet scheduled", ", no date set") : x);
+    ev.push({ t: dlg.t, kind: "review", tent: true, label: `${SHORT[dlg.m - 1]} ${dlg.y}`, tip: `HRCttee dialogue: ${noDate(expected(dlg, true, true))}` });
     next = { label: "Next dialogue", ...nextFmt(dlg, true, true) };
+    if (onList && next.rest) next.rest = noDate(next.rest);
     if (showNgoL) rows.push(`NGO deadline for the LOIPR: ${expected(ngoL, true)}`);
     rows.push(`LOIPR: ${loAdopted ? "adopted " + lo.text : expected(lo, true)}`);
     rows.push(`State report due: ${stated ? sr.text : expected(sr, n.state_report_source === "calculated" || n.state_report_source === "stated_year")}`);
     rows.push(`NGO deadline for the dialogue: ${expected(ngoD, true)}`);
+    // the calculated dialogue date has passed without a dialogue
+    const my = (p) => `${MONTHS[p.m - 1]} ${p.y}`;
+    if (onList) {
+      note = `The Committee has placed ${countryName} on its list for a future session, but no date has been set.`;
+    } else if (dlg.past && n.basis === "stated_report_due+1y") {
+      note = `The Committee set the State report's due date at ${my(sr)}, and we calculated the dialogue as one year later. But the dialogue did not take place and has not been scheduled.`;
+    } else if (dlg.past && n.basis === "loipr_adopted+2y" && loAdopted) {
+      note = `The Committee adopted its list of issues in ${my(lo)}, and we calculated the dialogue as two years later. But the dialogue did not take place and has not been scheduled.`;
+    }
   }
-  return { ev, lead: [last, next].filter(Boolean), rows };
+  return { ev, lead: [last, next].filter(Boolean), rows, note };
 }
 
 // ------------------------------------------------------------------ chart
@@ -195,13 +207,15 @@ function render(c, generated) {
     rows.push({ name: "UPR", color: "#1f5c8b", ev: upr.ev, note: upr.note });
   }
   if (c.hrc) {
-    hrc = hrcEvents(c.hrc);
+    hrc = hrcEvents(c.hrc, c.name);
+    hrc.hnote = hrc.note;
     rows.push({ name: "HRCttee", color: "#b5651d", ev: hrc.ev, note: c.hrc.reviews.length ? null : "No dialogue over the last 10 years" });
   }
   let html = `<h3>${esc(c.name)}</h3><div class="next-chart">${chart(rows)}</div>${LEGEND}`;
   const col = (title, o) => o
     ? `<div><h4>${title}</h4>${o.lead.map((l) => `<p class="next-lead">${esc(l.label)}: <strong>${esc(l.strong)}</strong>${esc(l.rest)}</p>`).join("")}` +
-      (o.rows.length ? `<ul class="next-dates">${o.rows.map((r) => `<li>${esc(r)}</li>`).join("")}</ul>` : "") + `</div>`
+      (o.rows.length ? `<ul class="next-dates">${o.rows.map((r) => `<li>${esc(r)}</li>`).join("")}</ul>` : "") +
+      (o.hnote ? `<p class="note">${esc(o.hnote)}</p>` : "") + `</div>`
     : "";
   html += `<div class="next-details">${col("UPR", upr)}${col("HRCttee", hrc)}</div>`;
   if (!c.hrc) html += `<p class="note">${esc(c.name)} is not party to the International Covenant on Civil and Political Rights, so it has no HRCttee row.</p>`;

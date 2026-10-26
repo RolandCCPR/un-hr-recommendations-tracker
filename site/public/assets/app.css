@@ -250,7 +250,7 @@ footer.site .wrap { padding: 20px; }
 
 /* when is my country next? */
 .sr { position: absolute; left: -9999px; }
-#next-section { margin: 26px 0 6px; padding: 18px 20px 14px; border: 1px solid var(--line); border-radius: 12px; background: #fff; }
+#next-section { margin: 26px 0 6px; padding: 18px 20px 14px; border: 1px solid #bcd6ee; border-radius: 12px; background: #e8f2fb; }
 #next-section h2 { margin-top: 0; }
 #next-section h3 { margin: 18px 0 8px; font-size: 1.1rem; }
 #next-section h4 { margin: 14px 0 4px; font-size: 0.92rem; color: var(--muted); }

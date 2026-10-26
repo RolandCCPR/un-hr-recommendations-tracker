@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23",
+ "generated": "2026-10-26",
  "countries": [
   {
    "a3": "AFG",
@@ -396,7 +396,8 @@
      "state_report_due": "2026-06",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2025-04",
-     "ngo_dialogue_deadline": "2027-05"
+     "ngo_dialogue_deadline": "2027-05",
+     "on_future_list": true
     }
    }
   },
@@ -1919,7 +1920,8 @@
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2024-04",
      "ngo_dialogue_deadline": "2026-05",
-     "overdue": true
+     "overdue": true,
+     "on_future_list": true
     }
    }
   },
@@ -2219,7 +2221,8 @@
      "state_report_due": "2026-06",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2025-04",
-     "ngo_dialogue_deadline": "2027-05"
+     "ngo_dialogue_deadline": "2027-05",
+     "on_future_list": true
     }
    }
   },
@@ -2268,7 +2271,8 @@
      "state_report_due": "2026-03",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2025-01",
-     "ngo_dialogue_deadline": "2027-02"
+     "ngo_dialogue_deadline": "2027-02",
+     "on_future_list": true
     }
    }
   },
@@ -3024,7 +3028,8 @@
      "state_report_source": "stated",
      "ngo_loipr_deadline": "2021-08",
      "ngo_dialogue_deadline": "2023-09",
-     "overdue": true
+     "overdue": true,
+     "on_future_list": true
     }
    }
   },
@@ -4072,7 +4077,8 @@
      "state_report_due": "2026-03",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2025-01",
-     "ngo_dialogue_deadline": "2027-02"
+     "ngo_dialogue_deadline": "2027-02",
+     "on_future_list": true
     }
    }
   },
@@ -4751,7 +4757,8 @@
      "state_report_due": "2026-06",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2025-04",
-     "ngo_dialogue_deadline": "2027-05"
+     "ngo_dialogue_deadline": "2027-05",
+     "on_future_list": true
     }
    }
   },
@@ -5084,7 +5091,8 @@
      "state_report_due": "2025-10",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2024-08",
-     "ngo_dialogue_deadline": "2026-09"
+     "ngo_dialogue_deadline": "2026-09",
+     "on_future_list": true
     }
    }
   },
@@ -5623,7 +5631,8 @@
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2021-04",
      "ngo_dialogue_deadline": "2023-05",
-     "overdue": true
+     "overdue": true,
+     "on_future_list": true
     }
    }
   },
@@ -5722,7 +5731,8 @@
      "state_report_due": "2026-03",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2025-01",
-     "ngo_dialogue_deadline": "2027-02"
+     "ngo_dialogue_deadline": "2027-02",
+     "on_future_list": true
     }
    }
   },
@@ -6209,7 +6219,8 @@
      "state_report_due": "2026-03",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2025-01",
-     "ngo_dialogue_deadline": "2027-02"
+     "ngo_dialogue_deadline": "2027-02",
+     "on_future_list": true
     }
    }
   },
@@ -6547,7 +6558,8 @@
      "state_report_due": "2025-10",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2024-08",
-     "ngo_dialogue_deadline": "2026-09"
+     "ngo_dialogue_deadline": "2026-09",
+     "on_future_list": true
     }
    }
   },
@@ -7606,7 +7618,8 @@
      "state_report_due": "2026-06",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2025-04",
-     "ngo_dialogue_deadline": "2027-05"
+     "ngo_dialogue_deadline": "2027-05",
+     "on_future_list": true
     }
    }
   },
@@ -8756,7 +8769,8 @@
      "state_report_due": "2026-03",
      "state_report_source": "calculated",
      "ngo_loipr_deadline": "2025-01",
-     "ngo_dialogue_deadline": "2027-02"
+     "ngo_dialogue_deadline": "2027-02",
+     "on_future_list": true
     }
    }
   },
