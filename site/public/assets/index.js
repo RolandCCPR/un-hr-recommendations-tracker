@@ -18,7 +18,7 @@ const $ = (s) => document.querySelector(s);
     `<strong>${meta.n_hrc} countries</strong> — each country's most recent ` +
     `evaluation, from the Committee's <strong>${ss}th–${se}th sessions ` +
     `(${ys}–${ye})</strong>. Grey = no evaluation completed in that window. ` +
-    `UPR implementation is assessed for ${meta.n_upr} countries ` +
+    `UPR implementation is assessed for <strong>${meta.n_upr} countries</strong> ` +
     `(${(meta.upr_countries || []).join(", ")}).`;
 
   const map = await drawMap({
